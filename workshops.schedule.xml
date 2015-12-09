@@ -1,0 +1,1833 @@
+<schedule>
+  <version>0.9 - The Line Runners</version>
+  <conference>
+    <title>32. Chaos Communication Congress</title>
+    <start>2015-12-27</start>
+    <end>2015-12-31</end>
+    <days>4</days>
+    <timeslot_duration>00:15</timeslot_duration>
+  </conference>
+  <day index="1" date="2015-12-27" start="2015-12-27T11:00:00+01:00" end="2015-12-28T04:00:00+01:00">
+    <room name="HardwareHackingArea">
+      <event id="1016" guid="e3dabb82ac3fdda8da347454ac4c5f66">
+        <logo/>
+        <date>2015-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Abbaumeeting</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1018" guid="bf981cbe8b5a7a149c3169141084b250">
+        <logo/>
+        <date>2015-12-26T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Welcome meeting</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1020" guid="8f37881626e8ffda4286dee71786574e">
+        <logo/>
+        <date>2015-12-26T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Introduction Meeting for new angels</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1027" guid="3e0b15f5d40ee3b1f2b812be93317ccb">
+        <logo/>
+        <date>2015-12-26T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Buildup- and welcome meeting</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1044" guid="b25292afc5db10e5798e81b3468b5ac9">
+        <logo/>
+        <date>2015-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>3:59</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>LearnToSolder</title>
+        <subtitle>Day 4</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Maltman23</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Maltman23</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day index="2" date="2015-12-28" start="2015-12-28T11:30:00+01:00" end="2015-12-29T04:00:00+01:00">
+    <room name="Hall C.1">
+      <event id="1007" guid="3012b93369eba8a8e011773973a895fe">
+        <logo/>
+        <date>2015-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>Biometriedaten f&#252;r den Personalausweis</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wie werden die Biometriedaten f&#252;r den Personalausweis (Fingerabdruck &amp; biometrisches Foto) erfasst? Und gibt es dabei Schwachstellen, die evtl. ausgenutzt werden k&#246;nnen?
+Ein Erfahrungs- und Gedankenaustausch.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Musevg</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Musevg</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Biometriedaten_f%C3%BCr_den_Personalausweis</link>
+        </links>
+      </event>
+      <event id="1022" guid="4052ee66ac373fed16d2a3aa7d4c7380">
+        <logo/>
+        <date>2015-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Angel meeting day 1</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1024" guid="a8f511859309a3109ffe43b54f6afd32">
+        <logo/>
+        <date>2015-12-27T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>0:30</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Angelmeeting Day 1</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1026" guid="13c8aa469e1dbe32345c0db2095d5f5b">
+        <logo/>
+        <date>2015-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Introduction meeting for new angels</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1049" guid="09abf33a7fed318d3f7b55ed099ef9b5">
+        <logo/>
+        <date>2015-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Queer Feminist Geeks Gathering</title>
+        <subtitle>Start of the gathering</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meetup for all the queer feminist geek folk.
+We will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.
+This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Theresa</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Theresa</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Queer_Feminist_Geeks_Gathering</link>
+        </links>
+      </event>
+      <event id="1037" guid="793d65d66584216eb388562cef7ca1fa">
+        <logo/>
+        <date>2015-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Hitobito - Eine Gemeinschaftsl&#246;sung zur Mitgliederverwaltung</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Deutsch: 
+Gemeinschaftsl&#246;sungen auf der Basis von freier Software vereinen Firmen und Organisationen mit gleichen oder &#228;hnlichen Bed&#252;rfnissen. Damit verbunden ist ein professionelles Gesch&#228;ftsmodell, welches sich an der Idee des Crowdfundings orientiert. Die Kunden bilden eine Community, welche die L&#246;sung finanziert und zusammen mit potenziell mehreren Entwicklerfirmen vorantreibt. Die Architektur der L&#246;sung erm&#246;glicht es, individuelle Bed&#252;rfnisse und Eigenst&#228;ndigkeiten zu bewahren und dennoch von der gemeinsamen Entwicklung zu profitieren. Zusammen mit den gr&#246;ssten Kinder- und Jugendorganisationen der Schweiz haben wir eine L&#246;sung f&#252;r die Mitglieder- und Kursverwaltung aufgebaut. Ich m&#246;chte euch die Idee der Gemeinschaftsl&#246;sungen n&#228;her bringen und &#252;ber unsere Erfahrungen aus den Projekten berichten. Wir sind zudem laufend auf der Suche nach neuen Organisationen oder Entwickler(-firmen), die unsere Vision von kollaborativer Software-Entwicklung teilen. Auf diesem Weg soll sich freie Software insbesondere in der &#246;ffentlichen Verwaltung und bei NGO etablieren. 
+
+
+English: 
+Community solutions based on free software unite companies and organizations with the same or similar needs. The associated business model is based on the idea of crowdfunding. The customers form a community which finance the solution and develop it together with potentially several companies or individuals. The architecture of the solution makes it possible to preserve individual needs and still benefit from the joint development. In collaboration with the largest children and youth organizations in Switzerland, we built a solution for the membership and course management. I would like to explain the idea of &#8203;&#8203;community solutions and share our experiences from the projects. Moreover, we are constantly looking for new organizations or developers/companies who share our vision of collaborative software development. In this way, we help establishing free software, particularly in the public administration sector and NGOs.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://www.hitobito.ch/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Hitobito_-_Eine_Gemeinschaftsl%C3%B6sung_zur_Mitgliederverwaltung</link>
+        </links>
+      </event>
+      <event id="1038" guid="67212ddd4b196344ece95ba27328ad9d">
+        <logo/>
+        <date>2015-12-28T09:00:00+01:00</date>
+        <start>09:00</start>
+        <duration>11:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Junghacker</title>
+        <subtitle>Junghackertag</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Hands-on Technology &amp; Data-Security / Solder workshop for kids</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Cbass</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Cbass</url>
+          </person>
+          <person id="0">
+            <full_public_name>Stean</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Stean</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://ccc.de/schule</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Junghacker</link>
+        </links>
+      </event>
+      <event id="1051" guid="0d331a593e6c06c01290d9d0c66b55ce">
+        <logo/>
+        <date>2015-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Replacing BigG's "Play" services with the microG Project</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>This talk will give a brief introduction of the microG Project, which aims to provide a replacement for libraries and other user-space proprietary components Google introduced to the Android operating system. It will focus on the latest development to lock users and developers into their proprietary system, called "Play Services".</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://github.com/microg</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Replacing_BigG%27s_%22Play%22_services_with_the_microG_Project</link>
+        </links>
+      </event>
+      <event id="1041" guid="50ba267bc5d8fa62e53ef17c039482f4">
+        <logo/>
+        <date>2015-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>6:59</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>LearnToSolder</title>
+        <subtitle>Day 1</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Maltman23</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Maltman23</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
+        </links>
+      </event>
+      <event id="1052" guid="53bc713e3c7efc4b9198a689a94183b6">
+        <logo/>
+        <date>2015-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>SMD assembly for terrified beginners</title>
+        <subtitle>Day 1</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Material cost 15&#8364;/kit. For people afraid of surface mount assembly/rework. 
+You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how. Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We're going to build two switch-mode power supplies (one step-up, one step-down) using tiny SMD parts. They're going to work. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Takes one hour.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Kliment</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Kliment</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1053" guid="c61a47401b3e6f7b0b8ffaa6f1773664">
+        <logo/>
+        <date>2015-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>SMD assembly for terrified beginners</title>
+        <subtitle>Day 1</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Material cost 15&#8364;/kit. For people afraid of surface mount assembly/rework. 
+You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how. Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We're going to build two switch-mode power supplies (one step-up, one step-down) using tiny SMD parts. They're going to work. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Takes one hour.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Kliment</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Kliment</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1050" guid="d59e1f0f089c77ed7cbdf13bbe137ae3">
+        <logo/>
+        <date>2015-12-27T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>1:30</duration>
+        <room>Hall C.1</room>
+        <slug/>
+        <title>Queer Feminist Geeks Gathering</title>
+        <subtitle>spare room in case we split up groups</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meetup for all the queer feminist geek folk.
+We will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.
+This meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Theresa</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Theresa</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Queer_Feminist_Geeks_Gathering</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day index="3" date="2015-12-29" start="2015-12-29T11:30:00+01:00" end="2015-12-30T04:00:00+01:00">
+    <room name="Hall F">
+      <event id="1000" guid="76d841769ed18888a0585a64edf82b97">
+        <logo/>
+        <date>2015-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Hall C.4</room>
+        <slug/>
+        <title>22 harddrives from a Westafrican e-waste dump - Behind the Smart World</title>
+        <subtitle>Introduction, Hands-on</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!
+
+Together we want to explore questions like:
+
+    What kind of data did we find on this hard-drives?
+    How can this data be (ab)used?
+    How would you deal with this data breach?
+
+Who can participate?
+
+We are looking for hackers, artists and activists to deal with this data! Data as waste, waste in the sense that it is deleted, dumped in the &#8216;recycle bin&#8217; on our desktop, yet possible to be recovered. And waste as resurfacing data on hard-drives physically located at one of the largest e-waste dumps in the world.
+
+More info about the &#8220;Behind the Smart World Project can be found on the research blog resarch.radical-openness.org and here: http://kairus.org/call-for-participation-behind-the-smart-world-assembly-workshop-at-32c3-congress/ The research lab is part of the &#8220;Art meets radical openness&#8221; Festival which takes place in Linz, Austria.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Kairus</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Kairus</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://kairus.org/call-for-participation-behind-the-smart-world-assembly-workshop-at-32c3-congress/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:22_harddrives_from_a_Westafrican_e-waste_dump_-_Behind_the_Smart_World</link>
+        </links>
+      </event>
+      <event id="1002" guid="38435aa07389ac3124b6043b87ada0c7">
+        <logo/>
+        <date>2015-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Hall C.2</room>
+        <slug/>
+        <title>ADMIN</title>
+        <subtitle>Versuch 1</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>ADvanced Meeting Infrastructure &amp; Network</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Watz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Watz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:ADMIN</link>
+        </links>
+      </event>
+      <event id="1003" guid="5343fddaeff01c89e5a92d4913645756">
+        <logo/>
+        <date>2015-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>An Advanced Introduction to GnuPG</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>There is more to encryption than generating an OpenPGP key and sending encrypted emails. In this talk, I will provide some tips on how to manage keys, how to improve your confidence that your mail is not being intercepted and some other neat tricks that GnuPG can do.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://gnupg.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:An_Advanced_Introduction_to_GnuPG</link>
+        </links>
+      </event>
+      <event id="1011" guid="f140db29935686f2b72146e6f761af40">
+        <logo/>
+        <date>2015-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>B&#252;rokratie und Verwaltung (und Gesellschaft) hacken!</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>"Wir schaffen das" - ich mag den Spruch nicht, weil er IMO eine ganz fiese Manipulationsmasche ist... aber f&#252;r diese Session muss er jetzt herhalten:
+"Wir Zivilgesellschaft, wir k&#246;nnen das mit den Refugees schon schaffen. Aber die &#246;ffentliche Hand, die B&#252;rokratie, die Verwaltung in Kommunen und L&#228;ndern und vielen Organisationen sind mit der aktuellen Lage &#252;berfordert. Die haben weder das Mindset noch die Skills noch die Tools, um mit der Situation umzugehn. Das will ich &#228;ndern. Ich will B&#252;ro</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Musevg</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Musevg</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:B%C3%BCrokratie_und_Verwaltung_(und_Gesellschaft)_hacken!</link>
+        </links>
+      </event>
+      <event id="1033" guid="95532367e6fa96dbdfae72e621a79487">
+        <logo/>
+        <date>2015-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>GnuPG and its current state of development</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>After last year's CCC, GnuPG run a succesful fundraising campaign. Werner Koch, principal author of the GNU Privacy Guard (GnuPG), speaks about the process made and the current 	stage of development</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://gnupg.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:GnuPG_and_its_current_state_of_development</link>
+        </links>
+      </event>
+      <event id="1004" guid="0fe0a66562c1df84b0a8030c45af3597">
+        <logo/>
+        <date>2015-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Angewandte Konsensdemokratie</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>thesen: gruppen von menschen lassen sich oft weiter demokratisieren als "nur" basisdemokratie zu machen. konsensdemokratie ist m&#246;glich, und mittelfristig sogar effizienter und stressfreier. mehr spa&#223; macht sie auch :-)</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Uwe premium</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Uwe_premium</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://www.premiumcola.de/kollektiv/workshop</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Angewandte_Konsensdemokratie</link>
+        </links>
+      </event>
+      <event id="1010" guid="f399b200568ae4a5410230ab8ba4ba87">
+        <logo/>
+        <date>2015-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Bringing free-as-in-freedom to social networks</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language/>
+        <abstract/>
+        <description>Social network users even outside the free software community are more and more aware of problems related to mainstream social network operators stranglehold on their data. And yet even within the free software community number of Facebook users trumps number of all libre social networks combined.
+
+What is keeping people within the walled gardens? What are the libre options? Where is the decentralized social sphere headed?
+
+And most importantly: what could be the effective ways of bringing more users to the libre side of social networking?</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Bringing_free-as-in-freedom_to_social_networks:_what,_why,_and_how</link>
+        </links>
+      </event>
+      <event id="1047" guid="2fafffa499df4faef55af9792211dff5">
+        <logo/>
+        <date>2015-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>3:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Open Science Workshop</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>A workshop/discussion round for anybody interested in the different facets of Open Science/Research. Newbies are welcome!</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Konrad</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Konrad</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://science.okfn.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Open_Science_Workshop</link>
+        </links>
+      </event>
+      <event id="1005" guid="4cb3dba990b5392445164f64311f805c">
+        <logo/>
+        <date>2015-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>3:30</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>ArduinoForTotalNewbies</title>
+        <subtitle>Day 2</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br /&gt;
+&lt;br /&gt;
+You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br /&gt;
+&lt;br /&gt;
+''(This is one of many cool things happening throughout 32C3 in the huge '''Hardware Hacking Area!)'''''&lt;br /&gt;
+&lt;br /&gt;
+This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 28-Dec, 12pm - 3:30pm&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 29-Dec, 12pm - 3:30pm&lt;br /&gt;</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Maltman23</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Maltman23</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:ArduinoForTotalNewbies</link>
+        </links>
+      </event>
+      <event id="1042" guid="e4e6b1c60e8bd07319c45845b717ac65">
+        <logo/>
+        <date>2015-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>12:59</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>LearnToSolder</title>
+        <subtitle>Day 2</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Maltman23</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Maltman23</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
+        </links>
+      </event>
+      <event id="1054" guid="bc1a94efe5cbc667a739bcf8870973e4">
+        <logo/>
+        <date>2015-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>SMD assembly for terrified beginners</title>
+        <subtitle>Day 2</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Material cost 15&#8364;/kit. For people afraid of surface mount assembly/rework. 
+You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how. Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We're going to build two switch-mode power supplies (one step-up, one step-down) using tiny SMD parts. They're going to work. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Takes one hour.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Kliment</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Kliment</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1055" guid="916dee19cf7ae62e6a93066fc90b7a37">
+        <logo/>
+        <date>2015-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>SMD assembly for terrified beginners</title>
+        <subtitle>Day 2</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Material cost 15&#8364;/kit. For people afraid of surface mount assembly/rework. 
+You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how. Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We're going to build two switch-mode power supplies (one step-up, one step-down) using tiny SMD parts. They're going to work. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Takes one hour.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Kliment</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Kliment</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1009" guid="fc5ae1b5b120e99e8aeab9c73605ef0b">
+        <logo/>
+        <date>2015-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Hall 14</room>
+        <slug/>
+        <title>Bring Linux Presentation Day into your own town</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://www.linux-presentation-day.de/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Bring_Linux_Presentation_Day_into_your_own_town</link>
+        </links>
+      </event>
+      <event id="1030" guid="e05ae36c904461014829f6ca398b3c5c">
+        <logo/>
+        <date>2015-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:00</duration>
+        <room>Hall 14</room>
+        <slug/>
+        <title>Friendica - A decentralized, federated Social Network</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will briefly introduce the Friendica project and "The Federation" we are part of. Introduction talk (approx 10 minutes) with Q&amp;A afterwards by core members of the Friendica Project.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://friendi.ca/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Friendica_-_A_decentralized,_federated_Social_Network</link>
+        </links>
+      </event>
+      <event id="1046" guid="d37f0f472745d4002a29952a61bdce2c">
+        <logo/>
+        <date>2015-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>3:00</duration>
+        <room>Hall 14</room>
+        <slug/>
+        <title>Numerical Weather Prediction Tutorial</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A workshop about running your own Numerical Weather Prediction (NWP) model.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Tecer</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Tecer</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Numerical_Weather_Prediction_Tutorial</link>
+        </links>
+      </event>
+      <event id="1059" guid="d62a05a6af218da66175d4749869790b">
+        <logo/>
+        <date>2015-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hall 14</room>
+        <slug/>
+        <title>The Flashcat Project</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language/>
+        <abstract/>
+        <description>The Flashcat project aims to provide a 100% open-source flashing tool.
+It is meant as a support equipment for the libreboot project and will hopefully replace common tools like the BeagleBoneBlack, Raspberry Pi or Bus Pirate which rely on non-disclosed intellectual property. More generally, Flashcat is a step towards building a proper open-source toolchain -- an essential prerequisite for the development of trustworthy machinery in future.
+
+Kai &amp; Tom&#225;s</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:The_Flashcat_Project</link>
+        </links>
+      </event>
+      <event id="1013" guid="99c8cc2346dc5bfb2aa3524c54116693">
+        <logo/>
+        <date>2015-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Anarchist Village</room>
+        <slug/>
+        <title>DIY Metadata Investigation </title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>In our step by step metadata  investigation, we will explore hundreds of thousands of emails from the Hacking Team leak database. We will analyse the metadata of those emails and get a deeper insight into the invisible network of government agencies, cyber weapon dealers, and manufacturers and their investors.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Joler</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Joler</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://labs.rs/en/metadata/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:DIY_Metadata_Investigation_:_Inside_Hacking_Team</link>
+        </links>
+      </event>
+      <event id="1017" guid="6d06bddf6a9f414196290f6e18b36be0">
+        <logo/>
+        <date>2015-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Angelmeeting Day 2</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1019" guid="008413dbeeb5e8cac12277ab8cdc95e8">
+        <logo/>
+        <date>2015-12-28T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>0:30</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Angelmeeting day 2</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1021" guid="f72341712ad12851e7a2b2ee1ebfc1fb">
+        <logo/>
+        <date>2015-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Introduction meeting for new angels</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1039" guid="55093684484f4a2ee86338b36c2981e4">
+        <logo/>
+        <date>2015-12-28T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>2:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>KinkyGeeks Bondage Workshop 1</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/</description>
+        <persons>
+          <person id="0">
+            <full_public_name>DarkGigaByte</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:DarkGigaByte</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://kinkygeeks.de</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:KinkyGeeks_Bondage_Workshop_1</link>
+        </links>
+      </event>
+      <event id="1034" guid="26ee5e94a66349d88f2972a1707d0c3f">
+        <logo/>
+        <date>2015-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Hall C.1</room>
+        <slug/>
+        <title>Haecksen Get Together</title>
+        <subtitle>Coffee &amp; Cake</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>tba</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Slightly</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Slightly</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Haecksen_Get_Together</link>
+        </links>
+      </event>
+      <event id="1064" guid="3821949b3146159d50859bda92dbf966">
+        <logo/>
+        <date>2015-12-29T10:15:00+01:00</date>
+        <start>10:15</start>
+        <duration>0:45</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>YBTI</title>
+        <subtitle>Byzantine Set Consensus</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Placeholder for various YBTI-related talks (details TBA).</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+          <person id="0">
+            <full_public_name>Jeffburdges</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jeffburdges</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://youbroketheinternet.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
+        </links>
+      </event>
+      <event id="1065" guid="cb2e6a7f8d3f4ce478270f72b0482446">
+        <logo/>
+        <date>2015-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>5:00</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>YBTI</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Placeholder for various YBTI-related talks (details TBA).</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+          <person id="0">
+            <full_public_name>Jeffburdges</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jeffburdges</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://youbroketheinternet.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
+        </links>
+      </event>
+      <event id="1066" guid="fffa41500de69fd4c0e27b9100a3903c">
+        <logo/>
+        <date>2015-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>0:30</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>YBTI</title>
+        <subtitle>GNU Taler</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Placeholder for various YBTI-related talks (details TBA).</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+          <person id="0">
+            <full_public_name>Jeffburdges</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jeffburdges</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://youbroketheinternet.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
+        </links>
+      </event>
+    </room>
+  </day>
+  <day index="4" date="2015-12-30" start="2015-12-30T11:30:00+01:00" end="2015-12-31T04:00:00+01:00">
+    <room name="Hall A.1">
+      <event id="1001" guid="1f05352852c9a3561ea9bb132ad3c603">
+        <logo/>
+        <date>2015-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Hall C.4</room>
+        <slug/>
+        <title>22 harddrives from a Westafrican e-waste dump - Behind the Smart World</title>
+        <subtitle>Introduction, Hands-on</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!
+
+Together we want to explore questions like:
+
+    What kind of data did we find on this hard-drives?
+    How can this data be (ab)used?
+    How would you deal with this data breach?
+
+Who can participate?
+
+We are looking for hackers, artists and activists to deal with this data! Data as waste, waste in the sense that it is deleted, dumped in the &#8216;recycle bin&#8217; on our desktop, yet possible to be recovered. And waste as resurfacing data on hard-drives physically located at one of the largest e-waste dumps in the world.
+
+More info about the &#8220;Behind the Smart World Project can be found on the research blog resarch.radical-openness.org and here: http://kairus.org/call-for-participation-behind-the-smart-world-assembly-workshop-at-32c3-congress/ The research lab is part of the &#8220;Art meets radical openness&#8221; Festival which takes place in Linz, Austria.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Kairus</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Kairus</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://kairus.org/call-for-participation-behind-the-smart-world-assembly-workshop-at-32c3-congress/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:22_harddrives_from_a_Westafrican_e-waste_dump_-_Behind_the_Smart_World</link>
+        </links>
+      </event>
+      <event id="1006" guid="7982a9886b761f2ab0987db9b7f33b8f">
+        <logo/>
+        <date>2015-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>3:30</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>ArduinoForTotalNewbies</title>
+        <subtitle>Day 3</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br /&gt;
+&lt;br /&gt;
+You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br /&gt;
+&lt;br /&gt;
+''(This is one of many cool things happening throughout 32C3 in the huge '''Hardware Hacking Area!)'''''&lt;br /&gt;
+&lt;br /&gt;
+This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 28-Dec, 12pm - 3:30pm&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 29-Dec, 12pm - 3:30pm&lt;br /&gt;</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Maltman23</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Maltman23</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:ArduinoForTotalNewbies</link>
+        </links>
+      </event>
+      <event id="1043" guid="ba70c12a406d3e60271ee23eb2a15a96">
+        <logo/>
+        <date>2015-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>12:59</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>LearnToSolder</title>
+        <subtitle>Day 3</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Maltman23</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Maltman23</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
+        </links>
+      </event>
+      <event id="1056" guid="58a96aef6a53ad52704568d0f5e4cf3d">
+        <logo/>
+        <date>2015-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>SMD assembly for terrified beginners</title>
+        <subtitle>Day 3</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Material cost 15&#8364;/kit. For people afraid of surface mount assembly/rework. 
+You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how. Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We're going to build two switch-mode power supplies (one step-up, one step-down) using tiny SMD parts. They're going to work. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Takes one hour.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Kliment</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Kliment</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1057" guid="f236520c9008f3bc1d9f182e1f33b0da">
+        <logo/>
+        <date>2015-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>HardwareHackingArea</room>
+        <slug/>
+        <title>SMD assembly for terrified beginners</title>
+        <subtitle>Day 3</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Material cost 15&#8364;/kit. For people afraid of surface mount assembly/rework. 
+You know those tiny little components in modern electronic devices? It's both possible and easy to assemble those by hand. You can do it, and I'll teach you how. Think you don't have the tools? Think you can't manually place 0402s? Everything is possible with patience and practice. The equipment is minimal and you probably already have it. We're going to build two switch-mode power supplies (one step-up, one step-down) using tiny SMD parts. They're going to work. We'll learn the answer to THERE'S A SHORT ON A TINY PART OMG WHAT NOW? After this, you'll no longer need to be scared of SMD. Takes one hour.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Kliment</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Kliment</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1008" guid="6de66cd0e7f04c8bab59896761e372fe">
+        <logo/>
+        <date>2015-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Hall A.2</room>
+        <slug/>
+        <title>Bootstrapping your Pyongyang Startup</title>
+        <subtitle>Pyongyang Hackerspace</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Welcome to the Pyongyang Hackerspace! This is a participatory workshop to brainstorm new startup models fostering productive engagement with North Korea.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Willscott</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Willscott</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Bootstrapping_your_Pyongyang_Startup</link>
+        </links>
+      </event>
+      <event id="1012" guid="82940bc2e8950ae4883c4e9eb4c76326">
+        <logo/>
+        <date>2015-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Certificate Transparency</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this talk, Ismail Khoffi and Phillip Javanovic, recapitulate some of the security problems with the current PKI system and especially with Certificate Authorities. We review the concept of 'Certificate Transparency' (CT) which aims to mitigate those problems and discuss how recent research conducted by a team of security researchers around Bryan Ford could further strengthen CT's security by employing decentralization and collective signing</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://www.certificate-transparency.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Certificate_Transparency</link>
+        </links>
+      </event>
+      <event id="1028" guid="518529d8e3cc779bfc1c9cd5adbef19c">
+        <logo/>
+        <date>2015-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Fight for your right to Hardware!</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>More and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair your own device. They are "endproducts", literally. 
+To keep control of technology and privacy not in the hands of monopolised interests but in the hands of society, we need to keep control of the hardware that surrounds us. I like to discuss some basic thoughts about the rights that a consumer needs to achieve privacy and merge with the basic thoughts about the rights that a tinkerer - professional or hobbyists - needs to to tinker.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Fight_for_your_right_to_Hardware!</link>
+        </links>
+      </event>
+      <event id="1035" guid="a985e8d21f115ea7b0307cb96dfa6e17">
+        <logo/>
+        <date>2015-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Hall 13</room>
+        <slug/>
+        <title>Haecksen Get Together</title>
+        <subtitle>Breakfast</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>tba</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Slightly</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Slightly</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Haecksen_Get_Together</link>
+        </links>
+      </event>
+      <event id="1014" guid="d23327fb683b0048a23432c847663d0c">
+        <logo/>
+        <date>2015-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>DS-05-2016</title>
+        <subtitle>discussion</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The EU's DS-05-2016 call asks for a consortium to organize "International Dialogues in Cybersecurity and
+Privacy Research and Innovation". Let us build THE consortium to do this right.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:DS-05-2016</link>
+        </links>
+      </event>
+      <event id="1015" guid="615872ea1f1dde442844787468b1c81f">
+        <logo/>
+        <date>2015-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>EDN API</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Discussion of APIs for next-generation Internet applications. We want to standardize APIs so we can share more code across projects!</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://wiki.c3d2.de/Echt_Dezentrales_Netz/modules</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:EDN_API</link>
+        </links>
+      </event>
+      <event id="1031" guid="c95700c8711448b070907a8caf9bb883">
+        <logo/>
+        <date>2015-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>0:15</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>GNUnet e.V.</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Annual meeting of https://gnunet.org/ev</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://gnunet.org/ev</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:GNUnet_e.V.</link>
+        </links>
+      </event>
+      <event id="1058" guid="8d71a6a0804545923aa340d05125df54">
+        <logo/>
+        <date>2015-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>SNIP</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Internal meeting for SNIP participants.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:SNIP</link>
+        </links>
+      </event>
+      <event id="1063" guid="33b34c26a59a08537de0303591cab442">
+        <logo/>
+        <date>2015-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:30</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>YBTI</title>
+        <subtitle>Async Messaging : Xolotl = Sphinx + Axolotl</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Placeholder for various YBTI-related talks (details TBA).</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+          <person id="0">
+            <full_public_name>Jeffburdges</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jeffburdges</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://youbroketheinternet.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
+        </links>
+      </event>
+      <event id="1067" guid="856bb6680d68956b76eb575a8838bc96">
+        <logo/>
+        <date>2015-12-29T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>0:30</duration>
+        <room>Hall F</room>
+        <slug/>
+        <title>YBTI</title>
+        <subtitle>SecuShare</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Placeholder for various YBTI-related talks (details TBA).</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Grothoff</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Grothoff</url>
+          </person>
+          <person id="0">
+            <full_public_name>Jeffburdges</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jeffburdges</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://youbroketheinternet.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
+        </links>
+      </event>
+      <event id="1023" guid="6ef20e532e6f4ab1929b1a2dbf971fec">
+        <logo/>
+        <date>2015-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Angelmeeting day 3</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1025" guid="c6c54f0925331268b59e0e06b84386dd">
+        <logo/>
+        <date>2015-12-29T20:45:00+01:00</date>
+        <start>20:45</start>
+        <duration>0:30</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Angel meeting day 3</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1032" guid="9d7d8eb85d917b5ffbdc2b046b400747">
+        <logo/>
+        <date>2015-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Gentoo e.V. Mitgliederversammlung</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Mitgliederversammlung des F&#246;rdervereins Gentoo e.V.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Sping</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Sping</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://www.gentoo-ev.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Gentoo_e.V._Mitgliederversammlung</link>
+        </links>
+      </event>
+      <event id="1040" guid="ebfe173b89c1d199435a720aab6f6f50">
+        <logo/>
+        <date>2015-12-29T21:45:00+01:00</date>
+        <start>21:45</start>
+        <duration>2:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>KinkyGeeks Bondage Workshop 2</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/</description>
+        <persons>
+          <person id="0">
+            <full_public_name>DarkGigaByte</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:DarkGigaByte</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://kinkygeeks.de</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:KinkyGeeks_Bondage_Workshop_2</link>
+        </links>
+      </event>
+      <event id="1061" guid="f25f4f412117810354642211c65c8c1b">
+        <logo/>
+        <date>2015-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:30</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Why I sometimes need lots of w(h)ine as member of Amazon VINE ... and Amazon costumer</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language/>
+        <abstract/>
+        <description>Talk von TanjaTimanfaya und @habrok42 &#252;ber das Produkttesterprogramm von Amazon, haarstr&#228;ubende Bugs im Online-Shop und was Euch als Kunden in Zukunft erwarten d&#252;rfte.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Tanja Timanfaya</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Tanja_Timanfaya</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Why_I_sometimes_need_lots_of_w(h)ine_as_member_of_Amazon_VINE_..._and_Amazon_costumer</link>
+        </links>
+      </event>
+      <event id="1029" guid="20952eb5b2e2c368a7434da95dc396f4">
+        <logo/>
+        <date>2015-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>0:45</duration>
+        <room>Hall 14</room>
+        <slug/>
+        <title>Flexibles Vernetzen ist das neue B&#252;ndnis gegen &#220;berwachung</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Nach dem Scheitern des 'B&#252;ndnisses gegen &#220;berwachung' stellt sich die Frage, welche Organisationsform der Bewegung gegen &#220;berwachung neue Kraft verleihen kann. In dieser Sitzung besprechen wir die Flexible Vernetzung als m&#246;gliche L&#246;sung mit ihren Vor- und Nachteilen und machen uns Gedanken dar&#252;ber, wie sie am besten umgesetzt wird.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Thorsten</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Thorsten</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://gegen-ueberwachung.de</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Flexibles_Vernetzen_ist_das_neue_B%C3%BCndnis_gegen_%C3%9Cberwachung</link>
+        </links>
+      </event>
+      <event id="1045" guid="617dc472dfa0a6feefcfe94e7167349f">
+        <logo/>
+        <date>2015-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:40</duration>
+        <room>Hall 14</room>
+        <slug/>
+        <title>NewPalmyra</title>
+        <subtitle>Let's get involved</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A Meet-Up on New Palmyra. We want to introduce the New Palmyra project about a digital reconstruction of the demolished Palmyra world heritage sites and discuss ways how we could contribute to the project.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Tabesin</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Tabesin</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://www.newpalmyra.org</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:NewPalmyra</link>
+        </links>
+      </event>
+      <event id="1048" guid="63a63283961df29deeac5f4bcdc7a03e">
+        <logo/>
+        <date>2015-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hall 14</room>
+        <slug/>
+        <title>Participating in EU Security Research</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>The need for the democratization of publicly funded research in the areas of surveillance, detection, and pattern recognition raises a number of important normative issues as to which actors, and on what grounds, should be actively enganged. We want to discuss the ways civil society can participate and influence how security research is being conducted and what types of research is funded. We present the project SecurePART, which aims at increasing the engagement of civil society in security research.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>SecurePART</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:SecurePART</url>
+          </person>
+        </persons>
+        <links>
+          <link>http://www.securepart.eu/en/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Participating_in_EU_Security_Research:_Shaping_the_Agenda</link>
+        </links>
+      </event>
+      <event id="1036" guid="e4905e2b48c5cbb8db52ea612721c605">
+        <logo/>
+        <date>2015-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>Hannibal Lecter und Sauron in einer total&#252;berwachten Welt</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>The Classic! As seen on TV (and Easterhegg and MRMCD and Z&#252;ndfunk Netzkongress):
+Funktioniert Literatur noch in einer total&#252;berwachten Welt?</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Musevg</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Musevg</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Hannibal_Lecter_und_Sauron_in_einer_total%C3%BCberwachten_Welt</link>
+        </links>
+      </event>
+      <event id="1060" guid="1f2b51c91ce5a6472056d3bb4eb37765">
+        <logo/>
+        <date>2015-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>The Fuzzing Project</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>We have powerful and easy to use tools that can vastly improve the quality and security of the code we use everyday. The session will give an introduction to fuzzing, the tool american fuzzy lop and the compiler feature Address Sanitizer.
+If there is enough interest we can continue doing a practical hands-on session afterwards
+
+Last year I started the Fuzzing Project as an effort to improve the security of free software code. In May the Linux Foundation's Core Infrastructure Initiative decided to fund my work.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://fuzzing-project.org/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:The_Fuzzing_Project</link>
+        </links>
+      </event>
+      <event id="1062" guid="2afd775dacaec92110c50e299c22c34e">
+        <logo/>
+        <date>2015-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Hall A.1</room>
+        <slug/>
+        <title>Why your favorite musician will love 'Adore'</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>We believe that music fans actually care about their favourite artists and want to contribute to sustain them. "adore" is a forthcoming service for both music lovers and creatives, to distribute voluntarily set amounts of donations automatically and directly to artists, based on the music one actually listened to. The concept combines key aspects of various ideas that were previously proposed, like cultural flatrates or the CCC's "Kulturwertmark", solving one of their main problems: The open question how money should be collected and distributed.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Eal</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Eal</url>
+          </person>
+          <person id="0">
+            <full_public_name>Dmaphy</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Dmaphy</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Why_your_favorite_musician_will_love_%27Adore%27</link>
+        </links>
+      </event>
+    </room>
+  </day>
+</schedule>
