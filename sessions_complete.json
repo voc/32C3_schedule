@@ -952,6 +952,58 @@
             "1451403000"
         ]
     }, 
+    "Session:Geheimdienste hacken# bd8afe541d74de2c9ee7516cf391522f": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1451228400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://datenschmutz.de/bfvinfo"
+        ], 
+        "Has description": [
+            "Geheimdienste sammeln eine Menge personenbezogener Daten. Die Speicherung selbiger unterliegt speziellen Datenschutzregeln. In Deutschland und vielen anderen liberalen Rechtsstaaten kann man Daten die \u00fcber einen selbst gespeichert sind, mit einem Antrag auf Aktenauskunft gesagt bekommen. Was muss man sagen, was bekommt man zu sehen?"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Was speichern die Dienste \u00fcber dich?"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Akte", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Akte", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Geheimdienste hacken"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Geheimdienste_hacken", 
+        "Has end time": [
+            "1451235600"
+        ]
+    }, 
     "Session:Why your favorite musician will love 'Adore'# 2afd775dacaec92110c50e299c22c34e": {
         "Held in language": [
             "en - English"
