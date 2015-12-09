@@ -271,7 +271,7 @@ This meetup is open to people of all genders, but please be mindful of how much 
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Geheimdienste sammeln eine Menge personenbezogener Daten. Die Speicherung selbiger unterliegt speziellen Datenschutzregeln. In Deutschland und vielen anderen liberalen Rechtsstaaten kann man Daten die &#252;ber einen selbst gespeichert sind, mit einem Antrag auf Aktenauskunft gesagt bekommen. Was muss man sagen, was bekommt man zu sehen?</description>
+        <description>Geheimdienste sammeln eine Menge personenbezogener Daten. Die Speicherung selbiger unterliegt speziellen Datenschutzregeln. In Deutschland und vielen anderen liberalen Rechtsstaaten kann man Daten, die &#252;ber einen selbst gespeichert sind, mit einem Antrag auf Aktenauskunft gesagt bekommen. Was muss man sagen, was bekommt man zu sehen?</description>
         <persons>
           <person id="0">
             <full_public_name>Akte</full_public_name>
