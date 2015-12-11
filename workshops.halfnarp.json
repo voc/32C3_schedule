@@ -414,7 +414,7 @@
         "room_id": 0, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-29T17:00:00+01:00", 
-        "duration": 3600, 
+        "duration": 5400, 
         "title": "Flynn Meetup", 
         "abstract": "", 
         "speakers": "Titanous"

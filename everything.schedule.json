@@ -6961,11 +6961,11 @@
                         "Hall C.1": [
                             {
                                 "id": 1034, 
-                                "guid": "14fcedb89cc0c5dc0d9b881b5d59094c", 
+                                "guid": "87fda89ba46151d7cc4e5f9f5f30250d", 
                                 "logo": null, 
                                 "date": "2015-12-29T17:00:00+01:00", 
                                 "start": "17:00", 
-                                "duration": "1:00", 
+                                "duration": "1:30", 
                                 "room": "Hall C.1", 
                                 "slug": "", 
                                 "title": "Flynn Meetup", 
