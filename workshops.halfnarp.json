@@ -436,6 +436,18 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
+        "room_name": "Hall A.1", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
+        "duration": 5400, 
+        "title": "Freifunk Hamburg Jahresr\u00fcckblick", 
+        "abstract": "", 
+        "speakers": "Kantorkel, Ohrensessel"
+    }, 
+    {
+        "event_id": 1037, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-28T22:00:00+01:00", 
         "duration": 3600, 
@@ -444,7 +456,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1037, 
+        "event_id": 1038, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -456,7 +468,7 @@
         "speakers": "Grothoff"
     }, 
     {
-        "event_id": 1038, 
+        "event_id": 1039, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -468,7 +480,7 @@
         "speakers": "Akte"
     }, 
     {
-        "event_id": 1039, 
+        "event_id": 1040, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -480,7 +492,7 @@
         "speakers": "Sping"
     }, 
     {
-        "event_id": 1040, 
+        "event_id": 1041, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -492,7 +504,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1041, 
+        "event_id": 1042, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -504,7 +516,7 @@
         "speakers": "Slightly"
     }, 
     {
-        "event_id": 1042, 
+        "event_id": 1043, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -516,7 +528,7 @@
         "speakers": "Slightly"
     }, 
     {
-        "event_id": 1043, 
+        "event_id": 1044, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -528,7 +540,7 @@
         "speakers": "Musevg"
     }, 
     {
-        "event_id": 1044, 
+        "event_id": 1045, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -540,7 +552,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1045, 
+        "event_id": 1046, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -552,7 +564,7 @@
         "speakers": "Tabesin"
     }, 
     {
-        "event_id": 1046, 
+        "event_id": 1047, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -564,7 +576,7 @@
         "speakers": "Cbass, Stean"
     }, 
     {
-        "event_id": 1047, 
+        "event_id": 1048, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -576,7 +588,7 @@
         "speakers": "DarkGigaByte"
     }, 
     {
-        "event_id": 1048, 
+        "event_id": 1049, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -588,7 +600,7 @@
         "speakers": "DarkGigaByte"
     }, 
     {
-        "event_id": 1049, 
+        "event_id": 1050, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -600,24 +612,12 @@
         "speakers": "Maltman23"
     }, 
     {
-        "event_id": 1050, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "HardwareHackingArea", 
-        "start_time": "2015-12-28T12:00:00+01:00", 
-        "duration": 46740, 
-        "title": "LearnToSolder", 
-        "abstract": "", 
-        "speakers": "Maltman23"
-    }, 
-    {
         "event_id": 1051, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "HardwareHackingArea", 
-        "start_time": "2015-12-29T12:00:00+01:00", 
+        "start_time": "2015-12-28T12:00:00+01:00", 
         "duration": 46740, 
         "title": "LearnToSolder", 
         "abstract": "", 
@@ -629,6 +629,18 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "HardwareHackingArea", 
+        "start_time": "2015-12-29T12:00:00+01:00", 
+        "duration": 46740, 
+        "title": "LearnToSolder", 
+        "abstract": "", 
+        "speakers": "Maltman23"
+    }, 
+    {
+        "event_id": 1053, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
+        "room_name": "HardwareHackingArea", 
         "start_time": "2015-12-30T12:00:00+01:00", 
         "duration": 14340, 
         "title": "LearnToSolder", 
@@ -636,7 +648,7 @@
         "speakers": "Maltman23"
     }, 
     {
-        "event_id": 1053, 
+        "event_id": 1054, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -648,7 +660,7 @@
         "speakers": "Tabesin"
     }, 
     {
-        "event_id": 1054, 
+        "event_id": 1055, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -660,7 +672,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1055, 
+        "event_id": 1056, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -672,7 +684,7 @@
         "speakers": "Konrad"
     }, 
     {
-        "event_id": 1056, 
+        "event_id": 1057, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -684,7 +696,7 @@
         "speakers": "SecurePART"
     }, 
     {
-        "event_id": 1057, 
+        "event_id": 1058, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -696,7 +708,7 @@
         "speakers": "Theresa"
     }, 
     {
-        "event_id": 1058, 
+        "event_id": 1059, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -708,7 +720,7 @@
         "speakers": "Theresa"
     }, 
     {
-        "event_id": 1059, 
+        "event_id": 1060, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -720,7 +732,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1060, 
+        "event_id": 1061, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -732,7 +744,7 @@
         "speakers": "Kliment"
     }, 
     {
-        "event_id": 1061, 
+        "event_id": 1062, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -744,7 +756,7 @@
         "speakers": "Kliment"
     }, 
     {
-        "event_id": 1062, 
+        "event_id": 1063, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -756,7 +768,7 @@
         "speakers": "Kliment"
     }, 
     {
-        "event_id": 1063, 
+        "event_id": 1064, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -768,7 +780,7 @@
         "speakers": "Kliment"
     }, 
     {
-        "event_id": 1064, 
+        "event_id": 1065, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -780,7 +792,7 @@
         "speakers": "Kliment"
     }, 
     {
-        "event_id": 1065, 
+        "event_id": 1066, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -792,7 +804,7 @@
         "speakers": "Kliment"
     }, 
     {
-        "event_id": 1066, 
+        "event_id": 1067, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -804,7 +816,7 @@
         "speakers": "Grothoff"
     }, 
     {
-        "event_id": 1067, 
+        "event_id": 1068, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -816,7 +828,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1068, 
+        "event_id": 1069, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -828,7 +840,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1069, 
+        "event_id": 1070, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -840,7 +852,7 @@
         "speakers": "Tanja Timanfaya"
     }, 
     {
-        "event_id": 1070, 
+        "event_id": 1071, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -852,7 +864,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1071, 
+        "event_id": 1072, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -864,7 +876,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1072, 
+        "event_id": 1073, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -876,7 +888,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1073, 
+        "event_id": 1074, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -888,7 +900,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1074, 
+        "event_id": 1075, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -900,7 +912,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1075, 
+        "event_id": 1076, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
