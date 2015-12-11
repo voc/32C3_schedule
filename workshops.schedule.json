@@ -2,6 +2,7 @@
     "schedule": {
         "version": "0.9 - The Line Runners", 
         "conference": {
+            "acronym": "32c3", 
             "title": "32. Chaos Communication Congress", 
             "start": "2015-12-27", 
             "end": "2015-12-31", 
@@ -16,7 +17,7 @@
                     "rooms": {
                         "Hall B": [
                             {
-                                "id": 1016, 
+                                "id": 1019, 
                                 "guid": "e3dabb82ac3fdda8da347454ac4c5f66", 
                                 "logo": null, 
                                 "date": "2015-12-30T14:00:00+01:00", 
@@ -43,7 +44,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1018, 
+                                "id": 1021, 
                                 "guid": "bf981cbe8b5a7a149c3169141084b250", 
                                 "logo": null, 
                                 "date": "2015-12-26T21:00:00+01:00", 
@@ -70,7 +71,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1020, 
+                                "id": 1023, 
                                 "guid": "8f37881626e8ffda4286dee71786574e", 
                                 "logo": null, 
                                 "date": "2015-12-26T22:00:00+01:00", 
@@ -97,7 +98,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1027, 
+                                "id": 1030, 
                                 "guid": "3e0b15f5d40ee3b1f2b812be93317ccb", 
                                 "logo": null, 
                                 "date": "2015-12-26T14:00:00+01:00", 
@@ -126,7 +127,7 @@
                         ], 
                         "HardwareHackingArea": [
                             {
-                                "id": 1045, 
+                                "id": 1048, 
                                 "guid": "b25292afc5db10e5798e81b3468b5ac9", 
                                 "logo": null, 
                                 "date": "2015-12-30T12:00:00+01:00", 
@@ -192,7 +193,7 @@
                         ], 
                         "Hall B": [
                             {
-                                "id": 1022, 
+                                "id": 1025, 
                                 "guid": "4052ee66ac373fed16d2a3aa7d4c7380", 
                                 "logo": null, 
                                 "date": "2015-12-27T14:00:00+01:00", 
@@ -219,7 +220,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1024, 
+                                "id": 1027, 
                                 "guid": "a8f511859309a3109ffe43b54f6afd32", 
                                 "logo": null, 
                                 "date": "2015-12-27T20:45:00+01:00", 
@@ -246,7 +247,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1026, 
+                                "id": 1029, 
                                 "guid": "13c8aa469e1dbe32345c0db2095d5f5b", 
                                 "logo": null, 
                                 "date": "2015-12-27T16:00:00+01:00", 
@@ -273,7 +274,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1050, 
+                                "id": 1053, 
                                 "guid": "09abf33a7fed318d3f7b55ed099ef9b5", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -302,7 +303,7 @@
                         ], 
                         "Hall 14": [
                             {
-                                "id": 1032, 
+                                "id": 1035, 
                                 "guid": "bd8afe541d74de2c9ee7516cf391522f", 
                                 "logo": null, 
                                 "date": "2015-12-27T16:00:00+01:00", 
@@ -332,7 +333,7 @@
                         ], 
                         "Hall 13": [
                             {
-                                "id": 1038, 
+                                "id": 1041, 
                                 "guid": "793d65d66584216eb388562cef7ca1fa", 
                                 "logo": null, 
                                 "date": "2015-12-27T21:00:00+01:00", 
@@ -365,7 +366,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1039, 
+                                "id": 1042, 
                                 "guid": "67212ddd4b196344ece95ba27328ad9d", 
                                 "logo": null, 
                                 "date": "2015-12-28T09:00:00+01:00", 
@@ -398,7 +399,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1052, 
+                                "id": 1055, 
                                 "guid": "0d331a593e6c06c01290d9d0c66b55ce", 
                                 "logo": null, 
                                 "date": "2015-12-27T20:00:00+01:00", 
@@ -428,7 +429,7 @@
                         ], 
                         "HardwareHackingArea": [
                             {
-                                "id": 1042, 
+                                "id": 1045, 
                                 "guid": "50ba267bc5d8fa62e53ef17c039482f4", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -455,7 +456,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1056, 
                                 "guid": "53bc713e3c7efc4b9198a689a94183b6", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -482,7 +483,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1057, 
                                 "guid": "c61a47401b3e6f7b0b8ffaa6f1773664", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -511,7 +512,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1051, 
+                                "id": 1054, 
                                 "guid": "d59e1f0f089c77ed7cbdf13bbe137ae3", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:30:00+01:00", 
@@ -667,7 +668,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1034, 
+                                "id": 1037, 
                                 "guid": "95532367e6fa96dbdfae72e621a79487", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -762,7 +763,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1048, 
+                                "id": 1051, 
                                 "guid": "2fafffa499df4faef55af9792211dff5", 
                                 "logo": null, 
                                 "date": "2015-12-28T15:00:00+01:00", 
@@ -820,7 +821,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1043, 
+                                "id": 1046, 
                                 "guid": "e4e6b1c60e8bd07319c45845b717ac65", 
                                 "logo": null, 
                                 "date": "2015-12-28T12:00:00+01:00", 
@@ -847,7 +848,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
+                                "id": 1058, 
                                 "guid": "bc1a94efe5cbc667a739bcf8870973e4", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:00:00+01:00", 
@@ -874,7 +875,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1056, 
+                                "id": 1059, 
                                 "guid": "916dee19cf7ae62e6a93066fc90b7a37", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -936,7 +937,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1030, 
+                                "id": 1033, 
                                 "guid": "e05ae36c904461014829f6ca398b3c5c", 
                                 "logo": null, 
                                 "date": "2015-12-28T22:00:00+01:00", 
@@ -969,7 +970,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1047, 
+                                "id": 1050, 
                                 "guid": "d37f0f472745d4002a29952a61bdce2c", 
                                 "logo": null, 
                                 "date": "2015-12-28T12:00:00+01:00", 
@@ -996,7 +997,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1060, 
+                                "id": 1063, 
                                 "guid": "d62a05a6af218da66175d4749869790b", 
                                 "logo": null, 
                                 "date": "2015-12-28T16:00:00+01:00", 
@@ -1030,7 +1031,7 @@
                         ], 
                         "Anarchist Village": [
                             {
-                                "id": 1013, 
+                                "id": 1016, 
                                 "guid": "99c8cc2346dc5bfb2aa3524c54116693", 
                                 "logo": null, 
                                 "date": "2015-12-28T15:00:00+01:00", 
@@ -1060,7 +1061,7 @@
                         ], 
                         "Hall B": [
                             {
-                                "id": 1017, 
+                                "id": 1020, 
                                 "guid": "6d06bddf6a9f414196290f6e18b36be0", 
                                 "logo": null, 
                                 "date": "2015-12-28T14:00:00+01:00", 
@@ -1087,7 +1088,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1019, 
+                                "id": 1022, 
                                 "guid": "008413dbeeb5e8cac12277ab8cdc95e8", 
                                 "logo": null, 
                                 "date": "2015-12-28T20:45:00+01:00", 
@@ -1114,7 +1115,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1021, 
+                                "id": 1024, 
                                 "guid": "f72341712ad12851e7a2b2ee1ebfc1fb", 
                                 "logo": null, 
                                 "date": "2015-12-28T16:00:00+01:00", 
@@ -1141,7 +1142,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1040, 
+                                "id": 1043, 
                                 "guid": "55093684484f4a2ee86338b36c2981e4", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:15:00+01:00", 
@@ -1171,7 +1172,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1035, 
+                                "id": 1038, 
                                 "guid": "26ee5e94a66349d88f2972a1707d0c3f", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:00:00+01:00", 
@@ -1200,7 +1201,7 @@
                         ], 
                         "Hall F": [
                             {
-                                "id": 1065, 
+                                "id": 1068, 
                                 "guid": "3821949b3146159d50859bda92dbf966", 
                                 "logo": null, 
                                 "date": "2015-12-29T10:15:00+01:00", 
@@ -1233,7 +1234,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1066, 
+                                "id": 1069, 
                                 "guid": "cb2e6a7f8d3f4ce478270f72b0482446", 
                                 "logo": null, 
                                 "date": "2015-12-29T10:00:00+01:00", 
@@ -1266,7 +1267,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1067, 
+                                "id": 1070, 
                                 "guid": "fffa41500de69fd4c0e27b9100a3903c", 
                                 "logo": null, 
                                 "date": "2015-12-29T11:00:00+01:00", 
@@ -1367,7 +1368,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1044, 
+                                "id": 1047, 
                                 "guid": "ba70c12a406d3e60271ee23eb2a15a96", 
                                 "logo": null, 
                                 "date": "2015-12-29T12:00:00+01:00", 
@@ -1394,7 +1395,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1057, 
+                                "id": 1060, 
                                 "guid": "58a96aef6a53ad52704568d0f5e4cf3d", 
                                 "logo": null, 
                                 "date": "2015-12-29T17:00:00+01:00", 
@@ -1421,7 +1422,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1058, 
+                                "id": 1061, 
                                 "guid": "f236520c9008f3bc1d9f182e1f33b0da", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -1512,7 +1513,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1028, 
+                                "id": 1031, 
                                 "guid": "518529d8e3cc779bfc1c9cd5adbef19c", 
                                 "logo": null, 
                                 "date": "2015-12-29T14:00:00+01:00", 
@@ -1526,7 +1527,7 @@
                                 "type": "discussion", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "More and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair your own device. They are \"endproducts\", literally. \nTo keep control of technology and privacy not in the hands of monopolised interests but in the hands of society, we need to keep control of the hardware that surrounds us. I like to discuss some basic thoughts about the rights that a consumer needs to achieve privacy and merge with the basic thoughts about the rights that a tinkerer - professional or hobbyists - needs to to tinker.", 
+                                "description": "More and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair your own device. They are \"endproducts\", literally. \nTo keep control of technology and privacy not in the hands of monopolised interests but in the hands of society, we need to keep control of the hardware that surrounds us. I like to discuss some basic thoughts about the rights that a consumer needs to achieve privacy and merge with the basic thoughts about the rights that a tinkerer - professional or hobbyists - needs to use, study, share and improve it.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -1544,7 +1545,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
+                                "id": 1039, 
                                 "guid": "a985e8d21f115ea7b0307cb96dfa6e17", 
                                 "logo": null, 
                                 "date": "2015-12-29T12:00:00+01:00", 
@@ -1571,9 +1572,312 @@
                                 ]
                             }
                         ], 
-                        "Hall F": [
+                        "Hall 14": [
+                            {
+                                "id": 1013, 
+                                "guid": "73d4be5622b63412875cf2b2c54ff68f", 
+                                "logo": null, 
+                                "date": "2015-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Hall 14", 
+                                "slug": "", 
+                                "title": "Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop", 
+                                "subtitle": "workshop", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.\n\nThis session provides you with the skill set required to develop a C++ type system that validates and converts (valid) units at compile time, saving you lots of money if you ever decide to build rockets.\n\nThis workshop is for C++ programmers with an interest in learning meta-programming.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Kamikaze", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Kamikaze"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.home.hs-karlsruhe.de/~fado0001/2015-32C3/", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Conversion_of_Physical_Units_at_Compile_Time,_a_C%2B%2B_Meta-Programming_Talk_and_Workshop"
+                                ]
+                            }, 
                             {
                                 "id": 1014, 
+                                "guid": "92a721dc4fe38950aabf5f78c4ea808a", 
+                                "logo": null, 
+                                "date": "2015-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 14", 
+                                "slug": "", 
+                                "title": "Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop", 
+                                "subtitle": "presentation", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.\n\nThis session provides you with the skill set required to develop a C++ type system that validates and converts (valid) units at compile time, saving you lots of money if you ever decide to build rockets.\n\nThis workshop is for C++ programmers with an interest in learning meta-programming.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Kamikaze", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Kamikaze"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.home.hs-karlsruhe.de/~fado0001/2015-32C3/", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Conversion_of_Physical_Units_at_Compile_Time,_a_C%2B%2B_Meta-Programming_Talk_and_Workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1032, 
+                                "guid": "20952eb5b2e2c368a7434da95dc396f4", 
+                                "logo": null, 
+                                "date": "2015-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "0:45", 
+                                "room": "Hall 14", 
+                                "slug": "", 
+                                "title": "Flexibles Vernetzen ist das neue B\u00fcndnis gegen \u00dcberwachung", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Nach dem Scheitern des 'B\u00fcndnisses gegen \u00dcberwachung' stellt sich die Frage, welche Organisationsform der Bewegung gegen \u00dcberwachung neue Kraft verleihen kann. In dieser Sitzung besprechen wir die Flexible Vernetzung als m\u00f6gliche L\u00f6sung mit ihren Vor- und Nachteilen und machen uns Gedanken dar\u00fcber, wie sie am besten umgesetzt wird.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Thorsten", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Thorsten"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://gegen-ueberwachung.de", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Flexibles_Vernetzen_ist_das_neue_B%C3%BCndnis_gegen_%C3%9Cberwachung"
+                                ]
+                            }, 
+                            {
+                                "id": 1049, 
+                                "guid": "617dc472dfa0a6feefcfe94e7167349f", 
+                                "logo": null, 
+                                "date": "2015-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:40", 
+                                "room": "Hall 14", 
+                                "slug": "", 
+                                "title": "NewPalmyra", 
+                                "subtitle": "Let's get involved", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A Meet-Up on New Palmyra. We want to introduce the New Palmyra project about a digital reconstruction of the demolished Palmyra world heritage sites and discuss ways how we could contribute to the project.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Tabesin", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Tabesin"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.newpalmyra.org", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:NewPalmyra"
+                                ]
+                            }, 
+                            {
+                                "id": 1052, 
+                                "guid": "63a63283961df29deeac5f4bcdc7a03e", 
+                                "logo": null, 
+                                "date": "2015-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Hall 14", 
+                                "slug": "", 
+                                "title": "Participating in EU Security Research", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "The need for the democratization of publicly funded research in the areas of surveillance, detection, and pattern recognition raises a number of important normative issues as to which actors, and on what grounds, should be actively enganged. We want to discuss the ways civil society can participate and influence how security research is being conducted and what types of research is funded. We present the project SecurePART, which aims at increasing the engagement of civil society in security research.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "SecurePART", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:SecurePART"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.securepart.eu/en/", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Participating_in_EU_Security_Research:_Shaping_the_Agenda"
+                                ]
+                            }
+                        ], 
+                        "Hall B": [
+                            {
+                                "id": 1015, 
+                                "guid": "d4445aafdf4e0e3dd115f88320ee16d2", 
+                                "logo": null, 
+                                "date": "2015-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "DBOpenData", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "http://data.deutschebahn.com", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:DBOpenData"
+                                ]
+                            }, 
+                            {
+                                "id": 1026, 
+                                "guid": "6ef20e532e6f4ab1929b1a2dbf971fec", 
+                                "logo": null, 
+                                "date": "2015-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting day 3", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Jz", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1028, 
+                                "guid": "c6c54f0925331268b59e0e06b84386dd", 
+                                "logo": null, 
+                                "date": "2015-12-29T20:45:00+01:00", 
+                                "start": "20:45", 
+                                "duration": "0:30", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angel meeting day 3", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Jz", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1036, 
+                                "guid": "9d7d8eb85d917b5ffbdc2b046b400747", 
+                                "logo": null, 
+                                "date": "2015-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:30", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Gentoo e.V. Mitgliederversammlung", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Sping", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Sping"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.gentoo-ev.org/", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Gentoo_e.V._Mitgliederversammlung"
+                                ]
+                            }, 
+                            {
+                                "id": 1044, 
+                                "guid": "ebfe173b89c1d199435a720aab6f6f50", 
+                                "logo": null, 
+                                "date": "2015-12-29T21:45:00+01:00", 
+                                "start": "21:45", 
+                                "duration": "2:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "KinkyGeeks Bondage Workshop 2", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "DarkGigaByte", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DarkGigaByte"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://kinkygeeks.de", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:KinkyGeeks_Bondage_Workshop_2"
+                                ]
+                            }, 
+                            {
+                                "id": 1065, 
+                                "guid": "f25f4f412117810354642211c65c8c1b", 
+                                "logo": null, 
+                                "date": "2015-12-29T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "1:30", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Why I sometimes need lots of w(h)ine as member of Amazon VINE ... and Amazon costumer", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "talk", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Talk von TanjaTimanfaya und @habrok42 \u00fcber das Produkttesterprogramm von Amazon, haarstr\u00e4ubende Bugs im Online-Shop und was Euch als Kunden in Zukunft erwarten d\u00fcrfte.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Tanja Timanfaya", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Tanja_Timanfaya"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Why_I_sometimes_need_lots_of_w(h)ine_as_member_of_Amazon_VINE_..._and_Amazon_costumer"
+                                ]
+                            }
+                        ], 
+                        "Hall F": [
+                            {
+                                "id": 1017, 
                                 "guid": "d23327fb683b0048a23432c847663d0c", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:00:00+01:00", 
@@ -1600,7 +1904,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1015, 
+                                "id": 1018, 
                                 "guid": "615872ea1f1dde442844787468b1c81f", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -1628,7 +1932,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1031, 
+                                "id": 1034, 
                                 "guid": "c95700c8711448b070907a8caf9bb883", 
                                 "logo": null, 
                                 "date": "2015-12-29T21:30:00+01:00", 
@@ -1656,7 +1960,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1059, 
+                                "id": 1062, 
                                 "guid": "8d71a6a0804545923aa340d05125df54", 
                                 "logo": null, 
                                 "date": "2015-12-29T20:00:00+01:00", 
@@ -1683,7 +1987,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1064, 
+                                "id": 1067, 
                                 "guid": "33b34c26a59a08537de0303591cab442", 
                                 "logo": null, 
                                 "date": "2015-12-29T12:00:00+01:00", 
@@ -1716,7 +2020,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1068, 
+                                "id": 1071, 
                                 "guid": "856bb6680d68956b76eb575a8838bc96", 
                                 "logo": null, 
                                 "date": "2015-12-29T11:30:00+01:00", 
@@ -1749,234 +2053,9 @@
                                 ]
                             }
                         ], 
-                        "Hall B": [
-                            {
-                                "id": 1023, 
-                                "guid": "6ef20e532e6f4ab1929b1a2dbf971fec", 
-                                "logo": null, 
-                                "date": "2015-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Angelmeeting day 3", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Jz", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1025, 
-                                "guid": "c6c54f0925331268b59e0e06b84386dd", 
-                                "logo": null, 
-                                "date": "2015-12-29T20:45:00+01:00", 
-                                "start": "20:45", 
-                                "duration": "0:30", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Angel meeting day 3", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Jz", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1033, 
-                                "guid": "9d7d8eb85d917b5ffbdc2b046b400747", 
-                                "logo": null, 
-                                "date": "2015-12-29T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:30", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Gentoo e.V. Mitgliederversammlung", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Sping", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Sping"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.gentoo-ev.org/", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Gentoo_e.V._Mitgliederversammlung"
-                                ]
-                            }, 
-                            {
-                                "id": 1041, 
-                                "guid": "ebfe173b89c1d199435a720aab6f6f50", 
-                                "logo": null, 
-                                "date": "2015-12-29T21:45:00+01:00", 
-                                "start": "21:45", 
-                                "duration": "2:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "KinkyGeeks Bondage Workshop 2", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "DarkGigaByte", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DarkGigaByte"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://kinkygeeks.de", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:KinkyGeeks_Bondage_Workshop_2"
-                                ]
-                            }, 
-                            {
-                                "id": 1062, 
-                                "guid": "f25f4f412117810354642211c65c8c1b", 
-                                "logo": null, 
-                                "date": "2015-12-29T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:30", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Why I sometimes need lots of w(h)ine as member of Amazon VINE ... and Amazon costumer", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "talk", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Talk von TanjaTimanfaya und @habrok42 \u00fcber das Produkttesterprogramm von Amazon, haarstr\u00e4ubende Bugs im Online-Shop und was Euch als Kunden in Zukunft erwarten d\u00fcrfte.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Tanja Timanfaya", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Tanja_Timanfaya"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Why_I_sometimes_need_lots_of_w(h)ine_as_member_of_Amazon_VINE_..._and_Amazon_costumer"
-                                ]
-                            }
-                        ], 
-                        "Hall 14": [
-                            {
-                                "id": 1029, 
-                                "guid": "20952eb5b2e2c368a7434da95dc396f4", 
-                                "logo": null, 
-                                "date": "2015-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "0:45", 
-                                "room": "Hall 14", 
-                                "slug": "", 
-                                "title": "Flexibles Vernetzen ist das neue B\u00fcndnis gegen \u00dcberwachung", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "discussion", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Nach dem Scheitern des 'B\u00fcndnisses gegen \u00dcberwachung' stellt sich die Frage, welche Organisationsform der Bewegung gegen \u00dcberwachung neue Kraft verleihen kann. In dieser Sitzung besprechen wir die Flexible Vernetzung als m\u00f6gliche L\u00f6sung mit ihren Vor- und Nachteilen und machen uns Gedanken dar\u00fcber, wie sie am besten umgesetzt wird.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Thorsten", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Thorsten"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://gegen-ueberwachung.de", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Flexibles_Vernetzen_ist_das_neue_B%C3%BCndnis_gegen_%C3%9Cberwachung"
-                                ]
-                            }, 
-                            {
-                                "id": 1046, 
-                                "guid": "617dc472dfa0a6feefcfe94e7167349f", 
-                                "logo": null, 
-                                "date": "2015-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:40", 
-                                "room": "Hall 14", 
-                                "slug": "", 
-                                "title": "NewPalmyra", 
-                                "subtitle": "Let's get involved", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "A Meet-Up on New Palmyra. We want to introduce the New Palmyra project about a digital reconstruction of the demolished Palmyra world heritage sites and discuss ways how we could contribute to the project.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Tabesin", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Tabesin"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://www.newpalmyra.org", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:NewPalmyra"
-                                ]
-                            }, 
-                            {
-                                "id": 1049, 
-                                "guid": "63a63283961df29deeac5f4bcdc7a03e", 
-                                "logo": null, 
-                                "date": "2015-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "Hall 14", 
-                                "slug": "", 
-                                "title": "Participating in EU Security Research", 
-                                "subtitle": "", 
-                                "track": "self orgnaized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "The need for the democratization of publicly funded research in the areas of surveillance, detection, and pattern recognition raises a number of important normative issues as to which actors, and on what grounds, should be actively enganged. We want to discuss the ways civil society can participate and influence how security research is being conducted and what types of research is funded. We present the project SecurePART, which aims at increasing the engagement of civil society in security research.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "SecurePART", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:SecurePART"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://www.securepart.eu/en/", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Participating_in_EU_Security_Research:_Shaping_the_Agenda"
-                                ]
-                            }
-                        ], 
                         "Hall A.1": [
                             {
-                                "id": 1037, 
+                                "id": 1040, 
                                 "guid": "e4905e2b48c5cbb8db52ea612721c605", 
                                 "logo": null, 
                                 "date": "2015-12-30T11:00:00+01:00", 
@@ -2003,7 +2082,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1061, 
+                                "id": 1064, 
                                 "guid": "1f2b51c91ce5a6472056d3bb4eb37765", 
                                 "logo": null, 
                                 "date": "2015-12-29T20:00:00+01:00", 
@@ -2036,7 +2115,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1063, 
+                                "id": 1066, 
                                 "guid": "2afd775dacaec92110c50e299c22c34e", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 

@@ -47,6 +47,59 @@
             "1451397600"
         ]
     }, 
+    "Session:Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop# 92a721dc4fe38950aabf5f78c4ea808a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1451412000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.home.hs-karlsruhe.de/~fado0001/2015-32C3/"
+        ], 
+        "Has description": [
+            "In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.\n\nThis session provides you with the skill set required to develop a C++ type system that validates and converts (valid) units at compile time, saving you lots of money if you ever decide to build rockets.\n\nThis workshop is for C++ programmers with an interest in learning meta-programming."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "presentation"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kamikaze", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Kamikaze", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Conversion_of_Physical_Units_at_Compile_Time,_a_C%2B%2B_Meta-Programming_Talk_and_Workshop", 
+        "Has end time": [
+            "1451415600"
+        ]
+    }, 
     "Session:Engelmeeting# c6c54f0925331268b59e0e06b84386dd": {
         "Held in language": [
             "en - English"
@@ -143,6 +196,54 @@
             "1451318400"
         ]
     }, 
+    "Session:Engelmeeting# 4052ee66ac373fed16d2a3aa7d4c7380": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1451221200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Angel meeting day 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jz", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jz", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1451224800"
+        ]
+    }, 
     "Session:Fight for your right to Hardware!# 518529d8e3cc779bfc1c9cd5adbef19c": {
         "Held in language": [
             "de - German", 
@@ -156,7 +257,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "More and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair your own device. They are \"endproducts\", literally. \nTo keep control of technology and privacy not in the hands of monopolised interests but in the hands of society, we need to keep control of the hardware that surrounds us. I like to discuss some basic thoughts about the rights that a consumer needs to achieve privacy and merge with the basic thoughts about the rights that a tinkerer - professional or hobbyists - needs to to tinker."
+            "More and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair your own device. They are \"endproducts\", literally. \nTo keep control of technology and privacy not in the hands of monopolised interests but in the hands of society, we need to keep control of the hardware that surrounds us. I like to discuss some basic thoughts about the rights that a consumer needs to achieve privacy and merge with the basic thoughts about the rights that a tinkerer - professional or hobbyists - needs to use, study, share and improve it."
         ], 
         "Has session type": [
             "Discussion"
@@ -503,53 +604,40 @@
             "1451260740"
         ]
     }, 
-    "Session:Engelmeeting# 4052ee66ac373fed16d2a3aa7d4c7380": {
+    "Session:Emacs rehab clinic# 280ecbb1088a445dbd977b1d7e77534f": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            "1451221200"
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Admitting you have a problem is the first step to getting better.\n\nWe'll create a welcoming, safe space for recovering emacs users, and teach the fundamentals of vim. We'll also have some more advanced tips for people who want to up their vim-fu."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Angel meeting day 1"
-        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Jz", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jz", 
+                "fulltext": "User:Aestetix", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Aestetix", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Emacs rehab clinic"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting", 
-        "Has end time": [
-            "1451224800"
-        ]
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Emacs_rehab_clinic", 
+        "Has end time": []
     }, 
     "Session:ArduinoForTotalNewbies# 4cb3dba990b5392445164f64311f805c": {
         "Held in language": [
@@ -1634,6 +1722,60 @@
             "1451329200"
         ]
     }, 
+    "Session:YBTI# fa7ba96f28c633f13f377e35afe25377": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "I2P"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": []
+    }, 
     "Session:ArduinoForTotalNewbies# 7982a9886b761f2ab0987db9b7f33b8f": {
         "Held in language": [
             "en - English"
@@ -2277,6 +2419,59 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:SNIP", 
         "Has end time": [
             "1451421000"
+        ]
+    }, 
+    "Session:Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop# 73d4be5622b63412875cf2b2c54ff68f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            "1451415600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.home.hs-karlsruhe.de/~fado0001/2015-32C3/"
+        ], 
+        "Has description": [
+            "In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.\n\nThis session provides you with the skill set required to develop a C++ type system that validates and converts (valid) units at compile time, saving you lots of money if you ever decide to build rockets.\n\nThis workshop is for C++ programmers with an interest in learning meta-programming."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "workshop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kamikaze", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Kamikaze", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Conversion_of_Physical_Units_at_Compile_Time,_a_C%2B%2B_Meta-Programming_Talk_and_Workshop", 
+        "Has end time": [
+            "1451422800"
         ]
     }, 
     "Session:Queer Feminist Geeks Gathering# d59e1f0f089c77ed7cbdf13bbe137ae3": {
@@ -3044,6 +3239,47 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
         "Has end time": [
             "1451388600"
+        ]
+    }, 
+    "Session:DBOpenData# d4445aafdf4e0e3dd115f88320ee16d2": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1451412000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://data.deutschebahn.com"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "DBOpenData"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:DBOpenData", 
+        "Has end time": [
+            "1451415600"
         ]
     }, 
     "Session:SMD assembly for terrified beginners# bc1a94efe5cbc667a739bcf8870973e4": {
