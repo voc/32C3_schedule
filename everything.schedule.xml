@@ -3952,7 +3952,7 @@ Thomas Lohninger und Werner Reiter vom AKVorrat &#214;sterreich zeichnen das Bil
 &#13;
 The second time I accepted, and sadly failed.&#13;
 &#13;
-Eventually a hostile fork emerged, with the explicitly stated goal to take over the project.&#13;
+Eventually a hostile fork emerged, with the explicit goal to take over the original project.&#13;
 &#13;
 I will tell you my story, which mistakes I made and what I learned - about independent and corporate contributors in open source projects, about package maintainers in downstream OS distributions, about trolls on the internet, about GitHub Inc. and about myself.&#13;
 &#13;
@@ -4579,13 +4579,13 @@ We want to show you how this dream could become reality, what techniques are of 
         <track>Science</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>How have the media reported the Snowden revelations? Does the public care about surveillance, and how do people react? Do we need a 'data justice' movement?&#13;
+        <abstract>How have the media reported the Snowden revelations? Does the public care about surveillance, and how do people react? Do we need a &#8218;data justice&#8216; movement?</abstract>
+        <description>This talk will present results from the research project &#8222;Digital Citizenship and Surveillance Society: State-Media-Citizen Relations After the Snowden Leaks&#8220;. We will discuss why media coverage has been biased and investigate public knowledge of, as well as public reactions to, surveillance. We will show that people are concerned about surveillance but feel disempowered to resist it, and explore why many social/political/environmental activists have been reluctant to change their communication practices after Snowden. And we will suggest a &#8218;data justice&#8216; framework to form part of broader social and economic justice agenda in order to resonate with a broader public.&#13;
 &#13;
-This talk will present results from the research project "Digital Citizenship and Surveillance Society: State-Media-Citizen Relations After the Snowden Leaks". We will discuss why media coverage has been biased and investigate public knowledge of, as well as public reactions to, surveillance. We will show that people are concerned about surveillance but feel disempowered to resist it, and explore why many social/political/environmental activists have been reluctant to change their communication practices after Snowden. And we will suggest a 'data justice' framework to form part of broader social and economic justice agenda in order to resonate with a broader public.</abstract>
-        <description>The project "Digital Citizenship and Surveillance Society" is hosted at Cardiff University and includes researchers from Cardiff, the Oxford Internet Institute and the Technical University of Delft. It investigates the responses to the Snowden revelations for policy, technology, civil society and the news media. In this talk, two of the investigators will present findings from research that included content analysis of the British press and broadcast news, interviews with journalists and activists, and focus groups with a wide range of the British public. They will uncover widespread worries about surveillance amongst both activists and wider population but, at the same time, a lack of knowledge and confidence to address it socially, politically and technologically. &#13;
+The project &#8222;Digital Citizenship and Surveillance Society&#8220; is hosted at Cardiff University and includes researchers from Cardiff, the Oxford Internet Institute and the Technical University of Delft. It investigates the responses to the Snowden revelations for policy, technology, civil society and the news media. In this talk, two of the investigators will present findings from research that included content analysis of the British press and broadcast news, interviews with journalists and activists, and focus groups with a wide range of the British public. They will uncover widespread worries about surveillance amongst both activists and wider population but, at the same time, a lack of knowledge and confidence to address it socially, politically and technologically. &#13;
 &#13;
 The research provides insights for digital rights campaigners, crypto developers, and everyone interested in the Snowden leaks.  </description>
-        <recording_license>CC-BY-4.0-DE</recording_license>
+        <recording_license>CC-BY-4.0</recording_license>
         <recording>
           <license/>
           <optout>false</optout>
