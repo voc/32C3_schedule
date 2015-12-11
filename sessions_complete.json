@@ -2569,6 +2569,50 @@
             "1451314800"
         ]
     }, 
+    "Session:Analysis of the privacy technology landscape# 88d670d09675ffdfd4ee7f7ac9d394d2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.c3d2.de/EDN"
+        ], 
+        "Has description": [
+            "To protect our liberal society as a space with basic civil rights we believe that the current internet stack must be completely revised to establish a secure privacy preserving internet. We envision the new stack to be free software, decentralized, distributed, end-to-end-encrypted, with meta-data-protection, easy to use, efficient, wifi-meshcapable and well-documented. \nWe start with a profound evaluation of existing projects and by building bridges between them to achieve what none of them could do alone."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:YBTI", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:YBTI", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Demos", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Demos", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Analysis of the privacy technology landscape"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Analysis_of_the_privacy_technology_landscape", 
+        "Has end time": []
+    }, 
     "Session:LearnToSolder# ba70c12a406d3e60271ee23eb2a15a96": {
         "Held in language": [
             "en - English"
