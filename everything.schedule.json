@@ -1337,10 +1337,6 @@
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 5178, 
-                                        "public_name": "Constanze Kurz"
-                                    }, 
-                                    {
                                         "id": 1633, 
                                         "public_name": "frank"
                                     }, 
@@ -1351,6 +1347,10 @@
                                     {
                                         "id": 1544, 
                                         "public_name": "erdgeist"
+                                    }, 
+                                    {
+                                        "id": 1630, 
+                                        "public_name": "Constanze Kurz"
                                     }
                                 ], 
                                 "links": [], 
