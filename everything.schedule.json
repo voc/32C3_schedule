@@ -1281,7 +1281,7 @@
                         ], 
                         "HardwareHackingArea": [
                             {
-                                "id": 1051, 
+                                "id": 1052, 
                                 "guid": "b25292afc5db10e5798e81b3468b5ac9", 
                                 "logo": null, 
                                 "date": "2015-12-30T12:00:00+01:00", 
@@ -2962,7 +2962,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1056, 
+                                "id": 1057, 
                                 "guid": "09abf33a7fed318d3f7b55ed099ef9b5", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -3054,7 +3054,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1045, 
+                                "id": 1046, 
                                 "guid": "67212ddd4b196344ece95ba27328ad9d", 
                                 "logo": null, 
                                 "date": "2015-12-28T09:00:00+01:00", 
@@ -3087,7 +3087,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1058, 
+                                "id": 1059, 
                                 "guid": "0d331a593e6c06c01290d9d0c66b55ce", 
                                 "logo": null, 
                                 "date": "2015-12-27T20:00:00+01:00", 
@@ -3117,7 +3117,7 @@
                         ], 
                         "HardwareHackingArea": [
                             {
-                                "id": 1048, 
+                                "id": 1049, 
                                 "guid": "50ba267bc5d8fa62e53ef17c039482f4", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -3144,7 +3144,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1059, 
+                                "id": 1060, 
                                 "guid": "53bc713e3c7efc4b9198a689a94183b6", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -3171,7 +3171,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1060, 
+                                "id": 1061, 
                                 "guid": "c61a47401b3e6f7b0b8ffaa6f1773664", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -3200,7 +3200,7 @@
                         ], 
                         "Hall C.1": [
                             {
-                                "id": 1057, 
+                                "id": 1058, 
                                 "guid": "d59e1f0f089c77ed7cbdf13bbe137ae3", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:30:00+01:00", 
@@ -4829,6 +4829,34 @@
                                     "https://gnupg.org/", 
                                     "https://events.ccc.de/congress/2015/wiki/Session:GnuPG_and_its_current_state_of_development"
                                 ]
+                            }, 
+                            {
+                                "id": 1045, 
+                                "guid": "aae1a6e2f70c614e57370ea6ab4ba487", 
+                                "logo": null, 
+                                "date": "2015-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:20", 
+                                "room": "Hall A.1", 
+                                "slug": "", 
+                                "title": "In Memoriam Caspar Bowden - Transatlantic Privacy Agenda", 
+                                "subtitle": "The legacy of a Transatlantic Privacy Dialogue", 
+                                "track": "self orgnaized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We want to convene and discuss how to pursue a Transatlantic Privacy Agenda - as as a homage to Caspar Bowden (\u271d 9 July 2015)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Tabesin", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Tabesin"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://en.wikipedia.org/wiki/Caspar_Bowden", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:In_Memoriam_Caspar_Bowden_-_Transatlantic_Privacy_Agenda"
+                                ]
                             }
                         ], 
                         "Hall 13": [
@@ -4893,7 +4921,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1055, 
                                 "guid": "2fafffa499df4faef55af9792211dff5", 
                                 "logo": null, 
                                 "date": "2015-12-28T15:00:00+01:00", 
@@ -4951,7 +4979,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1049, 
+                                "id": 1050, 
                                 "guid": "e4e6b1c60e8bd07319c45845b717ac65", 
                                 "logo": null, 
                                 "date": "2015-12-28T12:00:00+01:00", 
@@ -4978,7 +5006,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1061, 
+                                "id": 1062, 
                                 "guid": "bc1a94efe5cbc667a739bcf8870973e4", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:00:00+01:00", 
@@ -5005,7 +5033,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1063, 
                                 "guid": "916dee19cf7ae62e6a93066fc90b7a37", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -5100,7 +5128,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1054, 
                                 "guid": "d37f0f472745d4002a29952a61bdce2c", 
                                 "logo": null, 
                                 "date": "2015-12-28T12:00:00+01:00", 
@@ -5127,7 +5155,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1066, 
+                                "id": 1067, 
                                 "guid": "d62a05a6af218da66175d4749869790b", 
                                 "logo": null, 
                                 "date": "2015-12-28T16:00:00+01:00", 
@@ -5272,7 +5300,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1046, 
+                                "id": 1047, 
                                 "guid": "55093684484f4a2ee86338b36c2981e4", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:15:00+01:00", 
@@ -5331,7 +5359,7 @@
                         ], 
                         "Hall F": [
                             {
-                                "id": 1071, 
+                                "id": 1072, 
                                 "guid": "3821949b3146159d50859bda92dbf966", 
                                 "logo": null, 
                                 "date": "2015-12-29T10:15:00+01:00", 
@@ -5364,7 +5392,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1072, 
+                                "id": 1073, 
                                 "guid": "cb2e6a7f8d3f4ce478270f72b0482446", 
                                 "logo": null, 
                                 "date": "2015-12-29T10:00:00+01:00", 
@@ -5397,7 +5425,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1073, 
+                                "id": 1074, 
                                 "guid": "fffa41500de69fd4c0e27b9100a3903c", 
                                 "logo": null, 
                                 "date": "2015-12-29T11:00:00+01:00", 
@@ -6395,7 +6423,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1050, 
+                                "id": 1051, 
                                 "guid": "ba70c12a406d3e60271ee23eb2a15a96", 
                                 "logo": null, 
                                 "date": "2015-12-29T12:00:00+01:00", 
@@ -6422,7 +6450,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1063, 
+                                "id": 1064, 
                                 "guid": "58a96aef6a53ad52704568d0f5e4cf3d", 
                                 "logo": null, 
                                 "date": "2015-12-29T17:00:00+01:00", 
@@ -6449,7 +6477,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1064, 
+                                "id": 1065, 
                                 "guid": "f236520c9008f3bc1d9f182e1f33b0da", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -6591,7 +6619,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1052, 
+                                "id": 1053, 
                                 "guid": "617dc472dfa0a6feefcfe94e7167349f", 
                                 "logo": null, 
                                 "date": "2015-12-29T14:00:00+01:00", 
@@ -6619,7 +6647,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
+                                "id": 1056, 
                                 "guid": "63a63283961df29deeac5f4bcdc7a03e", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:00:00+01:00", 
@@ -6753,7 +6781,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1047, 
+                                "id": 1048, 
                                 "guid": "ebfe173b89c1d199435a720aab6f6f50", 
                                 "logo": null, 
                                 "date": "2015-12-29T21:45:00+01:00", 
@@ -6781,7 +6809,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1068, 
+                                "id": 1069, 
                                 "guid": "f25f4f412117810354642211c65c8c1b", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:30:00+01:00", 
@@ -6893,7 +6921,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1065, 
+                                "id": 1066, 
                                 "guid": "8d71a6a0804545923aa340d05125df54", 
                                 "logo": null, 
                                 "date": "2015-12-29T20:00:00+01:00", 
@@ -6920,7 +6948,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1070, 
+                                "id": 1071, 
                                 "guid": "33b34c26a59a08537de0303591cab442", 
                                 "logo": null, 
                                 "date": "2015-12-29T12:00:00+01:00", 
@@ -6953,7 +6981,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1074, 
+                                "id": 1075, 
                                 "guid": "856bb6680d68956b76eb575a8838bc96", 
                                 "logo": null, 
                                 "date": "2015-12-29T11:30:00+01:00", 
@@ -7045,7 +7073,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1067, 
+                                "id": 1068, 
                                 "guid": "1f2b51c91ce5a6472056d3bb4eb37765", 
                                 "logo": null, 
                                 "date": "2015-12-29T20:00:00+01:00", 
@@ -7078,7 +7106,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1069, 
+                                "id": 1070, 
                                 "guid": "2afd775dacaec92110c50e299c22c34e", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
