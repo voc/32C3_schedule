@@ -5396,7 +5396,7 @@
                         ], 
                         "Hall F": [
                             {
-                                "id": 1073, 
+                                "id": 1074, 
                                 "guid": "3821949b3146159d50859bda92dbf966", 
                                 "logo": null, 
                                 "date": "2015-12-29T10:15:00+01:00", 
@@ -5429,7 +5429,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1074, 
+                                "id": 1075, 
                                 "guid": "cb2e6a7f8d3f4ce478270f72b0482446", 
                                 "logo": null, 
                                 "date": "2015-12-29T10:00:00+01:00", 
@@ -5462,7 +5462,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1075, 
+                                "id": 1076, 
                                 "guid": "fffa41500de69fd4c0e27b9100a3903c", 
                                 "logo": null, 
                                 "date": "2015-12-29T11:00:00+01:00", 
@@ -6846,7 +6846,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1070, 
+                                "id": 1071, 
                                 "guid": "f25f4f412117810354642211c65c8c1b", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:30:00+01:00", 
@@ -6985,7 +6985,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1072, 
+                                "id": 1073, 
                                 "guid": "33b34c26a59a08537de0303591cab442", 
                                 "logo": null, 
                                 "date": "2015-12-29T12:00:00+01:00", 
@@ -7018,7 +7018,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1076, 
+                                "id": 1077, 
                                 "guid": "856bb6680d68956b76eb575a8838bc96", 
                                 "logo": null, 
                                 "date": "2015-12-29T11:30:00+01:00", 
@@ -7143,7 +7143,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1071, 
+                                "id": 1072, 
                                 "guid": "2afd775dacaec92110c50e299c22c34e", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -7172,6 +7172,36 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2015/wiki/Session:Why_your_favorite_musician_will_love_%27Adore%27"
+                                ]
+                            }
+                        ], 
+                        "Hall C.3": [
+                            {
+                                "id": 1070, 
+                                "guid": "228664296a0d29075a5d32aafbaa7872", 
+                                "logo": null, 
+                                "date": "2015-12-29T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "2:00", 
+                                "room": "Hall C.3", 
+                                "slug": "", 
+                                "title": "Versammlungsfreiheit in Gefahr", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full descreption of this event.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Micha", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Micha"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://wiki.freiheitsfoo.de/pmwiki.php?n=Main.32C3#toc6", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Versammlungsfreiheit_in_Gefahr"
                                 ]
                             }
                         ]

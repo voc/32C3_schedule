@@ -713,6 +713,56 @@
             "1451385000"
         ]
     }, 
+    "Session:Versammlungsfreiheit in Gefahr# 228664296a0d29075a5d32aafbaa7872": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1451417400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.freiheitsfoo.de/pmwiki.php?n=Main.32C3#toc6"
+        ], 
+        "Has description": [
+            "A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full descreption of this event."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Micha", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Micha", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Versammlungsfreiheit in Gefahr"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Versammlungsfreiheit_in_Gefahr", 
+        "Has end time": [
+            "1451424600"
+        ]
+    }, 
     "Session:SMD assembly for terrified beginners# 53bc713e3c7efc4b9198a689a94183b6": {
         "Held in language": [
             "de - German", 
