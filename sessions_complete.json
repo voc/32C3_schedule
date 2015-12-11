@@ -3734,6 +3734,56 @@
             "1451390400"
         ]
     }, 
+    "Session:Angry Hacking: How to win $750,000# c51b71ab73d04ceb702e150305d0ded9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1451413800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://angr.io/"
+        ], 
+        "Has description": [
+            "Learn to use Angr, the open source binary analysis platform developed by Shellphish for the Cyber Grand Challenge. Bring a laptop and some basic Python knowledge."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rhelmot", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Rhelmot", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Angry Hacking"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Angry_Hacking:_How_to_win_$750,000", 
+        "Has end time": [
+            "1451417400"
+        ]
+    }, 
     "Session:Engelmeeting# a8f511859309a3109ffe43b54f6afd32": {
         "Held in language": [
             "en - English"
