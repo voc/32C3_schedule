@@ -1422,6 +1422,56 @@
             "1451386800"
         ]
     }, 
+    "Session:Flynn Meetup# 14fcedb89cc0c5dc0d9b881b5d59094c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1451404800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://flynn.io"
+        ], 
+        "Has description": [
+            "Flynn is an open source platform as a service that makes it easy to deploy resilient containerized applications and databases across servers. There will be a short talk and demo of Flynn and plenty of time for discussion and questions. Three members of the Flynn core team will be hosting."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Titanous", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Titanous", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Flynn Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Flynn_Meetup", 
+        "Has end time": [
+            "1451408400"
+        ]
+    }, 
     "Session:Participating in EU Security Research: Shaping the Agenda# 63a63283961df29deeac5f4bcdc7a03e": {
         "Held in language": [
             "de - German", 
