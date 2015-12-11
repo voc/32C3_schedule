@@ -100,52 +100,52 @@
             "1451415600"
         ]
     }, 
-    "Session:Engelmeeting# c6c54f0925331268b59e0e06b84386dd": {
+    "Session:Building Internet of Things devices on the cheap# 8244abb567165c18cc0e6b06a4d483bb": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1451418300"
+            "1451397600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Meeting"
+        "Has description": [
+            "In this workshop we will show you how to configure, flash, and use the NodeMCU ESP8266 Wifi module.  Learn how to do cool things with LUA and NodeMCU, and check out some more complex things you can do with custom firmware."
         ], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.4", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Angel meeting day 3"
+            "101, how to get started with the ESP8266"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Jz", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jz", 
+                "fulltext": "User:Hottuna", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Hottuna", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Building Internet of Things devices on the cheap"
         ], 
         "Has duration": [
-            30
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Building_Internet_of_Things_devices_on_the_cheap", 
         "Has end time": [
-            "1451420100"
+            "1451404800"
         ]
     }, 
     "Session:Engelmeeting# f72341712ad12851e7a2b2ee1ebfc1fb": {
@@ -602,6 +602,64 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder", 
         "Has end time": [
             "1451260740"
+        ]
+    }, 
+    "Session:YBTI# 3821949b3146159d50859bda92dbf966": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1451380500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Byzantine Set Consensus"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451383200"
         ]
     }, 
     "Session:Emacs rehab clinic# 280ecbb1088a445dbd977b1d7e77534f": {
@@ -1513,62 +1571,52 @@
             "1451421900"
         ]
     }, 
-    "Session:YBTI# 3821949b3146159d50859bda92dbf966": {
+    "Session:Engelmeeting# c6c54f0925331268b59e0e06b84386dd": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
-            "1451380500"
+            "1451418300"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Talk"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Byzantine Set Consensus"
+            "Angel meeting day 3"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "fulltext": "User:Jz", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jz", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "YBTI"
+            "Engelmeeting"
         ], 
         "Has duration": [
-            45
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting", 
         "Has end time": [
-            "1451383200"
+            "1451420100"
         ]
     }, 
     "Session:Engelmeeting# 6d06bddf6a9f414196290f6e18b36be0": {

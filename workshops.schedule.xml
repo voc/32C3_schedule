@@ -10,7 +10,7 @@
   </conference>
   <day index="1" date="2015-12-27" start="2015-12-27T11:00:00+01:00" end="2015-12-28T04:00:00+01:00">
     <room name="HardwareHackingArea">
-      <event id="1019" guid="e3dabb82ac3fdda8da347454ac4c5f66">
+      <event id="1020" guid="e3dabb82ac3fdda8da347454ac4c5f66">
         <logo/>
         <date>2015-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -34,7 +34,7 @@
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1021" guid="bf981cbe8b5a7a149c3169141084b250">
+      <event id="1022" guid="bf981cbe8b5a7a149c3169141084b250">
         <logo/>
         <date>2015-12-26T21:00:00+01:00</date>
         <start>21:00</start>
@@ -58,7 +58,7 @@
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1023" guid="8f37881626e8ffda4286dee71786574e">
+      <event id="1024" guid="8f37881626e8ffda4286dee71786574e">
         <logo/>
         <date>2015-12-26T22:00:00+01:00</date>
         <start>22:00</start>
@@ -82,7 +82,7 @@
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1030" guid="3e0b15f5d40ee3b1f2b812be93317ccb">
+      <event id="1031" guid="3e0b15f5d40ee3b1f2b812be93317ccb">
         <logo/>
         <date>2015-12-26T14:00:00+01:00</date>
         <start>14:00</start>
@@ -106,7 +106,7 @@
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1048" guid="b25292afc5db10e5798e81b3468b5ac9">
+      <event id="1049" guid="b25292afc5db10e5798e81b3468b5ac9">
         <logo/>
         <date>2015-12-30T12:00:00+01:00</date>
         <start>12:00</start>
@@ -161,7 +161,7 @@ Ein Erfahrungs- und Gedankenaustausch.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Biometriedaten_f%C3%BCr_den_Personalausweis</link>
         </links>
       </event>
-      <event id="1025" guid="4052ee66ac373fed16d2a3aa7d4c7380">
+      <event id="1026" guid="4052ee66ac373fed16d2a3aa7d4c7380">
         <logo/>
         <date>2015-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -185,7 +185,7 @@ Ein Erfahrungs- und Gedankenaustausch.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1027" guid="a8f511859309a3109ffe43b54f6afd32">
+      <event id="1028" guid="a8f511859309a3109ffe43b54f6afd32">
         <logo/>
         <date>2015-12-27T20:45:00+01:00</date>
         <start>20:45</start>
@@ -209,7 +209,7 @@ Ein Erfahrungs- und Gedankenaustausch.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1029" guid="13c8aa469e1dbe32345c0db2095d5f5b">
+      <event id="1030" guid="13c8aa469e1dbe32345c0db2095d5f5b">
         <logo/>
         <date>2015-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -233,7 +233,7 @@ Ein Erfahrungs- und Gedankenaustausch.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1053" guid="09abf33a7fed318d3f7b55ed099ef9b5">
+      <event id="1054" guid="09abf33a7fed318d3f7b55ed099ef9b5">
         <logo/>
         <date>2015-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -259,7 +259,7 @@ This meetup is open to people of all genders, but please be mindful of how much 
           <link>https://events.ccc.de/congress/2015/wiki/Session:Queer_Feminist_Geeks_Gathering</link>
         </links>
       </event>
-      <event id="1035" guid="bd8afe541d74de2c9ee7516cf391522f">
+      <event id="1036" guid="bd8afe541d74de2c9ee7516cf391522f">
         <logo/>
         <date>2015-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -284,7 +284,7 @@ This meetup is open to people of all genders, but please be mindful of how much 
           <link>https://events.ccc.de/congress/2015/wiki/Session:Geheimdienste_hacken</link>
         </links>
       </event>
-      <event id="1041" guid="793d65d66584216eb388562cef7ca1fa">
+      <event id="1042" guid="793d65d66584216eb388562cef7ca1fa">
         <logo/>
         <date>2015-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -318,7 +318,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Hitobito_-_Eine_Gemeinschaftsl%C3%B6sung_zur_Mitgliederverwaltung</link>
         </links>
       </event>
-      <event id="1042" guid="67212ddd4b196344ece95ba27328ad9d">
+      <event id="1043" guid="67212ddd4b196344ece95ba27328ad9d">
         <logo/>
         <date>2015-12-28T09:00:00+01:00</date>
         <start>09:00</start>
@@ -347,7 +347,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Junghacker</link>
         </links>
       </event>
-      <event id="1055" guid="0d331a593e6c06c01290d9d0c66b55ce">
+      <event id="1056" guid="0d331a593e6c06c01290d9d0c66b55ce">
         <logo/>
         <date>2015-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -372,7 +372,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Replacing_BigG%27s_%22Play%22_services_with_the_microG_Project</link>
         </links>
       </event>
-      <event id="1045" guid="50ba267bc5d8fa62e53ef17c039482f4">
+      <event id="1046" guid="50ba267bc5d8fa62e53ef17c039482f4">
         <logo/>
         <date>2015-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -398,7 +398,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1056" guid="53bc713e3c7efc4b9198a689a94183b6">
+      <event id="1057" guid="53bc713e3c7efc4b9198a689a94183b6">
         <logo/>
         <date>2015-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -423,7 +423,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1057" guid="c61a47401b3e6f7b0b8ffaa6f1773664">
+      <event id="1058" guid="c61a47401b3e6f7b0b8ffaa6f1773664">
         <logo/>
         <date>2015-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -448,7 +448,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1054" guid="d59e1f0f089c77ed7cbdf13bbe137ae3">
+      <event id="1055" guid="d59e1f0f089c77ed7cbdf13bbe137ae3">
         <logo/>
         <date>2015-12-27T17:30:00+01:00</date>
         <start>17:30</start>
@@ -568,7 +568,7 @@ More info about the &#8220;Behind the Smart World Project can be found on the re
           <link>https://events.ccc.de/congress/2015/wiki/Session:An_Advanced_Introduction_to_GnuPG</link>
         </links>
       </event>
-      <event id="1011" guid="f140db29935686f2b72146e6f761af40">
+      <event id="1012" guid="f140db29935686f2b72146e6f761af40">
         <logo/>
         <date>2015-12-29T11:00:00+01:00</date>
         <start>11:00</start>
@@ -593,7 +593,7 @@ More info about the &#8220;Behind the Smart World Project can be found on the re
           <link>https://events.ccc.de/congress/2015/wiki/Session:B%C3%BCrokratie_und_Verwaltung_(und_Gesellschaft)_hacken!</link>
         </links>
       </event>
-      <event id="1037" guid="95532367e6fa96dbdfae72e621a79487">
+      <event id="1038" guid="95532367e6fa96dbdfae72e621a79487">
         <logo/>
         <date>2015-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -679,7 +679,7 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Bringing_free-as-in-freedom_to_social_networks:_what,_why,_and_how</link>
         </links>
       </event>
-      <event id="1051" guid="2fafffa499df4faef55af9792211dff5">
+      <event id="1052" guid="2fafffa499df4faef55af9792211dff5">
         <logo/>
         <date>2015-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -737,7 +737,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2015/wiki/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1046" guid="e4e6b1c60e8bd07319c45845b717ac65">
+      <event id="1047" guid="e4e6b1c60e8bd07319c45845b717ac65">
         <logo/>
         <date>2015-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -763,7 +763,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1058" guid="bc1a94efe5cbc667a739bcf8870973e4">
+      <event id="1059" guid="bc1a94efe5cbc667a739bcf8870973e4">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -788,7 +788,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1059" guid="916dee19cf7ae62e6a93066fc90b7a37">
+      <event id="1060" guid="916dee19cf7ae62e6a93066fc90b7a37">
         <logo/>
         <date>2015-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -842,7 +842,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Bring_Linux_Presentation_Day_into_your_own_town</link>
         </links>
       </event>
-      <event id="1033" guid="e05ae36c904461014829f6ca398b3c5c">
+      <event id="1034" guid="e05ae36c904461014829f6ca398b3c5c">
         <logo/>
         <date>2015-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -871,7 +871,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Friendica_-_A_decentralized,_federated_Social_Network</link>
         </links>
       </event>
-      <event id="1050" guid="d37f0f472745d4002a29952a61bdce2c">
+      <event id="1051" guid="d37f0f472745d4002a29952a61bdce2c">
         <logo/>
         <date>2015-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -895,7 +895,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Numerical_Weather_Prediction_Tutorial</link>
         </links>
       </event>
-      <event id="1063" guid="d62a05a6af218da66175d4749869790b">
+      <event id="1064" guid="d62a05a6af218da66175d4749869790b">
         <logo/>
         <date>2015-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -926,7 +926,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:The_Flashcat_Project</link>
         </links>
       </event>
-      <event id="1016" guid="99c8cc2346dc5bfb2aa3524c54116693">
+      <event id="1017" guid="99c8cc2346dc5bfb2aa3524c54116693">
         <logo/>
         <date>2015-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -951,7 +951,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:DIY_Metadata_Investigation_:_Inside_Hacking_Team</link>
         </links>
       </event>
-      <event id="1020" guid="6d06bddf6a9f414196290f6e18b36be0">
+      <event id="1021" guid="6d06bddf6a9f414196290f6e18b36be0">
         <logo/>
         <date>2015-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -975,7 +975,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1022" guid="008413dbeeb5e8cac12277ab8cdc95e8">
+      <event id="1023" guid="008413dbeeb5e8cac12277ab8cdc95e8">
         <logo/>
         <date>2015-12-28T20:45:00+01:00</date>
         <start>20:45</start>
@@ -999,7 +999,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1024" guid="f72341712ad12851e7a2b2ee1ebfc1fb">
+      <event id="1025" guid="f72341712ad12851e7a2b2ee1ebfc1fb">
         <logo/>
         <date>2015-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1023,7 +1023,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1043" guid="55093684484f4a2ee86338b36c2981e4">
+      <event id="1044" guid="55093684484f4a2ee86338b36c2981e4">
         <logo/>
         <date>2015-12-28T17:15:00+01:00</date>
         <start>17:15</start>
@@ -1048,7 +1048,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:KinkyGeeks_Bondage_Workshop_1</link>
         </links>
       </event>
-      <event id="1038" guid="26ee5e94a66349d88f2972a1707d0c3f">
+      <event id="1039" guid="26ee5e94a66349d88f2972a1707d0c3f">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1072,7 +1072,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Haecksen_Get_Together</link>
         </links>
       </event>
-      <event id="1068" guid="3821949b3146159d50859bda92dbf966">
+      <event id="1069" guid="3821949b3146159d50859bda92dbf966">
         <logo/>
         <date>2015-12-29T10:15:00+01:00</date>
         <start>10:15</start>
@@ -1101,7 +1101,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
         </links>
       </event>
-      <event id="1069" guid="cb2e6a7f8d3f4ce478270f72b0482446">
+      <event id="1070" guid="cb2e6a7f8d3f4ce478270f72b0482446">
         <logo/>
         <date>2015-12-29T10:00:00+01:00</date>
         <start>10:00</start>
@@ -1130,7 +1130,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
         </links>
       </event>
-      <event id="1070" guid="fffa41500de69fd4c0e27b9100a3903c">
+      <event id="1071" guid="fffa41500de69fd4c0e27b9100a3903c">
         <logo/>
         <date>2015-12-29T11:00:00+01:00</date>
         <start>11:00</start>
@@ -1200,6 +1200,30 @@ More info about the &#8220;Behind the Smart World Project can be found on the re
           <link>https://events.ccc.de/congress/2015/wiki/Session:22_harddrives_from_a_Westafrican_e-waste_dump_-_Behind_the_Smart_World</link>
         </links>
       </event>
+      <event id="1011" guid="8244abb567165c18cc0e6b06a4d483bb">
+        <logo/>
+        <date>2015-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Hall C.4</room>
+        <slug/>
+        <title>Building Internet of Things devices on the cheap</title>
+        <subtitle>101, how to get started with the ESP8266</subtitle>
+        <track>self orgnaized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>In this workshop we will show you how to configure, flash, and use the NodeMCU ESP8266 Wifi module.  Learn how to do cool things with LUA and NodeMCU, and check out some more complex things you can do with custom firmware.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Hottuna</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Hottuna</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Building_Internet_of_Things_devices_on_the_cheap</link>
+        </links>
+      </event>
       <event id="1006" guid="7982a9886b761f2ab0987db9b7f33b8f">
         <logo/>
         <date>2015-12-29T13:00:00+01:00</date>
@@ -1233,7 +1257,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2015/wiki/Session:ArduinoForTotalNewbies</link>
         </links>
       </event>
-      <event id="1047" guid="ba70c12a406d3e60271ee23eb2a15a96">
+      <event id="1048" guid="ba70c12a406d3e60271ee23eb2a15a96">
         <logo/>
         <date>2015-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1259,7 +1283,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1060" guid="58a96aef6a53ad52704568d0f5e4cf3d">
+      <event id="1061" guid="58a96aef6a53ad52704568d0f5e4cf3d">
         <logo/>
         <date>2015-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1284,7 +1308,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1061" guid="f236520c9008f3bc1d9f182e1f33b0da">
+      <event id="1062" guid="f236520c9008f3bc1d9f182e1f33b0da">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -1333,7 +1357,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Bootstrapping_your_Pyongyang_Startup</link>
         </links>
       </event>
-      <event id="1012" guid="82940bc2e8950ae4883c4e9eb4c76326">
+      <event id="1013" guid="82940bc2e8950ae4883c4e9eb4c76326">
         <logo/>
         <date>2015-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1362,7 +1386,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Certificate_Transparency</link>
         </links>
       </event>
-      <event id="1031" guid="518529d8e3cc779bfc1c9cd5adbef19c">
+      <event id="1032" guid="518529d8e3cc779bfc1c9cd5adbef19c">
         <logo/>
         <date>2015-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1391,7 +1415,7 @@ To keep control of technology and privacy not in the hands of monopolised intere
           <link>https://events.ccc.de/congress/2015/wiki/Session:Fight_for_your_right_to_Hardware!</link>
         </links>
       </event>
-      <event id="1039" guid="a985e8d21f115ea7b0307cb96dfa6e17">
+      <event id="1040" guid="a985e8d21f115ea7b0307cb96dfa6e17">
         <logo/>
         <date>2015-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1415,7 +1439,7 @@ To keep control of technology and privacy not in the hands of monopolised intere
           <link>https://events.ccc.de/congress/2015/wiki/Session:Haecksen_Get_Together</link>
         </links>
       </event>
-      <event id="1013" guid="73d4be5622b63412875cf2b2c54ff68f">
+      <event id="1014" guid="73d4be5622b63412875cf2b2c54ff68f">
         <logo/>
         <date>2015-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -1444,7 +1468,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Conversion_of_Physical_Units_at_Compile_Time,_a_C%2B%2B_Meta-Programming_Talk_and_Workshop</link>
         </links>
       </event>
-      <event id="1014" guid="92a721dc4fe38950aabf5f78c4ea808a">
+      <event id="1015" guid="92a721dc4fe38950aabf5f78c4ea808a">
         <logo/>
         <date>2015-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -1473,7 +1497,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Conversion_of_Physical_Units_at_Compile_Time,_a_C%2B%2B_Meta-Programming_Talk_and_Workshop</link>
         </links>
       </event>
-      <event id="1032" guid="20952eb5b2e2c368a7434da95dc396f4">
+      <event id="1033" guid="20952eb5b2e2c368a7434da95dc396f4">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -1498,7 +1522,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Flexibles_Vernetzen_ist_das_neue_B%C3%BCndnis_gegen_%C3%9Cberwachung</link>
         </links>
       </event>
-      <event id="1049" guid="617dc472dfa0a6feefcfe94e7167349f">
+      <event id="1050" guid="617dc472dfa0a6feefcfe94e7167349f">
         <logo/>
         <date>2015-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1523,7 +1547,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:NewPalmyra</link>
         </links>
       </event>
-      <event id="1052" guid="63a63283961df29deeac5f4bcdc7a03e">
+      <event id="1053" guid="63a63283961df29deeac5f4bcdc7a03e">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1548,7 +1572,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Participating_in_EU_Security_Research:_Shaping_the_Agenda</link>
         </links>
       </event>
-      <event id="1015" guid="d4445aafdf4e0e3dd115f88320ee16d2">
+      <event id="1016" guid="d4445aafdf4e0e3dd115f88320ee16d2">
         <logo/>
         <date>2015-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -1568,7 +1592,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:DBOpenData</link>
         </links>
       </event>
-      <event id="1026" guid="6ef20e532e6f4ab1929b1a2dbf971fec">
+      <event id="1027" guid="6ef20e532e6f4ab1929b1a2dbf971fec">
         <logo/>
         <date>2015-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1592,7 +1616,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1028" guid="c6c54f0925331268b59e0e06b84386dd">
+      <event id="1029" guid="c6c54f0925331268b59e0e06b84386dd">
         <logo/>
         <date>2015-12-29T20:45:00+01:00</date>
         <start>20:45</start>
@@ -1616,7 +1640,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1036" guid="9d7d8eb85d917b5ffbdc2b046b400747">
+      <event id="1037" guid="9d7d8eb85d917b5ffbdc2b046b400747">
         <logo/>
         <date>2015-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1641,7 +1665,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Gentoo_e.V._Mitgliederversammlung</link>
         </links>
       </event>
-      <event id="1044" guid="ebfe173b89c1d199435a720aab6f6f50">
+      <event id="1045" guid="ebfe173b89c1d199435a720aab6f6f50">
         <logo/>
         <date>2015-12-29T21:45:00+01:00</date>
         <start>21:45</start>
@@ -1666,7 +1690,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:KinkyGeeks_Bondage_Workshop_2</link>
         </links>
       </event>
-      <event id="1065" guid="f25f4f412117810354642211c65c8c1b">
+      <event id="1066" guid="f25f4f412117810354642211c65c8c1b">
         <logo/>
         <date>2015-12-29T16:30:00+01:00</date>
         <start>16:30</start>
@@ -1690,7 +1714,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Why_I_sometimes_need_lots_of_w(h)ine_as_member_of_Amazon_VINE_..._and_Amazon_costumer</link>
         </links>
       </event>
-      <event id="1017" guid="d23327fb683b0048a23432c847663d0c">
+      <event id="1018" guid="d23327fb683b0048a23432c847663d0c">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1715,7 +1739,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
           <link>https://events.ccc.de/congress/2015/wiki/Session:DS-05-2016</link>
         </links>
       </event>
-      <event id="1018" guid="615872ea1f1dde442844787468b1c81f">
+      <event id="1019" guid="615872ea1f1dde442844787468b1c81f">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -1740,7 +1764,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
           <link>https://events.ccc.de/congress/2015/wiki/Session:EDN_API</link>
         </links>
       </event>
-      <event id="1034" guid="c95700c8711448b070907a8caf9bb883">
+      <event id="1035" guid="c95700c8711448b070907a8caf9bb883">
         <logo/>
         <date>2015-12-29T21:30:00+01:00</date>
         <start>21:30</start>
@@ -1765,7 +1789,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
           <link>https://events.ccc.de/congress/2015/wiki/Session:GNUnet_e.V.</link>
         </links>
       </event>
-      <event id="1062" guid="8d71a6a0804545923aa340d05125df54">
+      <event id="1063" guid="8d71a6a0804545923aa340d05125df54">
         <logo/>
         <date>2015-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -1789,7 +1813,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
           <link>https://events.ccc.de/congress/2015/wiki/Session:SNIP</link>
         </links>
       </event>
-      <event id="1067" guid="33b34c26a59a08537de0303591cab442">
+      <event id="1068" guid="33b34c26a59a08537de0303591cab442">
         <logo/>
         <date>2015-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -1818,7 +1842,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
           <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
         </links>
       </event>
-      <event id="1071" guid="856bb6680d68956b76eb575a8838bc96">
+      <event id="1072" guid="856bb6680d68956b76eb575a8838bc96">
         <logo/>
         <date>2015-12-29T11:30:00+01:00</date>
         <start>11:30</start>
@@ -1847,7 +1871,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
           <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
         </links>
       </event>
-      <event id="1040" guid="e4905e2b48c5cbb8db52ea612721c605">
+      <event id="1041" guid="e4905e2b48c5cbb8db52ea612721c605">
         <logo/>
         <date>2015-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -1872,7 +1896,7 @@ Funktioniert Literatur noch in einer total&#252;berwachten Welt?</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Hannibal_Lecter_und_Sauron_in_einer_total%C3%BCberwachten_Welt</link>
         </links>
       </event>
-      <event id="1064" guid="1f2b51c91ce5a6472056d3bb4eb37765">
+      <event id="1065" guid="1f2b51c91ce5a6472056d3bb4eb37765">
         <logo/>
         <date>2015-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -1904,7 +1928,7 @@ Last year I started the Fuzzing Project as an effort to improve the security of 
           <link>https://events.ccc.de/congress/2015/wiki/Session:The_Fuzzing_Project</link>
         </links>
       </event>
-      <event id="1066" guid="2afd775dacaec92110c50e299c22c34e">
+      <event id="1067" guid="2afd775dacaec92110c50e299c22c34e">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
