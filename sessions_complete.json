@@ -2622,58 +2622,6 @@
             "1451422800"
         ]
     }, 
-    "Session:In Memoriam Caspar Bowden - Transatlantic Privacy Agenda# aae1a6e2f70c614e57370ea6ab4ba487": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            "1451307600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://en.wikipedia.org/wiki/Caspar_Bowden"
-        ], 
-        "Has description": [
-            "We want to convene and discuss how to pursue a Transatlantic Privacy Agenda - as as a homage to Caspar Bowden (\u271d 9 July 2015)"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "The legacy of a Transatlantic Privacy Dialogue"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Tabesin", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Tabesin", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "In Memoriam Caspar Bowden - Transatlantic Privacy Agenda"
-        ], 
-        "Has duration": [
-            140
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:In_Memoriam_Caspar_Bowden_-_Transatlantic_Privacy_Agenda", 
-        "Has end time": [
-            "1451316000"
-        ]
-    }, 
     "Session:YBTI# fa7ba96f28c633f13f377e35afe25377": {
         "Held in language": [
             "en - English"
@@ -3577,6 +3525,56 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:GNUnet_e.V.", 
         "Has end time": [
             "1451421900"
+        ]
+    }, 
+    "Session:In Memoriam Caspar Bowden - Transatlantic Privacy Agenda# 6891b510ebfcdc814a59b91357d62e4a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1451307600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://en.wikipedia.org/wiki/Caspar_Bowden"
+        ], 
+        "Has description": [
+            "We want to convene and discuss how to pursue a Transatlantic Privacy Agenda - as as a homage to Caspar Bowden (\u271d 9 July 2015)"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tabesin", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Tabesin", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "In Memoriam Caspar Bowden - Transatlantic Privacy Agenda"
+        ], 
+        "Has duration": [
+            140
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:In_Memoriam_Caspar_Bowden_-_Transatlantic_Privacy_Agenda", 
+        "Has end time": [
+            "1451316000"
         ]
     }, 
     "Session:Engelmeeting# 6d06bddf6a9f414196290f6e18b36be0": {

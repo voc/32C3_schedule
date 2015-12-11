@@ -735,7 +735,7 @@
                             }, 
                             {
                                 "id": 1046, 
-                                "guid": "aae1a6e2f70c614e57370ea6ab4ba487", 
+                                "guid": "6891b510ebfcdc814a59b91357d62e4a", 
                                 "logo": null, 
                                 "date": "2015-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
@@ -743,7 +743,7 @@
                                 "room": "Hall A.1", 
                                 "slug": "", 
                                 "title": "In Memoriam Caspar Bowden - Transatlantic Privacy Agenda", 
-                                "subtitle": "The legacy of a Transatlantic Privacy Dialogue", 
+                                "subtitle": "", 
                                 "track": "self orgnaized sessions", 
                                 "type": "discussion", 
                                 "language": "en", 
