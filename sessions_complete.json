@@ -727,7 +727,7 @@
             "https://wiki.freiheitsfoo.de/pmwiki.php?n=Main.32C3#toc6"
         ], 
         "Has description": [
-            "A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full descreption of this event."
+            "A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full description of this event."
         ], 
         "Has session type": [
             "Workshop"
@@ -745,6 +745,12 @@
             {
                 "fulltext": "User:Micha", 
                 "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Micha", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:AdPC", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:AdPC", 
                 "namespace": 2, 
                 "exists": true
             }

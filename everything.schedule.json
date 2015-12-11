@@ -7191,12 +7191,17 @@
                                 "type": "workshop", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full descreption of this event.", 
+                                "description": "A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full description of this event.", 
                                 "persons": [
                                     {
                                         "id": 0, 
                                         "full_public_name": "Micha", 
                                         "url": "https://events.ccc.de/congress/2015/wiki/User:Micha"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "AdPC", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:AdPC"
                                     }
                                 ], 
                                 "links": [

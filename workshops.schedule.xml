@@ -2075,11 +2075,15 @@ Last year I started the Fuzzing Project as an effort to improve the security of 
         <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full descreption of this event.</description>
+        <description>A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full description of this event.</description>
         <persons>
           <person id="0">
             <full_public_name>Micha</full_public_name>
             <url>https://events.ccc.de/congress/2015/wiki/User:Micha</url>
+          </person>
+          <person id="0">
+            <full_public_name>AdPC</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:AdPC</url>
           </person>
         </persons>
         <links>
