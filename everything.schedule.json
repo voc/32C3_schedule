@@ -1180,61 +1180,7 @@
                         "Podcaster-Tisch": [], 
                         "Hall B": [
                             {
-                                "id": 1021, 
-                                "guid": "e3dabb82ac3fdda8da347454ac4c5f66", 
-                                "logo": null, 
-                                "date": "2015-12-30T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Abbaumeeting", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Jz", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1023, 
-                                "guid": "bf981cbe8b5a7a149c3169141084b250", 
-                                "logo": null, 
-                                "date": "2015-12-26T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Welcome meeting", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Jz", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1025, 
+                                "id": 1022, 
                                 "guid": "8f37881626e8ffda4286dee71786574e", 
                                 "logo": null, 
                                 "date": "2015-12-26T22:00:00+01:00", 
@@ -1261,7 +1207,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1032, 
+                                "id": 1029, 
                                 "guid": "3e0b15f5d40ee3b1f2b812be93317ccb", 
                                 "logo": null, 
                                 "date": "2015-12-26T14:00:00+01:00", 
@@ -1271,6 +1217,60 @@
                                 "slug": "", 
                                 "title": "Engelmeeting", 
                                 "subtitle": "Buildup- and welcome meeting", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Jz", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1030, 
+                                "guid": "e3dabb82ac3fdda8da347454ac4c5f66", 
+                                "logo": null, 
+                                "date": "2015-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Abbaumeeting", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Jz", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1032, 
+                                "guid": "bf981cbe8b5a7a149c3169141084b250", 
+                                "logo": null, 
+                                "date": "2015-12-26T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Welcome meeting", 
                                 "track": "self orgnaized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -2918,7 +2918,7 @@
                         ], 
                         "Hall B": [
                             {
-                                "id": 1027, 
+                                "id": 1024, 
                                 "guid": "4052ee66ac373fed16d2a3aa7d4c7380", 
                                 "logo": null, 
                                 "date": "2015-12-27T14:00:00+01:00", 
@@ -2945,7 +2945,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1029, 
+                                "id": 1026, 
                                 "guid": "a8f511859309a3109ffe43b54f6afd32", 
                                 "logo": null, 
                                 "date": "2015-12-27T20:45:00+01:00", 
@@ -2972,7 +2972,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1031, 
+                                "id": 1028, 
                                 "guid": "13c8aa469e1dbe32345c0db2095d5f5b", 
                                 "logo": null, 
                                 "date": "2015-12-27T16:00:00+01:00", 
@@ -3092,11 +3092,11 @@
                             }, 
                             {
                                 "id": 1047, 
-                                "guid": "67212ddd4b196344ece95ba27328ad9d", 
+                                "guid": "3d78685e9d5bf35b6714a24549691cb4", 
                                 "logo": null, 
-                                "date": "2015-12-28T09:00:00+01:00", 
-                                "start": "09:00", 
-                                "duration": "11:00", 
+                                "date": "2015-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "6:30", 
                                 "room": "Hall 13", 
                                 "slug": "", 
                                 "title": "Junghacker", 
@@ -3181,7 +3181,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1061, 
+                                "id": 1065, 
                                 "guid": "53bc713e3c7efc4b9198a689a94183b6", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -3208,7 +3208,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1066, 
                                 "guid": "c61a47401b3e6f7b0b8ffaa6f1773664", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -5043,7 +5043,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1063, 
+                                "id": 1061, 
                                 "guid": "bc1a94efe5cbc667a739bcf8870973e4", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:00:00+01:00", 
@@ -5070,7 +5070,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1064, 
+                                "id": 1062, 
                                 "guid": "916dee19cf7ae62e6a93066fc90b7a37", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -5256,34 +5256,7 @@
                         ], 
                         "Hall B": [
                             {
-                                "id": 1022, 
-                                "guid": "6d06bddf6a9f414196290f6e18b36be0", 
-                                "logo": null, 
-                                "date": "2015-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Hall B", 
-                                "slug": "", 
-                                "title": "Engelmeeting", 
-                                "subtitle": "Angelmeeting Day 2", 
-                                "track": "self orgnaized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "full_public_name": "Jz", 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1024, 
+                                "id": 1021, 
                                 "guid": "008413dbeeb5e8cac12277ab8cdc95e8", 
                                 "logo": null, 
                                 "date": "2015-12-28T20:45:00+01:00", 
@@ -5310,7 +5283,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1026, 
+                                "id": 1023, 
                                 "guid": "f72341712ad12851e7a2b2ee1ebfc1fb", 
                                 "logo": null, 
                                 "date": "2015-12-28T16:00:00+01:00", 
@@ -5320,6 +5293,33 @@
                                 "slug": "", 
                                 "title": "Engelmeeting", 
                                 "subtitle": "Introduction meeting for new angels", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Jz", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1031, 
+                                "guid": "6d06bddf6a9f414196290f6e18b36be0", 
+                                "logo": null, 
+                                "date": "2015-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Hall B", 
+                                "slug": "", 
+                                "title": "Engelmeeting", 
+                                "subtitle": "Angelmeeting Day 2", 
                                 "track": "self orgnaized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -6487,7 +6487,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1065, 
+                                "id": 1063, 
                                 "guid": "58a96aef6a53ad52704568d0f5e4cf3d", 
                                 "logo": null, 
                                 "date": "2015-12-29T17:00:00+01:00", 
@@ -6514,7 +6514,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1066, 
+                                "id": 1064, 
                                 "guid": "f236520c9008f3bc1d9f182e1f33b0da", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -6736,7 +6736,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1028, 
+                                "id": 1025, 
                                 "guid": "6ef20e532e6f4ab1929b1a2dbf971fec", 
                                 "logo": null, 
                                 "date": "2015-12-29T14:00:00+01:00", 
@@ -6763,7 +6763,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1030, 
+                                "id": 1027, 
                                 "guid": "c6c54f0925331268b59e0e06b84386dd", 
                                 "logo": null, 
                                 "date": "2015-12-29T20:45:00+01:00", 

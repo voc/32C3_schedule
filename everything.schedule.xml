@@ -1234,55 +1234,7 @@ I&#8217;m going to go over the materials I use and where to find them online, ho
         </links>
         <attachments/>
       </event>
-      <event id="1021" guid="e3dabb82ac3fdda8da347454ac4c5f66">
-        <logo/>
-        <date>2015-12-30T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Hall B</room>
-        <slug/>
-        <title>Engelmeeting</title>
-        <subtitle>Abbaumeeting</subtitle>
-        <track>self orgnaized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0">
-            <full_public_name>Jz</full_public_name>
-            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
-        </links>
-      </event>
-      <event id="1023" guid="bf981cbe8b5a7a149c3169141084b250">
-        <logo/>
-        <date>2015-12-26T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>1:00</duration>
-        <room>Hall B</room>
-        <slug/>
-        <title>Engelmeeting</title>
-        <subtitle>Welcome meeting</subtitle>
-        <track>self orgnaized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0">
-            <full_public_name>Jz</full_public_name>
-            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
-        </links>
-      </event>
-      <event id="1025" guid="8f37881626e8ffda4286dee71786574e">
+      <event id="1022" guid="8f37881626e8ffda4286dee71786574e">
         <logo/>
         <date>2015-12-26T22:00:00+01:00</date>
         <start>22:00</start>
@@ -1306,7 +1258,7 @@ I&#8217;m going to go over the materials I use and where to find them online, ho
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1032" guid="3e0b15f5d40ee3b1f2b812be93317ccb">
+      <event id="1029" guid="3e0b15f5d40ee3b1f2b812be93317ccb">
         <logo/>
         <date>2015-12-26T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1315,6 +1267,54 @@ I&#8217;m going to go over the materials I use and where to find them online, ho
         <slug/>
         <title>Engelmeeting</title>
         <subtitle>Buildup- and welcome meeting</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1030" guid="e3dabb82ac3fdda8da347454ac4c5f66">
+        <logo/>
+        <date>2015-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Abbaumeeting</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1032" guid="bf981cbe8b5a7a149c3169141084b250">
+        <logo/>
+        <date>2015-12-26T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Welcome meeting</subtitle>
         <track>self orgnaized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -2954,7 +2954,7 @@ Ein Erfahrungs- und Gedankenaustausch.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Freifunk_Hamburg_Jahresr%C3%BCckblick</link>
         </links>
       </event>
-      <event id="1027" guid="4052ee66ac373fed16d2a3aa7d4c7380">
+      <event id="1024" guid="4052ee66ac373fed16d2a3aa7d4c7380">
         <logo/>
         <date>2015-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2978,7 +2978,7 @@ Ein Erfahrungs- und Gedankenaustausch.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1029" guid="a8f511859309a3109ffe43b54f6afd32">
+      <event id="1026" guid="a8f511859309a3109ffe43b54f6afd32">
         <logo/>
         <date>2015-12-27T20:45:00+01:00</date>
         <start>20:45</start>
@@ -3002,7 +3002,7 @@ Ein Erfahrungs- und Gedankenaustausch.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1031" guid="13c8aa469e1dbe32345c0db2095d5f5b">
+      <event id="1028" guid="13c8aa469e1dbe32345c0db2095d5f5b">
         <logo/>
         <date>2015-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -3111,11 +3111,11 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Hitobito_-_Eine_Gemeinschaftsl%C3%B6sung_zur_Mitgliederverwaltung</link>
         </links>
       </event>
-      <event id="1047" guid="67212ddd4b196344ece95ba27328ad9d">
+      <event id="1047" guid="3d78685e9d5bf35b6714a24549691cb4">
         <logo/>
-        <date>2015-12-28T09:00:00+01:00</date>
-        <start>09:00</start>
-        <duration>11:00</duration>
+        <date>2015-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>6:30</duration>
         <room>Hall 13</room>
         <slug/>
         <title>Junghacker</title>
@@ -3191,7 +3191,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1061" guid="53bc713e3c7efc4b9198a689a94183b6">
+      <event id="1065" guid="53bc713e3c7efc4b9198a689a94183b6">
         <logo/>
         <date>2015-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -3216,7 +3216,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1062" guid="c61a47401b3e6f7b0b8ffaa6f1773664">
+      <event id="1066" guid="c61a47401b3e6f7b0b8ffaa6f1773664">
         <logo/>
         <date>2015-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -5052,7 +5052,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1063" guid="bc1a94efe5cbc667a739bcf8870973e4">
+      <event id="1061" guid="bc1a94efe5cbc667a739bcf8870973e4">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5077,7 +5077,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1064" guid="916dee19cf7ae62e6a93066fc90b7a37">
+      <event id="1062" guid="916dee19cf7ae62e6a93066fc90b7a37">
         <logo/>
         <date>2015-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -5240,31 +5240,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:DIY_Metadata_Investigation_:_Inside_Hacking_Team</link>
         </links>
       </event>
-      <event id="1022" guid="6d06bddf6a9f414196290f6e18b36be0">
-        <logo/>
-        <date>2015-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Hall B</room>
-        <slug/>
-        <title>Engelmeeting</title>
-        <subtitle>Angelmeeting Day 2</subtitle>
-        <track>self orgnaized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0">
-            <full_public_name>Jz</full_public_name>
-            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
-        </links>
-      </event>
-      <event id="1024" guid="008413dbeeb5e8cac12277ab8cdc95e8">
+      <event id="1021" guid="008413dbeeb5e8cac12277ab8cdc95e8">
         <logo/>
         <date>2015-12-28T20:45:00+01:00</date>
         <start>20:45</start>
@@ -5288,7 +5264,7 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1026" guid="f72341712ad12851e7a2b2ee1ebfc1fb">
+      <event id="1023" guid="f72341712ad12851e7a2b2ee1ebfc1fb">
         <logo/>
         <date>2015-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -5297,6 +5273,30 @@ Kai &amp; Tom&#225;s</description>
         <slug/>
         <title>Engelmeeting</title>
         <subtitle>Introduction meeting for new angels</subtitle>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <full_public_name>Jz</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Jz</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
+        </links>
+      </event>
+      <event id="1031" guid="6d06bddf6a9f414196290f6e18b36be0">
+        <logo/>
+        <date>2015-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Hall B</room>
+        <slug/>
+        <title>Engelmeeting</title>
+        <subtitle>Angelmeeting Day 2</subtitle>
         <track>self orgnaized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -6467,7 +6467,7 @@ This workshop will be given twice&lt;br /&gt;(both identical):&lt;br /&gt;
           <link>https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder</link>
         </links>
       </event>
-      <event id="1065" guid="58a96aef6a53ad52704568d0f5e4cf3d">
+      <event id="1063" guid="58a96aef6a53ad52704568d0f5e4cf3d">
         <logo/>
         <date>2015-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -6492,7 +6492,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:SMD_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1066" guid="f236520c9008f3bc1d9f182e1f33b0da">
+      <event id="1064" guid="f236520c9008f3bc1d9f182e1f33b0da">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -6694,7 +6694,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:DBOpenData</link>
         </links>
       </event>
-      <event id="1028" guid="6ef20e532e6f4ab1929b1a2dbf971fec">
+      <event id="1025" guid="6ef20e532e6f4ab1929b1a2dbf971fec">
         <logo/>
         <date>2015-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6718,7 +6718,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
           <link>https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting</link>
         </links>
       </event>
-      <event id="1030" guid="c6c54f0925331268b59e0e06b84386dd">
+      <event id="1027" guid="c6c54f0925331268b59e0e06b84386dd">
         <logo/>
         <date>2015-12-29T20:45:00+01:00</date>
         <start>20:45</start>

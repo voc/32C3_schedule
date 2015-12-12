@@ -2414,64 +2414,6 @@
             "1451403000"
         ]
     }, 
-    "Session:Junghacker# 67212ddd4b196344ece95ba27328ad9d": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            "1451289600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://ccc.de/schule"
-        ], 
-        "Has description": [
-            "Hands-on Technology & Data-Security / Solder workshop for kids"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Junghackertag"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Cbass", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Cbass", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Stean", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Stean", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Junghacker"
-        ], 
-        "Has duration": [
-            660
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Junghacker", 
-        "Has end time": [
-            "1451329200"
-        ]
-    }, 
     "Session:LearnToSolder# e4e6b1c60e8bd07319c45845b717ac65": {
         "Held in language": [
             "en - English"
@@ -4127,6 +4069,64 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:NewPalmyra", 
         "Has end time": [
             "1451400000"
+        ]
+    }, 
+    "Session:Junghacker# 3d78685e9d5bf35b6714a24549691cb4": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1451296800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://ccc.de/schule"
+        ], 
+        "Has description": [
+            "Hands-on Technology & Data-Security / Solder workshop for kids"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Junghackertag"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cbass", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Cbass", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Stean", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Stean", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Junghacker"
+        ], 
+        "Has duration": [
+            390
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Junghacker", 
+        "Has end time": [
+            "1451320200"
         ]
     }, 
     "Session:The Fuzzing Project# 1f2b51c91ce5a6472056d3bb4eb37765": {
