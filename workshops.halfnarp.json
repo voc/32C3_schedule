@@ -844,6 +844,18 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
+        "room_name": "Hall 13", 
+        "start_time": "2015-12-28T17:45:00+01:00", 
+        "duration": 7200, 
+        "title": "Tor Relay Operators Meetup", 
+        "abstract": "", 
+        "speakers": "Mo"
+    }, 
+    {
+        "event_id": 1071, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-29T20:30:00+01:00", 
         "duration": 7200, 
@@ -852,7 +864,7 @@
         "speakers": "Micha, AdPC"
     }, 
     {
-        "event_id": 1071, 
+        "event_id": 1072, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -864,7 +876,7 @@
         "speakers": "Tanja Timanfaya"
     }, 
     {
-        "event_id": 1072, 
+        "event_id": 1073, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -876,7 +888,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1073, 
+        "event_id": 1074, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -888,7 +900,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1074, 
+        "event_id": 1075, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -900,7 +912,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1075, 
+        "event_id": 1076, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -912,7 +924,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1076, 
+        "event_id": 1077, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -924,7 +936,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1077, 
+        "event_id": 1078, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 

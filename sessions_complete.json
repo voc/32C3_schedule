@@ -2314,6 +2314,43 @@
             "1451412000"
         ]
     }, 
+    "Session:Tor Relay Operators Meetup# 37444461c59087b58dd90709ab0938f3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.torservers.net/"
+        ], 
+        "Has description": [
+            "Are you operating a Tor relay? Are you thinking about it? Come by and exchange with other relay operators!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mo", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Mo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor Relay Operators Meetup"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Tor_Relay_Operators_Meetup", 
+        "Has end time": []
+    }, 
     "Session:Engelmeeting# 13c8aa469e1dbe32345c0db2095d5f5b": {
         "Held in language": [
             "en - English"
@@ -3819,6 +3856,56 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting", 
         "Has end time": [
             "1451397600"
+        ]
+    }, 
+    "Session:Tor Relay Operators Meetup# 37dd334086d598d1242c0d1099540134": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            "1451321100"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.torservers.net/"
+        ], 
+        "Has description": [
+            "Are you operating a Tor relay? Are you thinking about it? Come by and exchange with other relay operators!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mo", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Mo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Tor Relay Operators Meetup"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Tor_Relay_Operators_Meetup", 
+        "Has end time": [
+            "1451328300"
         ]
     }, 
     "Session:SNIP# 8d71a6a0804545923aa340d05125df54": {
