@@ -1260,6 +1260,56 @@
             "1451403000"
         ]
     }, 
+    "Session:Zwiebelfreunde Mitgliederversammlung# 11dc819cf38191adef47446484875631": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            "1451329200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.zwiebelfreunde.de/"
+        ], 
+        "Has description": [
+            "Mitgliederversammlung des Zwiebelfreunde e.V."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mo", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Mo", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Zwiebelfreunde Mitgliederversammlung"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Zwiebelfreunde_Mitgliederversammlung", 
+        "Has end time": [
+            "1451334600"
+        ]
+    }, 
     "Session:Biometriedaten f\u00fcr den Personalausweis# 3012b93369eba8a8e011773973a895fe": {
         "Held in language": [
             "de - German"

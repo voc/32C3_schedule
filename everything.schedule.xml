@@ -5240,6 +5240,31 @@ Kai &amp; Tom&#225;s</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:The_Flashcat_Project</link>
         </links>
       </event>
+      <event id="1079" guid="11dc819cf38191adef47446484875631">
+        <logo/>
+        <date>2015-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Hall 14</room>
+        <slug/>
+        <title>Zwiebelfreunde Mitgliederversammlung</title>
+        <subtitle/>
+        <track>self orgnaized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Mitgliederversammlung des Zwiebelfreunde e.V.</description>
+        <persons>
+          <person id="0">
+            <full_public_name>Mo</full_public_name>
+            <url>https://events.ccc.de/congress/2015/wiki/User:Mo</url>
+          </person>
+        </persons>
+        <links>
+          <link>https://www.zwiebelfreunde.de/</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Zwiebelfreunde_Mitgliederversammlung</link>
+        </links>
+      </event>
       <event id="1018" guid="99c8cc2346dc5bfb2aa3524c54116693">
         <logo/>
         <date>2015-12-28T15:00:00+01:00</date>

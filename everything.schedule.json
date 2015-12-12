@@ -5250,6 +5250,34 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2015/wiki/Session:The_Flashcat_Project"
                                 ]
+                            }, 
+                            {
+                                "id": 1079, 
+                                "guid": "11dc819cf38191adef47446484875631", 
+                                "logo": null, 
+                                "date": "2015-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "Hall 14", 
+                                "slug": "", 
+                                "title": "Zwiebelfreunde Mitgliederversammlung", 
+                                "subtitle": "", 
+                                "track": "self orgnaized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Mitgliederversammlung des Zwiebelfreunde e.V.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "full_public_name": "Mo", 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Mo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.zwiebelfreunde.de/", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Zwiebelfreunde_Mitgliederversammlung"
+                                ]
                             }
                         ], 
                         "Anarchist Village": [

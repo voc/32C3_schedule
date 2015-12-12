@@ -946,5 +946,17 @@
         "title": "YBTI", 
         "abstract": "", 
         "speakers": "Grothoff, Jeffburdges"
+    }, 
+    {
+        "event_id": 1079, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
+        "room_name": "Hall 14", 
+        "start_time": "2015-12-28T20:00:00+01:00", 
+        "duration": 5400, 
+        "title": "Zwiebelfreunde Mitgliederversammlung", 
+        "abstract": "", 
+        "speakers": "Mo"
     }
 ]
