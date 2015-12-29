@@ -621,7 +621,7 @@
                         ], 
                         "Dach": [
                             {
-                                "id": 1128, 
+                                "id": 1127, 
                                 "guid": "1ae6fd3e27b16ee0e051a37ad3880120", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -648,7 +648,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
+                                "id": 1130, 
                                 "guid": "3b0c765624223dfe4d17bd541c44ff14", 
                                 "logo": null, 
                                 "date": "2015-12-27T22:00:00+01:00", 
@@ -756,7 +756,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1166, 
+                                "id": 1165, 
                                 "guid": "90650fc1357b315d59c5cba85e4fcd36", 
                                 "logo": null, 
                                 "date": "2015-12-27T16:00:00+01:00", 
@@ -783,7 +783,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1169, 
+                                "id": 1168, 
                                 "guid": "835736ef997d32b8ea53644d05e97d66", 
                                 "logo": null, 
                                 "date": "2015-12-27T20:00:00+01:00", 
@@ -974,7 +974,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1147, 
+                                "id": 1146, 
                                 "guid": "dc92ab43f0c0a4f5a4381bb9a05b21d9", 
                                 "logo": null, 
                                 "date": "2015-12-27T16:00:00+01:00", 
@@ -1001,7 +1001,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1149, 
                                 "guid": "198b46545f108a9a03b2ace01e56cb14", 
                                 "logo": null, 
                                 "date": "2015-12-27T20:00:00+01:00", 
@@ -1163,7 +1163,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1209, 
+                                "id": 1208, 
                                 "guid": "4b857ceb6b0d6b602988eee0641fc529", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -1190,7 +1190,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1211, 
+                                "id": 1210, 
                                 "guid": "977da6ffa8ea9ee973177ec1333e7765", 
                                 "logo": null, 
                                 "date": "2015-12-27T22:00:00+01:00", 
@@ -2653,16 +2653,16 @@
                         ], 
                         "DACH": [
                             {
-                                "id": 1126, 
-                                "guid": "8aa74579b1095bc5f933f34a98f405e7", 
+                                "id": 1128, 
+                                "guid": "9c178b49928cc4b6bacc5bb78bd3ed13", 
                                 "logo": null, 
-                                "date": "2015-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2015-12-29T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "1:00", 
                                 "room": "DACH", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Chez Mieke", 
+                                "subtitle": "Peter Shaw", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -2680,16 +2680,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1129, 
-                                "guid": "9c178b49928cc4b6bacc5bb78bd3ed13", 
+                                "id": 1131, 
+                                "guid": "8aa74579b1095bc5f933f34a98f405e7", 
                                 "logo": null, 
-                                "date": "2015-12-29T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2015-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "1:00", 
                                 "room": "DACH", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Peter Shaw", 
+                                "subtitle": "Chez Mieke", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -2761,7 +2761,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "f37c60a6511ac83bf2fe7924e0572658", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -2788,7 +2788,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1170, 
+                                "id": 1169, 
                                 "guid": "fbb87ee78697e177fab9a43a8f074551", 
                                 "logo": null, 
                                 "date": "2015-12-28T22:00:00+01:00", 
@@ -3006,7 +3006,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1148, 
+                                "id": 1147, 
                                 "guid": "24df0548f2a89ccd6bb9ce0a218da349", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -3033,7 +3033,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1151, 
+                                "id": 1150, 
                                 "guid": "607c02f9284c1e9dd14a41cc8ca6b0b1", 
                                 "logo": null, 
                                 "date": "2015-12-28T22:00:00+01:00", 
@@ -3222,7 +3222,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1185, 
+                                "id": 1184, 
                                 "guid": "73de2b974269160e66efa02cf9827b8e", 
                                 "logo": null, 
                                 "date": "2015-12-28T16:00:00+01:00", 
@@ -3249,7 +3249,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1188, 
+                                "id": 1187, 
                                 "guid": "d4b8fa16eefcb4e793840b3bbbfb3ca3", 
                                 "logo": null, 
                                 "date": "2015-12-28T20:00:00+01:00", 
@@ -3276,16 +3276,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1207, 
-                                "guid": "c9b7b943706ca637c7e791a7f1c25d08", 
+                                "id": 1209, 
+                                "guid": "76d50b34565dcccb69f6e194253f79eb", 
                                 "logo": null, 
-                                "date": "2015-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2015-12-29T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Circuit Diagram L", 
+                                "subtitle": "Robert Etzold", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3303,16 +3303,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1210, 
-                                "guid": "76d50b34565dcccb69f6e194253f79eb", 
+                                "id": 1211, 
+                                "guid": "c9b7b943706ca637c7e791a7f1c25d08", 
                                 "logo": null, 
-                                "date": "2015-12-29T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2015-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Robert Etzold", 
+                                "subtitle": "Circuit Diagram L", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -4134,39 +4134,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2015/wiki/Session:SNIP"
-                                ]
-                            }, 
-                            {
-                                "id": 1280, 
-                                "guid": "856bb6680d68956b76eb575a8838bc96", 
-                                "logo": null, 
-                                "date": "2015-12-29T11:30:00+01:00", 
-                                "start": "11:30", 
-                                "duration": "0:30", 
-                                "room": "Hall F", 
-                                "slug": "", 
-                                "title": "YBTI", 
-                                "subtitle": "SecuShare", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Placeholder for various YBTI-related talks (details TBA).", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                                        "public_name": "Grothoff"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://youbroketheinternet.org/", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:YBTI"
                                 ]
                             }
                         ], 
@@ -5157,11 +5124,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1165, 
-                                "guid": "90833990de3f3d13e21862c6d3bc62ec", 
+                                "id": 1167, 
+                                "guid": "83ccadfbdd238ca760ece7928a3ad5e7", 
                                 "logo": null, 
-                                "date": "2015-12-30T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2015-12-30T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "1:00", 
                                 "room": "DACH", 
                                 "slug": "", 
@@ -5184,11 +5151,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
-                                "guid": "83ccadfbdd238ca760ece7928a3ad5e7", 
+                                "id": 1170, 
+                                "guid": "90833990de3f3d13e21862c6d3bc62ec", 
                                 "logo": null, 
-                                "date": "2015-12-30T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2015-12-30T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "1:00", 
                                 "room": "DACH", 
                                 "slug": "", 
@@ -5319,7 +5286,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1208, 
+                                "id": 1207, 
                                 "guid": "74ff328e412b4eb7bf8eba9c8ea20d3c", 
                                 "logo": null, 
                                 "date": "2015-12-29T15:00:00+01:00", 
@@ -5404,16 +5371,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1146, 
-                                "guid": "25af245e14b798b6914dca5c49738b48", 
+                                "id": 1148, 
+                                "guid": "3a4c729f959f79ad2a67faf8cd8623c8", 
                                 "logo": null, 
-                                "date": "2015-12-30T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2015-12-30T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Romanski", 
+                                "subtitle": "Marco Costanza", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -5431,16 +5398,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
-                                "guid": "3a4c729f959f79ad2a67faf8cd8623c8", 
+                                "id": 1151, 
+                                "guid": "25af245e14b798b6914dca5c49738b48", 
                                 "logo": null, 
-                                "date": "2015-12-30T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2015-12-30T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Marco Costanza", 
+                                "subtitle": "Romanski", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -5512,7 +5479,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1186, 
+                                "id": 1185, 
                                 "guid": "3c99b270031a4b8de19bf672cee8a20a", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -5539,7 +5506,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1189, 
+                                "id": 1188, 
                                 "guid": "8c3c36cf20d5eaadbd00c33fc0265c9e", 
                                 "logo": null, 
                                 "date": "2015-12-29T22:00:00+01:00", 
@@ -6003,7 +5970,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1127, 
+                                "id": 1126, 
                                 "guid": "07cf42d2dc4ec179efc17dc20ec61a09", 
                                 "logo": null, 
                                 "date": "2015-12-30T15:00:00+01:00", 
@@ -6030,7 +5997,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1130, 
+                                "id": 1129, 
                                 "guid": "8acee822f9de023376835876d653da3f", 
                                 "logo": null, 
                                 "date": "2015-12-30T19:00:00+01:00", 
@@ -6219,16 +6186,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1184, 
-                                "guid": "a58a70540da61c51159bb73aa13273b0", 
+                                "id": 1186, 
+                                "guid": "0d9895de50fc220f0f84d7657472d7fc", 
                                 "logo": null, 
-                                "date": "2015-12-31T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2015-12-31T02:00:00+01:00", 
+                                "start": "02:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Gladbeck City Bombing L", 
+                                "subtitle": "Digital Norman", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -6246,16 +6213,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1187, 
-                                "guid": "0d9895de50fc220f0f84d7657472d7fc", 
+                                "id": 1189, 
+                                "guid": "a58a70540da61c51159bb73aa13273b0", 
                                 "logo": null, 
-                                "date": "2015-12-31T02:00:00+01:00", 
-                                "start": "02:00", 
+                                "date": "2015-12-31T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Digital Norman", 
+                                "subtitle": "Gladbeck City Bombing L", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 

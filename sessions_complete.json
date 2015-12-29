@@ -7587,62 +7587,6 @@
             "1451480400"
         ]
     }, 
-    "Session:YBTI# 856bb6680d68956b76eb575a8838bc96": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451385000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "SecuShare"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "YBTI"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
-        "Has end time": [
-            "1451386800"
-        ]
-    }, 
     "Session:Lounge# 15886f47ae188622498bdeb0b6a5061b": {
         "Held in language": [], 
         "Has start time": [
@@ -14769,6 +14713,48 @@
         "Has end time": [
             "1451552400"
         ]
+    }, 
+    "Session:Volca Meetup# f3f2eb5a0177ca05ec8b3da54b000e8d": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meet up and play around with different synthesizers, like the Korg Volca series and similar."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 14", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:H0uz3", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:H0uz3", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Volca Meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Volca_Meetup", 
+        "Has end time": []
     }, 
     "Session:Lounge# e18d38e2615f72614c14fdff326d2bfa": {
         "Held in language": [], 
