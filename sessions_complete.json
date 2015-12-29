@@ -4586,6 +4586,54 @@
             "1451422800"
         ]
     }, 
+    "Session:State of the Internat AS201701# 44999e7ec7f74f089ea701e0c7dde2ab": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451419200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.freifunk.net/32c3/Timetable"
+        ], 
+        "Has description": [
+            "State of the Internat AS201701 - Freifunk Rheinland e.V. Backbone"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:ThomasDOTwtf", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:ThomasDOTwtf", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "State of the Internat AS201701"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:State_of_the_Internat_AS201701", 
+        "Has end time": [
+            "1451426400"
+        ]
+    }, 
     "Session:Lounge# a5aecce79b4d724e46acb280ad68aaf7": {
         "Held in language": [], 
         "Has start time": [
@@ -6698,6 +6746,54 @@
             "1451232000"
         ]
     }, 
+    "Session:10 moderne Konzepte, die deiner Lieblingsprogrammiersprache fehlen# c16575c2e677b75b2263d00b1a31c8ce": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451401200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://curry-club-augsburg.de/"
+        ], 
+        "Has description": [
+            "Programmierung und die Theorie dahinter ist ein vergleichsweise junges Gebiet, verglichen mit anderen Ingenieursdisziplinen. Deshalb gibt es immer noch jede Dekade und teilweise jedes Jahr erstaunliche Fortschritte, die erst sehr viel sp\u00e4ter in den verbreiteten Sprachen ankommen.\nIn diesem Vortrag wollen wir zeigen, was es alles gibt und wie du viele dieser Ideen selbst in nicht daf\u00fcr ausgelegten Sprachen ganz praktisch anwenden kannst (vielleicht sogar in deiner Lieblingsprogrammiersprache? ;) )."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Profpatsch", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Profpatsch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "10 moderne Konzepte, die deiner Lieblingsprogrammiersprache fehlen"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:10_moderne_Konzepte,_die_deiner_Lieblingsprogrammiersprache_fehlen", 
+        "Has end time": [
+            "1451404800"
+        ]
+    }, 
     "Session:22 harddrives from a Westafrican e-waste dump - Behind the Smart World# 76d841769ed18888a0585a64edf82b97": {
         "Held in language": [
             {
@@ -8604,61 +8700,6 @@
             "1451404800"
         ]
     }, 
-    "Session:10 moderne Konzepte, die deiner Lieblingsprogrammiersprache fehlen# 753c30c7dc5365ba6a26cba8eecaf882": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451401200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://curry-club-augsburg.de/"
-        ], 
-        "Has description": [
-            "Programmierung und die Theorie dahinter ist ein vergleichsweise junges Gebiet, verglichen mit anderen Ingenieursdisziplinen. Deshalb gibt es immer noch jede Dekade und teilweise jedes Jahr erstaunliche Fortschritte, die erst sehr viel sp\u00e4ter in den verbreiteten Sprachen ankommen.\nIn diesem Vortrag wollen wir zeigen, was es alles gibt und wie du viele dieser Ideen selbst in nicht daf\u00fcr ausgelegten Sprachen ganz praktisch anwenden kannst (vielleicht sogar in deiner Lieblingsprogrammiersprache? ;) )."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Profpatsch", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Profpatsch", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "10 moderne Konzepte, die deiner Lieblingsprogrammiersprache fehlen"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:10_moderne_Konzepte,_die_deiner_Lieblingsprogrammiersprache_fehlen", 
-        "Has end time": [
-            "1451408400"
-        ]
-    }, 
     "Session:Lounge# 83ccadfbdd238ca760ece7928a3ad5e7": {
         "Held in language": [], 
         "Has start time": [
@@ -9894,40 +9935,38 @@
             "1451239200"
         ]
     }, 
-    "Session:Women and children in refugee camps# 44d6217d5502cf072a0914a782a84ca5": {
+    "Session:Lounge# 4602c2d532ed8c4b0c3f1dbb7ccc7065": {
         "Held in language": [], 
         "Has start time": [
-            "1451334600"
+            "1451397600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "Women are fewer than male Newcomers and yet they are not given priorities\n\n\nThe workshop concept is:\n\n1. To identify the problems.\n\n2. How to improve and find possible solutions to the existing problems with a clearly defined plan.\n\n3. Organizing an empowerment skills workshop, like organizing computer lessons as a means of education, supporting them in enrolling for the Ausbildung programme, entreprenurship ideas, etc.\n\n4. And finally to keep track for collective support, connection and networking we need to develop afollow up plan, (if people are interested for coordination reason)\n\n\nThis workshop is held by Fatuma Musa Afrah."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
+                "fulltext": "Room:Lounge", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Lounge", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "MG3 L"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Linuzifer", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Linuzifer", 
+                "fulltext": "User:DJ Spock", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
                 "namespace": 2, 
-                "exists": true
+                "exists": false
             }
         ], 
         "Has title": [
-            "Women and children in refugee camps"
+            "Lounge"
         ], 
         "Has duration": [
             60
@@ -9935,9 +9974,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Women_and_children_in_refugee_camps", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
-            "1451338200"
+            "1451401200"
         ]
     }, 
     "Session:Numerical Weather Prediction Tutorial# d37f0f472745d4002a29952a61bdce2c": {
@@ -10397,38 +10436,40 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Fight_for_your_right_to_Hardware!", 
         "Has end time": []
     }, 
-    "Session:Lounge# 4602c2d532ed8c4b0c3f1dbb7ccc7065": {
+    "Session:Women and children in refugee camps# 44d6217d5502cf072a0914a782a84ca5": {
         "Held in language": [], 
         "Has start time": [
-            "1451397600"
+            "1451334600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "Women are fewer than male Newcomers and yet they are not given priorities\n\n\nThe workshop concept is:\n\n1. To identify the problems.\n\n2. How to improve and find possible solutions to the existing problems with a clearly defined plan.\n\n3. Organizing an empowerment skills workshop, like organizing computer lessons as a means of education, supporting them in enrolling for the Ausbildung programme, entreprenurship ideas, etc.\n\n4. And finally to keep track for collective support, connection and networking we need to develop afollow up plan, (if people are interested for coordination reason)\n\n\nThis workshop is held by Fatuma Musa Afrah."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lounge", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Lounge", 
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "MG3 L"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:DJ Spock", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                "fulltext": "User:Linuzifer", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Linuzifer", 
                 "namespace": 2, 
-                "exists": false
+                "exists": true
             }
         ], 
         "Has title": [
-            "Lounge"
+            "Women and children in refugee camps"
         ], 
         "Has duration": [
             60
@@ -10436,9 +10477,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Women_and_children_in_refugee_camps", 
         "Has end time": [
-            "1451401200"
+            "1451338200"
         ]
     }, 
     "Session:Lounge# 33c9a90530a55e10129e965e6f0b6cb0": {
