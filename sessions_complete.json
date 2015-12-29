@@ -2240,49 +2240,38 @@
             "1451397600"
         ]
     }, 
-    "Session:Angewandte Konsensdemokratie# 0c6e5d8fcbb7d76511522cc94d9ea57b": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+    "Session:Lounge# f7b648788938007f396b288491459cfb": {
+        "Held in language": [], 
         "Has start time": [
-            "1451307600"
+            "1451224800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://www.premiumcola.de/kollektiv/workshop"
-        ], 
-        "Has description": [
-            "thesen: gruppen von menschen lassen sich oft weiter demokratisieren als \"nur\" basisdemokratie zu machen. konsensdemokratie ist m\u00f6glich, und mittelfristig sogar effizienter und stressfreier. mehr spa\u00df macht sie auch :-)"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall A.1", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.1", 
+                "fulltext": "Room:Dach", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Dach", 
                 "namespace": 516, 
-                "exists": true
+                "exists": false
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Pio"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Uwe premium", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Uwe_premium", 
+                "fulltext": "User:DJ Spock", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
                 "namespace": 2, 
-                "exists": true
+                "exists": false
             }
         ], 
         "Has title": [
-            "Angewandte Konsensdemokratie"
+            "Lounge"
         ], 
         "Has duration": [
             60
@@ -2290,9 +2279,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Angewandte_Konsensdemokratie", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
-            "1451311200"
+            "1451228400"
         ]
     }, 
     "Session:LearnToSolder# b25292afc5db10e5798e81b3468b5ac9": {
@@ -4462,48 +4451,6 @@
         "Has end time": [
             "1451376000"
         ]
-    }, 
-    "Session:Cache attacks and bit flips on your laptop!# a554d1278ceaba3dc733a0092b104286": {
-        "Held in language": [], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Follow-up of our Rowhammer.js talk. Workshop in two parts. \n* First, learn about cache attacks and how to run them on your laptop! As an example, we'll show you how to use an automated tool to spy on keystrokes -- then run it on the tool of your choice :). \n* Then, learn how to run Rowhammer (native version, no JS) successfully!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.4", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.4", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:BloodyTangerine", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:BloodyTangerine", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Cache attacks and bit flips on your laptop!"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Cache_attacks_and_bit_flips_on_your_laptop!", 
-        "Has end time": []
     }, 
     "Session:Chaos West Klangteppich# bed88043ae2dc2a597e0da238985a709": {
         "Held in language": [], 
@@ -10497,6 +10444,52 @@
             "1451394000"
         ]
     }, 
+    "Session:Cache attacks and bit flips on your laptop!# c05620c1852636fcaed9761e5b110af3": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451479500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Follow-up of our Rowhammer.js talk. Workshop in two parts. \n* First, learn about cache attacks and how to run them on your laptop! As an example, we'll show you how to use an automated tool to spy on keystrokes -- then run it on the tool of your choice :). \n* Then, learn how to run Rowhammer (native version, no JS) successfully!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:BloodyTangerine", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:BloodyTangerine", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Cache attacks and bit flips on your laptop!"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Cache_attacks_and_bit_flips_on_your_laptop!", 
+        "Has end time": [
+            "1451483100"
+        ]
+    }, 
     "Session:Tor Relay Operators Meetup# 5029902427ea13eda19a6ecb6e3eae7c": {
         "Held in language": [
             {
@@ -13800,38 +13793,49 @@
             "1451403000"
         ]
     }, 
-    "Session:Lounge# f7b648788938007f396b288491459cfb": {
-        "Held in language": [], 
+    "Session:Angewandte Konsensdemokratie# 0c6e5d8fcbb7d76511522cc94d9ea57b": {
+        "Held in language": [
+            {
+                "fulltext": "De - German", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
+                "namespace": 0, 
+                "exists": false
+            }
+        ], 
         "Has start time": [
-            "1451224800"
+            "1451307600"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has website": [
+            "http://www.premiumcola.de/kollektiv/workshop"
+        ], 
+        "Has description": [
+            "thesen: gruppen von menschen lassen sich oft weiter demokratisieren als \"nur\" basisdemokratie zu machen. konsensdemokratie ist m\u00f6glich, und mittelfristig sogar effizienter und stressfreier. mehr spa\u00df macht sie auch :-)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Dach", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Dach", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
-                "exists": false
+                "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Pio"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:DJ Spock", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                "fulltext": "User:Uwe premium", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Uwe_premium", 
                 "namespace": 2, 
-                "exists": false
+                "exists": true
             }
         ], 
         "Has title": [
-            "Lounge"
+            "Angewandte Konsensdemokratie"
         ], 
         "Has duration": [
             60
@@ -13839,9 +13843,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Angewandte_Konsensdemokratie", 
         "Has end time": [
-            "1451228400"
+            "1451311200"
         ]
     }, 
     "Session:Lounge# 62e9cb5077e01dceaa6a0622db165642": {
