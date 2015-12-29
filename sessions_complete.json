@@ -1202,14 +1202,8 @@
             "1451325600"
         ]
     }, 
-    "Session:Paranioa XP# c4a985f22478c75971a031f2b8ca94d5": {
+    "Session:YBTI# b3214ab92c36d3e0c8f6949175aadf84": {
         "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
             {
                 "fulltext": "En - English", 
                 "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
@@ -1218,49 +1212,57 @@
             }
         ], 
         "Has start time": [
-            "1451404800"
+            "1451386800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
         "Has description": [
-            "We want to play a game of Paranioa XP with you."
+            "Placeholder for various YBTI-related talks (details TBA)."
         ], 
         "Has session type": [
-            "Game"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Tomorrowland - Gaming utopia dystopia", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Tomorrowland_-_Gaming_utopia_dystopia", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Player slots available"
+            "Async Mixnet (Sphinx + Axolotl)"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:SnakeBDD", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SnakeBDD", 
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Paranioa XP"
+            "YBTI"
         ], 
         "Has duration": [
-            120
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Paranioa_XP", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
         "Has end time": [
-            "1451412000"
+            "1451388600"
         ]
     }, 
     "Session:Lounge# c9b7b943706ca637c7e791a7f1c25d08": {
@@ -1467,38 +1469,61 @@
             "1451246400"
         ]
     }, 
-    "Session:Lounge# 27bdcdb103e5e0a93818c69e8ca798d4": {
-        "Held in language": [], 
+    "Session:Cheese Tasting Rendezvous# cae70c61473b71533e848a1073ae59ed": {
+        "Held in language": [
+            {
+                "fulltext": "Cs - Czech", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Cs_-_Czech", 
+                "namespace": 0, 
+                "exists": false
+            }, 
+            {
+                "fulltext": "En - English", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
+                "namespace": 0, 
+                "exists": false
+            }, 
+            {
+                "fulltext": "Es - Spanish / Castilian", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Es_-_Spanish_/_Castilian", 
+                "namespace": 0, 
+                "exists": false
+            }
+        ], 
         "Has start time": [
-            "1451491200"
+            "1451422800"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has description": [
+            "This is our \"classic\". We gather cheeses and ourselves around them, some wine, olives and just enjoy!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lounge", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Lounge", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Lord ByronStyropor"
+            "Centro Sociale located event - Session 1"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:DJ Spock", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Algoldor", 
                 "namespace": 2, 
-                "exists": false
+                "exists": true
             }
         ], 
         "Has title": [
-            "Lounge"
+            "Cheese Tasting Rendezvous"
         ], 
         "Has duration": [
             60
@@ -1506,9 +1531,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Cheese_Tasting_Rendezvous", 
         "Has end time": [
-            "1451494800"
+            "1451426400"
         ]
     }, 
     "Session:Lounge# 74ff328e412b4eb7bf8eba9c8ea20d3c": {
@@ -1698,6 +1723,49 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451332800"
+        ]
+    }, 
+    "Session:CiTIZEN KiNO# 3a8cb961832ee4965116f963ec518d29": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451419200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.XLterrestrials.org/plog"
+        ], 
+        "Has description": [
+            "C-Kino is a hybrid of situational cinema, live theater, public forum\nand developing a platform for participatory Media Self-defense and\npraxis-oriented community engagements. We also hack media\nenvironments. In episode #49, we report back on the Climate Summit in Paris and the COP21 agreements. We analyze where we are now with the rise of citizen movements to defend our (only) habitat, planet earth. And we link the struggles of climate justice with hacker communities and digital culture."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "CiTiZEN KiNO #49: the XLterrestrials Guide to Corporate Climate Terror"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "CiTIZEN KiNO"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:CiTIZEN_KiNO", 
+        "Has end time": [
+            "1451424600"
         ]
     }, 
     "Session:Example# da310cf45b1b0d4882cf16e192daccf3": {
@@ -7352,8 +7420,14 @@
             "1451404800"
         ]
     }, 
-    "Session:YBTI# b3214ab92c36d3e0c8f6949175aadf84": {
+    "Session:Paranioa XP# c4a985f22478c75971a031f2b8ca94d5": {
         "Held in language": [
+            {
+                "fulltext": "De - German", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
+                "namespace": 0, 
+                "exists": false
+            }, 
             {
                 "fulltext": "En - English", 
                 "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
@@ -7362,57 +7436,49 @@
             }
         ], 
         "Has start time": [
-            "1451386800"
+            "1451404800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
+            "We want to play a game of Paranioa XP with you."
         ], 
         "Has session type": [
-            "Talk"
+            "Game"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Tomorrowland - Gaming utopia dystopia", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Tomorrowland_-_Gaming_utopia_dystopia", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Async Mixnet (Sphinx + Axolotl)"
+            "Player slots available"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "fulltext": "User:SnakeBDD", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SnakeBDD", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "YBTI"
+            "Paranioa XP"
         ], 
         "Has duration": [
-            30
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Paranioa_XP", 
         "Has end time": [
-            "1451388600"
+            "1451412000"
         ]
     }, 
     "Session:Lounge# 47a0fdb02b9a65d49966ecd48e9e7039": {
@@ -12099,61 +12165,38 @@
             "1451232000"
         ]
     }, 
-    "Session:Cheese Tasting Rendezvous# cae70c61473b71533e848a1073ae59ed": {
-        "Held in language": [
-            {
-                "fulltext": "Cs - Czech", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Cs_-_Czech", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "Es - Spanish / Castilian", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Es_-_Spanish_/_Castilian", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+    "Session:Lounge# 27bdcdb103e5e0a93818c69e8ca798d4": {
+        "Held in language": [], 
         "Has start time": [
-            "1451422800"
+            "1451491200"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "This is our \"classic\". We gather cheeses and ourselves around them, some wine, olives and just enjoy!"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
+        "Has description": [], 
+        "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Lounge", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Lounge", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Centro Sociale located event - Session 1"
+            "Lord ByronStyropor"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Algoldor", 
+                "fulltext": "User:DJ Spock", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
                 "namespace": 2, 
-                "exists": true
+                "exists": false
             }
         ], 
         "Has title": [
-            "Cheese Tasting Rendezvous"
+            "Lounge"
         ], 
         "Has duration": [
             60
@@ -12161,9 +12204,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Cheese_Tasting_Rendezvous", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
-            "1451426400"
+            "1451494800"
         ]
     }, 
     "Session:Lounge# 657c892bec55d46fc8589dd5e3dee6fb": {
@@ -16419,42 +16462,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:LearnToSolder", 
         "Has end time": [
             "1451347140"
-        ]
-    }, 
-    "Session:CiTIZEN KiNO# d3260c9e357e975e230e2b6c272e845f": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451175300"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.XLterrestrials.org/plog"
-        ], 
-        "Has description": [
-            "C-Kino is a hybrid of situational cinema, live theater, public forum\nand developing a platform for participatory Media Self-defense and\npraxis-oriented community engagements. We also hack media\nenvironments. In episode #49, we report back on the Climate Summit in Paris and the COP21 agreements. We analyze where we are now with the rise of citizen movements to defend our (only) habitat, planet earth. And we link the struggles of climate justice with hacker communities and digital culture."
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "CiTiZEN KiNO #49: the XLterrestrials Guide to Corporate Climate Terror"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "CiTIZEN KiNO"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:CiTIZEN_KiNO", 
-        "Has end time": [
-            "1451180700"
         ]
     }, 
     "Session:Lounge# 2b061d5a8cdd7ee983ce19d8baadc05e": {
