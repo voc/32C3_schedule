@@ -1,14 +1,470 @@
 [
     {
+        "event_id": 7550, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T11:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Opening Event", 
+        "abstract": "", 
+        "speakers": "Carina Haupt, Linus Neumann"
+    }, 
+    {
+        "event_id": 7565, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Keynote", 
+        "abstract": "", 
+        "speakers": "Fatuma Musa Afrah"
+    }, 
+    {
+        "event_id": 7228, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "NSA-Untersuchungsausschuss: Zwischen Aufkl\u00e4rungswillen und Mauern aus Schweigen", 
+        "abstract": "", 
+        "speakers": "anna"
+    }, 
+    {
+        "event_id": 7331, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "The exhaust emissions scandal (\u201eDieselgate\u201c)", 
+        "abstract": "", 
+        "speakers": "Daniel Lange (DLange), Felix \"tmbinc\" Domke"
+    }, 
+    {
+        "event_id": 7139, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "A Free and Open Source Verilog-to-Bitstream Flow for iCE40 FPGAs", 
+        "abstract": "", 
+        "speakers": "Clifford"
+    }, 
+    {
+        "event_id": 7196, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T17:15:00+01:00", 
+        "duration": 3600, 
+        "title": "How the Great Firewall discovers hidden circumvention servers", 
+        "abstract": "", 
+        "speakers": "Philipp Winter"
+    }, 
+    {
+        "event_id": 7490, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T18:30:00+01:00", 
+        "duration": 3600, 
+        "title": "The Great Train Cyber Robbery", 
+        "abstract": "", 
+        "speakers": "Sergey Gordeychik, Aleksandr Timorin, repdet"
+    }, 
+    {
+        "event_id": 7236, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T20:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Thunderstrike 2", 
+        "abstract": "", 
+        "speakers": "Trammell Hudson"
+    }, 
+    {
+        "event_id": 7171, 
+        "track_id": 299, 
+        "track_name": "Failosophy", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T21:45:00+01:00", 
+        "duration": 3600, 
+        "title": "When hardware must \u201ejust work\u201c", 
+        "abstract": "", 
+        "speakers": "David Kaplan"
+    }, 
+    {
+        "event_id": 7210, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-27T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "PQCHacks", 
+        "abstract": "", 
+        "speakers": "djb, Tanja Lange"
+    }, 
+    {
+        "event_id": 7566, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T00:15:00+01:00", 
+        "duration": 5400, 
+        "title": "Die Asyl-Dialoge / The Asylum Dialogues", 
+        "abstract": "", 
+        "speakers": "B\u00fchne f\u00fcr Menschenrechte"
+    }, 
+    {
+        "event_id": 7324, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "What is the value of anonymous communication?", 
+        "abstract": "", 
+        "speakers": "greenstadt"
+    }, 
+    {
+        "event_id": 7352, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Towards (reasonably) trustworthy x86 laptops", 
+        "abstract": "", 
+        "speakers": "Joanna Rutkowska"
+    }, 
+    {
+        "event_id": 7153, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "rad1o++", 
+        "abstract": "", 
+        "speakers": "Sec, schneider"
+    }, 
+    {
+        "event_id": 7146, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Hardware-Trojaner in Security-Chips", 
+        "abstract": "", 
+        "speakers": "Peter Laackmann, Marcus Janke"
+    }, 
+    {
+        "event_id": 7510, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T17:15:00+01:00", 
+        "duration": 3600, 
+        "title": "Windows drivers attack surface", 
+        "abstract": "", 
+        "speakers": "Ilja van Sprundel"
+    }, 
+    {
+        "event_id": 7133, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T18:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Beyond your cable modem", 
+        "abstract": "", 
+        "speakers": "Alexander Graf"
+    }, 
+    {
+        "event_id": 7412, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T20:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Running your own 3G/3.5G network", 
+        "abstract": "", 
+        "speakers": "LaForge"
+    }, 
+    {
+        "event_id": 7368, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T21:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Shopshifting", 
+        "abstract": "", 
+        "speakers": "Karsten Nohl, Fabian Br\u00e4unlein, dexter"
+    }, 
+    {
+        "event_id": 7260, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-27T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "APT Reports and OPSEC Evolution, or: These are not  the APT reports you are looking for", 
+        "abstract": "", 
+        "speakers": "Inbar Raz, Gadi Evron"
+    }, 
+    {
+        "event_id": 7543, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "The mummy unwrapped", 
+        "abstract": "", 
+        "speakers": "nelles-al-badri"
+    }, 
+    {
+        "event_id": 7227, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Avoiding kernel panic: Europe\u2019s biggest fails in digital policy-making", 
+        "abstract": "", 
+        "speakers": "Kirst3nF, Walter van Holst"
+    }, 
+    {
+        "event_id": 7538, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Internet Landscapes", 
+        "abstract": "", 
+        "speakers": "Evan Roth"
+    }, 
+    {
+        "event_id": 7205, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Netzpolitik in der Schweiz", 
+        "abstract": "", 
+        "speakers": "vimja, ari, Patrick St\u00e4hlin, Hakuna MaMate"
+    }, 
+    {
+        "event_id": 7189, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T17:15:00+01:00", 
+        "duration": 3600, 
+        "title": "Key-logger, Video, Mouse", 
+        "abstract": "", 
+        "speakers": "Yaniv Balmas"
+    }, 
+    {
+        "event_id": 7209, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T18:30:00+01:00", 
+        "duration": 3600, 
+        "title": "What does Big Brother see, while he is watching?", 
+        "abstract": "", 
+        "speakers": "Simon"
+    }, 
+    {
+        "event_id": 7432, 
+        "track_id": 299, 
+        "track_name": "Failosophy", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T20:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Datahavens from HavenCo to Today", 
+        "abstract": "", 
+        "speakers": "Ryan Lackey"
+    }, 
+    {
+        "event_id": 7163, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T21:45:00+01:00", 
+        "duration": 3600, 
+        "title": "New memory corruption attacks: why can't we have nice things?", 
+        "abstract": "", 
+        "speakers": "gannimo, npc@berkeley.edu"
+    }, 
+    {
+        "event_id": 7240, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-27T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Console Hacking", 
+        "abstract": "", 
+        "speakers": "plutoo, derrek, smea"
+    }, 
+    {
+        "event_id": 7300, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Hacking EU funding for a decentralizing FOSS project", 
+        "abstract": "", 
+        "speakers": "holger krekel"
+    }, 
+    {
+        "event_id": 7325, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "REXUS/BEXUS - Rocket and Balloon Experiments for University Students", 
+        "abstract": "", 
+        "speakers": "panic, sev"
+    }, 
+    {
+        "event_id": 7229, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "PLC-Blaster", 
+        "abstract": "", 
+        "speakers": "Maik Br\u00fcggemann, Ralf Spenneberg"
+    }, 
+    {
+        "event_id": 7174, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lifting the Fog on Red Star OS", 
+        "abstract": "", 
+        "speakers": "Florian Grunow, Niklaus Schiess"
+    }, 
+    {
+        "event_id": 7279, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T17:15:00+01:00", 
+        "duration": 3600, 
+        "title": "Public Library/Memory of the World", 
+        "abstract": "", 
+        "speakers": "Marcell Mars"
+    }, 
+    {
+        "event_id": 7468, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T18:30:00+01:00", 
+        "duration": 3600, 
+        "title": "The Ultimate Amiga 500 Talk", 
+        "abstract": "", 
+        "speakers": "rahra"
+    }, 
+    {
+        "event_id": 7341, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T20:30:00+01:00", 
+        "duration": 3600, 
+        "title": "So you want to build a satellite?", 
+        "abstract": "", 
+        "speakers": "INCO"
+    }, 
+    {
+        "event_id": 7162, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T21:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Shooting lasers into space \u2013 for science!", 
+        "abstract": "", 
+        "speakers": "Peter Buschkamp"
+    }, 
+    {
+        "event_id": 7389, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-27T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "My Robot Will Crush You With Its Soft Delicate Hands!", 
+        "abstract": "", 
+        "speakers": "Gianteye"
+    }, 
+    {
         "event_id": 1087, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Freifunk Hamburg Jahresr\u00fcckblick", 
-        "abstract": "Freifunk Hamburg berichtet \u00fcber Fortschritte beim Ausbau des Richtfunknetzes, Herausforderungen bei der Versorgung Gefl\u00fcchteter mit freiem WLAN, die Zusammenarbeit mit der Stadt und Peering in Hamburg.", 
+        "abstract": "Richtfunk, Fl\u00fcchtlinge und BGP \nFreifunk Hamburg berichtet \u00fcber Fortschritte beim Ausbau des Richtfunknetzes, Herausforderungen bei der Versorgung Gefl\u00fcchteter mit freiem WLAN, die Zusammenarbeit mit der Stadt und Peering in Hamburg", 
         "speakers": "Kantorkel, Ohrensessel"
     }, 
     {
@@ -18,9 +474,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-27T18:00:00+01:00", 
-        "duration": 160, 
+        "duration": 9600, 
         "title": "In Memoriam Caspar Bowden - Transatlantic Privacy Agenda", 
-        "abstract": "We want to convene and discuss how to pursue a Transatlantic Privacy Agenda - as as a homage to Caspar Bowden (\u271d 9 July 2015)", 
+        "abstract": " \nWe want to convene and discuss how to pursue a Transatlantic Privacy Agenda - as as a homage to Caspar Bowden (\u271d 9 July 2015)", 
         "speakers": "Tabesin"
     }, 
     {
@@ -30,9 +486,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-27T21:00:00+01:00", 
-        "duration": 150, 
+        "duration": 9000, 
         "title": "Cryptoparty", 
-        "abstract": "Workshop on using various encryption techniques to secure your data and communications.", 
+        "abstract": "Cryptoparty Day 1 \nWorkshop on using various encryption techniques to secure your data and communications.", 
         "speakers": "Zombb"
     }, 
     {
@@ -42,9 +498,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-27T18:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Diskussion zur Netzpolitik Schweiz", 
-        "abstract": "Diskussion zur Netzpolitik in der Schweiz als Nachtrag zum gleichnamigen Vortrag: https://events.ccc.de/congress/2015/Fahrplan/events/7205.html", 
+        "abstract": " \nDiskussion zur Netzpolitik in der Schweiz als Nachtrag zum gleichnamigen Vortrag: https://events.ccc.de/congress/2015/Fahrplan/events/7205.html", 
         "speakers": "Vimja"
     }, 
     {
@@ -54,9 +510,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-27T19:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Loklak", 
-        "abstract": "loklak is a back-end search- and storage-infrastructure for microblog-messages and the Internet of Things. Make your own search portal! loklak scrapes tweets from twitter html pages (more message sources to come). We+You collect and share tweets in a peer-to-peer network. API Example? Easy, call /api/search.json?q=&lt;search-term&gt; for official Twitter API-like results or /api/search.rss?q=&lt;search-term&gt; for opensearch/rss results. You don't need a twitter account or an OAuth key.", 
+        "abstract": "loklak \nloklak is a back-end search- and storage-infrastructure for microblog-messages and the Internet of Things. Make your own search portal! loklak scrapes tweets from twitter html pages (more message sour", 
         "speakers": "Mb"
     }, 
     {
@@ -66,9 +522,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-27T21:15:00+01:00", 
-        "duration": 160, 
+        "duration": 9600, 
         "title": "1st Annual Shortbus Screening", 
-        "abstract": "Public screening of the movie Shortbus by John Cameron Mitchell. Audio will be english. There will be at least 30mins for setup and admittance. Runtime is around 110mins.\nMovie contains explicit pornographic scenes! Therefore legal admittance only for persons 18 years and older. Please bring a valid ID.", 
+        "abstract": " \nPublic screening of the movie Shortbus by John Cameron Mitchell. Audio will be english. There will be at least 30mins for setup and admittance. Runtime is around 110mins.\nMovie contains explicit porno", 
         "speakers": "Noxxit"
     }, 
     {
@@ -78,9 +534,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-27T14:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Angel meeting day 1 \n", 
         "speakers": "Jz"
     }, 
     {
@@ -90,9 +546,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-27T20:45:00+01:00", 
-        "duration": 30, 
+        "duration": 1800, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Angelmeeting Day 1 \n", 
         "speakers": "Jz"
     }, 
     {
@@ -102,9 +558,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Introduction meeting for new angels \n", 
         "speakers": "Jz"
     }, 
     {
@@ -114,9 +570,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-27T17:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Queer Feminist Geeks Gathering", 
-        "abstract": "A meetup for all the queer feminist geek folk.\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.\nThis meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.", 
+        "abstract": "Start of the gathering \nA meetup for all the queer feminist geek folk.\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.\nThis meetup is open to peopl", 
         "speakers": "Theresa"
     }, 
     {
@@ -126,9 +582,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-27T17:30:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Queer Feminist Geeks Gathering", 
-        "abstract": "A meetup for all the queer feminist geek folk.\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.\nThis meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.", 
+        "abstract": "spare room in case we split up groups \nA meetup for all the queer feminist geek folk.\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.\nThis meetup is open to peopl", 
         "speakers": "Theresa"
     }, 
     {
@@ -138,9 +594,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Subtitles-Engelmeeting", 
-        "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
+        "abstract": " \nAngel meeting of the subtitles angels. If you want to participate, fell free!", 
         "speakers": "Cube"
     }, 
     {
@@ -150,9 +606,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-27T11:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Subtitles-Engelmeeting", 
-        "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
+        "abstract": " \nAngel meeting of the subtitles angels. If you want to participate, fell free!", 
         "speakers": "Cube"
     }, 
     {
@@ -162,9 +618,9 @@
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Ants and Squirrels go 32c3 UnCiv meetup", 
-        "abstract": "building the utopian future together!\n\nmeetup of the people interested in UnCivilization -- concept, mailing-list, movement! \n\nConsider the Squirrels!", 
+        "abstract": "Day 1 \nbuilding the utopian future together!\n\nmeetup of the people interested in UnCivilization -- concept, mailing-list, movement! \n\nConsider the Squirrels!", 
         "speakers": "Becha"
     }, 
     {
@@ -174,9 +630,9 @@
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2015-12-27T18:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "EU-Richtlinie zum Router Lockdown, Update zu FCC", 
-        "abstract": "Hier sollen die bekannten Informationen zur EU-Richtlinie zu Router Lockdown weitergeben und besprechen, wie wir dem begegnen wollen. Au\u00dferdem sollen die \u00e4hnlichen Entwicklungen der FCC bewertet werden", 
+        "abstract": " \nHier sollen die bekannten Informationen zur EU-Richtlinie zu Router Lockdown weitergeben und besprechen, wie wir dem begegnen wollen. Au\u00dferdem sollen die \u00e4hnlichen Entwicklungen der FCC bewertet werde", 
         "speakers": "Andibraeu"
     }, 
     {
@@ -186,9 +642,9 @@
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-27T19:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Social Engineering Poetry Slam bootstrap", 
-        "abstract": "Ever wondered how social engineering attacks happen? This session's purpose is to design a poetry slam-like event with an audience award. Poets present their experience and ideas on how social engineering attacks can look like -- be it based on imagination or experience, stand-alone presentation or interaction with the audience. If we manage agreeing on a concept, we can hopefully organise a pilot slam on day 3.", 
+        "abstract": " \nEver wondered how social engineering attacks happen? This session's purpose is to design a poetry slam-like event with an audience award. Poets present their experience and ideas on how social enginee", 
         "speakers": "Uebelhacker"
     }, 
     {
@@ -198,9 +654,9 @@
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "The EU wants to regulate Wikipedia, Facebook, AirBnB... have your say in just 20 minutes", 
-        "abstract": "Hands-on session, bring your laptop!\n\nThe European Commission has launched a public consultation with the rather unwieldy name \"Regulatory environment for platforms, online intermediaries, data and cloud computing and the collaborative economy\", which will be open for responses until January 6.\n\nThis consultation, which is open to anyone in the form of an online survey, could be decisive for new laws to regulate what the Commission calls online platforms. Clearly large American Internet companies are what the designers of the survey had in mind when they thought of platforms, but the definition of platforms proposed in the survey is much broader and could apply to anything from your personal website to not-for-profit collaborative projects like Wikipedia.\n\nQuestions range from rules for dealing with hate speech to copyright and liability, transparency and interoperability requirements for the operators of online platforms. That's why it's important that the Commission hears from as many users and developers of these platforms as possible, to ensure that they don't come up with any rules with drastic unintended consequences.", 
+        "abstract": "Let's respond to the EU platforms consultation together! \nHands-on session, bring your laptop!\n\nThe European Commission has launched a public consultation with the rather unwieldy name \"Regulatory environment for platforms, online intermediaries, data and cl", 
         "speakers": "Senficon"
     }, 
     {
@@ -210,9 +666,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-27T20:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "MUC", 
-        "abstract": "We're members of the Munich Security (MUC:SEC) Meetup Group who got lost and found ourselves waaaay in the north in Hamburg. the only thing to console us will be beer and banter.", 
+        "abstract": " \nWe're members of the Munich Security (MUC:SEC) Meetup Group who got lost and found ourselves waaaay in the north in Hamburg. the only thing to console us will be beer and banter.", 
         "speakers": "Sifumoraga"
     }, 
     {
@@ -222,9 +678,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-27T17:00:00+01:00", 
-        "duration": 180, 
+        "duration": 10800, 
         "title": "Metal flechten. Schmuck aus selbst geflochtenem Silberdraht", 
-        "abstract": "Haare, Leder und F\u00e4den flechten kann jeder. Bei uns kannst Du Gold uns Silber flechten (nein nicht aus Stroh) und dann darus einen Ring biegen oder ein Armreif.\nMaterial und Werkzeug ist reichlich da der Rest ist Kreativit\u00e4t, Phantasie und Geschick.", 
+        "abstract": " \nHaare, Leder und F\u00e4den flechten kann jeder. Bei uns kannst Du Gold uns Silber flechten (nein nicht aus Stroh) und dann darus einen Ring biegen oder ein Armreif.\nMaterial und Werkzeug ist reichlich da ", 
         "speakers": "SawuGo"
     }, 
     {
@@ -234,9 +690,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-27T13:00:00+01:00", 
-        "duration": 180, 
+        "duration": 10800, 
         "title": "Ringe knoten. Seemanskonten als Silberschmuck", 
-        "abstract": "Magst Du Knoten und Schmuck? Dann knote Dir Deinen eigen Ring aus Silberdraht (925er Silber). Weberknoten und eine Abwandlung des Webleinstegs sind schonmal kein Problem.\nDu hast einen anderen Knoten, der Dir gef\u00e4llt? Komm vorbei und zeig uns welchen Knoten Du als Ring tragen m\u00f6chtest. Wir tun alles, um das hinzubekommen.", 
+        "abstract": " \nMagst Du Knoten und Schmuck? Dann knote Dir Deinen eigen Ring aus Silberdraht (925er Silber). Weberknoten und eine Abwandlung des Webleinstegs sind schonmal kein Problem.\nDu hast einen anderen Knoten,", 
         "speakers": "SawuGo"
     }, 
     {
@@ -246,9 +702,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-27T22:45:00+01:00", 
-        "duration": 75, 
+        "duration": 4500, 
         "title": "\"Mit Dir nicht\" - Braucht es eine Bewegungsresolution?", 
-        "abstract": "Wer gegen \u00dcberwachung arbeitet, will weder mit Aluh\u00fcten noch 'besorgten B\u00fcrgern' oder 'Reichsfuzzis' zu tun haben. Braucht es daf\u00fcr eine formalisierte Abgrenzung?", 
+        "abstract": " \nWer gegen \u00dcberwachung arbeitet, will weder mit Aluh\u00fcten noch 'besorgten B\u00fcrgern' oder 'Reichsfuzzis' zu tun haben. Braucht es daf\u00fcr eine formalisierte Abgrenzung?", 
         "speakers": "Padeluun, Cycomad"
     }, 
     {
@@ -258,9 +714,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-27T18:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Collective Authorities", 
-        "abstract": "Presenter: Ismail Khoffi and Philipp Jovanovic\n\nIn this talk we discuss CoSi, a novel protocol for collective signing, which enables authorities to have their statements collectively signed by a diverse, decentralized, and scalable group of (potentially thousands of) witnesses. Furthermore, we show how CoSi can be utilised to proactively harden critical Internet authorities and in particular present applications to Certificate Transparency, DNSSEC, software distribution, the Tor anonymity network, and cryptocurrencies. The collective authorities research project is a joint effort between teams of security researchers from the University of Yale and the Swiss Federal Institute of Technology in Lausanne (EPFL) and is being lead by Prof. Bryan Ford.", 
+        "abstract": " \nPresenter: Ismail Khoffi and Philipp Jovanovic\n\nIn this talk we discuss CoSi, a novel protocol for collective signing, which enables authorities to have their statements collectively signed by a diver", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -270,9 +726,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-27T21:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Hitobito - Eine Gemeinschaftsl\u00f6sung zur Mitgliederverwaltung", 
-        "abstract": "Deutsch: \nGemeinschaftsl\u00f6sungen auf der Basis von freier Software vereinen Firmen und Organisationen mit gleichen oder \u00e4hnlichen Bed\u00fcrfnissen. Damit verbunden ist ein professionelles Gesch\u00e4ftsmodell, welches sich an der Idee des Crowdfundings orientiert. Die Kunden bilden eine Community, welche die L\u00f6sung finanziert und zusammen mit potenziell mehreren Entwicklerfirmen vorantreibt. Die Architektur der L\u00f6sung erm\u00f6glicht es, individuelle Bed\u00fcrfnisse und Eigenst\u00e4ndigkeiten zu bewahren und dennoch von der gemeinsamen Entwicklung zu profitieren. Zusammen mit den gr\u00f6ssten Kinder- und Jugendorganisationen der Schweiz haben wir eine L\u00f6sung f\u00fcr die Mitglieder- und Kursverwaltung aufgebaut. Ich m\u00f6chte euch die Idee der Gemeinschaftsl\u00f6sungen n\u00e4her bringen und \u00fcber unsere Erfahrungen aus den Projekten berichten. Wir sind zudem laufend auf der Suche nach neuen Organisationen oder Entwickler(-firmen), die unsere Vision von kollaborativer Software-Entwicklung teilen. Auf diesem Weg soll sich freie Software insbesondere in der \u00f6ffentlichen Verwaltung und bei NGO etablieren. \n\n\nEnglish: \nCommunity solutions based on free software unite companies and organizations with the same or similar needs. The associated business model is based on the idea of crowdfunding. The customers form a community which finance the solution and develop it together with potentially several companies or individuals. The architecture of the solution makes it possible to preserve individual needs and still benefit from the joint development. In collaboration with the largest children and youth organizations in Switzerland, we built a solution for the membership and course management. I would like to explain the idea of \u200b\u200bcommunity solutions and share our experiences from the projects. Moreover, we are constantly looking for new organizations or developers/companies who share our vision of collaborative software development. In this way, we help establishing free software, particularly in the public administration sector and NGOs.", 
+        "abstract": " \nDeutsch: \nGemeinschaftsl\u00f6sungen auf der Basis von freier Software vereinen Firmen und Organisationen mit gleichen oder \u00e4hnlichen Bed\u00fcrfnissen. Damit verbunden ist ein professionelles Gesch\u00e4ftsmodell, ", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -282,9 +738,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-27T20:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Replacing BigG's \"Play\" services with the microG Project", 
-        "abstract": "This talk will give a brief introduction of the microG Project, which aims to provide a replacement for libraries and other user-space proprietary components Google introduced to the Android operating system. It will focus on the latest development to lock users and developers into their proprietary system, called \"Play Services\".", 
+        "abstract": " \nThis talk will give a brief introduction of the microG Project, which aims to provide a replacement for libraries and other user-space proprietary components Google introduced to the Android operating", 
         "speakers": "Eal"
     }, 
     {
@@ -294,9 +750,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Room blocking for junghackertag", 
-        "abstract": "Vorbesprechung f\u00fcr alle Helfer am Junghackertag", 
+        "abstract": "Vorbesprechung f\u00fcr Helfer am Junghackertag \nVorbesprechung f\u00fcr alle Helfer am Junghackertag", 
         "speakers": "Benni"
     }, 
     {
@@ -306,9 +762,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-27T20:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Congress Everywhere Breaktime", 
-        "abstract": "Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
+        "abstract": "Evening 1 conferencing studio \nCongress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
         "speakers": "Myon"
     }, 
     {
@@ -318,9 +774,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Geheimdienste hacken", 
-        "abstract": "Geheimdienste sammeln eine Menge personenbezogener Daten. Die Speicherung selbiger unterliegt speziellen Datenschutzregeln. In Deutschland und vielen anderen liberalen Rechtsstaaten kann man Daten, die \u00fcber einen selbst gespeichert sind, mit einem Antrag auf Aktenauskunft gesagt bekommen. Was muss man sagen, was bekommt man zu sehen?", 
+        "abstract": "Was speichern die Dienste \u00fcber dich? \nGeheimdienste sammeln eine Menge personenbezogener Daten. Die Speicherung selbiger unterliegt speziellen Datenschutzregeln. In Deutschland und vielen anderen liberalen Rechtsstaaten kann man Daten, di", 
         "speakers": "Akte"
     }, 
     {
@@ -330,9 +786,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-27T21:30:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Public Library/Memory of the World", 
-        "abstract": "Is the discourse of individual freedoms and privacy as the prevalence answer to the political crisis today enough?", 
+        "abstract": " \nIs the discourse of individual freedoms and privacy as the prevalence answer to the political crisis today enough?", 
         "speakers": ""
     }, 
     {
@@ -342,9 +798,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-27T18:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Tails backup", 
-        "abstract": "Learn how to make a backup of your Persistent Volume in Tails", 
+        "abstract": " \nLearn how to make a backup of your Persistent Volume in Tails", 
         "speakers": "Emmapeel"
     }, 
     {
@@ -354,46 +810,46 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-27T23:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Terje", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1139, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-27T19:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1144, 
+        "event_id": 1141, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T01:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Ander", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1148, 
+        "event_id": 1142, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T20:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-27T19:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Technicolorism", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1146, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Anabolika Boyknott", 
+        "abstract": "", 
+        "speakers": ""
     }, 
     {
         "event_id": 1149, 
@@ -401,11 +857,11 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-27T20:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Technicolorism", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1170, 
@@ -414,58 +870,58 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T00:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Ander", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1175, 
+        "event_id": 1173, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T02:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Dominik Eulberg", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1180, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-27T21:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1181, 
+        "event_id": 1178, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-27T17:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Anabolika Boyknott", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1202, 
+        "event_id": 1182, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-27T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Janina L", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1203, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T03:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Dominik Eulberg", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1208, 
@@ -473,23 +929,563 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T22:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-27T18:00:00+01:00", 
+        "duration": 3600, 
+        "title": "At the Space Office L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1209, 
+        "event_id": 1210, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T18:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-27T22:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Terje", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
+    }, 
+    {
+        "event_id": 7306, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T11:30:00+01:00", 
+        "duration": 7200, 
+        "title": "Jahresr\u00fcckblick des CCC", 
+        "abstract": "", 
+        "speakers": "frank, Linus Neumann, erdgeist, Constanze Kurz, Falk Garbsch"
+    }, 
+    {
+        "event_id": 7280, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Cyber all the Wassenaars", 
+        "abstract": "", 
+        "speakers": "Walter van Holst, Nate Cardozo, mlp, Richard Tynan"
+    }, 
+    {
+        "event_id": 7135, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Ein Abgrund von Landesverrat", 
+        "abstract": "", 
+        "speakers": "Markus Beckedahl"
+    }, 
+    {
+        "event_id": 7360, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T16:45:00+01:00", 
+        "duration": 1800, 
+        "title": "(Un)Sicherheit von App-basierten TAN-Verfahren im Onlinebanking", 
+        "abstract": "", 
+        "speakers": "Vincent Haupert"
+    }, 
+    {
+        "event_id": 7423, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T17:30:00+01:00", 
+        "duration": 1800, 
+        "title": "One year of securitarian drift in France", 
+        "abstract": "", 
+        "speakers": "taziden, Adrienne Charmet"
+    }, 
+    {
+        "event_id": 7197, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T18:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Rowhammer.js: Root privileges for web apps?", 
+        "abstract": "", 
+        "speakers": "Cl\u00e9mentine Maurice, Daniel Gruss"
+    }, 
+    {
+        "event_id": 7528, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T19:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Let's Encrypt -- What launching a free CA looks like", 
+        "abstract": "", 
+        "speakers": "Roland Bracewell Shoemaker"
+    }, 
+    {
+        "event_id": 7130, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T20:30:00+01:00", 
+        "duration": 3600, 
+        "title": "The Perl Jam 2", 
+        "abstract": "", 
+        "speakers": "Netanel Rubin"
+    }, 
+    {
+        "event_id": 7288, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T21:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Logjam: Diffie-Hellman, discrete logs, the NSA, and you", 
+        "abstract": "", 
+        "speakers": "J. Alex Halderman, Nadia Heninger"
+    }, 
+    {
+        "event_id": 7154, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-28T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Iridium Update ", 
+        "abstract": "", 
+        "speakers": "Sec, schneider"
+    }, 
+    {
+        "event_id": 7282, 
+        "track_id": 10, 
+        "track_name": "Entertainment", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T00:15:00+01:00", 
+        "duration": 3600, 
+        "title": "Fnord-Jahresr\u00fcckblick", 
+        "abstract": "", 
+        "speakers": "Fefe, frank"
+    }, 
+    {
+        "event_id": 7143, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "The state of Internet Censorship", 
+        "abstract": "", 
+        "speakers": "Will Scott, andz@torproject.org"
+    }, 
+    {
+        "event_id": 7387, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T12:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Net Neutrality in Europe", 
+        "abstract": "", 
+        "speakers": "Thomas Lohninger"
+    }, 
+    {
+        "event_id": 7530, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T13:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Buffering sucks!", 
+        "abstract": "", 
+        "speakers": "Fredy Kuenzler"
+    }, 
+    {
+        "event_id": 7562, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Jugend hackt 2015", 
+        "abstract": "", 
+        "speakers": "Jugend hackt"
+    }, 
+    {
+        "event_id": 7166, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Sicherheit von 125kHz Transpondern  am Beispiel Hitag S", 
+        "abstract": "", 
+        "speakers": "Ralf Spenneberg, Hendrik Schwartke, Oguzhan Cicek"
+    }, 
+    {
+        "event_id": 7230, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T16:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Lessons learned: Freifunk f\u00fcr Gefl\u00fcchtete", 
+        "abstract": "", 
+        "speakers": "Peter L\u00f6wenstein"
+    }, 
+    {
+        "event_id": 7314, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T17:30:00+01:00", 
+        "duration": 1800, 
+        "title": "All Our Shared Spectrum Are Belong to Us", 
+        "abstract": "", 
+        "speakers": "Paul Fuxjaeger"
+    }, 
+    {
+        "event_id": 7138, 
+        "track_id": 299, 
+        "track_name": "Failosophy", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T18:15:00+01:00", 
+        "duration": 1800, 
+        "title": "G\u2019scheitern", 
+        "abstract": "", 
+        "speakers": "Gregor Ruttner"
+    }, 
+    {
+        "event_id": 7134, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T19:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Ecuador: how an authoritarian government is fooling the entire world", 
+        "abstract": "", 
+        "speakers": "Pedro Noel, Bethany Horne"
+    }, 
+    {
+        "event_id": 7305, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T20:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Quantum Cryptography", 
+        "abstract": "", 
+        "speakers": "Christian Schaffner"
+    }, 
+    {
+        "event_id": 7502, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T21:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Dissecting VoLTE", 
+        "abstract": "", 
+        "speakers": "Dongkwan, Hongil Kim"
+    }, 
+    {
+        "event_id": 7438, 
+        "track_id": 299, 
+        "track_name": "Failosophy", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-28T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "goto fail;", 
+        "abstract": "", 
+        "speakers": "Nick Sullivan"
+    }, 
+    {
+        "event_id": 7572, 
+        "track_id": 10, 
+        "track_name": "Entertainment", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T00:15:00+01:00", 
+        "duration": 7200, 
+        "title": "Methodisch inkorrekt! (Live-Stream)", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 7342, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Household, Totalitarianism and Cyberspace", 
+        "abstract": "", 
+        "speakers": "Julia Maria M\u00f6nig"
+    }, 
+    {
+        "event_id": 7558, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T12:45:00+01:00", 
+        "duration": 8100, 
+        "title": "Lightning Talks Day 2", 
+        "abstract": "", 
+        "speakers": "gedsic, bigalex"
+    }, 
+    {
+        "event_id": 7416, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Evolution of Brain-Computer Interfaces", 
+        "abstract": "", 
+        "speakers": "fractalfox"
+    }, 
+    {
+        "event_id": 7355, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T16:45:00+01:00", 
+        "duration": 1800, 
+        "title": "apertus\u00b0 AXIOM", 
+        "abstract": "", 
+        "speakers": "Matthias Tarasiewicz (parasew)"
+    }, 
+    {
+        "event_id": 7195, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T17:30:00+01:00", 
+        "duration": 1800, 
+        "title": "Verified Firewall Ruleset Verification", 
+        "abstract": "", 
+        "speakers": "Cornelius Diekmann"
+    }, 
+    {
+        "event_id": 7238, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T18:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Vector retrogaming", 
+        "abstract": "", 
+        "speakers": "Trammell Hudson, Adelle Lin"
+    }, 
+    {
+        "event_id": 7249, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T20:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Das Zahnrad aus Fleisch", 
+        "abstract": "", 
+        "speakers": "agonarch, @fraufeli"
+    }, 
+    {
+        "event_id": 7493, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T21:45:00+01:00", 
+        "duration": 3600, 
+        "title": "How hackers grind an MMORPG: by taking it apart!", 
+        "abstract": "", 
+        "speakers": "Rink Springer"
+    }, 
+    {
+        "event_id": 7273, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-28T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Unpatchable", 
+        "abstract": "", 
+        "speakers": "Marie Moe, Eireann Leverett"
+    }, 
+    {
+        "event_id": 7221, 
+        "track_id": 10, 
+        "track_name": "Entertainment", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T00:15:00+01:00", 
+        "duration": 7200, 
+        "title": "Methodisch inkorrekt!", 
+        "abstract": "", 
+        "speakers": "Nicolas W\u00f6hrl, @ReinhardRemfort"
+    }, 
+    {
+        "event_id": 7540, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Maker Spaces in Favelas - Lecture", 
+        "abstract": "", 
+        "speakers": "Miguel Chaves"
+    }, 
+    {
+        "event_id": 7231, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "CloudABI", 
+        "abstract": "", 
+        "speakers": "Ed Schouten"
+    }, 
+    {
+        "event_id": 7283, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Software and business method patents: call for action", 
+        "abstract": "", 
+        "speakers": "Iga Ba\u0142os, Benjamin Henrion (zoobab)"
+    }, 
+    {
+        "event_id": 7264, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Profiling (In)justice", 
+        "abstract": "", 
+        "speakers": "Jeff Deutch"
+    }, 
+    {
+        "event_id": 7570, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T16:45:00+01:00", 
+        "duration": 1800, 
+        "title": " Plunge into Proxy Politics", 
+        "abstract": "", 
+        "speakers": "Vera Tollmann, Boaz Levin"
+    }, 
+    {
+        "event_id": 7415, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T17:30:00+01:00", 
+        "duration": 1800, 
+        "title": "Wie Jugendschutzprogramme nicht nur die Jugend sch\u00e4digen", 
+        "abstract": "", 
+        "speakers": "Alvar Freude"
+    }, 
+    {
+        "event_id": 7529, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T18:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Mobile Censorship in Iran", 
+        "abstract": "", 
+        "speakers": "Mahsa"
+    }, 
+    {
+        "event_id": 7367, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T19:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Ling - High level system programming", 
+        "abstract": "", 
+        "speakers": "Nicolas Pouillard"
+    }, 
+    {
+        "event_id": 7496, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T20:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Hardsploit: A Metasploit-like tool for hardware hacking", 
+        "abstract": "", 
+        "speakers": "Yann.A, Julien MOINARD, Gw\u00e9nol\u00e9 Audic"
+    }, 
+    {
+        "event_id": 7525, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T21:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Quantenphysik und  Kosmologie", 
+        "abstract": "", 
+        "speakers": "Steini"
+    }, 
+    {
+        "event_id": 7294, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-28T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Sanitizing PCAPs", 
+        "abstract": "", 
+        "speakers": "Jasper Bongertz"
     }, 
     {
         "event_id": 1001, 
@@ -498,9 +1494,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-28T16:00:00+01:00", 
-        "duration": 45, 
+        "duration": 2700, 
         "title": "\"The ananas from SpongeBob SquarePants is a lie!\" Wondrous infinite fractions.", 
-        "abstract": "This talk gives a leisurely introduction to the secret of the number 5, which links SpongeBob's ananas, approximations to \u03c0 known to antiquity, the Mandelbrot fractal, and infinite continued fractions together. The talk is aimed at people who are interested in mathematical patterns, but no fancy math knowledge is needed to enjoy the talk. There will be pretty pictures.", 
+        "abstract": " \nThis talk gives a leisurely introduction to the secret of the number 5, which links SpongeBob's ananas, approximations to \u03c0 known to antiquity, the Mandelbrot fractal, and infinite continued fractions", 
         "speakers": "Iblech"
     }, 
     {
@@ -510,9 +1506,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-28T17:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "An Advanced Introduction to GnuPG", 
-        "abstract": "There is more to encryption than generating an OpenPGP key and sending encrypted emails. In this talk, I will provide some tips on how to manage keys, how to improve your confidence that your mail is not being intercepted and some other neat tricks that GnuPG can do.\n\nThis talk is given by Neal Walfield", 
+        "abstract": " \nThere is more to encryption than generating an OpenPGP key and sending encrypted emails. In this talk, I will provide some tips on how to manage keys, how to improve your confidence that your mail is ", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -522,9 +1518,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-28T14:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Angewandte Konsensdemokratie", 
-        "abstract": "thesen: gruppen von menschen lassen sich oft weiter demokratisieren als \"nur\" basisdemokratie zu machen. konsensdemokratie ist m\u00f6glich, und mittelfristig sogar effizienter und stressfreier. mehr spa\u00df macht sie auch :-)", 
+        "abstract": " \nthesen: gruppen von menschen lassen sich oft weiter demokratisieren als \"nur\" basisdemokratie zu machen. konsensdemokratie ist m\u00f6glich, und mittelfristig sogar effizienter und stressfreier. mehr spa\u00df ", 
         "speakers": "Uwe premium"
     }, 
     {
@@ -534,9 +1530,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-28T12:00:00+01:00", 
-        "duration": 45, 
+        "duration": 2700, 
         "title": "Biometriedaten f\u00fcr den Personalausweis", 
-        "abstract": "Wie werden die Biometriedaten f\u00fcr Personalausweis und Reisepass (also Fingerabdruck & biometrisches Foto) erfasst?\nGibt es dabei Schwachstellen, die evtl. ausgenutzt werden k\u00f6nnen?\nWie kann ich m\u00f6glichst wenige Biometriedaten preisgeben - und trotzdem neue Ausweispapiere bekommen?\nEin Erfahrungs- und Gedankenaustausch.\n\nNB: Es kommt auf eure Erfahrungen und Gedanken an :-)\n\nWer zum CCC-Jahresr\u00fcckblick m\u00f6chte: Ihr seid herzlich eingeladen, an den ersten 20 Minuten \nteilzunehmen, und dann zum Jahresr\u00fcckblick aufzubrechen ;-)", 
+        "abstract": " \nWie werden die Biometriedaten f\u00fcr Personalausweis und Reisepass (also Fingerabdruck & biometrisches Foto) erfasst?\nGibt es dabei Schwachstellen, die evtl. ausgenutzt werden k\u00f6nnen?\nWie kann ich m\u00f6glic", 
         "speakers": "Musevg"
     }, 
     {
@@ -546,9 +1542,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-28T19:30:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "France ", 
-        "abstract": "The aim of this session is to go beyond the talk in Hall 1 about French securitarian drift since more than a year now.", 
+        "abstract": " \nThe aim of this session is to go beyond the talk in Hall 1 about French securitarian drift since more than a year now.", 
         "speakers": "Taziden"
     }, 
     {
@@ -558,9 +1554,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-28T18:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "GnuPG and its current state of development", 
-        "abstract": "After last year's CCC, GnuPG run a succesful fundraising campaign. Werner Koch, principal author of the GNU Privacy Guard (GnuPG), speaks about the process made and the current \tstage of development", 
+        "abstract": " \nAfter last year's CCC, GnuPG run a succesful fundraising campaign. Werner Koch, principal author of the GNU Privacy Guard (GnuPG), speaks about the process made and the current \tstage of development", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -570,9 +1566,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-28T20:30:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Arcade Vector Gaming", 
-        "abstract": "See vector games on the Vectrex up-close and personal. Bring your XY oscilloscope or vector monitor and we'll try gaming on it, too.", 
+        "abstract": " \nSee vector games on the Vectrex up-close and personal. Bring your XY oscilloscope or vector monitor and we'll try gaming on it, too.", 
         "speakers": "Hudson"
     }, 
     {
@@ -582,9 +1578,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-28T18:30:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Build an IoT Empire", 
-        "abstract": "Build an IoT Empire using bring-your-own as well as on site provided embedded hardware. We start with a physical web using Firefox OS terminals and Estimote beacons, and progress to make our own IoT systems adding Nordic Semiconductor and Freescale development boards.", 
+        "abstract": "Identifying and implementing IoT use cases with sensors and actuators \nBuild an IoT Empire using bring-your-own as well as on site provided embedded hardware. We start with a physical web using Firefox OS terminals and Estimote beacons, and progress to make our own IoT s", 
         "speakers": "Michaesc"
     }, 
     {
@@ -594,9 +1590,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-28T14:00:00+01:00", 
-        "duration": 45, 
+        "duration": 2700, 
         "title": "LEAP Encryption Access Project", 
-        "abstract": "Overwiew of the LEAP Encryption Access Project", 
+        "abstract": "Introduction \nOverwiew of the LEAP Encryption Access Project", 
         "speakers": "Varac, Meskio"
     }, 
     {
@@ -606,9 +1602,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-28T15:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "LEAP Provider Hands-On", 
-        "abstract": "Ever wanted to run your own secure LEAP provider, hosting VPN and email ?", 
+        "abstract": "Hands-On \nEver wanted to run your own secure LEAP provider, hosting VPN and email ?", 
         "speakers": "Varac"
     }, 
     {
@@ -618,9 +1614,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-28T16:45:00+01:00", 
-        "duration": 75, 
+        "duration": 4500, 
         "title": "Pixelated Hands On", 
-        "abstract": "Hands on experience on how to install the pixelated provider.", 
+        "abstract": " \nHands on experience on how to install the pixelated provider.", 
         "speakers": "Varac"
     }, 
     {
@@ -630,9 +1626,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-28T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Introduction meeting for new angels \n", 
         "speakers": "Jz"
     }, 
     {
@@ -642,9 +1638,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-28T14:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Angelmeeting Day 2 \n", 
         "speakers": "Jz"
     }, 
     {
@@ -654,9 +1650,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-28T20:45:00+01:00", 
-        "duration": 30, 
+        "duration": 1800, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Angelmeeting day 2 \n", 
         "speakers": "Jz"
     }, 
     {
@@ -666,9 +1662,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-28T23:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Jeoparty Hard", 
-        "abstract": "Urspr\u00fcnglich wollten wir Jeopardy im Hauptprogramm veranstalten - aber Ray und Sec haben sich ja zum Gl\u00fcck dieses Jahr dazu entschieden, doch wieder aufzutreten. Dennoch wollen wir ein bisschen spielen - im kleineren Rahmen", 
+        "abstract": " \nUrspr\u00fcnglich wollten wir Jeopardy im Hauptprogramm veranstalten - aber Ray und Sec haben sich ja zum Gl\u00fcck dieses Jahr dazu entschieden, doch wieder aufzutreten. Dennoch wollen wir ein bisschen spiele", 
         "speakers": "DenSchub, St\u00e4bchenfisch"
     }, 
     {
@@ -678,9 +1674,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-28T17:15:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "KinkyGeeks Bondage Workshop 1", 
-        "abstract": "All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/", 
+        "abstract": " \nAll KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/", 
         "speakers": "DarkGigaByte"
     }, 
     {
@@ -690,9 +1686,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-28T21:30:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Women and children in refugee camps", 
-        "abstract": "Women are fewer than male Newcomers and yet they are not given priorities\n\n\nThe workshop concept is:\n\n1. To identify the problems.\n\n2. How to improve and find possible solutions to the existing problems with a clearly defined plan.\n\n3. Organizing an empowerment skills workshop, like organizing computer lessons as a means of education, supporting them in enrolling for the Ausbildung programme, entreprenurship ideas, etc.\n\n4. And finally to keep track for collective support, connection and networking we need to develop afollow up plan, (if people are interested for coordination reason)\n\n\nThis workshop is held by Fatuma Musa Afrah.", 
+        "abstract": " \nWomen are fewer than male Newcomers and yet they are not given priorities\n\n\nThe workshop concept is:\n\n1. To identify the problems.\n\n2. How to improve and find possible solutions to the existing proble", 
         "speakers": "Linuzifer"
     }, 
     {
@@ -702,9 +1698,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-28T17:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Haecksen Get Together", 
-        "abstract": "Women of the congress let\u2019s meet. Discuss, exchange or even create a network. We want to have coffee on day 2 and breakfast on day 3. Bring something to drink or food - there will be cookies and some fruits.\n\nThis event is women-only* only, whatever \u201ewomen\u201c means for you. Feel welcome to join, you don\u2019t need to be a supergeek.", 
+        "abstract": "Coffee & Cake \nWomen of the congress let\u2019s meet. Discuss, exchange or even create a network. We want to have coffee on day 2 and breakfast on day 3. Bring something to drink or food - there will be cookies and some ", 
         "speakers": "Slightly"
     }, 
     {
@@ -714,9 +1710,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-28T15:00:00+01:00", 
-        "duration": 45, 
+        "duration": 2700, 
         "title": "Science Fiction Discussion", 
-        "abstract": "What can science fiction help us imagine that we may not be able to imagine otherwise? Can science fiction provide a way to envision post-capitalist techno-utopias (and is that something we want)? What do you think about certain sci-fi becoming mimetic to describe civil liberties violations and surveillance capabilities? We will focus on these issues but will open the discussion to a broad conversation about science fiction as well. \n\nFeel free to bring a few books (in any language) for a science fiction book swap!", 
+        "abstract": " \nWhat can science fiction help us imagine that we may not be able to imagine otherwise? Can science fiction provide a way to envision post-capitalist techno-utopias (and is that something we want)? Wha", 
         "speakers": "Nm32u"
     }, 
     {
@@ -726,9 +1722,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-28T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Subtitles-Engelmeeting", 
-        "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
+        "abstract": " \nAngel meeting of the subtitles angels. If you want to participate, fell free!", 
         "speakers": "Cube"
     }, 
     {
@@ -738,9 +1734,9 @@
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2015-12-28T17:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "ADMIN", 
-        "abstract": "ADvanced Meeting Infrastructure & Network", 
+        "abstract": "Versuch 1 \nADvanced Meeting Infrastructure & Network", 
         "speakers": "Watz"
     }, 
     {
@@ -750,9 +1746,9 @@
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-28T15:00:00+01:00", 
-        "duration": 180, 
+        "duration": 10800, 
         "title": "Open Science Workshop", 
-        "abstract": "A workshop/discussion round for anybody interested in the different facets of Open Science/Research. Newbies are welcome!", 
+        "abstract": " \nA workshop/discussion round for anybody interested in the different facets of Open Science/Research. Newbies are welcome!", 
         "speakers": "Konrad, Rupi, Andrenarchy"
     }, 
     {
@@ -762,9 +1758,9 @@
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-28T13:00:00+01:00", 
-        "duration": 45, 
+        "duration": 2700, 
         "title": "Python.Processing.Arduino", 
-        "abstract": "Combine the simplicity of Processing with the power of Python and hack the Arduino!", 
+        "abstract": " \nCombine the simplicity of Processing with the power of Python and hack the Arduino!", 
         "speakers": "Xldrkp"
     }, 
     {
@@ -774,9 +1770,9 @@
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-28T19:00:00+01:00", 
-        "duration": 330, 
+        "duration": 19800, 
         "title": "Wordclock Workshop", 
-        "abstract": "Bau deine eigene Wortuhr am 32C3.\nWorkshop vom Fablab N\u00fcrnberg", 
+        "abstract": "Bau deine Wordclock \nBau deine eigene Wortuhr am 32C3.\nWorkshop vom Fablab N\u00fcrnberg", 
         "speakers": "Fabianurban, Faheus"
     }, 
     {
@@ -786,9 +1782,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-28T14:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "22 harddrives from a Westafrican e-waste dump - Behind the Smart World", 
-        "abstract": "We bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!\n\nTogether we want to explore questions like:\n\n    What kind of data did we find on this hard-drives?\n    How can this data be (ab)used?\n    How would you deal with this data breach?\n\nWho can participate?\n\nWe are looking for hackers, artists and activists to deal with this data! Data as waste, waste in the sense that it is deleted, dumped in the \u2018recycle bin\u2019 on our desktop, yet possible to be recovered. And waste as resurfacing data on hard-drives physically located at one of the largest e-waste dumps in the world.\n\nMore info about the \u201cBehind the Smart World Project can be found on the research blog resarch.radical-openness.org and here: http://kairus.org/call-for-participation-behind-the-smart-world-assembly-workshop-at-32c3-congress/ The research lab is part of the \u201cArt meets radical openness\u201d Festival which takes place in Linz, Austria.", 
+        "abstract": "Introduction, Hands-on \nWe bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!\n\nTogether we want to explore questions like:\n\n    What kind o", 
         "speakers": "Kairus"
     }, 
     {
@@ -798,9 +1794,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-28T18:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Cryptography without computers - computations with a deck of cards", 
-        "abstract": "We discuss sophisticated card-based protocols for secure computations with a deck of cards, i.e. cryptography without computers. However, we show also the possibility to implement these protocols with LibTMCG - the C++ library for creating secure and fair online card games.", 
+        "abstract": " \nWe discuss sophisticated card-based protocols for secure computations with a deck of cards, i.e. cryptography without computers. However, we show also the possibility to implement these protocols with", 
         "speakers": "HS"
     }, 
     {
@@ -810,9 +1806,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-28T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Digital Stalking Response Protocol", 
-        "abstract": "There no simple go to place for real information wrt to protection and response to cases of digital stalking, but also the information needed is very country specific. However there are clear areas that need to be addressed, regardless of country, and we propose the creation of a Pan-European protocol on digital stalking which we will begin at a self organised session here at 32C3.\n\nWe want people with knowledge about the areas of FORENSICS, LEGAL, POLICE, SOCIAL WORKERS, PSYCHOLOGISTS/VICTIM SUPPORT wrt to digital stalking in their respective countries to come together and help establish a practical knowledge base along with tips for awareness training and tools.", 
+        "abstract": " \nThere no simple go to place for real information wrt to protection and response to cases of digital stalking, but also the information needed is very country specific. However there are clear areas th", 
         "speakers": "Cataspanglish"
     }, 
     {
@@ -822,9 +1818,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-28T20:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Freifunk Hilft", 
-        "abstract": "Freifunk hat in diesem Jahr an vielen Orten Refugees unterst\u00fctzt und Unterk\u00fcnfte vernetzt. Wir wollen berichten, was geleistet wurde und welche Aufgaben vor den Communities liegen.", 
+        "abstract": " \nFreifunk hat in diesem Jahr an vielen Orten Refugees unterst\u00fctzt und Unterk\u00fcnfte vernetzt. Wir wollen berichten, was geleistet wurde und welche Aufgaben vor den Communities liegen.", 
         "speakers": "Monic"
     }, 
     {
@@ -834,9 +1830,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-28T15:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "EDN API", 
-        "abstract": "Discussion of APIs for next-generation Internet applications. We want to standardize APIs so we can share more code across projects!", 
+        "abstract": " \nDiscussion of APIs for next-generation Internet applications. We want to standardize APIs so we can share more code across projects!", 
         "speakers": "Grothoff, Demos"
     }, 
     {
@@ -846,9 +1842,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-28T17:00:00+01:00", 
-        "duration": 180, 
+        "duration": 10800, 
         "title": "Ohrringe. Goldschmieden f\u00fcr Leute mit kleinen H\u00e4nden und guter Sicht", 
-        "abstract": "So jetzt wirds klein. Aus Silber oder Golddraht im Designe eines Debian Swirls oder eines Notenschl\u00fcssls herzustellen erfordert gute Sicht (ob nat\u00fcrlich vorhanden ider mit Sehhilfe ist gleich). Aber keine Angst, wir stehen euch mt Rat, Tat und Werkzeug zur Verf\u00fcgung.", 
+        "abstract": " \nSo jetzt wirds klein. Aus Silber oder Golddraht im Designe eines Debian Swirls oder eines Notenschl\u00fcssls herzustellen erfordert gute Sicht (ob nat\u00fcrlich vorhanden ider mit Sehhilfe ist gleich). Aber k", 
         "speakers": "SawuGo"
     }, 
     {
@@ -858,9 +1854,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-28T23:00:00+01:00", 
-        "duration": 150, 
+        "duration": 9000, 
         "title": "Scene Demos Vol. 1", 
-        "abstract": "A small session to watch some demos, entertaining, non-interactive programs on different platforms from C64 to PC.", 
+        "abstract": " \nA small session to watch some demos, entertaining, non-interactive programs on different platforms from C64 to PC.", 
         "speakers": ""
     }, 
     {
@@ -870,9 +1866,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-28T23:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "34rtcorg", 
-        "abstract": "private session on a private topic", 
+        "abstract": " \nprivate session on a private topic", 
         "speakers": ""
     }, 
     {
@@ -882,9 +1878,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-28T21:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Bringing free-as-in-freedom to social networks", 
-        "abstract": "Social network users even outside the free software community are more and more aware of problems related to mainstream social network operators stranglehold on their data. And yet even within the free software community number of Facebook users trumps number of all libre social networks combined.\n\nWhat is keeping people within the walled gardens? What are the libre options? Where is the decentralized social sphere headed?\n\nAnd most importantly: what could be the effective ways of bringing more users to the libre side of social networking?", 
+        "abstract": " \nSocial network users even outside the free software community are more and more aware of problems related to mainstream social network operators stranglehold on their data. And yet even within the fre", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -894,9 +1890,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-28T19:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Tor Relay Operators Meetup", 
-        "abstract": "Are you operating a Tor relay? Are you thinking about it? Come by and exchange with other relay operators!", 
+        "abstract": " \nAre you operating a Tor relay? Are you thinking about it? Come by and exchange with other relay operators!", 
         "speakers": "Mo"
     }, 
     {
@@ -906,9 +1902,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-28T15:15:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Anarchism 101", 
-        "abstract": "During the workshop we will have a short look at the anarchist history, have an overviews of the current streams of anarchist thought and have some space for collective discussions on the matter.", 
+        "abstract": " \nDuring the workshop we will have a short look at the anarchist history, have an overviews of the current streams of anarchist thought and have some space for collective discussions on the matter.", 
         "speakers": ""
     }, 
     {
@@ -918,9 +1914,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-28T19:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Bring Linux Presentation Day into your own town", 
-        "abstract": "", 
+        "abstract": " \n", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -930,9 +1926,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-28T20:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Congress Everywhere Breaktime", 
-        "abstract": "Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
+        "abstract": "Evening 2 conferencing studio \nCongress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
         "speakers": "Myon"
     }, 
     {
@@ -942,9 +1938,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-28T17:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Freifunk Advisory Council Meetup", 
-        "abstract": "Freifunk Advisory Council internal meeting.", 
+        "abstract": " \nFreifunk Advisory Council internal meeting.", 
         "speakers": "Blackhark"
     }, 
     {
@@ -954,9 +1950,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-28T18:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Freifunk Webteam Meetup", 
-        "abstract": "Wir laden alle Freifunkas ein, die sich mit Websites, Wikis oder Diensten rund um das Web besch\u00e4ftigen. Ziel ist es, Themen zu besprechen, gemeinsame Punkte zur Zusammenarbeit auszumachen und einfach nur zu sehen, was es anderswo schon gibt.", 
+        "abstract": " \nWir laden alle Freifunkas ein, die sich mit Websites, Wikis oder Diensten rund um das Web besch\u00e4ftigen. Ziel ist es, Themen zu besprechen, gemeinsame Punkte zur Zusammenarbeit auszumachen und einfach ", 
         "speakers": "Andibraeu"
     }, 
     {
@@ -966,9 +1962,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-28T22:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Friendica - A decentralized, federated Social Network", 
-        "abstract": "We will briefly introduce the Friendica project and \"The Federation\" we are part of. Introduction talk (approx 10 minutes) with Q&A afterwards by core members of the Friendica Project.", 
+        "abstract": " \nWe will briefly introduce the Friendica project and \"The Federation\" we are part of. Introduction talk (approx 10 minutes) with Q&A afterwards by core members of the Friendica Project.", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -978,22 +1974,22 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-28T12:00:00+01:00", 
-        "duration": 180, 
+        "duration": 10800, 
         "title": "Numerical Weather Prediction Tutorial", 
-        "abstract": "A workshop about running your own Numerical Weather Prediction (NWP) model.", 
+        "abstract": " \nA workshop about running your own Numerical Weather Prediction (NWP) model.", 
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1145, 
+        "event_id": 1147, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T18:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Sonic Robots L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1150, 
@@ -1002,34 +1998,34 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T22:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Martha van Straaten", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1153, 
+        "event_id": 1152, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T15:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Specialguest L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1159, 
+        "event_id": 1162, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T03:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Des Wahnsins fette H\u00e4lfte", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1176, 
@@ -1038,10 +2034,10 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T23:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Martha van Straaten", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1177, 
@@ -1049,11 +2045,11 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T19:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-28T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Dj Spock", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1179, 
@@ -1061,35 +2057,35 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T14:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1182, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
         "start_time": "2015-12-29T01:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Robert Etzold", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1186, 
+        "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T20:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-28T19:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Etkin", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1184, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Eulberg/Extrawelt L", 
+        "abstract": "", 
+        "speakers": ""
     }, 
     {
         "event_id": 1187, 
@@ -1097,11 +2093,11 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T16:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-28T20:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Etkin", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1206, 
@@ -1110,58 +2106,598 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T00:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Circuit Diagram L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1210, 
+        "event_id": 1209, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T02:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Robert Etzold", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1215, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T21:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1216, 
+        "event_id": 1213, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T17:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Eulberg/Extrawelt L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1221, 
+        "event_id": 1217, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-28T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "The incredible Herrengedeck L", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1219, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-28T13:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Dj Spock", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
+    }, 
+    {
+        "event_id": 7150, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "\u201eNach bestem Wissen und Gewissen\u201c \u2013 Floskeln in der Politik", 
+        "abstract": "", 
+        "speakers": "Martin Haase/maha, Kai Biermann"
+    }, 
+    {
+        "event_id": 7322, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Tor onion services: more useful than you think", 
+        "abstract": "", 
+        "speakers": "Roger, David Goulet, asn"
+    }, 
+    {
+        "event_id": 7307, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "State of the Onion", 
+        "abstract": "", 
+        "speakers": "Roger, Jacob, Mike Perry, Shari Steele, Alison Macrina"
+    }, 
+    {
+        "event_id": 7482, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Say hi to your new boss: How algorithms might soon control our lives.", 
+        "abstract": "", 
+        "speakers": "Andreas Dewes"
+    }, 
+    {
+        "event_id": 7513, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T17:15:00+01:00", 
+        "duration": 3600, 
+        "title": "Safe Harbor", 
+        "abstract": "", 
+        "speakers": "Max Schrems"
+    }, 
+    {
+        "event_id": 7501, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T18:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Ten years after \u201aWe Lost The War\u2018", 
+        "abstract": "", 
+        "speakers": "rop, frank"
+    }, 
+    {
+        "event_id": 7310, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T20:30:00+01:00", 
+        "duration": 1800, 
+        "title": "QRtistry", 
+        "abstract": "", 
+        "speakers": "Henryk Pl\u00f6tz"
+    }, 
+    {
+        "event_id": 7426, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T21:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Intelexit", 
+        "abstract": "", 
+        "speakers": "Gloria Spindle \u2013 Peng! Collective"
+    }, 
+    {
+        "event_id": 7102, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T22:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Crypto ist Abwehr, IFG ist Angriff!", 
+        "abstract": "", 
+        "speakers": "Arne Semsrott"
+    }, 
+    {
+        "event_id": 7119, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T22:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Building and Breaking Wireless Security", 
+        "abstract": "", 
+        "speakers": "jiska"
+    }, 
+    {
+        "event_id": 7265, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-29T23:30:00+01:00", 
+        "duration": 1800, 
+        "title": "Maritime Robotics", 
+        "abstract": "", 
+        "speakers": "lilafisch"
+    }, 
+    {
+        "event_id": 7152, 
+        "track_id": 10, 
+        "track_name": "Entertainment", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-30T00:15:00+01:00", 
+        "duration": 7200, 
+        "title": "Hacker Jeopardy", 
+        "abstract": "", 
+        "speakers": "Sec, ray"
+    }, 
+    {
+        "event_id": 7343, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Beyond Anti Evil Maid", 
+        "abstract": "", 
+        "speakers": "Matthew Garrett"
+    }, 
+    {
+        "event_id": 7483, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Computational Meta-Psychology", 
+        "abstract": "", 
+        "speakers": "Joscha"
+    }, 
+    {
+        "event_id": 7255, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Neither Snow Nor Rain Nor MITM\u2026 The State of Email Security in 2015", 
+        "abstract": "", 
+        "speakers": "Zakir Durumeric"
+    }, 
+    {
+        "event_id": 7284, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Check your privileges!", 
+        "abstract": "", 
+        "speakers": "Fefe"
+    }, 
+    {
+        "event_id": 7443, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T17:15:00+01:00", 
+        "duration": 3600, 
+        "title": "The Price Of Dissent", 
+        "abstract": "", 
+        "speakers": "CAGE, Cerie Bullivant"
+    }, 
+    {
+        "event_id": 7449, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T18:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Prediction and Control", 
+        "abstract": "", 
+        "speakers": "Jennifer Helsby"
+    }, 
+    {
+        "event_id": 7245, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T20:30:00+01:00", 
+        "duration": 1800, 
+        "title": "Reversing UEFI by execution", 
+        "abstract": "", 
+        "speakers": "Jethro Beekman"
+    }, 
+    {
+        "event_id": 7441, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T21:15:00+01:00", 
+        "duration": 1800, 
+        "title": "The plain simple reality of entropy", 
+        "abstract": "", 
+        "speakers": "Filippo Valsorda"
+    }, 
+    {
+        "event_id": 7401, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T22:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Internet Cube", 
+        "abstract": "", 
+        "speakers": "taziden, kload"
+    }, 
+    {
+        "event_id": 7413, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T22:45:00+01:00", 
+        "duration": 1800, 
+        "title": "\u00d6sterreich: Der Kampf gegen unkontrollierte Massen\u00fcberwachung", 
+        "abstract": "", 
+        "speakers": "Thomas Lohninger, Werner Reiter"
+    }, 
+    {
+        "event_id": 7547, 
+        "track_id": 299, 
+        "track_name": "Failosophy", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-29T23:30:00+01:00", 
+        "duration": 1800, 
+        "title": "libusb: Maintainer fail", 
+        "abstract": "", 
+        "speakers": "Peter Stuge"
+    }, 
+    {
+        "event_id": 7225, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-30T00:15:00+01:00", 
+        "duration": 3600, 
+        "title": "Grundrechte gelten nicht im Weltall!", 
+        "abstract": "", 
+        "speakers": "anna, Constanze Kurz, cbass, Felix Betzin"
+    }, 
+    {
+        "event_id": 7252, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "(In)Security of Embedded Devices' Firmware - Fast and Furious at Large Scale", 
+        "abstract": "", 
+        "speakers": "Andrei Costin"
+    }, 
+    {
+        "event_id": 7559, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T12:45:00+01:00", 
+        "duration": 8100, 
+        "title": "Lightning Talks Day 3", 
+        "abstract": "", 
+        "speakers": "gedsic, bigalex"
+    }, 
+    {
+        "event_id": 7165, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Vehicle2Vehicle Communication based on IEEE 802.11p", 
+        "abstract": "", 
+        "speakers": "Bernd Lehmann"
+    }, 
+    {
+        "event_id": 7491, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T17:15:00+01:00", 
+        "duration": 3600, 
+        "title": "De-anonymizing Programmers", 
+        "abstract": "", 
+        "speakers": "Aylin"
+    }, 
+    {
+        "event_id": 7374, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T18:30:00+01:00", 
+        "duration": 3600, 
+        "title": "The architecture of a street level panopticon", 
+        "abstract": "", 
+        "speakers": "Dia Kayyali"
+    }, 
+    {
+        "event_id": 7549, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T20:30:00+01:00", 
+        "duration": 1800, 
+        "title": "20 OSCILLATORS IN 20 MINUTES ", 
+        "abstract": "", 
+        "speakers": "Darsha"
+    }, 
+    {
+        "event_id": 7246, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T21:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Free Software and Hardware bring National Sovereignty", 
+        "abstract": "", 
+        "speakers": "Tarek Loubani"
+    }, 
+    {
+        "event_id": 7114, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T22:00:00+01:00", 
+        "duration": 1800, 
+        "title": "Craft, leisure, and end-user innovation", 
+        "abstract": "", 
+        "speakers": "Susann Wagenknecht"
+    }, 
+    {
+        "event_id": 7202, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T22:45:00+01:00", 
+        "duration": 1800, 
+        "title": "Stromtankstellen \u2013 eine neue \u00f6ffentliche Infrastruktur", 
+        "abstract": "", 
+        "speakers": "Gunnar Th\u00f6le"
+    }, 
+    {
+        "event_id": 7400, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-29T23:30:00+01:00", 
+        "duration": 1800, 
+        "title": "Technology and Mass Atrocity Prevention", 
+        "abstract": "", 
+        "speakers": "Nicolai Pogadl"
+    }, 
+    {
+        "event_id": 7321, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "re_cycle", 
+        "abstract": "", 
+        "speakers": "obelix"
+    }, 
+    {
+        "event_id": 7259, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Graphs, Drones & Phones", 
+        "abstract": "", 
+        "speakers": "Christoph Engemann"
+    }, 
+    {
+        "event_id": 7421, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "\"Fluxus cannot save the world.\"", 
+        "abstract": "", 
+        "speakers": "leomagnet, Markus Zimmermann"
+    }, 
+    {
+        "event_id": 7243, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Gibberish Detection 102", 
+        "abstract": "", 
+        "speakers": "Ben H."
+    }, 
+    {
+        "event_id": 7218, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T17:15:00+01:00", 
+        "duration": 3600, 
+        "title": "A Dozen Years of Shellphish", 
+        "abstract": "", 
+        "speakers": "Antonio Bianchi, Jacopo Corbetta, Andrew Dutcher"
+    }, 
+    {
+        "event_id": 7336, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T18:30:00+01:00", 
+        "duration": 3600, 
+        "title": "3D printing on the moon", 
+        "abstract": "", 
+        "speakers": "Karsten Becker"
+    }, 
+    {
+        "event_id": 7388, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T20:30:00+01:00", 
+        "duration": 1800, 
+        "title": "Media Coverage and the Public in the Surveillance Society", 
+        "abstract": "", 
+        "speakers": "Arne Hintz, Lina Dencik"
+    }, 
+    {
+        "event_id": 7219, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T21:30:00+01:00", 
+        "duration": 1800, 
+        "title": "Trust us and our business will expand!", 
+        "abstract": "", 
+        "speakers": "Andreas Zingerle, Linda Kronman"
+    }, 
+    {
+        "event_id": 7517, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T22:00:00+01:00", 
+        "duration": 1800, 
+        "title": "the possibility of an army", 
+        "abstract": "", 
+        "speakers": "constantdull"
+    }, 
+    {
+        "event_id": 7419, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T22:45:00+01:00", 
+        "duration": 1800, 
+        "title": "On Computing Numbers, with an Application to Problems of our Society", 
+        "abstract": "", 
+        "speakers": "Stefan Wehrmeyer"
+    }, 
+    {
+        "event_id": 7263, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-29T23:30:00+01:00", 
+        "duration": 1800, 
+        "title": "#GOIBlocks - Technical observations about recent internet censorship in India", 
+        "abstract": "", 
+        "speakers": "Kaustubh Srikanth"
     }, 
     {
         "event_id": 1002, 
@@ -1170,9 +2706,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-29T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "10 moderne Konzepte, die deiner Lieblingsprogrammiersprache fehlen", 
-        "abstract": "Programmierung und die Theorie dahinter ist ein vergleichsweise junges Gebiet, verglichen mit anderen Ingenieursdisziplinen. Deshalb gibt es immer noch jede Dekade und teilweise jedes Jahr erstaunliche Fortschritte, die erst sehr viel sp\u00e4ter in den verbreiteten Sprachen ankommen.\nIn diesem Vortrag wollen wir zeigen, was es alles gibt und wie du viele dieser Ideen selbst in nicht daf\u00fcr ausgelegten Sprachen ganz praktisch anwenden kannst (vielleicht sogar in deiner Lieblingsprogrammiersprache? ;) ).", 
+        "abstract": " \nProgrammierung und die Theorie dahinter ist ein vergleichsweise junges Gebiet, verglichen mit anderen Ingenieursdisziplinen. Deshalb gibt es immer noch jede Dekade und teilweise jedes Jahr erstaunlich", 
         "speakers": "Profpatsch"
     }, 
     {
@@ -1182,9 +2718,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-29T21:30:00+01:00", 
-        "duration": 150, 
+        "duration": 9000, 
         "title": "CTF Aftershow", 
-        "abstract": "All participants of the 32C3 CTF are invited to get together, talk challenges and have a drink.", 
+        "abstract": "32C3 CTF \nAll participants of the 32C3 CTF are invited to get together, talk challenges and have a drink.", 
         "speakers": "Robbje"
     }, 
     {
@@ -1194,9 +2730,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-29T20:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "The Fuzzing Project", 
-        "abstract": "We have powerful and easy to use tools that can vastly improve the quality and security of the code we use everyday. The session will give an introduction to fuzzing, the tool american fuzzy lop and the compiler feature Address Sanitizer.\nIf there is enough interest we can continue doing a practical hands-on session afterwards\n\nLast year I started the Fuzzing Project as an effort to improve the security of free software code. In May the Linux Foundation's Core Infrastructure Initiative decided to fund my work.", 
+        "abstract": " \nWe have powerful and easy to use tools that can vastly improve the quality and security of the code we use everyday. The session will give an introduction to fuzzing, the tool american fuzzy lop and t", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -1206,9 +2742,9 @@
         "room_id": 1111, 
         "room_name": "Hall A.1", 
         "start_time": "2015-12-29T14:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Thunderbird Update", 
-        "abstract": "What is best for Thunderbird and for the Mozilla project in the perspective of technological and organizational development? Our discussions are at a very early stage and we would love to get ideas, input and proposals at this session from users and developers.", 
+        "abstract": "What's next? \nWhat is best for Thunderbird and for the Mozilla project in the perspective of technological and organizational development? Our discussions are at a very early stage and we would love to get ideas, i", 
         "speakers": "Mb"
     }, 
     {
@@ -1218,9 +2754,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-29T14:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Bootstrapping your Pyongyang Startup", 
-        "abstract": "Welcome to the Pyongyang Hackerspace! This is a participatory workshop to brainstorm new startup models fostering productive engagement with North Korea.", 
+        "abstract": "Pyongyang Hackerspace \nWelcome to the Pyongyang Hackerspace! This is a participatory workshop to brainstorm new startup models fostering productive engagement with North Korea.", 
         "speakers": "Willscott"
     }, 
     {
@@ -1230,9 +2766,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-29T16:15:00+01:00", 
-        "duration": 150, 
+        "duration": 9000, 
         "title": "CCC-CH Treffen/Gettogether", 
-        "abstract": "Alle par Monate f\u00fchrt der Chaos Computer Club Schweiz (CCC-CH) ein Gettogether durch. Ein Treffen aller vertretenen Chaostreffs und Hackerspaces. Dabei werden Themen diskutiert die den CCC-CH zur Zeit besch\u00e4ftigen. Die Mitglieder k\u00f6nnen Projekte vorstellen, Events und Ausfl\u00fcge werden geplant. Normalerweise finden die Gettogether in den R\u00e4umlichkeiten einer der Mitgliedesorganisationen des CCC-CH statt. Diesmal aber, gibts ein Gettogether auf dem 32c3.\n\nG\u00e4ste, insbesondere Hackerspaces, Makerspaces, Chaostreffs aus der Schweiz oder dem benachbarten Ausland die nicht zum CCC-CH geh\u00f6ren sind eingeladen sich dazu zu setzen, die Leute kennen zu lernen und sich an den Diskussionen zu beteiligen.", 
+        "abstract": " \nAlle par Monate f\u00fchrt der Chaos Computer Club Schweiz (CCC-CH) ein Gettogether durch. Ein Treffen aller vertretenen Chaostreffs und Hackerspaces. Dabei werden Themen diskutiert die den CCC-CH zur Zeit", 
         "speakers": "Vimja"
     }, 
     {
@@ -1242,9 +2778,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-29T19:00:00+01:00", 
-        "duration": 180, 
+        "duration": 10800, 
         "title": "Schmuck aus silberm\u00fcnzen, Jewelry from Silvercoins", 
-        "abstract": "Endlich k\u00f6nnt ihr euren alten Silberm\u00fcnzeneuren was sinnvolles anfangen: Macht einen Ring draus. Wir zeigen euch wie und unterst\u00fctzen euch bei der Umsetzung.\n\nGot old/ancient silver coins? Make a nice silver ring from it, or a necklace pendant or..", 
+        "abstract": " \nEndlich k\u00f6nnt ihr euren alten Silberm\u00fcnzeneuren was sinnvolles anfangen: Macht einen Ring draus. Wir zeigen euch wie und unterst\u00fctzen euch bei der Umsetzung.\n\nGot old/ancient silver coins? Make a nice", 
         "speakers": "SawuGo"
     }, 
     {
@@ -1254,9 +2790,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-29T23:30:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Whisky", 
-        "abstract": "This is the fifth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
+        "abstract": " \nThis is the fifth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
         "speakers": "Blackspear"
     }, 
     {
@@ -1266,9 +2802,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-29T19:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "DBOpenData", 
-        "abstract": "In den letzten Monaten ist viel passiert bei der Deutschen Bahn. Es gibt sogar ein OpenData-Portal mit den ersten Datens\u00e4tzen: http://data.deutschebahn.com .\nWas ist bisher passiert, und wie soll es weiter gehen?\nWelche Fragen, Ideen und Anregungen habt ihr f\u00fcr die Deutsche Bahn?\nWelchen Daten f\u00e4ndet ihr am spannensten?", 
+        "abstract": " \nIn den letzten Monaten ist viel passiert bei der Deutschen Bahn. Es gibt sogar ein OpenData-Portal mit den ersten Datens\u00e4tzen: http://data.deutschebahn.com .\nWas ist bisher passiert, und wie soll es w", 
         "speakers": "MichaelKreil"
     }, 
     {
@@ -1278,9 +2814,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-29T17:30:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Empowerment and Integration of Newcomers", 
-        "abstract": "In this workshop I would like to understand how people view or understand Integration.\n\n\n\u2022 Steps to take while integrating into a society.\n\n\u2022 Challenges of integration for the Newcomers; how can we get integrated in to the community when the locals are gated?\n\n\u2022 What can we collectively do to be an ambassador for change and create network between the two groups?\n\n\u2022 Without interacting with the system and its community, interms of working, education, how can one integrate?\n\n\u2022 How to create Communication and Information sharing between the two groups for better understanding and breaking silence  \n\n\nThe workshop is held by Fatuma Musa Afrah.", 
+        "abstract": " \nIn this workshop I would like to understand how people view or understand Integration.\n\n\n\u2022 Steps to take while integrating into a society.\n\n\u2022 Challenges of integration for the Newcomers; how can we ge", 
         "speakers": "Linuzifer"
     }, 
     {
@@ -1290,9 +2826,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-29T14:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Angelmeeting day 3 \n", 
         "speakers": "Jz"
     }, 
     {
@@ -1302,9 +2838,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-29T20:45:00+01:00", 
-        "duration": 30, 
+        "duration": 1800, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Angel meeting day 3 \n", 
         "speakers": "Jz"
     }, 
     {
@@ -1314,9 +2850,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-29T21:45:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "KinkyGeeks Bondage Workshop 2", 
-        "abstract": "All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/", 
+        "abstract": " \nAll KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/", 
         "speakers": "DarkGigaByte"
     }, 
     {
@@ -1326,9 +2862,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-29T17:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Flynn Meetup", 
-        "abstract": "Flynn is an open source platform as a service that makes it easy to deploy resilient containerized applications and databases across servers. There will be a short talk and demo of Flynn and plenty of time for discussion and questions. Three members of the Flynn core team will be hosting.", 
+        "abstract": " \nFlynn is an open source platform as a service that makes it easy to deploy resilient containerized applications and databases across servers. There will be a short talk and demo of Flynn and plenty of", 
         "speakers": "Titanous"
     }, 
     {
@@ -1338,9 +2874,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-29T21:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Freifunk Rheinland e.V. - Backbone", 
-        "abstract": "State of the Internat AS201701 - Freifunk Rheinland e.V. Backbone", 
+        "abstract": " \nState of the Internat AS201701 - Freifunk Rheinland e.V. Backbone", 
         "speakers": "Takt, Barbarossa, ThomasDOTwtf, Lars"
     }, 
     {
@@ -1350,9 +2886,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-29T20:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Social Engineering Poetry Slam (pilot)", 
-        "abstract": "Present your social engineering  experience or fictional story on how to deceive or manipulate people in  the attacker's malicious interest.", 
+        "abstract": " \nPresent your social engineering  experience or fictional story on how to deceive or manipulate people in  the attacker's malicious interest.", 
         "speakers": "Uebelhacker"
     }, 
     {
@@ -1362,9 +2898,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-29T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Subtitles-Engelmeeting", 
-        "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
+        "abstract": " \nAngel meeting of the subtitles angels. If you want to participate, fell free!", 
         "speakers": "Cube"
     }, 
     {
@@ -1374,9 +2910,9 @@
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2015-12-29T20:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Configuring OnionCat And Tor", 
-        "abstract": "Within this workshop I'll show how to setup Tor together with OnionCat, how to test it, and how to debug the setup in case something went wrong. Bring your notebook. You should have Tor and OnionCat already installed. I'll show how to do it on Linux, it is more or less the same on BSD-style OSes. It basically works also on Windows.", 
+        "abstract": " \nWithin this workshop I'll show how to setup Tor together with OnionCat, how to test it, and how to debug the setup in case something went wrong. Bring your notebook. You should have Tor and OnionCat a", 
         "speakers": "Eagle"
     }, 
     {
@@ -1386,9 +2922,9 @@
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2015-12-29T18:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "End", 
-        "abstract": "Civilisation is not and can never be sustainable. Let\u00b4s end it before it ends us.", 
+        "abstract": " \nCivilisation is not and can never be sustainable. Let\u00b4s end it before it ends us.", 
         "speakers": "D\u00f6rthe"
     }, 
     {
@@ -1398,9 +2934,9 @@
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2015-12-29T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Freifunk Vereine - Erkenntnisse aus Beratungsterminen", 
-        "abstract": "Wir stellen hier unsere bisherigen Erkenntnisse aus Beratungsterminen und Erfahrungen aus bisheriger Vereinsarbeit vor. Au\u00dferdem wollen wir besprechen, was bei Satzungen, F\u00f6rderungen und Spenden zu beachten ist.", 
+        "abstract": " \nWir stellen hier unsere bisherigen Erkenntnisse aus Beratungsterminen und Erfahrungen aus bisheriger Vereinsarbeit vor. Au\u00dferdem wollen wir besprechen, was bei Satzungen, F\u00f6rderungen und Spenden zu be", 
         "speakers": "Monic"
     }, 
     {
@@ -1410,9 +2946,9 @@
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2015-12-29T15:00:00+01:00", 
-        "duration": 30, 
+        "duration": 1800, 
         "title": "Improv theater (en)", 
-        "abstract": "Improvisation theatre workshop for beginners and intermediate levels, in English.\nPlease wear comfortable clothing you can move around in easily.", 
+        "abstract": "Session 1 \nImprovisation theatre workshop for beginners and intermediate levels, in English.\nPlease wear comfortable clothing you can move around in easily.", 
         "speakers": "Tgoorden"
     }, 
     {
@@ -1422,9 +2958,9 @@
         "room_id": 1132, 
         "room_name": "Hall C.2", 
         "start_time": "2015-12-29T15:30:00+01:00", 
-        "duration": 30, 
+        "duration": 1800, 
         "title": "Improv theater (en)", 
-        "abstract": "Improvisation theatre workshop for beginners and intermediate levels, in English.\nPlease wear comfortable clothing you can move around in easily.", 
+        "abstract": "Session 2 \nImprovisation theatre workshop for beginners and intermediate levels, in English.\nPlease wear comfortable clothing you can move around in easily.", 
         "speakers": "Tgoorden"
     }, 
     {
@@ -1434,9 +2970,9 @@
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-29T17:00:00+01:00", 
-        "duration": 180, 
+        "duration": 10800, 
         "title": "H\u00e4keln ist keine Hexerei", 
-        "abstract": "Ein Workshop f\u00fcr Einsteiger, bei dem auch Fortgeschrittene willkommen sind.\nIch werde anhand von unterschiedlichen Blumen die H\u00e4keltechnik erkl\u00e4ren.\n\nWollreste und ein paar H\u00e4kelnadeln zum Start stelle ich bereit.\nDie H\u00e4kelnadel kann dann zum Selbstkostenpreis bei mir mitgenommen werden.\n\nWer hat kann auch seine eigene Wolle und Nadel mitbringen.", 
+        "abstract": " \nEin Workshop f\u00fcr Einsteiger, bei dem auch Fortgeschrittene willkommen sind.\nIch werde anhand von unterschiedlichen Blumen die H\u00e4keltechnik erkl\u00e4ren.\n\nWollreste und ein paar H\u00e4kelnadeln zum Start stell", 
         "speakers": "KiBa"
     }, 
     {
@@ -1446,9 +2982,9 @@
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-29T15:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Improv theater (de)", 
-        "abstract": "Improv-Theater Workshop als Fortf\u00fchrung des Talks G'scheitern", 
+        "abstract": " \nImprov-Theater Workshop als Fortf\u00fchrung des Talks G'scheitern", 
         "speakers": ""
     }, 
     {
@@ -1458,9 +2994,9 @@
         "room_id": 1133, 
         "room_name": "Hall C.3", 
         "start_time": "2015-12-29T20:30:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Versammlungsfreiheit in Gefahr", 
-        "abstract": "A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full description of this event.", 
+        "abstract": " \nA workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! F", 
         "speakers": "Micha, AdPC"
     }, 
     {
@@ -1470,9 +3006,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-29T12:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "22 harddrives from a Westafrican e-waste dump - Behind the Smart World", 
-        "abstract": "We bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!\n\nTogether we want to explore questions like:\n\n    What kind of data did we find on this hard-drives?\n    How can this data be (ab)used?\n    How would you deal with this data breach?\n\nWho can participate?\n\nWe are looking for hackers, artists and activists to deal with this data! Data as waste, waste in the sense that it is deleted, dumped in the \u2018recycle bin\u2019 on our desktop, yet possible to be recovered. And waste as resurfacing data on hard-drives physically located at one of the largest e-waste dumps in the world.\n\nMore info about the \u201cBehind the Smart World Project can be found on the research blog resarch.radical-openness.org and here: http://kairus.org/call-for-participation-behind-the-smart-world-assembly-workshop-at-32c3-congress/ The research lab is part of the \u201cArt meets radical openness\u201d Festival which takes place in Linz, Austria.", 
+        "abstract": "Introduction, Hands-on \nWe bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!\n\nTogether we want to explore questions like:\n\n    What kind o", 
         "speakers": "Kairus"
     }, 
     {
@@ -1482,9 +3018,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-29T15:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Building Internet of Things devices on the cheap", 
-        "abstract": "In this workshop we will show you how to configure, flash, and use the NodeMCU ESP8266 Wifi module.  Learn how to do cool things with LUA and NodeMCU, and check out some more complex things you can do with custom firmware.", 
+        "abstract": "101, how to get started with the ESP8266 \nIn this workshop we will show you how to configure, flash, and use the NodeMCU ESP8266 Wifi module.  Learn how to do cool things with LUA and NodeMCU, and check out some more complex things you can do", 
         "speakers": "Hottuna"
     }, 
     {
@@ -1494,9 +3030,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-29T21:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "CiTIZEN KiNO", 
-        "abstract": "C-Kino is a hybrid of situational cinema, live theater, public forum\nand developing a platform for participatory Media Self-defense and\npraxis-oriented community engagements. We also hack media\nenvironments. In episode #49, we report back on the Climate Summit in Paris and the COP21 agreements. We analyze where we are now with the rise of citizen movements to defend our (only) habitat, planet earth. And we link the struggles of climate justice with hacker communities and digital culture.", 
+        "abstract": "CiTiZEN KiNO #49: the XLterrestrials Guide to Corporate Climate Terror \nC-Kino is a hybrid of situational cinema, live theater, public forum\nand developing a platform for participatory Media Self-defense and\npraxis-oriented community engagements. We also hack media\nenviro", 
         "speakers": ""
     }, 
     {
@@ -1506,9 +3042,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-29T15:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Gentoo e.V. Mitgliederversammlung", 
-        "abstract": "Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V.", 
+        "abstract": " \nMitgliederversammlung des F\u00f6rdervereins Gentoo e.V.", 
         "speakers": "Sping"
     }, 
     {
@@ -1518,9 +3054,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-29T18:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Internet Telemetry for Great Good", 
-        "abstract": "We will get together with a few experts and discuss the collection, storage and analysis of Internet Telemetry data for tracking bad on the Internet", 
+        "abstract": " \nWe will get together with a few experts and discuss the collection, storage and analysis of Internet Telemetry data for tracking bad on the Internet", 
         "speakers": "Sifumoraga"
     }, 
     {
@@ -1530,9 +3066,9 @@
         "room_id": 1134, 
         "room_name": "Hall C.4", 
         "start_time": "2015-12-29T17:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Respect My Net", 
-        "abstract": "La Quadrature du Net tries to develop tool that can help citizens to take the power back and to help with net neutrality and human rights online advocacy.\n\nThis workshop is about giving a new start to respect my net!, a tool used to list and document ent-neutrality violations in Europe.", 
+        "abstract": "Let's peak inside Respect My Net \nLa Quadrature du Net tries to develop tool that can help citizens to take the power back and to help with net neutrality and human rights online advocacy.\n\nThis workshop is about giving a new start to", 
         "speakers": "Okhin"
     }, 
     {
@@ -1542,9 +3078,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-29T18:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Analysis of the privacy technology landscape", 
-        "abstract": "We believe that the current internet stack must be completely revised to establish a secure privacy preserving internet as a space to unfold basic civil rights which are threatened by mass spying. We envision the new stack to be free software, decentralized, distributed, end-to-end-encrypted, with meta-data-protection, easy to use, efficient,  wifi mesh-networking capable and well-documented. \nWe start with a thorough evaluation of existing projects and by building bridges between them to achieve what none of them could do alone.", 
+        "abstract": " \nWe believe that the current internet stack must be completely revised to establish a secure privacy preserving internet as a space to unfold basic civil rights which are threatened by mass spying. We ", 
         "speakers": "Demos"
     }, 
     {
@@ -1554,9 +3090,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-29T16:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "DS-05-2016", 
-        "abstract": "The EU's DS-05-2016 call asks for a consortium to organize \"International Dialogues in Cybersecurity and\nPrivacy Research and Innovation\". Let us build THE consortium to do this right.", 
+        "abstract": "discussion \nThe EU's DS-05-2016 call asks for a consortium to organize \"International Dialogues in Cybersecurity and\nPrivacy Research and Innovation\". Let us build THE consortium to do this right.", 
         "speakers": "Grothoff"
     }, 
     {
@@ -1566,9 +3102,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-29T21:30:00+01:00", 
-        "duration": 15, 
+        "duration": 900, 
         "title": "GNUnet e.V.", 
-        "abstract": "Annual meeting of https://gnunet.org/ev", 
+        "abstract": " \nAnnual meeting of https://gnunet.org/ev", 
         "speakers": "Grothoff"
     }, 
     {
@@ -1578,9 +3114,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-29T20:30:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "SNIP", 
-        "abstract": "Internal meeting for SNIP participants.", 
+        "abstract": " \nInternal meeting for SNIP participants.", 
         "speakers": "Grothoff"
     }, 
     {
@@ -1590,9 +3126,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-29T11:30:00+01:00", 
-        "duration": 30, 
+        "duration": 1800, 
         "title": "YBTI", 
-        "abstract": "Placeholder for various YBTI-related talks (details TBA).", 
+        "abstract": "SecuShare \nPlaceholder for various YBTI-related talks (details TBA).", 
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
@@ -1602,9 +3138,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-29T13:00:00+01:00", 
-        "duration": 30, 
+        "duration": 1800, 
         "title": "YBTI", 
-        "abstract": "Placeholder for various YBTI-related talks (details TBA).", 
+        "abstract": "I2P \nPlaceholder for various YBTI-related talks (details TBA).", 
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
@@ -1614,9 +3150,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-29T19:30:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Angry Hacking", 
-        "abstract": "Learn to use Angr, the open source binary analysis platform developed by Shellphish for the Cyber Grand Challenge. Bring a laptop and some basic Python knowledge.", 
+        "abstract": " \nLearn to use Angr, the open source binary analysis platform developed by Shellphish for the Cyber Grand Challenge. Bring a laptop and some basic Python knowledge.", 
         "speakers": "Rhelmot"
     }, 
     {
@@ -1626,9 +3162,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-29T20:30:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Congress Everywhere Breaktime", 
-        "abstract": "Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
+        "abstract": "Evening 3 conferencing studio \nCongress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
         "speakers": "Myon"
     }, 
     {
@@ -1638,9 +3174,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-29T15:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "DAT", 
-        "abstract": "Dat is an open source p2p data versioning tool.\nIt allows scientists and individuals to easily distribute and collaborate on open datasets by\nusing p2p technologies similar to the ones used in BitTorrent and other file sharing networks.\nThis will be an overview of what Dat is, where it is going, and how you can help.", 
+        "abstract": " \nDat is an open source p2p data versioning tool.\nIt allows scientists and individuals to easily distribute and collaborate on open datasets by\nusing p2p technologies similar to the ones used in BitTorr", 
         "speakers": ""
     }, 
     {
@@ -1650,9 +3186,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-29T14:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Fight for your right to Hardware", 
-        "abstract": "More and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair your own device. They are \"endproducts\", literally.\nTo keep control of technology and privacy not in the hands of monopolised interests but in the hands of society, we need to keep control of the hardware that surrounds us. There will be a brief introduction and examples to the topic. After that I like to discuss the principal rights that we need as consumers to keep or achieve privacy from the things that surround us. And merge them with the principal rights that we need as tinkerers, professional or hobbyists, to get control of the hardware that surrounds us - to use, study, share and improve it.", 
+        "abstract": " \nMore and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair you", 
         "speakers": "Eal, Dmaphy"
     }, 
     {
@@ -1662,9 +3198,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-29T12:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Haecksen Get Together", 
-        "abstract": "Women of the congress let\u2019s meet. Discuss, exchange or even create a network. We want to have coffee on day 2 and breakfast on day 3. Bring something to drink or food - there will be cookies and some fruits.\n\nThis event is women-only* only, whatever \u201ewomen\u201c means for you. Feel welcome to join, you don\u2019t need to be a supergeek.", 
+        "abstract": "Breakfast \nWomen of the congress let\u2019s meet. Discuss, exchange or even create a network. We want to have coffee on day 2 and breakfast on day 3. Bring something to drink or food - there will be cookies and some ", 
         "speakers": "Slightly"
     }, 
     {
@@ -1674,9 +3210,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-29T21:30:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "How to start a radical tech collective", 
-        "abstract": "How to start a group that provides tech services for your community", 
+        "abstract": " \nHow to start a group that provides tech services for your community", 
         "speakers": ""
     }, 
     {
@@ -1686,9 +3222,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-29T16:15:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "NewPalmyra", 
-        "abstract": "A Meet-Up on New Palmyra. We want to introduce the New Palmyra project about a digital reconstruction of the demolished Palmyra world heritage sites and discuss ways how we could contribute to the project.", 
+        "abstract": "Let's get involved \nA Meet-Up on New Palmyra. We want to introduce the New Palmyra project about a digital reconstruction of the demolished Palmyra world heritage sites and discuss ways how we could contribute to the pro", 
         "speakers": "Tabesin, Mb"
     }, 
     {
@@ -1698,9 +3234,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-29T23:30:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Resistance and Recuperation in Technological Cycles", 
-        "abstract": "Discussing newer and newer generations of technologies as cycles of critique and recuperation through the (counter-)example of Internet Relay Chat (IRC) history.", 
+        "abstract": " \nDiscussing newer and newer generations of technologies as cycles of critique and recuperation through the (counter-)example of Internet Relay Chat (IRC) history.", 
         "speakers": "Maxigas"
     }, 
     {
@@ -1710,9 +3246,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-29T17:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "A New Business Model for the Internet", 
-        "abstract": "Much of today\u2019s Internet is powered by ads and data sales. No wonder: users have gotten used to \u201cfree\u201d services and it\u2019s no easy feat for companies to get people to pay or support what they use. But of course \u201cfree\u201d is a far cry from *freedom*.\n\nIf payments were instant, practically free, and managed automatically (e.g. by web browsers), online services could sustain themselves without tracking us or pleading us to click to donate. An open payment method for the web that could it possible for providers to charge tiny amounts to customers visiting websites. It could, at least in theory, change the way the Internet works -- but for the better or worse? Paid open source software could become a viable business. It could be the end of advertising and tracking. Or would it usher in a new age of paywalled content that would shut out those unable to pay? Would it provide an additional tool for surveillance or juicier targets for thieves?\n\nThis workshop will include a short explanation and demonstration of the new Interledger Protocol (ILP) for payments across payment networks. ILP is an open payment protocol being developed in a W3C Community Group to enable secure transactions between bank accounts, Bitcoin wallets, community currencies, and more. We will discuss the pitfalls that have sunk many previous micropayment schemes and we will explore and debate the implications of actually bringing frictionless payments to the Internet.", 
+        "abstract": "Interledger Protocol (ILP) and Frictionless, Universal Payments \nMuch of today\u2019s Internet is powered by ads and data sales. No wonder: users have gotten used to \u201cfree\u201d services and it\u2019s no easy feat for companies to get people to pay or support what they use. But o", 
         "speakers": "Emschwartz"
     }, 
     {
@@ -1722,9 +3258,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-29T18:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "BACnet (how Building automation works)", 
-        "abstract": "This is a workshop/talk about the BACnet protocol ( building automation and control network). Where is comes, from How it works, where it is used and what you can do when you have access to it.\nIf others have a background in building automation (not home automation) I hope we can exchange infos, discuss known problems and so on. \nAnd find out what all is used in the CCH ;-)\nThis will only be a introduction, If you already know BACnet it might be boring", 
+        "abstract": " \nThis is a workshop/talk about the BACnet protocol ( building automation and control network). Where is comes, from How it works, where it is used and what you can do when you have access to it.\nIf oth", 
         "speakers": "Mrfc"
     }, 
     {
@@ -1734,9 +3270,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-29T20:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop", 
-        "abstract": "In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.\n\nThis session provides you with the skill set required to develop a C++ type system that validates and converts (valid) units at compile time, saving you lots of money if you ever decide to build rockets.\n\nThis workshop is for C++ programmers with an interest in learning meta-programming.", 
+        "abstract": "workshop \nIn 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric sy", 
         "speakers": "Kamikaze"
     }, 
     {
@@ -1746,9 +3282,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-29T19:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop", 
-        "abstract": "In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.\n\nThis session provides you with the skill set required to develop a C++ type system that validates and converts (valid) units at compile time, saving you lots of money if you ever decide to build rockets.\n\nThis workshop is for C++ programmers with an interest in learning meta-programming.", 
+        "abstract": "presentation \nIn 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric sy", 
         "speakers": "Kamikaze"
     }, 
     {
@@ -1758,9 +3294,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-29T12:30:00+01:00", 
-        "duration": 135, 
+        "duration": 8100, 
         "title": "Drawbots - Malroboter", 
-        "abstract": "F\u00fcr Kinder von ungef\u00e4hr 5 bis etwa 12 Jahre.\nHier k\u00f6nnt ihr Malroboter bauen.", 
+        "abstract": " \nF\u00fcr Kinder von ungef\u00e4hr 5 bis etwa 12 Jahre.\nHier k\u00f6nnt ihr Malroboter bauen.", 
         "speakers": "Tropion"
     }, 
     {
@@ -1770,9 +3306,9 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-29T23:00:00+01:00", 
-        "duration": 45, 
+        "duration": 2700, 
         "title": "Flexibles Vernetzen ist das neue B\u00fcndnis gegen \u00dcberwachung", 
-        "abstract": "Achtung: Verlegt auf 22 Uhr. Nach dem Scheitern des 'B\u00fcndnisses gegen \u00dcberwachung' stellt sich die Frage, welche Organisationsform der Bewegung gegen \u00dcberwachung neue Kraft verleihen kann. In dieser Sitzung besprechen wir die Flexible Vernetzung als m\u00f6gliche L\u00f6sung mit ihren Vor- und Nachteilen und machen uns Gedanken dar\u00fcber, wie sie am besten umgesetzt wird.", 
+        "abstract": " \nAchtung: Verlegt auf 22 Uhr. Nach dem Scheitern des 'B\u00fcndnisses gegen \u00dcberwachung' stellt sich die Frage, welche Organisationsform der Bewegung gegen \u00dcberwachung neue Kraft verleihen kann. In dieser S", 
         "speakers": "Thorsten"
     }, 
     {
@@ -1782,82 +3318,82 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-29T15:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Hackbases", 
-        "abstract": "Hackbases: history, projects updates, and grant program.", 
+        "abstract": " \nHackbases: history, projects updates, and grant program.", 
         "speakers": "Maxigas"
     }, 
     {
-        "event_id": 1141, 
+        "event_id": 1139, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T13:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Lenins Leber", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1146, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T02:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1147, 
+        "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T00:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Romanski", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1154, 
+        "event_id": 1148, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T21:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-30T02:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Marco Costanza", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1155, 
+        "event_id": 1153, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T17:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Dave Dinger", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1183, 
+        "event_id": 1156, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "H. Heh", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T18:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Dave Dinger", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1188, 
@@ -1866,10 +3402,10 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T22:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Miss Hawaii L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1190, 
@@ -1878,22 +3414,22 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T15:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "MG3 L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1197, 
+        "event_id": 1195, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T14:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Lenins Leber", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1211, 
@@ -1902,58 +3438,58 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T23:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Romanski", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1212, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-29T19:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1213, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T03:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1217, 
+        "event_id": 1214, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T01:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Marco Costanza", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1222, 
+        "event_id": 1215, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T20:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-29T19:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Miranda L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1216, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T03:00:00+01:00", 
+        "duration": 3600, 
+        "title": "P.Gregor/Katovl", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1220, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "MG3 L", 
+        "abstract": "", 
+        "speakers": ""
     }, 
     {
         "event_id": 1223, 
@@ -1961,11 +3497,299 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T16:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-29T20:00:00+01:00", 
+        "duration": 3600, 
+        "title": "H. Heh", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
+    }, 
+    {
+        "event_id": 7207, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-30T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "\u201cI feel like a criminal and I have to be god at the same time\u201d", 
+        "abstract": "", 
+        "speakers": "Leonie Maria Tanczer"
+    }, 
+    {
+        "event_id": 7386, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-30T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Crypto Wars Part II", 
+        "abstract": "", 
+        "speakers": "Kurt Opsahl"
+    }, 
+    {
+        "event_id": 7523, 
+        "track_id": 299, 
+        "track_name": "Failosophy", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-30T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "DDoS mitigation EPIC FAIL collection", 
+        "abstract": "", 
+        "speakers": "dalmoz"
+    }, 
+    {
+        "event_id": 7277, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-30T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Breaking Honeypots for Fun and Profit", 
+        "abstract": "", 
+        "speakers": "DeanSysman, Gadi Evron, Itamar Sher"
+    }, 
+    {
+        "event_id": 7457, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-30T17:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Predicting Crime in a Big Data World", 
+        "abstract": "", 
+        "speakers": "Whitney Merrill"
+    }, 
+    {
+        "event_id": 7546, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-30T18:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Security Nightmares 0x10", 
+        "abstract": "", 
+        "speakers": "Ron, frank"
+    }, 
+    {
+        "event_id": 7551, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 359, 
+        "room_name": "Hall 1", 
+        "start_time": "2015-12-30T19:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Closing Event", 
+        "abstract": "", 
+        "speakers": "Carina Haupt, Linus Neumann"
+    }, 
+    {
+        "event_id": 7435, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-30T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Replication Prohibited", 
+        "abstract": "", 
+        "speakers": "Eric Wustrow"
+    }, 
+    {
+        "event_id": 7356, 
+        "track_id": 299, 
+        "track_name": "Failosophy", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-30T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "Top X* usability obstacles", 
+        "abstract": "", 
+        "speakers": "BoB Marvan"
+    }, 
+    {
+        "event_id": 7497, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-30T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "When  algorithms fail in our personal lives", 
+        "abstract": "", 
+        "speakers": "Caroline Sinders"
+    }, 
+    {
+        "event_id": 7561, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-30T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "How Open Source Software, second hand laptops and hackers helped stop Ebola (and stopped an apocalypse).", 
+        "abstract": "", 
+        "speakers": "Salton Arthur Massally, Harold Valentine Mac-Saidu, Francis Banguara, Emerson"
+    }, 
+    {
+        "event_id": 7286, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-30T17:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Sin in the time of Technology", 
+        "abstract": "", 
+        "speakers": "Matthew Stender, Jillian C. York"
+    }, 
+    {
+        "event_id": 7340, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 360, 
+        "room_name": "Hall 2", 
+        "start_time": "2015-12-30T18:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Collect It All: Open Source Intelligence (OSINT) for Everyone", 
+        "abstract": "", 
+        "speakers": "M. C. McGrath"
+    }, 
+    {
+        "event_id": 7333, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-30T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "The Magic World of Searchable Symmetric Encryption", 
+        "abstract": "", 
+        "speakers": "Tobias Mueller, Christian Forler"
+    }, 
+    {
+        "event_id": 7560, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-30T12:45:00+01:00", 
+        "duration": 8100, 
+        "title": "Lightning Talks Day 4", 
+        "abstract": "", 
+        "speakers": "gedsic, bigalex"
+    }, 
+    {
+        "event_id": 7323, 
+        "track_id": 297, 
+        "track_name": "Science", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-30T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Wie man einen Blackout verursacht ", 
+        "abstract": "", 
+        "speakers": "Mathias Dalheimer"
+    }, 
+    {
+        "event_id": 7291, 
+        "track_id": 298, 
+        "track_name": "Security", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-30T17:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Microsofts Windows 10 Botnet", 
+        "abstract": "", 
+        "speakers": "ruedi"
+    }, 
+    {
+        "event_id": 7375, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 361, 
+        "room_name": "Hall G", 
+        "start_time": "2015-12-30T18:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Wireless Drivers: Freedom considered harmful?", 
+        "abstract": "", 
+        "speakers": "Felix Fietkau"
+    }, 
+    {
+        "event_id": 7567, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-30T11:30:00+01:00", 
+        "duration": 3600, 
+        "title": "Katastrophe und Kommunikation", 
+        "abstract": "", 
+        "speakers": "Sebastian J\u00fcnemann"
+    }, 
+    {
+        "event_id": 7403, 
+        "track_id": 294, 
+        "track_name": "Ethics, Society & Politics", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-30T12:45:00+01:00", 
+        "duration": 3600, 
+        "title": "A New Kid on the Block", 
+        "abstract": "", 
+        "speakers": "Katharina Nocun"
+    }, 
+    {
+        "event_id": 7369, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-30T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "How to contribute to make open hardware happen", 
+        "abstract": "", 
+        "speakers": "mclien"
+    }, 
+    {
+        "event_id": 7216, 
+        "track_id": 291, 
+        "track_name": "Art & Culture", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-30T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "CHINTERNET ART", 
+        "abstract": "", 
+        "speakers": "Michelle Proksell "
+    }, 
+    {
+        "event_id": 7520, 
+        "track_id": 295, 
+        "track_name": "Hardware & Making", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-30T17:15:00+01:00", 
+        "duration": 1800, 
+        "title": "Compileroptimierungen f\u00fcr Forth im Microcontroller", 
+        "abstract": "", 
+        "speakers": "Matthias Koch"
+    }, 
+    {
+        "event_id": 7555, 
+        "track_id": 300, 
+        "track_name": "CCC", 
+        "room_id": 362, 
+        "room_name": "Hall 6", 
+        "start_time": "2015-12-30T18:00:00+01:00", 
+        "duration": 3600, 
+        "title": "32C3 Infrastructure Review", 
+        "abstract": "", 
+        "speakers": "Leon"
     }, 
     {
         "event_id": 1043, 
@@ -1974,9 +3798,9 @@
         "room_id": 1112, 
         "room_name": "Hall A.2", 
         "start_time": "2015-12-30T13:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Codefor.de OK-Labs Meetup", 
-        "abstract": "Talk civic tech with OK-Lab members from all over Germany.", 
+        "abstract": " \nTalk civic tech with OK-Lab members from all over Germany.", 
         "speakers": "Sjockers"
     }, 
     {
@@ -1986,9 +3810,9 @@
         "room_id": 1120, 
         "room_name": "Hall B", 
         "start_time": "2015-12-30T14:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Engelmeeting", 
-        "abstract": "", 
+        "abstract": "Abbaumeeting \n", 
         "speakers": "Jz"
     }, 
     {
@@ -1998,9 +3822,9 @@
         "room_id": 1131, 
         "room_name": "Hall C.1", 
         "start_time": "2015-12-30T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Subtitles-Engelmeeting", 
-        "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
+        "abstract": " \nAngel meeting of the subtitles angels. If you want to participate, fell free!", 
         "speakers": "Cube"
     }, 
     {
@@ -2010,9 +3834,9 @@
         "room_id": 1230, 
         "room_name": "Hall F", 
         "start_time": "2015-12-30T17:00:00+01:00", 
-        "duration": 180, 
+        "duration": 10800, 
         "title": "Open Goldschmieden. Unsere Zeit f\u00fcr eure Schmuckideen, Reparaturen und aufpolieren", 
-        "abstract": "Ideen f\u00fcr eigenen Schmuck, aber keine Ahnung wie unzu setzen? Kein Problem \"We'll fix it\" ist unser Motto. Also schau vorbei und lass uns wissen, was Du schon immer mal an Schmuck herstellen wolltest. Wir finden sicher ein L\u00f6sung.", 
+        "abstract": " \nIdeen f\u00fcr eigenen Schmuck, aber keine Ahnung wie unzu setzen? Kein Problem \"We'll fix it\" ist unser Motto. Also schau vorbei und lass uns wissen, was Du schon immer mal an Schmuck herstellen wolltest.", 
         "speakers": "SawuGo"
     }, 
     {
@@ -2022,9 +3846,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-30T16:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Haecksen write/speak/code", 
-        "abstract": "This is a mentoring session for women who want to get into speaking at conferences, user groups etc.\nWe will help you find your topic and your audience.", 
+        "abstract": " \nThis is a mentoring session for women who want to get into speaking at conferences, user groups etc.\nWe will help you find your topic and your audience.", 
         "speakers": "Bjelli"
     }, 
     {
@@ -2034,9 +3858,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-30T14:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Knowledge Infrastructures", 
-        "abstract": "A techincal and hands-on continuation of the Public Library/Memory of the World session", 
+        "abstract": " \nA techincal and hands-on continuation of the Public Library/Memory of the World session", 
         "speakers": "Dcht00, Maxigas"
     }, 
     {
@@ -2046,9 +3870,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-30T13:00:00+01:00", 
-        "duration": 60, 
+        "duration": 3600, 
         "title": "Nootropics", 
-        "abstract": "Nootropics (also called smart drugs, neuro enhancers, etc) are substances - drugs, supplements, and functional foods - that improve one or more aspects of cognitive performance.\n\nBring your noots and notes.", 
+        "abstract": " \nNootropics (also called smart drugs, neuro enhancers, etc) are substances - drugs, supplements, and functional foods - that improve one or more aspects of cognitive performance.\n\nBring your noots and ", 
         "speakers": "Dcht00, HairyFotr"
     }, 
     {
@@ -2058,9 +3882,9 @@
         "room_id": 1013, 
         "room_name": "Hall 13", 
         "start_time": "2015-12-30T17:00:00+01:00", 
-        "duration": 90, 
+        "duration": 5400, 
         "title": "Wikidata, the encyclopedia by bots, for bots", 
-        "abstract": "This workshop aims to explain what Wikidata is, and how to use it. We'll explore the data mode, web API, and query interface.\n\nWikidata is the world's largest free general purpose knowledge base. As a Wikimedia-run sister project of Wikipedia, it provides machine readable information about just about anything. It's the encyclopedia by bots, for bots.", 
+        "abstract": " \nThis workshop aims to explain what Wikidata is, and how to use it. We'll explore the data mode, web API, and query interface.\n\nWikidata is the world's largest free general purpose knowledge base. As a", 
         "speakers": "Brightbyte"
     }, 
     {
@@ -2070,34 +3894,34 @@
         "room_id": 1014, 
         "room_name": "Hall 14", 
         "start_time": "2015-12-30T15:00:00+01:00", 
-        "duration": 120, 
+        "duration": 7200, 
         "title": "Tails-conmet", 
-        "abstract": "internal meeting", 
+        "abstract": " \ninternal meeting", 
         "speakers": "Muri"
     }, 
     {
-        "event_id": 1127, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T19:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1128, 
+        "event_id": 1126, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T15:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Nika Son", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1129, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T19:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Dj Plazebo vs. Lion L", 
+        "abstract": "", 
+        "speakers": ""
     }, 
     {
         "event_id": 1151, 
@@ -2106,94 +3930,94 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T23:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Gladbeck City Bombing L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1156, 
+        "event_id": 1154, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-31T01:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Digital Norman", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1160, 
+        "event_id": 1158, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T13:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Days of Delay L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1161, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T20:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1162, 
+        "event_id": 1159, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T16:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Eternal Drumm L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1171, 
+        "event_id": 1163, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T20:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Dj Plazebo vs. Lion L", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1174, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-31T03:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "H Gich.T L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1184, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-31T02:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1185, 
+        "event_id": 1183, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-31T00:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Gladbeck City Bombing L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1186, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-31T02:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Digital Norman", 
+        "abstract": "", 
+        "speakers": ""
     }, 
     {
         "event_id": 1191, 
@@ -2201,35 +4025,35 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T21:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-30T17:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lord ByronStyropor", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1192, 
+        "event_id": 1193, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T17:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "start_time": "2015-12-30T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Nina", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1214, 
+        "event_id": 1212, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T14:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Days of Delay L", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
         "event_id": 1218, 
@@ -2238,21 +4062,21 @@
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T22:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Nina", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }, 
     {
-        "event_id": 1219, 
+        "event_id": 1221, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T18:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
+        "duration": 3600, 
+        "title": "Lord ByronStyropor", 
         "abstract": "", 
-        "speakers": "DJ Spock"
+        "speakers": ""
     }
 ]
