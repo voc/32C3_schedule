@@ -29,7 +29,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Wer gegen \u00dcberwachung arbeitet, will weder mit Aluh\u00fcten noch 'besorgten B\u00fcrgern' oder 'Reichsfuzzis' zu tun haben. Braucht es daf\u00fcr eine formalisierte Abgrenzung?", 
                                 "persons": [
@@ -61,7 +61,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Presenter: Ismail Khoffi and Philipp Jovanovic\n\nIn this talk we discuss CoSi, a novel protocol for collective signing, which enables authorities to have their statements collectively signed by a diverse, decentralized, and scalable group of (potentially thousands of) witnesses. Furthermore, we show how CoSi can be utilised to proactively harden critical Internet authorities and in particular present applications to Certificate Transparency, DNSSEC, software distribution, the Tor anonymity network, and cryptocurrencies. The collective authorities research project is a joint effort between teams of security researchers from the University of Yale and the Swiss Federal Institute of Technology in Lausanne (EPFL) and is being lead by Prof. Bryan Ford.", 
                                 "persons": [
@@ -94,7 +94,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Deutsch: \nGemeinschaftsl\u00f6sungen auf der Basis von freier Software vereinen Firmen und Organisationen mit gleichen oder \u00e4hnlichen Bed\u00fcrfnissen. Damit verbunden ist ein professionelles Gesch\u00e4ftsmodell, welches sich an der Idee des Crowdfundings orientiert. Die Kunden bilden eine Community, welche die L\u00f6sung finanziert und zusammen mit potenziell mehreren Entwicklerfirmen vorantreibt. Die Architektur der L\u00f6sung erm\u00f6glicht es, individuelle Bed\u00fcrfnisse und Eigenst\u00e4ndigkeiten zu bewahren und dennoch von der gemeinsamen Entwicklung zu profitieren. Zusammen mit den gr\u00f6ssten Kinder- und Jugendorganisationen der Schweiz haben wir eine L\u00f6sung f\u00fcr die Mitglieder- und Kursverwaltung aufgebaut. Ich m\u00f6chte euch die Idee der Gemeinschaftsl\u00f6sungen n\u00e4her bringen und \u00fcber unsere Erfahrungen aus den Projekten berichten. Wir sind zudem laufend auf der Suche nach neuen Organisationen oder Entwickler(-firmen), die unsere Vision von kollaborativer Software-Entwicklung teilen. Auf diesem Weg soll sich freie Software insbesondere in der \u00f6ffentlichen Verwaltung und bei NGO etablieren. \n\n\nEnglish: \nCommunity solutions based on free software unite companies and organizations with the same or similar needs. The associated business model is based on the idea of crowdfunding. The customers form a community which finance the solution and develop it together with potentially several companies or individuals. The architecture of the solution makes it possible to preserve individual needs and still benefit from the joint development. In collaboration with the largest children and youth organizations in Switzerland, we built a solution for the membership and course management. I would like to explain the idea of \u200b\u200bcommunity solutions and share our experiences from the projects. Moreover, we are constantly looking for new organizations or developers/companies who share our vision of collaborative software development. In this way, we help establishing free software, particularly in the public administration sector and NGOs.", 
                                 "persons": [
@@ -127,7 +127,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "This talk will give a brief introduction of the microG Project, which aims to provide a replacement for libraries and other user-space proprietary components Google introduced to the Android operating system. It will focus on the latest development to lock users and developers into their proprietary system, called \"Play Services\".", 
                                 "persons": [
@@ -155,7 +155,7 @@
                                 "subtitle": "Vorbesprechung f\u00fcr Helfer am Junghackertag", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Vorbesprechung f\u00fcr alle Helfer am Junghackertag", 
                                 "persons": [
@@ -184,7 +184,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "other", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Public screening of the movie Shortbus by John Cameron Mitchell. Audio will be english. There will be at least 30mins for setup and admittance. Runtime is around 110mins.\nMovie contains explicit pornographic scenes! Therefore legal admittance only for persons 18 years and older. Please bring a valid ID.", 
                                 "persons": [
@@ -211,7 +211,7 @@
                                 "subtitle": "Angel meeting day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -238,7 +238,7 @@
                                 "subtitle": "Angelmeeting Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -265,7 +265,7 @@
                                 "subtitle": "Introduction meeting for new angels", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -292,7 +292,7 @@
                                 "subtitle": "Start of the gathering", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "A meetup for all the queer feminist geek folk.\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.\nThis meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.", 
                                 "persons": [
@@ -349,7 +349,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Hier sollen die bekannten Informationen zur EU-Richtlinie zu Router Lockdown weitergeben und besprechen, wie wir dem begegnen wollen. Au\u00dferdem sollen die \u00e4hnlichen Entwicklungen der FCC bewertet werden", 
                                 "persons": [
@@ -379,7 +379,7 @@
                                 "subtitle": "Evening 1 conferencing studio", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
                                 "persons": [
@@ -406,7 +406,7 @@
                                 "subtitle": "Was speichern die Dienste \u00fcber dich?", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Geheimdienste sammeln eine Menge personenbezogener Daten. Die Speicherung selbiger unterliegt speziellen Datenschutzregeln. In Deutschland und vielen anderen liberalen Rechtsstaaten kann man Daten, die \u00fcber einen selbst gespeichert sind, mit einem Antrag auf Aktenauskunft gesagt bekommen. Was muss man sagen, was bekommt man zu sehen?", 
                                 "persons": [
@@ -455,7 +455,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Learn how to make a backup of your Persistent Volume in Tails", 
                                 "persons": [
@@ -485,7 +485,7 @@
                                 "subtitle": "Cryptoparty Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Workshop on using various encryption techniques to secure your data and communications.", 
                                 "persons": [
@@ -513,7 +513,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Diskussion zur Netzpolitik in der Schweiz als Nachtrag zum gleichnamigen Vortrag: https://events.ccc.de/congress/2015/Fahrplan/events/7205.html", 
                                 "persons": [
@@ -540,7 +540,7 @@
                                 "subtitle": "loklak", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "loklak is a back-end search- and storage-infrastructure for microblog-messages and the Internet of Things. Make your own search portal! loklak scrapes tweets from twitter html pages (more message sources to come). We+You collect and share tweets in a peer-to-peer network. API Example? Easy, call /api/search.json?q=&lt;search-term&gt; for official Twitter API-like results or /api/search.rss?q=&lt;search-term&gt; for opensearch/rss results. You don't need a twitter account or an OAuth key.", 
                                 "persons": [
@@ -570,7 +570,7 @@
                                 "subtitle": "Richtfunk, Fl\u00fcchtlinge und BGP", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Freifunk Hamburg berichtet \u00fcber Fortschritte beim Ausbau des Richtfunknetzes, Herausforderungen bei der Versorgung Gefl\u00fcchteter mit freiem WLAN, die Zusammenarbeit mit der Stadt und Peering in Hamburg.", 
                                 "persons": [
@@ -603,7 +603,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "We want to convene and discuss how to pursue a Transatlantic Privacy Agenda - as as a homage to Caspar Bowden (\u271d 9 July 2015)", 
                                 "persons": [
@@ -621,7 +621,7 @@
                         ], 
                         "Dach": [
                             {
-                                "id": 1125, 
+                                "id": 1124, 
                                 "guid": "3b0c765624223dfe4d17bd541c44ff14", 
                                 "logo": null, 
                                 "date": "2015-12-27T22:00:00+01:00", 
@@ -648,7 +648,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1128, 
+                                "id": 1127, 
                                 "guid": "1ae6fd3e27b16ee0e051a37ad3880120", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -675,7 +675,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1134, 
+                                "id": 1132, 
                                 "guid": "f7b648788938007f396b288491459cfb", 
                                 "logo": null, 
                                 "date": "2015-12-27T15:00:00+01:00", 
@@ -702,34 +702,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1156, 
-                                "guid": "2e2ce23bbb290d05b4ad87c86ecc29e0", 
-                                "logo": null, 
-                                "date": "2015-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Dach", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Ygramul", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1159, 
+                                "id": 1157, 
                                 "guid": "24e951361035383edd6c0ef868956366", 
                                 "logo": null, 
                                 "date": "2015-12-27T23:00:00+01:00", 
@@ -756,11 +729,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1163, 
-                                "guid": "835736ef997d32b8ea53644d05e97d66", 
+                                "id": 1161, 
+                                "guid": "2e2ce23bbb290d05b4ad87c86ecc29e0", 
                                 "logo": null, 
-                                "date": "2015-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Dach", 
                                 "slug": "", 
@@ -783,7 +756,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1166, 
+                                "id": 1165, 
                                 "guid": "90650fc1357b315d59c5cba85e4fcd36", 
                                 "logo": null, 
                                 "date": "2015-12-27T16:00:00+01:00", 
@@ -793,6 +766,33 @@
                                 "slug": "", 
                                 "title": "Lounge", 
                                 "subtitle": "Pio", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1168, 
+                                "guid": "835736ef997d32b8ea53644d05e97d66", 
+                                "logo": null, 
+                                "date": "2015-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Dach", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Ygramul", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -837,7 +837,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1195, 
+                                "id": 1193, 
                                 "guid": "597ddfc17e81d0d54814dfdc230731cb", 
                                 "logo": null, 
                                 "date": "2015-12-27T21:00:00+01:00", 
@@ -864,7 +864,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1198, 
+                                "id": 1196, 
                                 "guid": "a4c36f9c7fb7d80a1cf911562d6383af", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -893,34 +893,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1137, 
-                                "guid": "3b701c5c117c8269eed0f3575b80f402", 
-                                "logo": null, 
-                                "date": "2015-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Lounge", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Technicolorism", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1140, 
+                                "id": 1138, 
                                 "guid": "b7c3390ab4eb5a8b30c238ad4d5f2e80", 
                                 "logo": null, 
                                 "date": "2015-12-27T23:00:00+01:00", 
@@ -947,7 +920,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1143, 
+                                "id": 1141, 
                                 "guid": "93d8c580c614146f657bdf7db9eac496", 
                                 "logo": null, 
                                 "date": "2015-12-28T01:00:00+01:00", 
@@ -974,11 +947,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1144, 
-                                "guid": "198b46545f108a9a03b2ace01e56cb14", 
+                                "id": 1142, 
+                                "guid": "3b701c5c117c8269eed0f3575b80f402", 
                                 "logo": null, 
-                                "date": "2015-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
@@ -1001,7 +974,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1147, 
+                                "id": 1146, 
                                 "guid": "dc92ab43f0c0a4f5a4381bb9a05b21d9", 
                                 "logo": null, 
                                 "date": "2015-12-27T16:00:00+01:00", 
@@ -1028,7 +1001,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1171, 
+                                "id": 1149, 
+                                "guid": "198b46545f108a9a03b2ace01e56cb14", 
+                                "logo": null, 
+                                "date": "2015-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Lounge", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Technicolorism", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1170, 
                                 "guid": "b216f02af60e1ceb8c53562c0fd377c8", 
                                 "logo": null, 
                                 "date": "2015-12-28T00:00:00+01:00", 
@@ -1055,7 +1055,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1174, 
+                                "id": 1173, 
                                 "guid": "98698330c363b412cac28e74686d82d7", 
                                 "logo": null, 
                                 "date": "2015-12-28T02:00:00+01:00", 
@@ -1082,7 +1082,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1177, 
+                                "id": 1175, 
                                 "guid": "00997726b8f329cbd7aac04056ac75a5", 
                                 "logo": null, 
                                 "date": "2015-12-27T21:00:00+01:00", 
@@ -1109,7 +1109,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1180, 
+                                "id": 1178, 
                                 "guid": "6734d0907fab5b1de757808ce47aafac", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -1136,7 +1136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1204, 
+                                "id": 1203, 
                                 "guid": "2839efac2aaa261a49c1421d715872c5", 
                                 "logo": null, 
                                 "date": "2015-12-28T03:00:00+01:00", 
@@ -1219,7 +1219,7 @@
                         ], 
                         "DACH": [
                             {
-                                "id": 1138, 
+                                "id": 1143, 
                                 "guid": "1be5bc257e3807e100f2bdf39d2a81f0", 
                                 "logo": null, 
                                 "date": "2015-12-28T03:00:00+01:00", 
@@ -1246,7 +1246,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
+                                "id": 1160, 
                                 "guid": "53f46c216170c42b6054524ad0002bc0", 
                                 "logo": null, 
                                 "date": "2015-12-28T01:00:00+01:00", 
@@ -1302,7 +1302,7 @@
                         ], 
                         "LOUNGE OBEN": [
                             {
-                                "id": 1222, 
+                                "id": 1221, 
                                 "guid": "78d4cc0fa4df5209a530360137a8141c", 
                                 "logo": null, 
                                 "date": "2015-12-28T03:00:00+01:00", 
@@ -1343,7 +1343,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "We're members of the Munich Security (MUC:SEC) Meetup Group who got lost and found ourselves waaaay in the north in Hamburg. the only thing to console us will be beer and banter.", 
                                 "persons": [
@@ -1373,7 +1373,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Haare, Leder und F\u00e4den flechten kann jeder. Bei uns kannst Du Gold uns Silber flechten (nein nicht aus Stroh) und dann darus einen Ring biegen oder ein Armreif.\nMaterial und Werkzeug ist reichlich da der Rest ist Kreativit\u00e4t, Phantasie und Geschick.", 
                                 "persons": [
@@ -1400,7 +1400,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Magst Du Knoten und Schmuck? Dann knote Dir Deinen eigen Ring aus Silberdraht (925er Silber). Weberknoten und eine Abwandlung des Webleinstegs sind schonmal kein Problem.\nDu hast einen anderen Knoten, der Dir gef\u00e4llt? Komm vorbei und zeig uns welchen Knoten Du als Ring tragen m\u00f6chtest. Wir tun alles, um das hinzubekommen.", 
                                 "persons": [
@@ -1429,7 +1429,7 @@
                                 "subtitle": "spare room in case we split up groups", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "A meetup for all the queer feminist geek folk.\nWe will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.\nThis meetup is open to people of all genders, but please be mindful of how much space you are taking up. Especially if you are white, male, straight and cis, please try to actively listen instead of talking.", 
                                 "persons": [
@@ -1512,7 +1512,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Ever wondered how social engineering attacks happen? This session's purpose is to design a poetry slam-like event with an audience award. Poets present their experience and ideas on how social engineering attacks can look like -- be it based on imagination or experience, stand-alone presentation or interaction with the audience. If we manage agreeing on a concept, we can hopefully organise a pilot slam on day 3.", 
                                 "persons": [
@@ -1539,7 +1539,7 @@
                                 "subtitle": "Let's respond to the EU platforms consultation together!", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Hands-on session, bring your laptop!\n\nThe European Commission has launched a public consultation with the rather unwieldy name \"Regulatory environment for platforms, online intermediaries, data and cloud computing and the collaborative economy\", which will be open for responses until January 6.\n\nThis consultation, which is open to anyone in the form of an online survey, could be decisive for new laws to regulate what the Commission calls online platforms. Clearly large American Internet companies are what the designers of the survey had in mind when they thought of platforms, but the definition of platforms proposed in the survey is much broader and could apply to anything from your personal website to not-for-profit collaborative projects like Wikipedia.\n\nQuestions range from rules for dealing with hate speech to copyright and liability, transparency and interoperability requirements for the operators of online platforms. That's why it's important that the Commission hears from as many users and developers of these platforms as possible, to ensure that they don't come up with any rules with drastic unintended consequences.", 
                                 "persons": [
@@ -1577,7 +1577,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "This talk gives a leisurely introduction to the secret of the number 5, which links SpongeBob's ananas, approximations to \u03c0 known to antiquity, the Mandelbrot fractal, and infinite continued fractions together. The talk is aimed at people who are interested in mathematical patterns, but no fancy math knowledge is needed to enjoy the talk. There will be pretty pictures.", 
                                 "persons": [
@@ -1605,7 +1605,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "There is more to encryption than generating an OpenPGP key and sending encrypted emails. In this talk, I will provide some tips on how to manage keys, how to improve your confidence that your mail is not being intercepted and some other neat tricks that GnuPG can do.\n\nThis talk is given by Neal Walfield", 
                                 "persons": [
@@ -1638,7 +1638,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "thesen: gruppen von menschen lassen sich oft weiter demokratisieren als \"nur\" basisdemokratie zu machen. konsensdemokratie ist m\u00f6glich, und mittelfristig sogar effizienter und stressfreier. mehr spa\u00df macht sie auch :-)", 
                                 "persons": [
@@ -1666,7 +1666,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Wie werden die Biometriedaten f\u00fcr Personalausweis und Reisepass (also Fingerabdruck & biometrisches Foto) erfasst?\nGibt es dabei Schwachstellen, die evtl. ausgenutzt werden k\u00f6nnen?\nWie kann ich m\u00f6glichst wenige Biometriedaten preisgeben - und trotzdem neue Ausweispapiere bekommen?\nEin Erfahrungs- und Gedankenaustausch.\n\nNB: Es kommt auf eure Erfahrungen und Gedanken an :-)\n\nWer zum CCC-Jahresr\u00fcckblick m\u00f6chte: Ihr seid herzlich eingeladen, an den ersten 20 Minuten \nteilzunehmen, und dann zum Jahresr\u00fcckblick aufzubrechen ;-)", 
                                 "persons": [
@@ -1693,7 +1693,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "The aim of this session is to go beyond the talk in Hall 1 about French securitarian drift since more than a year now.", 
                                 "persons": [
@@ -1721,7 +1721,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "After last year's CCC, GnuPG run a succesful fundraising campaign. Werner Koch, principal author of the GNU Privacy Guard (GnuPG), speaks about the process made and the current \tstage of development", 
                                 "persons": [
@@ -1756,7 +1756,7 @@
                                 "subtitle": "Introduction, Hands-on", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "We bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!\n\nTogether we want to explore questions like:\n\n    What kind of data did we find on this hard-drives?\n    How can this data be (ab)used?\n    How would you deal with this data breach?\n\nWho can participate?\n\nWe are looking for hackers, artists and activists to deal with this data! Data as waste, waste in the sense that it is deleted, dumped in the \u2018recycle bin\u2019 on our desktop, yet possible to be recovered. And waste as resurfacing data on hard-drives physically located at one of the largest e-waste dumps in the world.\n\nMore info about the \u201cBehind the Smart World Project can be found on the research blog resarch.radical-openness.org and here: http://kairus.org/call-for-participation-behind-the-smart-world-assembly-workshop-at-32c3-congress/ The research lab is part of the \u201cArt meets radical openness\u201d Festival which takes place in Linz, Austria.", 
                                 "persons": [
@@ -1784,7 +1784,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "We discuss sophisticated card-based protocols for secure computations with a deck of cards, i.e. cryptography without computers. However, we show also the possibility to implement these protocols with LibTMCG - the C++ library for creating secure and fair online card games.", 
                                 "persons": [
@@ -1812,7 +1812,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "There no simple go to place for real information wrt to protection and response to cases of digital stalking, but also the information needed is very country specific. However there are clear areas that need to be addressed, regardless of country, and we propose the creation of a Pan-European protocol on digital stalking which we will begin at a self organised session here at 32C3.\n\nWe want people with knowledge about the areas of FORENSICS, LEGAL, POLICE, SOCIAL WORKERS, PSYCHOLOGISTS/VICTIM SUPPORT wrt to digital stalking in their respective countries to come together and help establish a practical knowledge base along with tips for awareness training and tools.", 
                                 "persons": [
@@ -1840,7 +1840,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Freifunk hat in diesem Jahr an vielen Orten Refugees unterst\u00fctzt und Unterk\u00fcnfte vernetzt. Wir wollen berichten, was geleistet wurde und welche Aufgaben vor den Communities liegen.", 
                                 "persons": [
@@ -1923,7 +1923,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Are you operating a Tor relay? Are you thinking about it? Come by and exchange with other relay operators!", 
                                 "persons": [
@@ -1953,7 +1953,7 @@
                                 "subtitle": "Versuch 1", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "ADvanced Meeting Infrastructure & Network", 
                                 "persons": [
@@ -1982,7 +1982,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "During the workshop we will have a short look at the anarchist history, have an overviews of the current streams of anarchist thought and have some space for collective discussions on the matter.", 
                                 "persons": [], 
@@ -2003,7 +2003,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -2036,7 +2036,7 @@
                                 "subtitle": "Evening 2 conferencing studio", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
                                 "persons": [
@@ -2063,7 +2063,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Freifunk Advisory Council internal meeting.", 
                                 "persons": [
@@ -2091,7 +2091,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Wir laden alle Freifunkas ein, die sich mit Websites, Wikis oder Diensten rund um das Web besch\u00e4ftigen. Ziel ist es, Themen zu besprechen, gemeinsame Punkte zur Zusammenarbeit auszumachen und einfach nur zu sehen, was es anderswo schon gibt.", 
                                 "persons": [
@@ -2119,7 +2119,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "We will briefly introduce the Friendica project and \"The Federation\" we are part of. Introduction talk (approx 10 minutes) with Q&A afterwards by core members of the Friendica Project.", 
                                 "persons": [
@@ -2152,7 +2152,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "A workshop about running your own Numerical Weather Prediction (NWP) model.", 
                                 "persons": [
@@ -2181,7 +2181,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "See vector games on the Vectrex up-close and personal. Bring your XY oscilloscope or vector monitor and we'll try gaming on it, too.", 
                                 "persons": [
@@ -2209,7 +2209,7 @@
                                 "subtitle": "Identifying and implementing IoT use cases with sensors and actuators", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Build an IoT Empire using bring-your-own as well as on site provided embedded hardware. We start with a physical web using Firefox OS terminals and Estimote beacons, and progress to make our own IoT systems adding Nordic Semiconductor and Freescale development boards.", 
                                 "persons": [
@@ -2237,7 +2237,7 @@
                                 "subtitle": "Introduction", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Overwiew of the LEAP Encryption Access Project", 
                                 "persons": [
@@ -2270,7 +2270,7 @@
                                 "subtitle": "Hands-On", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Ever wanted to run your own secure LEAP provider, hosting VPN and email ?", 
                                 "persons": [
@@ -2298,7 +2298,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Hands on experience on how to install the pixelated provider.", 
                                 "persons": [
@@ -2328,7 +2328,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Discussion of APIs for next-generation Internet applications. We want to standardize APIs so we can share more code across projects!", 
                                 "persons": [
@@ -2361,7 +2361,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "So jetzt wirds klein. Aus Silber oder Golddraht im Designe eines Debian Swirls oder eines Notenschl\u00fcssls herzustellen erfordert gute Sicht (ob nat\u00fcrlich vorhanden ider mit Sehhilfe ist gleich). Aber keine Angst, wir stehen euch mt Rat, Tat und Werkzeug zur Verf\u00fcgung.", 
                                 "persons": [
@@ -2388,7 +2388,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "A small session to watch some demos, entertaining, non-interactive programs on different platforms from C64 to PC.", 
                                 "persons": [], 
@@ -2412,7 +2412,7 @@
                                 "subtitle": "Introduction meeting for new angels", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -2439,7 +2439,7 @@
                                 "subtitle": "Angelmeeting Day 2", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -2466,7 +2466,7 @@
                                 "subtitle": "Angelmeeting day 2", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -2525,7 +2525,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/", 
                                 "persons": [
@@ -2582,7 +2582,7 @@
                                 "subtitle": "Coffee & Cake", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Women of the congress let\u2019s meet. Discuss, exchange or even create a network. We want to have coffee on day 2 and breakfast on day 3. Bring something to drink or food - there will be cookies and some fruits.\n\nThis event is women-only* only, whatever \u201ewomen\u201c means for you. Feel welcome to join, you don\u2019t need to be a supergeek.", 
                                 "persons": [
@@ -2609,7 +2609,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "What can science fiction help us imagine that we may not be able to imagine otherwise? Can science fiction provide a way to envision post-capitalist techno-utopias (and is that something we want)? What do you think about certain sci-fi becoming mimetic to describe civil liberties violations and surveillance capabilities? We will focus on these issues but will open the discussion to a broad conversation about science fiction as well. \n\nFeel free to bring a few books (in any language) for a science fiction book swap!", 
                                 "persons": [
@@ -2653,7 +2653,7 @@
                         ], 
                         "DACH": [
                             {
-                                "id": 1126, 
+                                "id": 1125, 
                                 "guid": "8aa74579b1095bc5f933f34a98f405e7", 
                                 "logo": null, 
                                 "date": "2015-12-29T00:00:00+01:00", 
@@ -2680,7 +2680,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1129, 
+                                "id": 1128, 
                                 "guid": "9c178b49928cc4b6bacc5bb78bd3ed13", 
                                 "logo": null, 
                                 "date": "2015-12-29T02:00:00+01:00", 
@@ -2707,7 +2707,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1132, 
+                                "id": 1130, 
                                 "guid": "b9baeda86f1a3c19bf9510940105f984", 
                                 "logo": null, 
                                 "date": "2015-12-28T21:00:00+01:00", 
@@ -2734,7 +2734,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1135, 
+                                "id": 1133, 
                                 "guid": "ecdb672baa1dbf73c8de80fa58ddb587", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:00:00+01:00", 
@@ -2761,7 +2761,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1164, 
+                                "id": 1163, 
                                 "guid": "fbb87ee78697e177fab9a43a8f074551", 
                                 "logo": null, 
                                 "date": "2015-12-28T22:00:00+01:00", 
@@ -2788,7 +2788,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1166, 
                                 "guid": "f37c60a6511ac83bf2fe7924e0572658", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -2815,7 +2815,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1172, 
+                                "id": 1171, 
                                 "guid": "36a5c8577436347e0b5e4333c21872a1", 
                                 "logo": null, 
                                 "date": "2015-12-28T15:00:00+01:00", 
@@ -2842,61 +2842,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1193, 
-                                "guid": "b6680c2e181a68fbdd70f0c3d890bffd", 
-                                "logo": null, 
-                                "date": "2015-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "DACH", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Nanu ein Gnu?!", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
                                 "id": 1194, 
-                                "guid": "11c5ac1ee5d2ed733dcb4fc72fa3db36", 
-                                "logo": null, 
-                                "date": "2015-12-29T03:00:00+01:00", 
-                                "start": "03:00", 
-                                "duration": "1:00", 
-                                "room": "DACH", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Jendrik Rothstein", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1196, 
                                 "guid": "82d327349aeb4ec9332d9fa82c628683", 
                                 "logo": null, 
                                 "date": "2015-12-28T23:00:00+01:00", 
@@ -2923,7 +2869,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
+                                "id": 1197, 
                                 "guid": "00243930e9f2541f4c0985531c89ce32", 
                                 "logo": null, 
                                 "date": "2015-12-29T01:00:00+01:00", 
@@ -2950,11 +2896,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1200, 
-                                "guid": "a18bac61e1fc409c539f7d5800d3eb43", 
+                                "id": 1198, 
+                                "guid": "b6680c2e181a68fbdd70f0c3d890bffd", 
                                 "logo": null, 
-                                "date": "2015-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "DACH", 
                                 "slug": "", 
@@ -2977,7 +2923,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1202, 
+                                "id": 1199, 
+                                "guid": "11c5ac1ee5d2ed733dcb4fc72fa3db36", 
+                                "logo": null, 
+                                "date": "2015-12-29T03:00:00+01:00", 
+                                "start": "03:00", 
+                                "duration": "1:00", 
+                                "room": "DACH", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Jendrik Rothstein", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1201, 
                                 "guid": "62e9cb5077e01dceaa6a0622db165642", 
                                 "logo": null, 
                                 "date": "2015-12-28T16:00:00+01:00", 
@@ -3002,11 +2975,38 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
                                 ]
+                            }, 
+                            {
+                                "id": 1204, 
+                                "guid": "a18bac61e1fc409c539f7d5800d3eb43", 
+                                "logo": null, 
+                                "date": "2015-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "DACH", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Nanu ein Gnu?!", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
                             }
                         ], 
                         "Lounge": [
                             {
-                                "id": 1145, 
+                                "id": 1144, 
                                 "guid": "607c02f9284c1e9dd14a41cc8ca6b0b1", 
                                 "logo": null, 
                                 "date": "2015-12-28T22:00:00+01:00", 
@@ -3033,7 +3033,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1148, 
+                                "id": 1147, 
                                 "guid": "24df0548f2a89ccd6bb9ce0a218da349", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -3060,7 +3060,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1153, 
+                                "id": 1152, 
                                 "guid": "b0962b9fa266f2721fb3d8396433dcc2", 
                                 "logo": null, 
                                 "date": "2015-12-28T15:00:00+01:00", 
@@ -3087,7 +3087,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1157, 
+                                "id": 1162, 
                                 "guid": "b2076c69e51c0cd218c56e6058d04aa9", 
                                 "logo": null, 
                                 "date": "2015-12-29T03:00:00+01:00", 
@@ -3114,34 +3114,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
-                                "guid": "0486694bd2bbdb5c03e7dcebf0ed0333", 
-                                "logo": null, 
-                                "date": "2015-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Lounge", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Etkin", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1178, 
+                                "id": 1176, 
                                 "guid": "3064f6ff63a312836b11ddc9ced638c3", 
                                 "logo": null, 
                                 "date": "2015-12-28T23:00:00+01:00", 
@@ -3168,7 +3141,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1179, 
+                                "id": 1177, 
                                 "guid": "33c9a90530a55e10129e965e6f0b6cb0", 
                                 "logo": null, 
                                 "date": "2015-12-28T14:00:00+01:00", 
@@ -3195,7 +3168,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1181, 
+                                "id": 1179, 
                                 "guid": "6c3e9edd5df7331f43b3242d6dda4c94", 
                                 "logo": null, 
                                 "date": "2015-12-29T01:00:00+01:00", 
@@ -3222,11 +3195,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1182, 
-                                "guid": "d4b8fa16eefcb4e793840b3bbbfb3ca3", 
+                                "id": 1180, 
+                                "guid": "0486694bd2bbdb5c03e7dcebf0ed0333", 
                                 "logo": null, 
-                                "date": "2015-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
@@ -3249,7 +3222,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1185, 
+                                "id": 1184, 
                                 "guid": "73de2b974269160e66efa02cf9827b8e", 
                                 "logo": null, 
                                 "date": "2015-12-28T16:00:00+01:00", 
@@ -3259,6 +3232,33 @@
                                 "slug": "", 
                                 "title": "Lounge", 
                                 "subtitle": "Eulberg/Extrawelt L", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1187, 
+                                "guid": "d4b8fa16eefcb4e793840b3bbbfb3ca3", 
+                                "logo": null, 
+                                "date": "2015-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Lounge", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Etkin", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3330,7 +3330,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1212, 
+                                "id": 1210, 
                                 "guid": "15886f47ae188622498bdeb0b6a5061b", 
                                 "logo": null, 
                                 "date": "2015-12-28T21:00:00+01:00", 
@@ -3357,7 +3357,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1215, 
+                                "id": 1213, 
                                 "guid": "4a773b899f9b4d9ab348c457d152ee44", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:00:00+01:00", 
@@ -3384,7 +3384,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1219, 
+                                "id": 1218, 
                                 "guid": "7421e14445854c543f01b0884f791e44", 
                                 "logo": null, 
                                 "date": "2015-12-28T13:00:00+01:00", 
@@ -3413,7 +3413,7 @@
                         ], 
                         "LOUNGE OBEN": [
                             {
-                                "id": 1176, 
+                                "id": 1181, 
                                 "guid": "de89e24caa49fb523b5316c7869253d7", 
                                 "logo": null, 
                                 "date": "2015-12-29T03:00:00+01:00", 
@@ -3454,7 +3454,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "A workshop/discussion round for anybody interested in the different facets of Open Science/Research. Newbies are welcome!", 
                                 "persons": [
@@ -3492,7 +3492,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Combine the simplicity of Processing with the power of Python and hack the Arduino!", 
                                 "persons": [
@@ -3520,7 +3520,7 @@
                                 "subtitle": "Bau deine Wordclock", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Bau deine eigene Wortuhr am 32C3.\nWorkshop vom Fablab N\u00fcrnberg", 
                                 "persons": [
@@ -3590,7 +3590,7 @@
                                 "subtitle": "32C3 CTF", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "All participants of the 32C3 CTF are invited to get together, talk challenges and have a drink.", 
                                 "persons": [
@@ -3618,7 +3618,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "We have powerful and easy to use tools that can vastly improve the quality and security of the code we use everyday. The session will give an introduction to fuzzing, the tool american fuzzy lop and the compiler feature Address Sanitizer.\nIf there is enough interest we can continue doing a practical hands-on session afterwards\n\nLast year I started the Fuzzing Project as an effort to improve the security of free software code. In May the Linux Foundation's Core Infrastructure Initiative decided to fund my work.", 
                                 "persons": [
@@ -3651,7 +3651,7 @@
                                 "subtitle": "What's next?", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "What is best for Thunderbird and for the Mozilla project in the perspective of technological and organizational development? Our discussions are at a very early stage and we would love to get ideas, input and proposals at this session from users and developers.", 
                                 "persons": [
@@ -3681,7 +3681,7 @@
                                 "subtitle": "Introduction, Hands-on", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "We bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!\n\nTogether we want to explore questions like:\n\n    What kind of data did we find on this hard-drives?\n    How can this data be (ab)used?\n    How would you deal with this data breach?\n\nWho can participate?\n\nWe are looking for hackers, artists and activists to deal with this data! Data as waste, waste in the sense that it is deleted, dumped in the \u2018recycle bin\u2019 on our desktop, yet possible to be recovered. And waste as resurfacing data on hard-drives physically located at one of the largest e-waste dumps in the world.\n\nMore info about the \u201cBehind the Smart World Project can be found on the research blog resarch.radical-openness.org and here: http://kairus.org/call-for-participation-behind-the-smart-world-assembly-workshop-at-32c3-congress/ The research lab is part of the \u201cArt meets radical openness\u201d Festival which takes place in Linz, Austria.", 
                                 "persons": [
@@ -3709,7 +3709,7 @@
                                 "subtitle": "101, how to get started with the ESP8266", 
                                 "track": "self organized sessions", 
                                 "type": "", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "In this workshop we will show you how to configure, flash, and use the NodeMCU ESP8266 Wifi module.  Learn how to do cool things with LUA and NodeMCU, and check out some more complex things you can do with custom firmware.", 
                                 "persons": [
@@ -3786,7 +3786,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "We will get together with a few experts and discuss the collection, storage and analysis of Internet Telemetry data for tracking bad on the Internet", 
                                 "persons": [
@@ -3814,7 +3814,7 @@
                                 "subtitle": "Let's peak inside Respect My Net", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "La Quadrature du Net tries to develop tool that can help citizens to take the power back and to help with net neutrality and human rights online advocacy.\n\nThis workshop is about giving a new start to respect my net!, a tool used to list and document ent-neutrality violations in Europe.", 
                                 "persons": [
@@ -3844,7 +3844,7 @@
                                 "subtitle": "Interledger Protocol (ILP) and Frictionless, Universal Payments", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Much of today\u2019s Internet is powered by ads and data sales. No wonder: users have gotten used to \u201cfree\u201d services and it\u2019s no easy feat for companies to get people to pay or support what they use. But of course \u201cfree\u201d is a far cry from *freedom*.\n\nIf payments were instant, practically free, and managed automatically (e.g. by web browsers), online services could sustain themselves without tracking us or pleading us to click to donate. An open payment method for the web that could it possible for providers to charge tiny amounts to customers visiting websites. It could, at least in theory, change the way the Internet works -- but for the better or worse? Paid open source software could become a viable business. It could be the end of advertising and tracking. Or would it usher in a new age of paywalled content that would shut out those unable to pay? Would it provide an additional tool for surveillance or juicier targets for thieves?\n\nThis workshop will include a short explanation and demonstration of the new Interledger Protocol (ILP) for payments across payment networks. ILP is an open payment protocol being developed in a W3C Community Group to enable secure transactions between bank accounts, Bitcoin wallets, community currencies, and more. We will discuss the pitfalls that have sunk many previous micropayment schemes and we will explore and debate the implications of actually bringing frictionless payments to the Internet.", 
                                 "persons": [
@@ -3899,7 +3899,7 @@
                                 "subtitle": "workshop", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.\n\nThis session provides you with the skill set required to develop a C++ type system that validates and converts (valid) units at compile time, saving you lots of money if you ever decide to build rockets.\n\nThis workshop is for C++ programmers with an interest in learning meta-programming.", 
                                 "persons": [
@@ -3927,7 +3927,7 @@
                                 "subtitle": "presentation", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.\n\nThis session provides you with the skill set required to develop a C++ type system that validates and converts (valid) units at compile time, saving you lots of money if you ever decide to build rockets.\n\nThis workshop is for C++ programmers with an interest in learning meta-programming.", 
                                 "persons": [
@@ -3955,7 +3955,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "F\u00fcr Kinder von ungef\u00e4hr 5 bis etwa 12 Jahre.\nHier k\u00f6nnt ihr Malroboter bauen.", 
                                 "persons": [
@@ -3982,7 +3982,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Achtung: Verlegt auf 22 Uhr. Nach dem Scheitern des 'B\u00fcndnisses gegen \u00dcberwachung' stellt sich die Frage, welche Organisationsform der Bewegung gegen \u00dcberwachung neue Kraft verleihen kann. In dieser Sitzung besprechen wir die Flexible Vernetzung als m\u00f6gliche L\u00f6sung mit ihren Vor- und Nachteilen und machen uns Gedanken dar\u00fcber, wie sie am besten umgesetzt wird.", 
                                 "persons": [
@@ -4010,7 +4010,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Hackbases: history, projects updates, and grant program.", 
                                 "persons": [
@@ -4039,7 +4039,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "We believe that the current internet stack must be completely revised to establish a secure privacy preserving internet as a space to unfold basic civil rights which are threatened by mass spying. We envision the new stack to be free software, decentralized, distributed, end-to-end-encrypted, with meta-data-protection, easy to use, efficient,  wifi mesh-networking capable and well-documented. \nWe start with a thorough evaluation of existing projects and by building bridges between them to achieve what none of them could do alone.", 
                                 "persons": [
@@ -4067,7 +4067,7 @@
                                 "subtitle": "discussion", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "The EU's DS-05-2016 call asks for a consortium to organize \"International Dialogues in Cybersecurity and\nPrivacy Research and Innovation\". Let us build THE consortium to do this right.", 
                                 "persons": [
@@ -4094,7 +4094,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Annual meeting of https://gnunet.org/ev", 
                                 "persons": [
@@ -4267,39 +4267,6 @@
                                     "http://youbroketheinternet.org/", 
                                     "https://events.ccc.de/congress/2015/wiki/Session:YBTI"
                                 ]
-                            }, 
-                            {
-                                "id": 1281, 
-                                "guid": "b3214ab92c36d3e0c8f6949175aadf84", 
-                                "logo": null, 
-                                "date": "2015-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:30", 
-                                "room": "Hall F", 
-                                "slug": "", 
-                                "title": "YBTI", 
-                                "subtitle": "Async Mixnet (Sphinx + Axolotl)", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Placeholder for various YBTI-related talks (details TBA).", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                                        "public_name": "Grothoff"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                                        "public_name": "Jeffburdges"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://youbroketheinternet.org/", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:YBTI"
-                                ]
                             }
                         ], 
                         "Hall 13": [
@@ -4316,7 +4283,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Learn to use Angr, the open source binary analysis platform developed by Shellphish for the Cyber Grand Challenge. Bring a laptop and some basic Python knowledge.", 
                                 "persons": [
@@ -4344,7 +4311,7 @@
                                 "subtitle": "Evening 3 conferencing studio", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.", 
                                 "persons": [
@@ -4371,7 +4338,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Dat is an open source p2p data versioning tool.\nIt allows scientists and individuals to easily distribute and collaborate on open datasets by\nusing p2p technologies similar to the ones used in BitTorrent and other file sharing networks.\nThis will be an overview of what Dat is, where it is going, and how you can help.", 
                                 "persons": [], 
@@ -4393,7 +4360,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "More and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair your own device. They are \"endproducts\", literally.\nTo keep control of technology and privacy not in the hands of monopolised interests but in the hands of society, we need to keep control of the hardware that surrounds us. There will be a brief introduction and examples to the topic. After that I like to discuss the principal rights that we need as consumers to keep or achieve privacy from the things that surround us. And merge them with the principal rights that we need as tinkerers, professional or hobbyists, to get control of the hardware that surrounds us - to use, study, share and improve it.", 
                                 "persons": [
@@ -4425,7 +4392,7 @@
                                 "subtitle": "Breakfast", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Women of the congress let\u2019s meet. Discuss, exchange or even create a network. We want to have coffee on day 2 and breakfast on day 3. Bring something to drink or food - there will be cookies and some fruits.\n\nThis event is women-only* only, whatever \u201ewomen\u201c means for you. Feel welcome to join, you don\u2019t need to be a supergeek.", 
                                 "persons": [
@@ -4452,7 +4419,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "How to start a group that provides tech services for your community", 
                                 "persons": [], 
@@ -4473,7 +4440,7 @@
                                 "subtitle": "Let's get involved", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "A Meet-Up on New Palmyra. We want to introduce the New Palmyra project about a digital reconstruction of the demolished Palmyra world heritage sites and discuss ways how we could contribute to the project.", 
                                 "persons": [
@@ -4506,7 +4473,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Discussing newer and newer generations of technologies as cycles of critique and recuperation through the (counter-)example of Internet Relay Chat (IRC) history.", 
                                 "persons": [
@@ -4535,7 +4502,7 @@
                                 "subtitle": "Pyongyang Hackerspace", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Welcome to the Pyongyang Hackerspace! This is a participatory workshop to brainstorm new startup models fostering productive engagement with North Korea.", 
                                 "persons": [
@@ -4562,7 +4529,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Alle par Monate f\u00fchrt der Chaos Computer Club Schweiz (CCC-CH) ein Gettogether durch. Ein Treffen aller vertretenen Chaostreffs und Hackerspaces. Dabei werden Themen diskutiert die den CCC-CH zur Zeit besch\u00e4ftigen. Die Mitglieder k\u00f6nnen Projekte vorstellen, Events und Ausfl\u00fcge werden geplant. Normalerweise finden die Gettogether in den R\u00e4umlichkeiten einer der Mitgliedesorganisationen des CCC-CH statt. Diesmal aber, gibts ein Gettogether auf dem 32c3.\n\nG\u00e4ste, insbesondere Hackerspaces, Makerspaces, Chaostreffs aus der Schweiz oder dem benachbarten Ausland die nicht zum CCC-CH geh\u00f6ren sind eingeladen sich dazu zu setzen, die Leute kennen zu lernen und sich an den Diskussionen zu beteiligen.", 
                                 "persons": [
@@ -4590,7 +4557,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Endlich k\u00f6nnt ihr euren alten Silberm\u00fcnzeneuren was sinnvolles anfangen: Macht einen Ring draus. Wir zeigen euch wie und unterst\u00fctzen euch bei der Umsetzung.\n\nGot old/ancient silver coins? Make a nice silver ring from it, or a necklace pendant or..", 
                                 "persons": [
@@ -4617,7 +4584,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "This is the fifth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
                                 "persons": [
@@ -4646,7 +4613,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [], 
@@ -4695,7 +4662,7 @@
                                 "subtitle": "Angelmeeting day 3", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -4722,7 +4689,7 @@
                                 "subtitle": "Angel meeting day 3", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -4749,7 +4716,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/", 
                                 "persons": [
@@ -4807,7 +4774,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Wir stellen hier unsere bisherigen Erkenntnisse aus Beratungsterminen und Erfahrungen aus bisheriger Vereinsarbeit vor. Au\u00dferdem wollen wir besprechen, was bei Satzungen, F\u00f6rderungen und Spenden zu beachten ist.", 
                                 "persons": [
@@ -4893,7 +4860,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "Flynn is an open source platform as a service that makes it easy to deploy resilient containerized applications and databases across servers. There will be a short talk and demo of Flynn and plenty of time for discussion and questions. Three members of the Flynn core team will be hosting.", 
                                 "persons": [
@@ -5021,7 +4988,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Ein Workshop f\u00fcr Einsteiger, bei dem auch Fortgeschrittene willkommen sind.\nIch werde anhand von unterschiedlichen Blumen die H\u00e4keltechnik erkl\u00e4ren.\n\nWollreste und ein paar H\u00e4kelnadeln zum Start stelle ich bereit.\nDie H\u00e4kelnadel kann dann zum Selbstkostenpreis bei mir mitgenommen werden.\n\nWer hat kann auch seine eigene Wolle und Nadel mitbringen.", 
                                 "persons": [
@@ -5070,7 +5037,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full description of this event.", 
                                 "persons": [
@@ -5093,34 +5060,7 @@
                         ], 
                         "DACH": [
                             {
-                                "id": 1130, 
-                                "guid": "cac56135683261a0e01b57543431d5d3", 
-                                "logo": null, 
-                                "date": "2015-12-29T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "DACH", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Andi Valent", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1133, 
+                                "id": 1131, 
                                 "guid": "7f6c3bd662fb2513f1c66194922a0b47", 
                                 "logo": null, 
                                 "date": "2015-12-29T23:00:00+01:00", 
@@ -5147,7 +5087,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1136, 
+                                "id": 1134, 
                                 "guid": "c6a9014d6632095e33a4bbc4259f8fc5", 
                                 "logo": null, 
                                 "date": "2015-12-30T01:00:00+01:00", 
@@ -5174,7 +5114,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1139, 
+                                "id": 1135, 
+                                "guid": "cac56135683261a0e01b57543431d5d3", 
+                                "logo": null, 
+                                "date": "2015-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "DACH", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Andi Valent", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1137, 
                                 "guid": "12f6a7d811403639bc940cbeeea346f3", 
                                 "logo": null, 
                                 "date": "2015-12-29T20:00:00+01:00", 
@@ -5201,7 +5168,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
+                                "id": 1140, 
                                 "guid": "be002432cfee63216e8e53dad9c5ceee", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:00:00+01:00", 
@@ -5228,7 +5195,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1155, 
                                 "guid": "8407bc64917c1748b9ca8e10c4e5f575", 
                                 "logo": null, 
                                 "date": "2015-12-30T03:00:00+01:00", 
@@ -5255,7 +5222,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1165, 
+                                "id": 1164, 
                                 "guid": "90833990de3f3d13e21862c6d3bc62ec", 
                                 "logo": null, 
                                 "date": "2015-12-30T00:00:00+01:00", 
@@ -5282,7 +5249,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
+                                "id": 1167, 
                                 "guid": "83ccadfbdd238ca760ece7928a3ad5e7", 
                                 "logo": null, 
                                 "date": "2015-12-30T02:00:00+01:00", 
@@ -5309,7 +5276,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1170, 
+                                "id": 1169, 
                                 "guid": "079bfe482a701cec6aab95f821f3a1b2", 
                                 "logo": null, 
                                 "date": "2015-12-29T21:00:00+01:00", 
@@ -5336,7 +5303,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1172, 
                                 "guid": "56244fe2e1fbd4c517fc8133360d1b6f", 
                                 "logo": null, 
                                 "date": "2015-12-29T17:00:00+01:00", 
@@ -5363,7 +5330,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1201, 
+                                "id": 1200, 
                                 "guid": "ac79efea17570bf4929b8917c6f409f0", 
                                 "logo": null, 
                                 "date": "2015-12-29T22:00:00+01:00", 
@@ -5390,7 +5357,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1202, 
                                 "guid": "6f45068a51548fc968bbddc83f6d9bea", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -5446,7 +5413,7 @@
                         ], 
                         "LOUNGE OBEN": [
                             {
-                                "id": 1131, 
+                                "id": 1136, 
                                 "guid": "37709c8b725163edb277d8323d690269", 
                                 "logo": null, 
                                 "date": "2015-12-30T03:00:00+01:00", 
@@ -5475,7 +5442,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1141, 
+                                "id": 1139, 
                                 "guid": "802b00b2e73dd9564fe5a8a8ed4eed9c", 
                                 "logo": null, 
                                 "date": "2015-12-29T13:00:00+01:00", 
@@ -5502,7 +5469,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1146, 
+                                "id": 1145, 
                                 "guid": "25af245e14b798b6914dca5c49738b48", 
                                 "logo": null, 
                                 "date": "2015-12-30T00:00:00+01:00", 
@@ -5529,7 +5496,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
+                                "id": 1148, 
                                 "guid": "3a4c729f959f79ad2a67faf8cd8623c8", 
                                 "logo": null, 
                                 "date": "2015-12-30T02:00:00+01:00", 
@@ -5556,7 +5523,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1151, 
+                                "id": 1150, 
                                 "guid": "cb8a806c61810935b9d4d19a2da07b9b", 
                                 "logo": null, 
                                 "date": "2015-12-29T21:00:00+01:00", 
@@ -5583,7 +5550,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1153, 
                                 "guid": "07649f609347045e1bfc64db074d1310", 
                                 "logo": null, 
                                 "date": "2015-12-29T17:00:00+01:00", 
@@ -5610,7 +5577,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1183, 
+                                "id": 1182, 
                                 "guid": "8c3c36cf20d5eaadbd00c33fc0265c9e", 
                                 "logo": null, 
                                 "date": "2015-12-29T22:00:00+01:00", 
@@ -5637,7 +5604,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1186, 
+                                "id": 1185, 
                                 "guid": "3c99b270031a4b8de19bf672cee8a20a", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -5691,7 +5658,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1197, 
+                                "id": 1195, 
                                 "guid": "e15661f7444a9d6fc6358144880476f0", 
                                 "logo": null, 
                                 "date": "2015-12-29T14:00:00+01:00", 
@@ -5718,61 +5685,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1210, 
-                                "guid": "31dcf9b49a993c0cf15ef440417a5a18", 
-                                "logo": null, 
-                                "date": "2015-12-29T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Lounge", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Miranda L", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
                                 "id": 1211, 
-                                "guid": "48221054adea7c75bd7c03f34a27dc7f", 
-                                "logo": null, 
-                                "date": "2015-12-30T03:00:00+01:00", 
-                                "start": "03:00", 
-                                "duration": "1:00", 
-                                "room": "Lounge", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "P.Gregor/Katovl", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1213, 
                                 "guid": "854137f77e2c65cb7f66bcca08fd91fe", 
                                 "logo": null, 
                                 "date": "2015-12-29T23:00:00+01:00", 
@@ -5799,7 +5712,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1216, 
+                                "id": 1214, 
                                 "guid": "006527a6b0793dd9ce109b4e749b5bed", 
                                 "logo": null, 
                                 "date": "2015-12-30T01:00:00+01:00", 
@@ -5826,16 +5739,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1217, 
-                                "guid": "f2724b540787adf54cbb08bc3ed6f640", 
+                                "id": 1215, 
+                                "guid": "31dcf9b49a993c0cf15ef440417a5a18", 
                                 "logo": null, 
-                                "date": "2015-12-29T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "H. Heh", 
+                                "subtitle": "Miranda L", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -5853,7 +5766,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1216, 
+                                "guid": "48221054adea7c75bd7c03f34a27dc7f", 
+                                "logo": null, 
+                                "date": "2015-12-30T03:00:00+01:00", 
+                                "start": "03:00", 
+                                "duration": "1:00", 
+                                "room": "Lounge", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "P.Gregor/Katovl", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1219, 
                                 "guid": "47a0fdb02b9a65d49966ecd48e9e7039", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:00:00+01:00", 
@@ -5863,6 +5803,33 @@
                                 "slug": "", 
                                 "title": "Lounge", 
                                 "subtitle": "MG3 L", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1222, 
+                                "guid": "f2724b540787adf54cbb08bc3ed6f640", 
+                                "logo": null, 
+                                "date": "2015-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Lounge", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "H. Heh", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -5932,7 +5899,7 @@
                                 "subtitle": "Abbaumeeting", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "OrderedDict([(u'fulltext', u'En", 
+                                "language": "En", 
                                 "abstract": "", 
                                 "description": "", 
                                 "persons": [
@@ -6072,34 +6039,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1124, 
-                                "guid": "8acee822f9de023376835876d653da3f", 
-                                "logo": null, 
-                                "date": "2015-12-30T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Lounge", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Dj Plazebo vs. Lion L", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1127, 
+                                "id": 1126, 
                                 "guid": "07cf42d2dc4ec179efc17dc20ec61a09", 
                                 "logo": null, 
                                 "date": "2015-12-30T15:00:00+01:00", 
@@ -6126,7 +6066,34 @@
                                 ]
                             }, 
                             {
-                                "id": 1152, 
+                                "id": 1129, 
+                                "guid": "8acee822f9de023376835876d653da3f", 
+                                "logo": null, 
+                                "date": "2015-12-30T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Lounge", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Dj Plazebo vs. Lion L", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1151, 
                                 "guid": "657c892bec55d46fc8589dd5e3dee6fb", 
                                 "logo": null, 
                                 "date": "2015-12-30T23:00:00+01:00", 
@@ -6153,7 +6120,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1155, 
+                                "id": 1154, 
                                 "guid": "4e4d824e877b48bdc4243841ee4745ab", 
                                 "logo": null, 
                                 "date": "2015-12-31T01:00:00+01:00", 
@@ -6180,7 +6147,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1158, 
+                                "id": 1156, 
                                 "guid": "965eb6bdc308599a0b91588bc585efac", 
                                 "logo": null, 
                                 "date": "2015-12-30T20:00:00+01:00", 
@@ -6207,7 +6174,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1160, 
+                                "id": 1158, 
                                 "guid": "88fca9248321daa8ddb1633541feadcc", 
                                 "logo": null, 
                                 "date": "2015-12-30T13:00:00+01:00", 
@@ -6234,7 +6201,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1161, 
+                                "id": 1159, 
                                 "guid": "e18d38e2615f72614c14fdff326d2bfa", 
                                 "logo": null, 
                                 "date": "2015-12-30T16:00:00+01:00", 
@@ -6261,7 +6228,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1169, 
+                                "id": 1174, 
                                 "guid": "c137f67d514771af64617c0f7060fb58", 
                                 "logo": null, 
                                 "date": "2015-12-31T03:00:00+01:00", 
@@ -6288,7 +6255,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1184, 
+                                "id": 1183, 
                                 "guid": "a58a70540da61c51159bb73aa13273b0", 
                                 "logo": null, 
                                 "date": "2015-12-31T00:00:00+01:00", 
@@ -6315,7 +6282,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1187, 
+                                "id": 1186, 
                                 "guid": "0d9895de50fc220f0f84d7657472d7fc", 
                                 "logo": null, 
                                 "date": "2015-12-31T02:00:00+01:00", 
@@ -6396,7 +6363,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1212, 
                                 "guid": "a027d260e2ad5802735bf4fbe924d4da", 
                                 "logo": null, 
                                 "date": "2015-12-30T14:00:00+01:00", 
@@ -6423,7 +6390,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1217, 
                                 "guid": "c813f56380016daca3c43c32a0fdfb16", 
                                 "logo": null, 
                                 "date": "2015-12-30T22:00:00+01:00", 
@@ -6450,7 +6417,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1220, 
                                 "guid": "babfc0a2bfe9a027083787e2d61cda10", 
                                 "logo": null, 
                                 "date": "2015-12-30T18:00:00+01:00", 
@@ -6491,7 +6458,7 @@
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
-                                "language": "OrderedDict([(u'fulltext', u'De", 
+                                "language": "De", 
                                 "abstract": "", 
                                 "description": "Ideen f\u00fcr eigenen Schmuck, aber keine Ahnung wie unzu setzen? Kein Problem \"We'll fix it\" ist unser Motto. Also schau vorbei und lass uns wissen, was Du schon immer mal an Schmuck herstellen wolltest. Wir finden sicher ein L\u00f6sung.", 
                                 "persons": [

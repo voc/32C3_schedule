@@ -1700,6 +1700,50 @@
             "1451332800"
         ]
     }, 
+    "Session:Configuring OnionCat And Tor# d2dae4addf97d46c32296af1b5429e39": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.onioncat.org/"
+        ], 
+        "Has description": [
+            "Within this workshop I'll show how to setup Tor together with OnionCat, how to test it, and how to debug the setup in case something went wrong. Bring your notebook. You should have Tor and OnionCat already installed. I'll show how to do it on Linux, it is more or less the same on BSD-style OSes. It basically works also on Windows."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eagle", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Eagle", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Configuring OnionCat And Tor"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Configuring_OnionCat_And_Tor", 
+        "Has end time": []
+    }, 
     "Session:CiTIZEN KiNO# 3a8cb961832ee4965116f963ec518d29": {
         "Held in language": [], 
         "Has start time": [
@@ -7438,62 +7482,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Building_Internet_of_Things_devices_on_the_cheap", 
         "Has end time": [
             "1451404800"
-        ]
-    }, 
-    "Session:YBTI# b3214ab92c36d3e0c8f6949175aadf84": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451386800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Async Mixnet (Sphinx + Axolotl)"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "YBTI"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
-        "Has end time": [
-            "1451388600"
         ]
     }, 
     "Session:Lounge# 47a0fdb02b9a65d49966ecd48e9e7039": {

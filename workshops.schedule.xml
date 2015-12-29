@@ -21,7 +21,7 @@
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Wer gegen &#220;berwachung arbeitet, will weder mit Aluh&#252;ten noch 'besorgten B&#252;rgern' oder 'Reichsfuzzis' zu tun haben. Braucht es daf&#252;r eine formalisierte Abgrenzung?</description>
         <persons>
@@ -43,7 +43,7 @@
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Presenter: Ismail Khoffi and Philipp Jovanovic
 
@@ -68,7 +68,7 @@ In this talk we discuss CoSi, a novel protocol for collective signing, which ena
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Deutsch: 
 Gemeinschaftsl&#246;sungen auf der Basis von freier Software vereinen Firmen und Organisationen mit gleichen oder &#228;hnlichen Bed&#252;rfnissen. Damit verbunden ist ein professionelles Gesch&#228;ftsmodell, welches sich an der Idee des Crowdfundings orientiert. Die Kunden bilden eine Community, welche die L&#246;sung finanziert und zusammen mit potenziell mehreren Entwicklerfirmen vorantreibt. Die Architektur der L&#246;sung erm&#246;glicht es, individuelle Bed&#252;rfnisse und Eigenst&#228;ndigkeiten zu bewahren und dennoch von der gemeinsamen Entwicklung zu profitieren. Zusammen mit den gr&#246;ssten Kinder- und Jugendorganisationen der Schweiz haben wir eine L&#246;sung f&#252;r die Mitglieder- und Kursverwaltung aufgebaut. Ich m&#246;chte euch die Idee der Gemeinschaftsl&#246;sungen n&#228;her bringen und &#252;ber unsere Erfahrungen aus den Projekten berichten. Wir sind zudem laufend auf der Suche nach neuen Organisationen oder Entwickler(-firmen), die unsere Vision von kollaborativer Software-Entwicklung teilen. Auf diesem Weg soll sich freie Software insbesondere in der &#246;ffentlichen Verwaltung und bei NGO etablieren. 
@@ -96,7 +96,7 @@ Community solutions based on free software unite companies and organizations wit
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>This talk will give a brief introduction of the microG Project, which aims to provide a replacement for libraries and other user-space proprietary components Google introduced to the Android operating system. It will focus on the latest development to lock users and developers into their proprietary system, called "Play Services".</description>
         <persons>
@@ -118,7 +118,7 @@ Community solutions based on free software unite companies and organizations wit
         <subtitle>Vorbesprechung f&#252;r Helfer am Junghackertag</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Vorbesprechung f&#252;r alle Helfer am Junghackertag</description>
         <persons>
@@ -141,7 +141,7 @@ Community solutions based on free software unite companies and organizations wit
         <subtitle/>
         <track>self organized sessions</track>
         <type>other</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Public screening of the movie Shortbus by John Cameron Mitchell. Audio will be english. There will be at least 30mins for setup and admittance. Runtime is around 110mins.
 Movie contains explicit pornographic scenes! Therefore legal admittance only for persons 18 years and older. Please bring a valid ID.</description>
@@ -163,7 +163,7 @@ Movie contains explicit pornographic scenes! Therefore legal admittance only for
         <subtitle>Angel meeting day 1</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -184,7 +184,7 @@ Movie contains explicit pornographic scenes! Therefore legal admittance only for
         <subtitle>Angelmeeting Day 1</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -205,7 +205,7 @@ Movie contains explicit pornographic scenes! Therefore legal admittance only for
         <subtitle>Introduction meeting for new angels</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -226,7 +226,7 @@ Movie contains explicit pornographic scenes! Therefore legal admittance only for
         <subtitle>Start of the gathering</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>A meetup for all the queer feminist geek folk.
 We will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.
@@ -277,7 +277,7 @@ Consider the Squirrels!</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Hier sollen die bekannten Informationen zur EU-Richtlinie zu Router Lockdown weitergeben und besprechen, wie wir dem begegnen wollen. Au&#223;erdem sollen die &#228;hnlichen Entwicklungen der FCC bewertet werden</description>
         <persons>
@@ -301,7 +301,7 @@ Consider the Squirrels!</description>
         <subtitle>Evening 1 conferencing studio</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.</description>
         <persons>
@@ -322,7 +322,7 @@ Consider the Squirrels!</description>
         <subtitle>Was speichern die Dienste &#252;ber dich?</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Geheimdienste sammeln eine Menge personenbezogener Daten. Die Speicherung selbiger unterliegt speziellen Datenschutzregeln. In Deutschland und vielen anderen liberalen Rechtsstaaten kann man Daten, die &#252;ber einen selbst gespeichert sind, mit einem Antrag auf Aktenauskunft gesagt bekommen. Was muss man sagen, was bekommt man zu sehen?</description>
         <persons>
@@ -363,7 +363,7 @@ Consider the Squirrels!</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Learn how to make a backup of your Persistent Volume in Tails</description>
         <persons>
@@ -387,7 +387,7 @@ Consider the Squirrels!</description>
         <subtitle>Cryptoparty Day 1</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Workshop on using various encryption techniques to secure your data and communications.</description>
         <persons>
@@ -409,7 +409,7 @@ Consider the Squirrels!</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Diskussion zur Netzpolitik in der Schweiz als Nachtrag zum gleichnamigen Vortrag: https://events.ccc.de/congress/2015/Fahrplan/events/7205.html</description>
         <persons>
@@ -430,7 +430,7 @@ Consider the Squirrels!</description>
         <subtitle>loklak</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>loklak is a back-end search- and storage-infrastructure for microblog-messages and the Internet of Things. Make your own search portal! loklak scrapes tweets from twitter html pages (more message sources to come). We+You collect and share tweets in a peer-to-peer network. API Example? Easy, call /api/search.json?q=&amp;lt;search-term&amp;gt; for official Twitter API-like results or /api/search.rss?q=&amp;lt;search-term&amp;gt; for opensearch/rss results. You don't need a twitter account or an OAuth key.</description>
         <persons>
@@ -454,7 +454,7 @@ Consider the Squirrels!</description>
         <subtitle>Richtfunk, Fl&#252;chtlinge und BGP</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Freifunk Hamburg berichtet &#252;ber Fortschritte beim Ausbau des Richtfunknetzes, Herausforderungen bei der Versorgung Gefl&#252;chteter mit freiem WLAN, die Zusammenarbeit mit der Stadt und Peering in Hamburg.</description>
         <persons>
@@ -477,7 +477,7 @@ Consider the Squirrels!</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>We want to convene and discuss how to pursue a Transatlantic Privacy Agenda - as as a homage to Caspar Bowden (&#10013; 9 July 2015)</description>
         <persons>
@@ -490,7 +490,7 @@ Consider the Squirrels!</description>
       </event>
     </room>
     <room name="Dach">
-      <event id="1125" guid="3b0c765624223dfe4d17bd541c44ff14">
+      <event id="1124" guid="3b0c765624223dfe4d17bd541c44ff14">
         <logo/>
         <date>2015-12-27T22:00:00+01:00</date>
         <start>22:00</start>
@@ -511,7 +511,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1128" guid="1ae6fd3e27b16ee0e051a37ad3880120">
+      <event id="1127" guid="1ae6fd3e27b16ee0e051a37ad3880120">
         <logo/>
         <date>2015-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -532,7 +532,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1134" guid="f7b648788938007f396b288491459cfb">
+      <event id="1132" guid="f7b648788938007f396b288491459cfb">
         <logo/>
         <date>2015-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -553,28 +553,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1156" guid="2e2ce23bbb290d05b4ad87c86ecc29e0">
-        <logo/>
-        <date>2015-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Dach</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Ygramul</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1159" guid="24e951361035383edd6c0ef868956366">
+      <event id="1157" guid="24e951361035383edd6c0ef868956366">
         <logo/>
         <date>2015-12-27T23:00:00+01:00</date>
         <start>23:00</start>
@@ -595,10 +574,10 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1163" guid="835736ef997d32b8ea53644d05e97d66">
+      <event id="1161" guid="2e2ce23bbb290d05b4ad87c86ecc29e0">
         <logo/>
-        <date>2015-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:00</duration>
         <room>Dach</room>
         <slug/>
@@ -616,7 +595,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1166" guid="90650fc1357b315d59c5cba85e4fcd36">
+      <event id="1165" guid="90650fc1357b315d59c5cba85e4fcd36">
         <logo/>
         <date>2015-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -625,6 +604,27 @@ Consider the Squirrels!</description>
         <slug/>
         <title>Lounge</title>
         <subtitle>Pio</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1168" guid="835736ef997d32b8ea53644d05e97d66">
+        <logo/>
+        <date>2015-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Dach</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Ygramul</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -658,7 +658,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1195" guid="597ddfc17e81d0d54814dfdc230731cb">
+      <event id="1193" guid="597ddfc17e81d0d54814dfdc230731cb">
         <logo/>
         <date>2015-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -679,7 +679,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1198" guid="a4c36f9c7fb7d80a1cf911562d6383af">
+      <event id="1196" guid="a4c36f9c7fb7d80a1cf911562d6383af">
         <logo/>
         <date>2015-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -702,28 +702,7 @@ Consider the Squirrels!</description>
       </event>
     </room>
     <room name="Lounge">
-      <event id="1137" guid="3b701c5c117c8269eed0f3575b80f402">
-        <logo/>
-        <date>2015-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Technicolorism</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1140" guid="b7c3390ab4eb5a8b30c238ad4d5f2e80">
+      <event id="1138" guid="b7c3390ab4eb5a8b30c238ad4d5f2e80">
         <logo/>
         <date>2015-12-27T23:00:00+01:00</date>
         <start>23:00</start>
@@ -744,7 +723,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1143" guid="93d8c580c614146f657bdf7db9eac496">
+      <event id="1141" guid="93d8c580c614146f657bdf7db9eac496">
         <logo/>
         <date>2015-12-28T01:00:00+01:00</date>
         <start>01:00</start>
@@ -765,10 +744,10 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1144" guid="198b46545f108a9a03b2ace01e56cb14">
+      <event id="1142" guid="3b701c5c117c8269eed0f3575b80f402">
         <logo/>
-        <date>2015-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
@@ -786,7 +765,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1147" guid="dc92ab43f0c0a4f5a4381bb9a05b21d9">
+      <event id="1146" guid="dc92ab43f0c0a4f5a4381bb9a05b21d9">
         <logo/>
         <date>2015-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -807,7 +786,28 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1171" guid="b216f02af60e1ceb8c53562c0fd377c8">
+      <event id="1149" guid="198b46545f108a9a03b2ace01e56cb14">
+        <logo/>
+        <date>2015-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Technicolorism</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1170" guid="b216f02af60e1ceb8c53562c0fd377c8">
         <logo/>
         <date>2015-12-28T00:00:00+01:00</date>
         <start>00:00</start>
@@ -828,7 +828,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1174" guid="98698330c363b412cac28e74686d82d7">
+      <event id="1173" guid="98698330c363b412cac28e74686d82d7">
         <logo/>
         <date>2015-12-28T02:00:00+01:00</date>
         <start>02:00</start>
@@ -849,7 +849,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1177" guid="00997726b8f329cbd7aac04056ac75a5">
+      <event id="1175" guid="00997726b8f329cbd7aac04056ac75a5">
         <logo/>
         <date>2015-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -870,7 +870,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1180" guid="6734d0907fab5b1de757808ce47aafac">
+      <event id="1178" guid="6734d0907fab5b1de757808ce47aafac">
         <logo/>
         <date>2015-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -891,7 +891,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1204" guid="2839efac2aaa261a49c1421d715872c5">
+      <event id="1203" guid="2839efac2aaa261a49c1421d715872c5">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -956,7 +956,7 @@ Consider the Squirrels!</description>
       </event>
     </room>
     <room name="DACH">
-      <event id="1138" guid="1be5bc257e3807e100f2bdf39d2a81f0">
+      <event id="1143" guid="1be5bc257e3807e100f2bdf39d2a81f0">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -977,7 +977,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1162" guid="53f46c216170c42b6054524ad0002bc0">
+      <event id="1160" guid="53f46c216170c42b6054524ad0002bc0">
         <logo/>
         <date>2015-12-28T01:00:00+01:00</date>
         <start>01:00</start>
@@ -1021,7 +1021,7 @@ Consider the Squirrels!</description>
       </event>
     </room>
     <room name="LOUNGE OBEN">
-      <event id="1222" guid="78d4cc0fa4df5209a530360137a8141c">
+      <event id="1221" guid="78d4cc0fa4df5209a530360137a8141c">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -1055,7 +1055,7 @@ Consider the Squirrels!</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>We're members of the Munich Security (MUC:SEC) Meetup Group who got lost and found ourselves waaaay in the north in Hamburg. the only thing to console us will be beer and banter.</description>
         <persons>
@@ -1079,7 +1079,7 @@ Consider the Squirrels!</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type/>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Haare, Leder und F&#228;den flechten kann jeder. Bei uns kannst Du Gold uns Silber flechten (nein nicht aus Stroh) und dann darus einen Ring biegen oder ein Armreif.
 Material und Werkzeug ist reichlich da der Rest ist Kreativit&#228;t, Phantasie und Geschick.</description>
@@ -1101,7 +1101,7 @@ Material und Werkzeug ist reichlich da der Rest ist Kreativit&#228;t, Phantasie 
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Magst Du Knoten und Schmuck? Dann knote Dir Deinen eigen Ring aus Silberdraht (925er Silber). Weberknoten und eine Abwandlung des Webleinstegs sind schonmal kein Problem.
 Du hast einen anderen Knoten, der Dir gef&#228;llt? Komm vorbei und zeig uns welchen Knoten Du als Ring tragen m&#246;chtest. Wir tun alles, um das hinzubekommen.</description>
@@ -1125,7 +1125,7 @@ Du hast einen anderen Knoten, der Dir gef&#228;llt? Komm vorbei und zeig uns wel
         <subtitle>spare room in case we split up groups</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>A meetup for all the queer feminist geek folk.
 We will talk a bit about our assembly and what we are doing there, exchange projects and ideas, and network with each other.
@@ -1192,7 +1192,7 @@ This meetup is open to people of all genders, but please be mindful of how much 
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Ever wondered how social engineering attacks happen? This session's purpose is to design a poetry slam-like event with an audience award. Poets present their experience and ideas on how social engineering attacks can look like -- be it based on imagination or experience, stand-alone presentation or interaction with the audience. If we manage agreeing on a concept, we can hopefully organise a pilot slam on day 3.</description>
         <persons>
@@ -1213,7 +1213,7 @@ This meetup is open to people of all genders, but please be mindful of how much 
         <subtitle>Let's respond to the EU platforms consultation together!</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Hands-on session, bring your laptop!
 
@@ -1245,7 +1245,7 @@ Questions range from rules for dealing with hate speech to copyright and liabili
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>This talk gives a leisurely introduction to the secret of the number 5, which links SpongeBob's ananas, approximations to &#960; known to antiquity, the Mandelbrot fractal, and infinite continued fractions together. The talk is aimed at people who are interested in mathematical patterns, but no fancy math knowledge is needed to enjoy the talk. There will be pretty pictures.</description>
         <persons>
@@ -1267,7 +1267,7 @@ Questions range from rules for dealing with hate speech to copyright and liabili
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>There is more to encryption than generating an OpenPGP key and sending encrypted emails. In this talk, I will provide some tips on how to manage keys, how to improve your confidence that your mail is not being intercepted and some other neat tricks that GnuPG can do.
 
@@ -1292,7 +1292,7 @@ This talk is given by Neal Walfield</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>thesen: gruppen von menschen lassen sich oft weiter demokratisieren als "nur" basisdemokratie zu machen. konsensdemokratie ist m&#246;glich, und mittelfristig sogar effizienter und stressfreier. mehr spa&#223; macht sie auch :-)</description>
         <persons>
@@ -1314,7 +1314,7 @@ This talk is given by Neal Walfield</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Wie werden die Biometriedaten f&#252;r Personalausweis und Reisepass (also Fingerabdruck &amp; biometrisches Foto) erfasst?
 Gibt es dabei Schwachstellen, die evtl. ausgenutzt werden k&#246;nnen?
@@ -1343,7 +1343,7 @@ teilzunehmen, und dann zum Jahresr&#252;ckblick aufzubrechen ;-)</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>The aim of this session is to go beyond the talk in Hall 1 about French securitarian drift since more than a year now.</description>
         <persons>
@@ -1365,7 +1365,7 @@ teilzunehmen, und dann zum Jahresr&#252;ckblick aufzubrechen ;-)</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>After last year's CCC, GnuPG run a succesful fundraising campaign. Werner Koch, principal author of the GNU Privacy Guard (GnuPG), speaks about the process made and the current 	stage of development</description>
         <persons>
@@ -1390,7 +1390,7 @@ teilzunehmen, und dann zum Jahresr&#252;ckblick aufzubrechen ;-)</description>
         <subtitle>Introduction, Hands-on</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>We bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!
 
@@ -1424,7 +1424,7 @@ More info about the &#8220;Behind the Smart World Project can be found on the re
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>We discuss sophisticated card-based protocols for secure computations with a deck of cards, i.e. cryptography without computers. However, we show also the possibility to implement these protocols with LibTMCG - the C++ library for creating secure and fair online card games.</description>
         <persons>
@@ -1446,7 +1446,7 @@ More info about the &#8220;Behind the Smart World Project can be found on the re
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>There no simple go to place for real information wrt to protection and response to cases of digital stalking, but also the information needed is very country specific. However there are clear areas that need to be addressed, regardless of country, and we propose the creation of a Pan-European protocol on digital stalking which we will begin at a self organised session here at 32C3.
 
@@ -1470,7 +1470,7 @@ We want people with knowledge about the areas of FORENSICS, LEGAL, POLICE, SOCIA
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Freifunk hat in diesem Jahr an vielen Orten Refugees unterst&#252;tzt und Unterk&#252;nfte vernetzt. Wir wollen berichten, was geleistet wurde und welche Aufgaben vor den Communities liegen.</description>
         <persons>
@@ -1539,7 +1539,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Are you operating a Tor relay? Are you thinking about it? Come by and exchange with other relay operators!</description>
         <persons>
@@ -1563,7 +1563,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle>Versuch 1</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>ADvanced Meeting Infrastructure &amp; Network</description>
         <persons>
@@ -1586,7 +1586,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>During the workshop we will have a short look at the anarchist history, have an overviews of the current streams of anarchist thought and have some space for collective discussions on the matter.</description>
         <persons/>
@@ -1605,7 +1605,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description/>
         <persons>
@@ -1628,7 +1628,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle>Evening 2 conferencing studio</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.</description>
         <persons>
@@ -1649,7 +1649,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Freifunk Advisory Council internal meeting.</description>
         <persons>
@@ -1671,7 +1671,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Wir laden alle Freifunkas ein, die sich mit Websites, Wikis oder Diensten rund um das Web besch&#228;ftigen. Ziel ist es, Themen zu besprechen, gemeinsame Punkte zur Zusammenarbeit auszumachen und einfach nur zu sehen, was es anderswo schon gibt.</description>
         <persons>
@@ -1693,7 +1693,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>We will briefly introduce the Friendica project and "The Federation" we are part of. Introduction talk (approx 10 minutes) with Q&amp;A afterwards by core members of the Friendica Project.</description>
         <persons>
@@ -1716,7 +1716,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>A workshop about running your own Numerical Weather Prediction (NWP) model.</description>
         <persons>
@@ -1739,7 +1739,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>See vector games on the Vectrex up-close and personal. Bring your XY oscilloscope or vector monitor and we'll try gaming on it, too.</description>
         <persons>
@@ -1761,7 +1761,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle>Identifying and implementing IoT use cases with sensors and actuators</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Build an IoT Empire using bring-your-own as well as on site provided embedded hardware. We start with a physical web using Firefox OS terminals and Estimote beacons, and progress to make our own IoT systems adding Nordic Semiconductor and Freescale development boards.</description>
         <persons>
@@ -1783,7 +1783,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle>Introduction</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Overwiew of the LEAP Encryption Access Project</description>
         <persons>
@@ -1806,7 +1806,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle>Hands-On</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Ever wanted to run your own secure LEAP provider, hosting VPN and email ?</description>
         <persons>
@@ -1828,7 +1828,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Hands on experience on how to install the pixelated provider.</description>
         <persons>
@@ -1852,7 +1852,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Discussion of APIs for next-generation Internet applications. We want to standardize APIs so we can share more code across projects!</description>
         <persons>
@@ -1875,7 +1875,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>So jetzt wirds klein. Aus Silber oder Golddraht im Designe eines Debian Swirls oder eines Notenschl&#252;ssls herzustellen erfordert gute Sicht (ob nat&#252;rlich vorhanden ider mit Sehhilfe ist gleich). Aber keine Angst, wir stehen euch mt Rat, Tat und Werkzeug zur Verf&#252;gung.</description>
         <persons>
@@ -1896,7 +1896,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>A small session to watch some demos, entertaining, non-interactive programs on different platforms from C64 to PC.</description>
         <persons/>
@@ -1918,7 +1918,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle>Introduction meeting for new angels</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -1939,7 +1939,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle>Angelmeeting Day 2</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -1960,7 +1960,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle>Angelmeeting day 2</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -2003,7 +2003,7 @@ And most importantly: what could be the effective ways of bringing more users to
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/</description>
         <persons>
@@ -2062,7 +2062,7 @@ This workshop is held by Fatuma Musa Afrah.</description>
         <subtitle>Coffee &amp; Cake</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Women of the congress let&#8217;s meet. Discuss, exchange or even create a network. We want to have coffee on day 2 and breakfast on day 3. Bring something to drink or food - there will be cookies and some fruits.
 
@@ -2085,7 +2085,7 @@ This event is women-only* only, whatever &#8222;women&#8220; means for you. Feel
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>What can science fiction help us imagine that we may not be able to imagine otherwise? Can science fiction provide a way to envision post-capitalist techno-utopias (and is that something we want)? What do you think about certain sci-fi becoming mimetic to describe civil liberties violations and surveillance capabilities? We will focus on these issues but will open the discussion to a broad conversation about science fiction as well. 
 
@@ -2120,7 +2120,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
       </event>
     </room>
     <room name="DACH">
-      <event id="1126" guid="8aa74579b1095bc5f933f34a98f405e7">
+      <event id="1125" guid="8aa74579b1095bc5f933f34a98f405e7">
         <logo/>
         <date>2015-12-29T00:00:00+01:00</date>
         <start>00:00</start>
@@ -2141,7 +2141,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1129" guid="9c178b49928cc4b6bacc5bb78bd3ed13">
+      <event id="1128" guid="9c178b49928cc4b6bacc5bb78bd3ed13">
         <logo/>
         <date>2015-12-29T02:00:00+01:00</date>
         <start>02:00</start>
@@ -2162,7 +2162,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1132" guid="b9baeda86f1a3c19bf9510940105f984">
+      <event id="1130" guid="b9baeda86f1a3c19bf9510940105f984">
         <logo/>
         <date>2015-12-28T21:00:00+01:00</date>
         <start>21:00</start>
@@ -2183,7 +2183,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1135" guid="ecdb672baa1dbf73c8de80fa58ddb587">
+      <event id="1133" guid="ecdb672baa1dbf73c8de80fa58ddb587">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2204,7 +2204,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1164" guid="fbb87ee78697e177fab9a43a8f074551">
+      <event id="1163" guid="fbb87ee78697e177fab9a43a8f074551">
         <logo/>
         <date>2015-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -2225,7 +2225,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1167" guid="f37c60a6511ac83bf2fe7924e0572658">
+      <event id="1166" guid="f37c60a6511ac83bf2fe7924e0572658">
         <logo/>
         <date>2015-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2246,7 +2246,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1172" guid="36a5c8577436347e0b5e4333c21872a1">
+      <event id="1171" guid="36a5c8577436347e0b5e4333c21872a1">
         <logo/>
         <date>2015-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2267,49 +2267,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1193" guid="b6680c2e181a68fbdd70f0c3d890bffd">
-        <logo/>
-        <date>2015-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>DACH</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Nanu ein Gnu?!</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1194" guid="11c5ac1ee5d2ed733dcb4fc72fa3db36">
-        <logo/>
-        <date>2015-12-29T03:00:00+01:00</date>
-        <start>03:00</start>
-        <duration>1:00</duration>
-        <room>DACH</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Jendrik Rothstein</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1196" guid="82d327349aeb4ec9332d9fa82c628683">
+      <event id="1194" guid="82d327349aeb4ec9332d9fa82c628683">
         <logo/>
         <date>2015-12-28T23:00:00+01:00</date>
         <start>23:00</start>
@@ -2330,7 +2288,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1199" guid="00243930e9f2541f4c0985531c89ce32">
+      <event id="1197" guid="00243930e9f2541f4c0985531c89ce32">
         <logo/>
         <date>2015-12-29T01:00:00+01:00</date>
         <start>01:00</start>
@@ -2351,10 +2309,10 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1200" guid="a18bac61e1fc409c539f7d5800d3eb43">
+      <event id="1198" guid="b6680c2e181a68fbdd70f0c3d890bffd">
         <logo/>
-        <date>2015-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:00</duration>
         <room>DACH</room>
         <slug/>
@@ -2372,7 +2330,28 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1202" guid="62e9cb5077e01dceaa6a0622db165642">
+      <event id="1199" guid="11c5ac1ee5d2ed733dcb4fc72fa3db36">
+        <logo/>
+        <date>2015-12-29T03:00:00+01:00</date>
+        <start>03:00</start>
+        <duration>1:00</duration>
+        <room>DACH</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Jendrik Rothstein</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1201" guid="62e9cb5077e01dceaa6a0622db165642">
         <logo/>
         <date>2015-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2393,9 +2372,30 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
+      <event id="1204" guid="a18bac61e1fc409c539f7d5800d3eb43">
+        <logo/>
+        <date>2015-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>DACH</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Nanu ein Gnu?!</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
     </room>
     <room name="Lounge">
-      <event id="1145" guid="607c02f9284c1e9dd14a41cc8ca6b0b1">
+      <event id="1144" guid="607c02f9284c1e9dd14a41cc8ca6b0b1">
         <logo/>
         <date>2015-12-28T22:00:00+01:00</date>
         <start>22:00</start>
@@ -2416,7 +2416,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1148" guid="24df0548f2a89ccd6bb9ce0a218da349">
+      <event id="1147" guid="24df0548f2a89ccd6bb9ce0a218da349">
         <logo/>
         <date>2015-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2437,7 +2437,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1153" guid="b0962b9fa266f2721fb3d8396433dcc2">
+      <event id="1152" guid="b0962b9fa266f2721fb3d8396433dcc2">
         <logo/>
         <date>2015-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2458,7 +2458,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1157" guid="b2076c69e51c0cd218c56e6058d04aa9">
+      <event id="1162" guid="b2076c69e51c0cd218c56e6058d04aa9">
         <logo/>
         <date>2015-12-29T03:00:00+01:00</date>
         <start>03:00</start>
@@ -2479,28 +2479,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1175" guid="0486694bd2bbdb5c03e7dcebf0ed0333">
-        <logo/>
-        <date>2015-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Etkin</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1178" guid="3064f6ff63a312836b11ddc9ced638c3">
+      <event id="1176" guid="3064f6ff63a312836b11ddc9ced638c3">
         <logo/>
         <date>2015-12-28T23:00:00+01:00</date>
         <start>23:00</start>
@@ -2521,7 +2500,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1179" guid="33c9a90530a55e10129e965e6f0b6cb0">
+      <event id="1177" guid="33c9a90530a55e10129e965e6f0b6cb0">
         <logo/>
         <date>2015-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2542,7 +2521,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1181" guid="6c3e9edd5df7331f43b3242d6dda4c94">
+      <event id="1179" guid="6c3e9edd5df7331f43b3242d6dda4c94">
         <logo/>
         <date>2015-12-29T01:00:00+01:00</date>
         <start>01:00</start>
@@ -2563,10 +2542,10 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1182" guid="d4b8fa16eefcb4e793840b3bbbfb3ca3">
+      <event id="1180" guid="0486694bd2bbdb5c03e7dcebf0ed0333">
         <logo/>
-        <date>2015-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
@@ -2584,7 +2563,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1185" guid="73de2b974269160e66efa02cf9827b8e">
+      <event id="1184" guid="73de2b974269160e66efa02cf9827b8e">
         <logo/>
         <date>2015-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2593,6 +2572,27 @@ Feel free to bring a few books (in any language) for a science fiction book swap
         <slug/>
         <title>Lounge</title>
         <subtitle>Eulberg/Extrawelt L</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1187" guid="d4b8fa16eefcb4e793840b3bbbfb3ca3">
+        <logo/>
+        <date>2015-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Etkin</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2647,7 +2647,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1212" guid="15886f47ae188622498bdeb0b6a5061b">
+      <event id="1210" guid="15886f47ae188622498bdeb0b6a5061b">
         <logo/>
         <date>2015-12-28T21:00:00+01:00</date>
         <start>21:00</start>
@@ -2668,7 +2668,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1215" guid="4a773b899f9b4d9ab348c457d152ee44">
+      <event id="1213" guid="4a773b899f9b4d9ab348c457d152ee44">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2689,7 +2689,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1219" guid="7421e14445854c543f01b0884f791e44">
+      <event id="1218" guid="7421e14445854c543f01b0884f791e44">
         <logo/>
         <date>2015-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -2712,7 +2712,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
       </event>
     </room>
     <room name="LOUNGE OBEN">
-      <event id="1176" guid="de89e24caa49fb523b5316c7869253d7">
+      <event id="1181" guid="de89e24caa49fb523b5316c7869253d7">
         <logo/>
         <date>2015-12-29T03:00:00+01:00</date>
         <start>03:00</start>
@@ -2746,7 +2746,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>A workshop/discussion round for anybody interested in the different facets of Open Science/Research. Newbies are welcome!</description>
         <persons>
@@ -2770,7 +2770,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
         <subtitle/>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Combine the simplicity of Processing with the power of Python and hack the Arduino!</description>
         <persons>
@@ -2792,7 +2792,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
         <subtitle>Bau deine Wordclock</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Bau deine eigene Wortuhr am 32C3.
 Workshop vom Fablab N&#252;rnberg</description>
@@ -2842,7 +2842,7 @@ In diesem Vortrag wollen wir zeigen, was es alles gibt und wie du viele dieser I
         <subtitle>32C3 CTF</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>All participants of the 32C3 CTF are invited to get together, talk challenges and have a drink.</description>
         <persons>
@@ -2864,7 +2864,7 @@ In diesem Vortrag wollen wir zeigen, was es alles gibt und wie du viele dieser I
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>We have powerful and easy to use tools that can vastly improve the quality and security of the code we use everyday. The session will give an introduction to fuzzing, the tool american fuzzy lop and the compiler feature Address Sanitizer.
 If there is enough interest we can continue doing a practical hands-on session afterwards
@@ -2890,7 +2890,7 @@ Last year I started the Fuzzing Project as an effort to improve the security of 
         <subtitle>What's next?</subtitle>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>What is best for Thunderbird and for the Mozilla project in the perspective of technological and organizational development? Our discussions are at a very early stage and we would love to get ideas, input and proposals at this session from users and developers.</description>
         <persons>
@@ -2914,7 +2914,7 @@ Last year I started the Fuzzing Project as an effort to improve the security of 
         <subtitle>Introduction, Hands-on</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>We bought 22 hard-drives at an e-waste dump in Ghana. From 5 of them we recovered data and we bring this data to this years 32C3 Congress!
 
@@ -2948,7 +2948,7 @@ More info about the &#8220;Behind the Smart World Project can be found on the re
         <subtitle>101, how to get started with the ESP8266</subtitle>
         <track>self organized sessions</track>
         <type/>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>In this workshop we will show you how to configure, flash, and use the NodeMCU ESP8266 Wifi module.  Learn how to do cool things with LUA and NodeMCU, and check out some more complex things you can do with custom firmware.</description>
         <persons>
@@ -3014,7 +3014,7 @@ environments. In episode #49, we report back on the Climate Summit in Paris and 
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>We will get together with a few experts and discuss the collection, storage and analysis of Internet Telemetry data for tracking bad on the Internet</description>
         <persons>
@@ -3036,7 +3036,7 @@ environments. In episode #49, we report back on the Climate Summit in Paris and 
         <subtitle>Let's peak inside Respect My Net</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>La Quadrature du Net tries to develop tool that can help citizens to take the power back and to help with net neutrality and human rights online advocacy.
 
@@ -3062,7 +3062,7 @@ This workshop is about giving a new start to respect my net!, a tool used to lis
         <subtitle>Interledger Protocol (ILP) and Frictionless, Universal Payments</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Much of today&#8217;s Internet is powered by ads and data sales. No wonder: users have gotten used to &#8220;free&#8221; services and it&#8217;s no easy feat for companies to get people to pay or support what they use. But of course &#8220;free&#8221; is a far cry from *freedom*.
 
@@ -3112,7 +3112,7 @@ This will only be a introduction, If you already know BACnet it might be boring<
         <subtitle>workshop</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.
 
@@ -3138,7 +3138,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
         <subtitle>presentation</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>In 1999 a $125 million NASA Mars orbiter entered the Mars atmosphere at a wrong trajectory and was lost, because a Lockheed Martin part used imperial units where NASA mandates the use of the metric system.
 
@@ -3164,7 +3164,7 @@ This workshop is for C++ programmers with an interest in learning meta-programmi
         <subtitle/>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>F&#252;r Kinder von ungef&#228;hr 5 bis etwa 12 Jahre.
 Hier k&#246;nnt ihr Malroboter bauen.</description>
@@ -3186,7 +3186,7 @@ Hier k&#246;nnt ihr Malroboter bauen.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Achtung: Verlegt auf 22 Uhr. Nach dem Scheitern des 'B&#252;ndnisses gegen &#220;berwachung' stellt sich die Frage, welche Organisationsform der Bewegung gegen &#220;berwachung neue Kraft verleihen kann. In dieser Sitzung besprechen wir die Flexible Vernetzung als m&#246;gliche L&#246;sung mit ihren Vor- und Nachteilen und machen uns Gedanken dar&#252;ber, wie sie am besten umgesetzt wird.</description>
         <persons>
@@ -3208,7 +3208,7 @@ Hier k&#246;nnt ihr Malroboter bauen.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Hackbases: history, projects updates, and grant program.</description>
         <persons>
@@ -3231,7 +3231,7 @@ Hier k&#246;nnt ihr Malroboter bauen.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>We believe that the current internet stack must be completely revised to establish a secure privacy preserving internet as a space to unfold basic civil rights which are threatened by mass spying. We envision the new stack to be free software, decentralized, distributed, end-to-end-encrypted, with meta-data-protection, easy to use, efficient,  wifi mesh-networking capable and well-documented. 
 We start with a thorough evaluation of existing projects and by building bridges between them to achieve what none of them could do alone.</description>
@@ -3254,7 +3254,7 @@ We start with a thorough evaluation of existing projects and by building bridges
         <subtitle>discussion</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>The EU's DS-05-2016 call asks for a consortium to organize "International Dialogues in Cybersecurity and
 Privacy Research and Innovation". Let us build THE consortium to do this right.</description>
@@ -3276,7 +3276,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Annual meeting of https://gnunet.org/ev</description>
         <persons>
@@ -3400,29 +3400,6 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
           <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
         </links>
       </event>
-      <event id="1281" guid="b3214ab92c36d3e0c8f6949175aadf84">
-        <logo/>
-        <date>2015-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>0:30</duration>
-        <room>Hall F</room>
-        <slug/>
-        <title>YBTI</title>
-        <subtitle>Async Mixnet (Sphinx + Axolotl)</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language/>
-        <abstract/>
-        <description>Placeholder for various YBTI-related talks (details TBA).</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Grothoff">Grothoff</person>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Jeffburdges">Jeffburdges</person>
-        </persons>
-        <links>
-          <link>http://youbroketheinternet.org/</link>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:YBTI</link>
-        </links>
-      </event>
     </room>
     <room name="Hall 13">
       <event id="1015" guid="c51b71ab73d04ceb702e150305d0ded9">
@@ -3436,7 +3413,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Learn to use Angr, the open source binary analysis platform developed by Shellphish for the Cyber Grand Challenge. Bring a laptop and some basic Python knowledge.</description>
         <persons>
@@ -3458,7 +3435,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
         <subtitle>Evening 3 conferencing studio</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Congress Everywhere remote contact room during the early evening Fahrplan break. Room for creative videoconferencing or self-organized streaming to fill the gap.</description>
         <persons>
@@ -3479,7 +3456,7 @@ Privacy Research and Innovation". Let us build THE consortium to do this right.<
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Dat is an open source p2p data versioning tool.
 It allows scientists and individuals to easily distribute and collaborate on open datasets by
@@ -3502,7 +3479,7 @@ This will be an overview of what Dat is, where it is going, and how you can help
         <subtitle/>
         <track>self organized sessions</track>
         <type/>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>More and more devices that we buy are crippled. They are in one way or another artificially restricted in their use. Also, manufacturers try their best to not let you change, tinker or even repair your own device. They are "endproducts", literally.
 To keep control of technology and privacy not in the hands of monopolised interests but in the hands of society, we need to keep control of the hardware that surrounds us. There will be a brief introduction and examples to the topic. After that I like to discuss the principal rights that we need as consumers to keep or achieve privacy from the things that surround us. And merge them with the principal rights that we need as tinkerers, professional or hobbyists, to get control of the hardware that surrounds us - to use, study, share and improve it.</description>
@@ -3525,7 +3502,7 @@ To keep control of technology and privacy not in the hands of monopolised intere
         <subtitle>Breakfast</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Women of the congress let&#8217;s meet. Discuss, exchange or even create a network. We want to have coffee on day 2 and breakfast on day 3. Bring something to drink or food - there will be cookies and some fruits.
 
@@ -3548,7 +3525,7 @@ This event is women-only* only, whatever &#8222;women&#8220; means for you. Feel
         <subtitle/>
         <track>self organized sessions</track>
         <type>discussion</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>How to start a group that provides tech services for your community</description>
         <persons/>
@@ -3567,7 +3544,7 @@ This event is women-only* only, whatever &#8222;women&#8220; means for you. Feel
         <subtitle>Let's get involved</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>A Meet-Up on New Palmyra. We want to introduce the New Palmyra project about a digital reconstruction of the demolished Palmyra world heritage sites and discuss ways how we could contribute to the project.</description>
         <persons>
@@ -3590,7 +3567,7 @@ This event is women-only* only, whatever &#8222;women&#8220; means for you. Feel
         <subtitle/>
         <track>self organized sessions</track>
         <type/>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Discussing newer and newer generations of technologies as cycles of critique and recuperation through the (counter-)example of Internet Relay Chat (IRC) history.</description>
         <persons>
@@ -3613,7 +3590,7 @@ This event is women-only* only, whatever &#8222;women&#8220; means for you. Feel
         <subtitle>Pyongyang Hackerspace</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Welcome to the Pyongyang Hackerspace! This is a participatory workshop to brainstorm new startup models fostering productive engagement with North Korea.</description>
         <persons>
@@ -3634,7 +3611,7 @@ This event is women-only* only, whatever &#8222;women&#8220; means for you. Feel
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Alle par Monate f&#252;hrt der Chaos Computer Club Schweiz (CCC-CH) ein Gettogether durch. Ein Treffen aller vertretenen Chaostreffs und Hackerspaces. Dabei werden Themen diskutiert die den CCC-CH zur Zeit besch&#228;ftigen. Die Mitglieder k&#246;nnen Projekte vorstellen, Events und Ausfl&#252;ge werden geplant. Normalerweise finden die Gettogether in den R&#228;umlichkeiten einer der Mitgliedesorganisationen des CCC-CH statt. Diesmal aber, gibts ein Gettogether auf dem 32c3.
 
@@ -3658,7 +3635,7 @@ G&#228;ste, insbesondere Hackerspaces, Makerspaces, Chaostreffs aus der Schweiz 
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Endlich k&#246;nnt ihr euren alten Silberm&#252;nzeneuren was sinnvolles anfangen: Macht einen Ring draus. Wir zeigen euch wie und unterst&#252;tzen euch bei der Umsetzung.
 
@@ -3681,7 +3658,7 @@ Got old/ancient silver coins? Make a nice silver ring from it, or a necklace pen
         <subtitle/>
         <track>self organized sessions</track>
         <type>hands-on</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>This is the fifth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.</description>
         <persons>
@@ -3704,7 +3681,7 @@ Got old/ancient silver coins? Make a nice silver ring from it, or a necklace pen
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description/>
         <persons/>
@@ -3759,7 +3736,7 @@ The workshop is held by Fatuma Musa Afrah.</description>
         <subtitle>Angelmeeting day 3</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -3780,7 +3757,7 @@ The workshop is held by Fatuma Musa Afrah.</description>
         <subtitle>Angel meeting day 3</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -3801,7 +3778,7 @@ The workshop is held by Fatuma Musa Afrah.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>All KinkyGeeks Bondage Workshop Information will be available at http://kinkygeeks.de/32c3/bondage-workshops/</description>
         <persons>
@@ -3847,7 +3824,7 @@ The workshop is held by Fatuma Musa Afrah.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Wir stellen hier unsere bisherigen Erkenntnisse aus Beratungsterminen und Erfahrungen aus bisheriger Vereinsarbeit vor. Au&#223;erdem wollen wir besprechen, was bei Satzungen, F&#246;rderungen und Spenden zu beachten ist.</description>
         <persons>
@@ -3917,7 +3894,7 @@ Please wear comfortable clothing you can move around in easily.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description>Flynn is an open source platform as a service that makes it easy to deploy resilient containerized applications and databases across servers. There will be a short talk and demo of Flynn and plenty of time for discussion and questions. Three members of the Flynn core team will be hosting.</description>
         <persons>
@@ -4009,7 +3986,7 @@ Please wear comfortable clothing you can move around in easily.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Ein Workshop f&#252;r Einsteiger, bei dem auch Fortgeschrittene willkommen sind.
 Ich werde anhand von unterschiedlichen Blumen die H&#228;keltechnik erkl&#228;ren.
@@ -4056,7 +4033,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>A workshop about the freedom of assembly in danger, especially with the look on data transfer from/to police and secret services. Language and context will be german - if no one others will dissent! For more details have a look at the full description of this event.</description>
         <persons>
@@ -4070,28 +4047,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
       </event>
     </room>
     <room name="DACH">
-      <event id="1130" guid="cac56135683261a0e01b57543431d5d3">
-        <logo/>
-        <date>2015-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>DACH</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Andi Valent</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1133" guid="7f6c3bd662fb2513f1c66194922a0b47">
+      <event id="1131" guid="7f6c3bd662fb2513f1c66194922a0b47">
         <logo/>
         <date>2015-12-29T23:00:00+01:00</date>
         <start>23:00</start>
@@ -4112,7 +4068,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1136" guid="c6a9014d6632095e33a4bbc4259f8fc5">
+      <event id="1134" guid="c6a9014d6632095e33a4bbc4259f8fc5">
         <logo/>
         <date>2015-12-30T01:00:00+01:00</date>
         <start>01:00</start>
@@ -4133,7 +4089,28 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1139" guid="12f6a7d811403639bc940cbeeea346f3">
+      <event id="1135" guid="cac56135683261a0e01b57543431d5d3">
+        <logo/>
+        <date>2015-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>DACH</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Andi Valent</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1137" guid="12f6a7d811403639bc940cbeeea346f3">
         <logo/>
         <date>2015-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -4154,7 +4131,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1142" guid="be002432cfee63216e8e53dad9c5ceee">
+      <event id="1140" guid="be002432cfee63216e8e53dad9c5ceee">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -4175,7 +4152,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1150" guid="8407bc64917c1748b9ca8e10c4e5f575">
+      <event id="1155" guid="8407bc64917c1748b9ca8e10c4e5f575">
         <logo/>
         <date>2015-12-30T03:00:00+01:00</date>
         <start>03:00</start>
@@ -4196,7 +4173,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1165" guid="90833990de3f3d13e21862c6d3bc62ec">
+      <event id="1164" guid="90833990de3f3d13e21862c6d3bc62ec">
         <logo/>
         <date>2015-12-30T00:00:00+01:00</date>
         <start>00:00</start>
@@ -4217,7 +4194,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1168" guid="83ccadfbdd238ca760ece7928a3ad5e7">
+      <event id="1167" guid="83ccadfbdd238ca760ece7928a3ad5e7">
         <logo/>
         <date>2015-12-30T02:00:00+01:00</date>
         <start>02:00</start>
@@ -4238,7 +4215,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1170" guid="079bfe482a701cec6aab95f821f3a1b2">
+      <event id="1169" guid="079bfe482a701cec6aab95f821f3a1b2">
         <logo/>
         <date>2015-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -4259,7 +4236,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1173" guid="56244fe2e1fbd4c517fc8133360d1b6f">
+      <event id="1172" guid="56244fe2e1fbd4c517fc8133360d1b6f">
         <logo/>
         <date>2015-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4280,7 +4257,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1201" guid="ac79efea17570bf4929b8917c6f409f0">
+      <event id="1200" guid="ac79efea17570bf4929b8917c6f409f0">
         <logo/>
         <date>2015-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -4301,7 +4278,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1203" guid="6f45068a51548fc968bbddc83f6d9bea">
+      <event id="1202" guid="6f45068a51548fc968bbddc83f6d9bea">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -4345,7 +4322,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
       </event>
     </room>
     <room name="LOUNGE OBEN">
-      <event id="1131" guid="37709c8b725163edb277d8323d690269">
+      <event id="1136" guid="37709c8b725163edb277d8323d690269">
         <logo/>
         <date>2015-12-30T03:00:00+01:00</date>
         <start>03:00</start>
@@ -4368,7 +4345,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
       </event>
     </room>
     <room name="Lounge">
-      <event id="1141" guid="802b00b2e73dd9564fe5a8a8ed4eed9c">
+      <event id="1139" guid="802b00b2e73dd9564fe5a8a8ed4eed9c">
         <logo/>
         <date>2015-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -4389,7 +4366,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1146" guid="25af245e14b798b6914dca5c49738b48">
+      <event id="1145" guid="25af245e14b798b6914dca5c49738b48">
         <logo/>
         <date>2015-12-30T00:00:00+01:00</date>
         <start>00:00</start>
@@ -4410,7 +4387,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1149" guid="3a4c729f959f79ad2a67faf8cd8623c8">
+      <event id="1148" guid="3a4c729f959f79ad2a67faf8cd8623c8">
         <logo/>
         <date>2015-12-30T02:00:00+01:00</date>
         <start>02:00</start>
@@ -4431,7 +4408,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1151" guid="cb8a806c61810935b9d4d19a2da07b9b">
+      <event id="1150" guid="cb8a806c61810935b9d4d19a2da07b9b">
         <logo/>
         <date>2015-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -4452,7 +4429,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1154" guid="07649f609347045e1bfc64db074d1310">
+      <event id="1153" guid="07649f609347045e1bfc64db074d1310">
         <logo/>
         <date>2015-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4473,7 +4450,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1183" guid="8c3c36cf20d5eaadbd00c33fc0265c9e">
+      <event id="1182" guid="8c3c36cf20d5eaadbd00c33fc0265c9e">
         <logo/>
         <date>2015-12-29T22:00:00+01:00</date>
         <start>22:00</start>
@@ -4494,7 +4471,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1186" guid="3c99b270031a4b8de19bf672cee8a20a">
+      <event id="1185" guid="3c99b270031a4b8de19bf672cee8a20a">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -4536,7 +4513,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1197" guid="e15661f7444a9d6fc6358144880476f0">
+      <event id="1195" guid="e15661f7444a9d6fc6358144880476f0">
         <logo/>
         <date>2015-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -4557,49 +4534,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1210" guid="31dcf9b49a993c0cf15ef440417a5a18">
-        <logo/>
-        <date>2015-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Miranda L</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1211" guid="48221054adea7c75bd7c03f34a27dc7f">
-        <logo/>
-        <date>2015-12-30T03:00:00+01:00</date>
-        <start>03:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>P.Gregor/Katovl</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1213" guid="854137f77e2c65cb7f66bcca08fd91fe">
+      <event id="1211" guid="854137f77e2c65cb7f66bcca08fd91fe">
         <logo/>
         <date>2015-12-29T23:00:00+01:00</date>
         <start>23:00</start>
@@ -4620,7 +4555,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1216" guid="006527a6b0793dd9ce109b4e749b5bed">
+      <event id="1214" guid="006527a6b0793dd9ce109b4e749b5bed">
         <logo/>
         <date>2015-12-30T01:00:00+01:00</date>
         <start>01:00</start>
@@ -4641,15 +4576,15 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1217" guid="f2724b540787adf54cbb08bc3ed6f640">
+      <event id="1215" guid="31dcf9b49a993c0cf15ef440417a5a18">
         <logo/>
-        <date>2015-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>H. Heh</subtitle>
+        <subtitle>Miranda L</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -4662,7 +4597,28 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1220" guid="47a0fdb02b9a65d49966ecd48e9e7039">
+      <event id="1216" guid="48221054adea7c75bd7c03f34a27dc7f">
+        <logo/>
+        <date>2015-12-30T03:00:00+01:00</date>
+        <start>03:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>P.Gregor/Katovl</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1219" guid="47a0fdb02b9a65d49966ecd48e9e7039">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -4671,6 +4627,27 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
         <slug/>
         <title>Lounge</title>
         <subtitle>MG3 L</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1222" guid="f2724b540787adf54cbb08bc3ed6f640">
+        <logo/>
+        <date>2015-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>H. Heh</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -4722,7 +4699,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
         <subtitle>Abbaumeeting</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>OrderedDict([(u'fulltext', u'En</language>
+        <language>En</language>
         <abstract/>
         <description/>
         <persons>
@@ -4830,28 +4807,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
       </event>
     </room>
     <room name="Lounge">
-      <event id="1124" guid="8acee822f9de023376835876d653da3f">
-        <logo/>
-        <date>2015-12-30T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Dj Plazebo vs. Lion L</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1127" guid="07cf42d2dc4ec179efc17dc20ec61a09">
+      <event id="1126" guid="07cf42d2dc4ec179efc17dc20ec61a09">
         <logo/>
         <date>2015-12-30T15:00:00+01:00</date>
         <start>15:00</start>
@@ -4872,7 +4828,28 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1152" guid="657c892bec55d46fc8589dd5e3dee6fb">
+      <event id="1129" guid="8acee822f9de023376835876d653da3f">
+        <logo/>
+        <date>2015-12-30T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Dj Plazebo vs. Lion L</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1151" guid="657c892bec55d46fc8589dd5e3dee6fb">
         <logo/>
         <date>2015-12-30T23:00:00+01:00</date>
         <start>23:00</start>
@@ -4893,7 +4870,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1155" guid="4e4d824e877b48bdc4243841ee4745ab">
+      <event id="1154" guid="4e4d824e877b48bdc4243841ee4745ab">
         <logo/>
         <date>2015-12-31T01:00:00+01:00</date>
         <start>01:00</start>
@@ -4914,7 +4891,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1158" guid="965eb6bdc308599a0b91588bc585efac">
+      <event id="1156" guid="965eb6bdc308599a0b91588bc585efac">
         <logo/>
         <date>2015-12-30T20:00:00+01:00</date>
         <start>20:00</start>
@@ -4935,7 +4912,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1160" guid="88fca9248321daa8ddb1633541feadcc">
+      <event id="1158" guid="88fca9248321daa8ddb1633541feadcc">
         <logo/>
         <date>2015-12-30T13:00:00+01:00</date>
         <start>13:00</start>
@@ -4956,7 +4933,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1161" guid="e18d38e2615f72614c14fdff326d2bfa">
+      <event id="1159" guid="e18d38e2615f72614c14fdff326d2bfa">
         <logo/>
         <date>2015-12-30T16:00:00+01:00</date>
         <start>16:00</start>
@@ -4977,7 +4954,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1169" guid="c137f67d514771af64617c0f7060fb58">
+      <event id="1174" guid="c137f67d514771af64617c0f7060fb58">
         <logo/>
         <date>2015-12-31T03:00:00+01:00</date>
         <start>03:00</start>
@@ -4998,7 +4975,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1184" guid="a58a70540da61c51159bb73aa13273b0">
+      <event id="1183" guid="a58a70540da61c51159bb73aa13273b0">
         <logo/>
         <date>2015-12-31T00:00:00+01:00</date>
         <start>00:00</start>
@@ -5019,7 +4996,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1187" guid="0d9895de50fc220f0f84d7657472d7fc">
+      <event id="1186" guid="0d9895de50fc220f0f84d7657472d7fc">
         <logo/>
         <date>2015-12-31T02:00:00+01:00</date>
         <start>02:00</start>
@@ -5082,7 +5059,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1214" guid="a027d260e2ad5802735bf4fbe924d4da">
+      <event id="1212" guid="a027d260e2ad5802735bf4fbe924d4da">
         <logo/>
         <date>2015-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5103,7 +5080,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1218" guid="c813f56380016daca3c43c32a0fdfb16">
+      <event id="1217" guid="c813f56380016daca3c43c32a0fdfb16">
         <logo/>
         <date>2015-12-30T22:00:00+01:00</date>
         <start>22:00</start>
@@ -5124,7 +5101,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1221" guid="babfc0a2bfe9a027083787e2d61cda10">
+      <event id="1220" guid="babfc0a2bfe9a027083787e2d61cda10">
         <logo/>
         <date>2015-12-30T18:00:00+01:00</date>
         <start>18:00</start>
@@ -5158,7 +5135,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
-        <language>OrderedDict([(u'fulltext', u'De</language>
+        <language>De</language>
         <abstract/>
         <description>Ideen f&#252;r eigenen Schmuck, aber keine Ahnung wie unzu setzen? Kein Problem "We'll fix it" ist unser Motto. Also schau vorbei und lass uns wissen, was Du schon immer mal an Schmuck herstellen wolltest. Wir finden sicher ein L&#246;sung.</description>
         <persons>
