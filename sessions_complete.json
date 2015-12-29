@@ -3720,50 +3720,6 @@
             "1451534400"
         ]
     }, 
-    "Session:Codefor.de OK-Labs Meetup# e23186433da204534ed354114ea1a67f": {
-        "Held in language": [], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://codefor.de"
-        ], 
-        "Has description": [
-            "Talk civic tech with OK-Lab members from all over Germany."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sjockers", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sjockers", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Codefor.de OK-Labs Meetup"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup", 
-        "Has end time": []
-    }, 
     "Session:The Fuzzing Project# 1f2b51c91ce5a6472056d3bb4eb37765": {
         "Held in language": [
             {
@@ -13833,6 +13789,54 @@
             "1451322000"
         ]
     }, 
+    "Session:Gentoo e.V. Mitgliederversammlung# 5baa27e662e0fd7344b98c2fb47e9d9f": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451397600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.gentoo-ev.org/"
+        ], 
+        "Has description": [
+            "Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sping", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sping", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Gentoo e.V. Mitgliederversammlung"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Gentoo_e.V._Mitgliederversammlung", 
+        "Has end time": [
+            "1451403000"
+        ]
+    }, 
     "Session:Angewandte Konsensdemokratie# 0c6e5d8fcbb7d76511522cc94d9ea57b": {
         "Held in language": [
             {
@@ -15941,61 +15945,6 @@
             "1451316600"
         ]
     }, 
-    "Session:Gentoo e.V. Mitgliederversammlung# 9d7d8eb85d917b5ffbdc2b046b400747": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451397600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.gentoo-ev.org/"
-        ], 
-        "Has description": [
-            "Mitgliederversammlung des F\u00f6rdervereins Gentoo e.V."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sping", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sping", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Gentoo e.V. Mitgliederversammlung"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Gentoo_e.V._Mitgliederversammlung", 
-        "Has end time": [
-            "1451403000"
-        ]
-    }, 
     "Session:Lounge# 93d8c580c614146f657bdf7db9eac496": {
         "Held in language": [], 
         "Has start time": [
@@ -16369,6 +16318,54 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451343600"
+        ]
+    }, 
+    "Session:Codefor.de OK-Labs Meetup# d7e3153358a233ea8df1257aac236344": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://codefor.de"
+        ], 
+        "Has description": [
+            "Talk civic tech with OK-Lab members from all over Germany."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall A.2", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sjockers", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sjockers", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Codefor.de OK-Labs Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup", 
+        "Has end time": [
+            "1451480400"
         ]
     }, 
     "Session:LearnToSolder# e4e6b1c60e8bd07319c45845b717ac65": {
