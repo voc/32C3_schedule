@@ -4406,6 +4406,48 @@
             "1451260740"
         ]
     }, 
+    "Session:Freifunk - Worst Practises# 363868eae63097bd72ebe14360575e79": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "(deutsch)  Was man eventuell besser nicht tun sollte f\u00fcr ergebnisorientierten Freifunk. \n(Kaum macht man's richtig, schon geht's)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.4", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.4", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Adorfer", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Adorfer", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Freifunk - Worst Practises"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Freifunk_-_Worst_Practises", 
+        "Has end time": []
+    }, 
     "Session:Empowerment and Integration of Newcomers# e4c52fd85cfcf93c2c62e9f242cebfb7": {
         "Held in language": [], 
         "Has start time": [
@@ -6536,67 +6578,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Haecksen_Get_Together", 
         "Has end time": [
             "1451325600"
-        ]
-    }, 
-    "Session:Wordclock Workshop:# efee0ac42ed3066ebf2380c8b8be3420": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451325600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Bau deine eigene Wortuhr am 32C3.\nWorkshop vom Fablab N\u00fcrnberg"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.3", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.3", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Bau deine Wordclock"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Fabianurban", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Fabianurban", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Faheus", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Faheus", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Wordclock Workshop"
-        ], 
-        "Has duration": [
-            330
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Wordclock_Workshop:", 
-        "Has end time": [
-            "1451345400"
         ]
     }, 
     "Session:Tor Relay Operators Meetup# 37444461c59087b58dd90709ab0938f3": {
