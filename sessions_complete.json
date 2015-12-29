@@ -11036,6 +11036,52 @@
             "1451396700"
         ]
     }, 
+    "Session:End: Civ - Resist or Die# 6809ee1e4c0b51897c8292f2057b3731": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451408400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://animamundi.blogsport.de/"
+        ], 
+        "Has description": [
+            "Civilisation is not and can never be sustainable. Let\u00b4s end it before it ends us."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.2", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.2", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:D\u00f6rthe", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:D%C3%B6rthe", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "End"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:End:_Civ_-_Resist_or_Die", 
+        "Has end time": [
+            "1451415600"
+        ]
+    }, 
     "Session:Lounge# cb8a806c61810935b9d4d19a2da07b9b": {
         "Held in language": [], 
         "Has start time": [

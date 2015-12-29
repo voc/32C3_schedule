@@ -507,13 +507,13 @@
         "event_id": 1068, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1120, 
-        "room_name": "Hall B", 
-        "start_time": "2015-12-28T16:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Engelmeeting", 
-        "abstract": "", 
-        "speakers": "Jz"
+        "room_id": 1132, 
+        "room_name": "Hall C.2", 
+        "start_time": "2015-12-29T18:00:00+01:00", 
+        "duration": 7200, 
+        "title": "End", 
+        "abstract": "Civilisation is not and can never be sustainable. Let\u00b4s end it before it ends us.", 
+        "speakers": "D\u00f6rthe"
     }, 
     {
         "event_id": 1069, 
@@ -521,7 +521,7 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2015-12-27T14:00:00+01:00", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "", 
@@ -533,7 +533,7 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2015-12-29T14:00:00+01:00", 
+        "start_time": "2015-12-27T14:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "", 
@@ -545,8 +545,8 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2015-12-27T20:45:00+01:00", 
-        "duration": 1800, 
+        "start_time": "2015-12-29T14:00:00+01:00", 
+        "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "", 
         "speakers": "Jz"
@@ -557,7 +557,7 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2015-12-29T20:45:00+01:00", 
+        "start_time": "2015-12-27T20:45:00+01:00", 
         "duration": 1800, 
         "title": "Engelmeeting", 
         "abstract": "", 
@@ -569,8 +569,8 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 3600, 
+        "start_time": "2015-12-29T20:45:00+01:00", 
+        "duration": 1800, 
         "title": "Engelmeeting", 
         "abstract": "", 
         "speakers": "Jz"
@@ -581,7 +581,7 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2015-12-30T14:00:00+01:00", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "", 
@@ -593,7 +593,7 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
-        "start_time": "2015-12-28T14:00:00+01:00", 
+        "start_time": "2015-12-30T14:00:00+01:00", 
         "duration": 3600, 
         "title": "Engelmeeting", 
         "abstract": "", 
@@ -605,6 +605,18 @@
         "track_name": "Session", 
         "room_id": 1120, 
         "room_name": "Hall B", 
+        "start_time": "2015-12-28T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Engelmeeting", 
+        "abstract": "", 
+        "speakers": "Jz"
+    }, 
+    {
+        "event_id": 1077, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1120, 
+        "room_name": "Hall B", 
         "start_time": "2015-12-28T20:45:00+01:00", 
         "duration": 1800, 
         "title": "Engelmeeting", 
@@ -612,7 +624,7 @@
         "speakers": "Jz"
     }, 
     {
-        "event_id": 1077, 
+        "event_id": 1078, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -624,7 +636,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1078, 
+        "event_id": 1079, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -636,7 +648,7 @@
         "speakers": "Thorsten"
     }, 
     {
-        "event_id": 1079, 
+        "event_id": 1080, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -648,7 +660,7 @@
         "speakers": "Titanous"
     }, 
     {
-        "event_id": 1080, 
+        "event_id": 1081, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -660,7 +672,7 @@
         "speakers": "Taziden"
     }, 
     {
-        "event_id": 1082, 
+        "event_id": 1083, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -672,7 +684,7 @@
         "speakers": "Blackhark"
     }, 
     {
-        "event_id": 1083, 
+        "event_id": 1084, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -684,7 +696,7 @@
         "speakers": "Kantorkel, Ohrensessel"
     }, 
     {
-        "event_id": 1084, 
+        "event_id": 1085, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -696,7 +708,7 @@
         "speakers": "Monic"
     }, 
     {
-        "event_id": 1085, 
+        "event_id": 1086, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -708,7 +720,7 @@
         "speakers": "Monic"
     }, 
     {
-        "event_id": 1086, 
+        "event_id": 1087, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -720,7 +732,7 @@
         "speakers": "Andibraeu"
     }, 
     {
-        "event_id": 1087, 
+        "event_id": 1088, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -732,7 +744,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1088, 
+        "event_id": 1089, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -744,7 +756,7 @@
         "speakers": "Grothoff"
     }, 
     {
-        "event_id": 1090, 
+        "event_id": 1091, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -756,7 +768,7 @@
         "speakers": "Akte"
     }, 
     {
-        "event_id": 1091, 
+        "event_id": 1092, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -768,7 +780,7 @@
         "speakers": "Sping"
     }, 
     {
-        "event_id": 1092, 
+        "event_id": 1093, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -780,7 +792,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1093, 
+        "event_id": 1094, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -792,7 +804,7 @@
         "speakers": "Maxigas"
     }, 
     {
-        "event_id": 1094, 
+        "event_id": 1095, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -804,7 +816,7 @@
         "speakers": "Slightly"
     }, 
     {
-        "event_id": 1095, 
+        "event_id": 1096, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -816,7 +828,7 @@
         "speakers": "Slightly"
     }, 
     {
-        "event_id": 1096, 
+        "event_id": 1097, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -828,7 +840,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1097, 
+        "event_id": 1098, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -840,7 +852,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1098, 
+        "event_id": 1099, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -852,7 +864,7 @@
         "speakers": "KiBa"
     }, 
     {
-        "event_id": 1099, 
+        "event_id": 1100, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -864,7 +876,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1100, 
+        "event_id": 1101, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -876,7 +888,7 @@
         "speakers": "Tgoorden"
     }, 
     {
-        "event_id": 1101, 
+        "event_id": 1102, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1132, 
@@ -888,7 +900,7 @@
         "speakers": "Tgoorden"
     }, 
     {
-        "event_id": 1102, 
+        "event_id": 1103, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -900,7 +912,7 @@
         "speakers": "Tabesin"
     }, 
     {
-        "event_id": 1103, 
+        "event_id": 1104, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -912,7 +924,7 @@
         "speakers": "Sifumoraga"
     }, 
     {
-        "event_id": 1105, 
+        "event_id": 1106, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -924,7 +936,7 @@
         "speakers": "DenSchub, St\u00e4bchenfisch"
     }, 
     {
-        "event_id": 1107, 
+        "event_id": 1108, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -936,7 +948,7 @@
         "speakers": "DarkGigaByte"
     }, 
     {
-        "event_id": 1108, 
+        "event_id": 1109, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -948,7 +960,7 @@
         "speakers": "DarkGigaByte"
     }, 
     {
-        "event_id": 1110, 
+        "event_id": 1111, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -960,7 +972,7 @@
         "speakers": "Dcht00, Maxigas"
     }, 
     {
-        "event_id": 1112, 
+        "event_id": 1113, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1112, 
@@ -972,7 +984,7 @@
         "speakers": "Varac, Meskio"
     }, 
     {
-        "event_id": 1113, 
+        "event_id": 1114, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1112, 
@@ -984,7 +996,7 @@
         "speakers": "Varac"
     }, 
     {
-        "event_id": 1118, 
+        "event_id": 1119, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1112, 
@@ -996,24 +1008,12 @@
         "speakers": "Mb"
     }, 
     {
-        "event_id": 1119, 
+        "event_id": 1120, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T16:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1120, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-28T01:00:00+01:00", 
+        "start_time": "2015-12-30T13:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1037,7 +1037,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T03:00:00+01:00", 
+        "start_time": "2015-12-30T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1045,6 +1045,18 @@
     }, 
     {
         "event_id": 1123, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-28T01:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1124, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1056,7 +1068,19 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1124, 
+        "event_id": 1125, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T03:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1126, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1068,36 +1092,12 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1125, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T13:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1126, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-28T18:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
         "event_id": 1127, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-30T02:00:00+01:00", 
+        "room_name": "Dach", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1121,7 +1121,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-28T22:00:00+01:00", 
+        "start_time": "2015-12-28T18:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1133,7 +1133,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-30T00:00:00+01:00", 
+        "start_time": "2015-12-30T02:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1144,8 +1144,8 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "Dach", 
-        "start_time": "2015-12-27T16:00:00+01:00", 
+        "room_name": "DACH", 
+        "start_time": "2015-12-28T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1157,7 +1157,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-29T17:00:00+01:00", 
+        "start_time": "2015-12-30T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1167,9 +1167,9 @@
         "event_id": 1133, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T02:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1191,9 +1191,9 @@
         "event_id": 1135, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-31T03:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-29T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1201,6 +1201,18 @@
     }, 
     {
         "event_id": 1136, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-28T02:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1137, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1212,24 +1224,12 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1137, 
+        "event_id": 1138, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T00:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1138, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-28T15:00:00+01:00", 
+        "start_time": "2015-12-31T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1241,7 +1241,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T17:00:00+01:00", 
+        "start_time": "2015-12-28T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1253,7 +1253,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T01:00:00+01:00", 
+        "start_time": "2015-12-28T14:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1275,9 +1275,9 @@
         "event_id": 1142, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "LOUNGE OBEN", 
-        "start_time": "2015-12-29T03:00:00+01:00", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-27T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1289,7 +1289,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T21:00:00+01:00", 
+        "start_time": "2015-12-29T01:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1301,7 +1301,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T23:00:00+01:00", 
+        "start_time": "2015-12-27T21:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1311,9 +1311,9 @@
         "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T14:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "LOUNGE OBEN", 
+        "start_time": "2015-12-29T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1325,7 +1325,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T16:00:00+01:00", 
+        "start_time": "2015-12-28T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1337,7 +1337,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-31T02:00:00+01:00", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1361,7 +1361,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T22:00:00+01:00", 
+        "start_time": "2015-12-31T02:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1373,7 +1373,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-31T00:00:00+01:00", 
+        "start_time": "2015-12-29T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1385,7 +1385,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T17:00:00+01:00", 
+        "start_time": "2015-12-31T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1395,9 +1395,9 @@
         "event_id": 1152, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-28T02:00:00+01:00", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1421,7 +1421,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T21:00:00+01:00", 
+        "start_time": "2015-12-30T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1432,8 +1432,8 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "Dach", 
-        "start_time": "2015-12-28T00:00:00+01:00", 
+        "room_name": "DACH", 
+        "start_time": "2015-12-28T02:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1445,7 +1445,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T15:00:00+01:00", 
+        "start_time": "2015-12-30T21:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1457,7 +1457,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "Dach", 
-        "start_time": "2015-12-27T17:00:00+01:00", 
+        "start_time": "2015-12-28T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1467,9 +1467,9 @@
         "event_id": 1158, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-29T01:00:00+01:00", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T14:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1492,8 +1492,8 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-29T03:00:00+01:00", 
+        "room_name": "Dach", 
+        "start_time": "2015-12-27T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1501,6 +1501,18 @@
     }, 
     {
         "event_id": 1161, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-29T01:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1162, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1512,24 +1524,12 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1162, 
+        "event_id": 1163, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-28T23:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1163, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-29T14:00:00+01:00", 
+        "start_time": "2015-12-29T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1541,7 +1541,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-28T16:00:00+01:00", 
+        "start_time": "2015-12-28T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1551,9 +1551,9 @@
         "event_id": 1165, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T03:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1575,9 +1575,9 @@
         "event_id": 1167, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-29T22:00:00+01:00", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-28T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1587,9 +1587,9 @@
         "event_id": 1168, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-27T18:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-29T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1599,9 +1599,9 @@
         "event_id": 1169, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-29T02:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-29T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1625,7 +1625,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T22:00:00+01:00", 
+        "start_time": "2015-12-27T18:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1637,7 +1637,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T00:00:00+01:00", 
+        "start_time": "2015-12-29T02:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1647,9 +1647,9 @@
         "event_id": 1173, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-29T15:00:00+01:00", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-27T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1661,7 +1661,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T17:00:00+01:00", 
+        "start_time": "2015-12-29T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1673,7 +1673,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T01:00:00+01:00", 
+        "start_time": "2015-12-30T14:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1697,7 +1697,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T03:00:00+01:00", 
+        "start_time": "2015-12-28T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1709,7 +1709,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T21:00:00+01:00", 
+        "start_time": "2015-12-30T01:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1721,7 +1721,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T23:00:00+01:00", 
+        "start_time": "2015-12-28T21:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1733,7 +1733,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T14:00:00+01:00", 
+        "start_time": "2015-12-30T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1745,7 +1745,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T16:00:00+01:00", 
+        "start_time": "2015-12-29T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1753,42 +1753,6 @@
     }, 
     {
         "event_id": 1182, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "LOUNGE OBEN", 
-        "start_time": "2015-12-28T03:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1183, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-29T20:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1184, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T22:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1800,12 +1764,48 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1186, 
+        "event_id": 1183, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1184, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T20:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "Dach", 
-        "start_time": "2015-12-27T18:00:00+01:00", 
+        "room_name": "LOUNGE OBEN", 
+        "start_time": "2015-12-28T03:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1186, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1815,9 +1815,9 @@
         "event_id": 1187, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-29T02:00:00+01:00", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1841,7 +1841,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "Dach", 
-        "start_time": "2015-12-27T22:00:00+01:00", 
+        "start_time": "2015-12-27T18:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1853,7 +1853,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-29T00:00:00+01:00", 
+        "start_time": "2015-12-29T02:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1863,9 +1863,9 @@
         "event_id": 1191, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T15:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "Dach", 
+        "start_time": "2015-12-27T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1877,7 +1877,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-28T17:00:00+01:00", 
+        "start_time": "2015-12-29T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1888,8 +1888,8 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-30T01:00:00+01:00", 
+        "room_name": "Dach", 
+        "start_time": "2015-12-27T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1912,8 +1912,8 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "LOUNGE OBEN", 
-        "start_time": "2015-12-30T03:00:00+01:00", 
+        "room_name": "DACH", 
+        "start_time": "2015-12-28T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1925,7 +1925,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-28T21:00:00+01:00", 
+        "start_time": "2015-12-30T01:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1937,7 +1937,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-29T23:00:00+01:00", 
+        "start_time": "2015-12-28T21:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1948,8 +1948,8 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "Dach", 
-        "start_time": "2015-12-27T15:00:00+01:00", 
+        "room_name": "LOUNGE OBEN", 
+        "start_time": "2015-12-30T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1961,7 +1961,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-29T16:00:00+01:00", 
+        "start_time": "2015-12-29T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1973,7 +1973,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T01:00:00+01:00", 
+        "start_time": "2015-12-29T13:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1985,7 +1985,7 @@
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-28T03:00:00+01:00", 
+        "start_time": "2015-12-29T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1993,6 +1993,18 @@
     }, 
     {
         "event_id": 1202, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-28T01:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1203, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -2004,24 +2016,12 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1203, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-27T23:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
         "event_id": 1204, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-29T13:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-28T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2033,7 +2033,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T18:00:00+01:00", 
+        "start_time": "2015-12-27T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2045,7 +2045,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T02:00:00+01:00", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2069,7 +2069,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T22:00:00+01:00", 
+        "start_time": "2015-12-28T18:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2081,7 +2081,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T00:00:00+01:00", 
+        "start_time": "2015-12-30T02:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2093,7 +2093,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T16:00:00+01:00", 
+        "start_time": "2015-12-28T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2105,7 +2105,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T17:00:00+01:00", 
+        "start_time": "2015-12-30T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2117,7 +2117,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-31T01:00:00+01:00", 
+        "start_time": "2015-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2139,9 +2139,9 @@
         "event_id": 1214, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-30T03:00:00+01:00", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2153,7 +2153,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T21:00:00+01:00", 
+        "start_time": "2015-12-31T01:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2165,7 +2165,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T23:00:00+01:00", 
+        "start_time": "2015-12-29T21:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2175,9 +2175,9 @@
         "event_id": 1217, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T15:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-30T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2185,6 +2185,18 @@
     }, 
     {
         "event_id": 1218, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1219, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2196,7 +2208,7 @@
         "speakers": "Sifumoraga"
     }, 
     {
-        "event_id": 1219, 
+        "event_id": 1220, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2208,7 +2220,7 @@
         "speakers": "SawuGo"
     }, 
     {
-        "event_id": 1221, 
+        "event_id": 1222, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2220,7 +2232,7 @@
         "speakers": "Tabesin, Mb"
     }, 
     {
-        "event_id": 1222, 
+        "event_id": 1223, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2232,7 +2244,7 @@
         "speakers": "Dcht00, HairyFotr"
     }, 
     {
-        "event_id": 1223, 
+        "event_id": 1224, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -2244,7 +2256,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1224, 
+        "event_id": 1225, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2256,7 +2268,7 @@
         "speakers": "SawuGo"
     }, 
     {
-        "event_id": 1225, 
+        "event_id": 1226, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2268,7 +2280,7 @@
         "speakers": "SawuGo"
     }, 
     {
-        "event_id": 1226, 
+        "event_id": 1227, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -2280,7 +2292,7 @@
         "speakers": "Konrad, Rupi, Andrenarchy"
     }, 
     {
-        "event_id": 1229, 
+        "event_id": 1230, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1112, 
@@ -2292,7 +2304,7 @@
         "speakers": "Varac"
     }, 
     {
-        "event_id": 1230, 
+        "event_id": 1231, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -2304,7 +2316,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1231, 
+        "event_id": 1232, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -2316,7 +2328,7 @@
         "speakers": "Xldrkp"
     }, 
     {
-        "event_id": 1232, 
+        "event_id": 1233, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2328,7 +2340,7 @@
         "speakers": "Theresa"
     }, 
     {
-        "event_id": 1233, 
+        "event_id": 1234, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2340,7 +2352,7 @@
         "speakers": "Theresa"
     }, 
     {
-        "event_id": 1234, 
+        "event_id": 1235, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2352,7 +2364,7 @@
         "speakers": "Eal"
     }, 
     {
-        "event_id": 1235, 
+        "event_id": 1236, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2364,7 +2376,7 @@
         "speakers": "Maxigas"
     }, 
     {
-        "event_id": 1236, 
+        "event_id": 1237, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1134, 
@@ -2376,7 +2388,7 @@
         "speakers": "Okhin"
     }, 
     {
-        "event_id": 1237, 
+        "event_id": 1238, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2388,7 +2400,7 @@
         "speakers": "SawuGo"
     }, 
     {
-        "event_id": 1238, 
+        "event_id": 1239, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2400,7 +2412,7 @@
         "speakers": "Benni"
     }, 
     {
-        "event_id": 1245, 
+        "event_id": 1246, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2412,7 +2424,7 @@
         "speakers": "Grothoff"
     }, 
     {
-        "event_id": 1247, 
+        "event_id": 1248, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2424,7 +2436,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1248, 
+        "event_id": 1249, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1112, 
@@ -2436,7 +2448,7 @@
         "speakers": "SawuGo"
     }, 
     {
-        "event_id": 1249, 
+        "event_id": 1250, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2448,7 +2460,7 @@
         "speakers": "Nm32u"
     }, 
     {
-        "event_id": 1253, 
+        "event_id": 1254, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2460,7 +2472,7 @@
         "speakers": "Uebelhacker"
     }, 
     {
-        "event_id": 1254, 
+        "event_id": 1255, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -2472,7 +2484,7 @@
         "speakers": "Uebelhacker"
     }, 
     {
-        "event_id": 1255, 
+        "event_id": 1256, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
@@ -2484,24 +2496,12 @@
         "speakers": "Cube"
     }, 
     {
-        "event_id": 1256, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1131, 
-        "room_name": "Hall C.1", 
-        "start_time": "2015-12-27T16:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Subtitles-Engelmeeting", 
-        "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
-        "speakers": "Cube"
-    }, 
-    {
         "event_id": 1257, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2015-12-27T11:00:00+01:00", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Subtitles-Engelmeeting", 
         "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
@@ -2513,7 +2513,7 @@
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2015-12-28T16:00:00+01:00", 
+        "start_time": "2015-12-27T11:00:00+01:00", 
         "duration": 3600, 
         "title": "Subtitles-Engelmeeting", 
         "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
@@ -2525,7 +2525,7 @@
         "track_name": "Session", 
         "room_id": 1131, 
         "room_name": "Hall C.1", 
-        "start_time": "2015-12-29T16:00:00+01:00", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Subtitles-Engelmeeting", 
         "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
@@ -2533,6 +2533,18 @@
     }, 
     {
         "event_id": 1260, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2015-12-29T16:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Subtitles-Engelmeeting", 
+        "abstract": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
+        "speakers": "Cube"
+    }, 
+    {
+        "event_id": 1261, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
@@ -2544,7 +2556,7 @@
         "speakers": "Emmapeel"
     }, 
     {
-        "event_id": 1261, 
+        "event_id": 1262, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -2556,7 +2568,7 @@
         "speakers": "Senficon"
     }, 
     {
-        "event_id": 1262, 
+        "event_id": 1263, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2568,7 +2580,7 @@
         "speakers": "Eal, Dmaphy"
     }, 
     {
-        "event_id": 1263, 
+        "event_id": 1264, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1111, 
@@ -2580,7 +2592,7 @@
         "speakers": "Mb"
     }, 
     {
-        "event_id": 1264, 
+        "event_id": 1265, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2592,7 +2604,7 @@
         "speakers": "Mo"
     }, 
     {
-        "event_id": 1265, 
+        "event_id": 1266, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -2604,7 +2616,7 @@
         "speakers": "Micha, AdPC"
     }, 
     {
-        "event_id": 1266, 
+        "event_id": 1267, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1112, 
@@ -2616,7 +2628,7 @@
         "speakers": "Blackspear"
     }, 
     {
-        "event_id": 1267, 
+        "event_id": 1268, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1013, 
@@ -2628,7 +2640,7 @@
         "speakers": "Brightbyte"
     }, 
     {
-        "event_id": 1268, 
+        "event_id": 1269, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1120, 
@@ -2640,7 +2652,7 @@
         "speakers": "Linuzifer"
     }, 
     {
-        "event_id": 1269, 
+        "event_id": 1270, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1133, 
@@ -2652,7 +2664,7 @@
         "speakers": "Fabianurban, Faheus"
     }, 
     {
-        "event_id": 1271, 
+        "event_id": 1272, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2664,7 +2676,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1272, 
+        "event_id": 1273, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2676,7 +2688,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1273, 
+        "event_id": 1274, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2688,7 +2700,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1274, 
+        "event_id": 1275, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2700,7 +2712,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1275, 
+        "event_id": 1276, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1230, 
@@ -2712,7 +2724,7 @@
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
-        "event_id": 1276, 
+        "event_id": 1277, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1014, 
