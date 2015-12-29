@@ -4563,48 +4563,6 @@
             "1451422800"
         ]
     }, 
-    "Session:Open data# 91f6a88f12c173ac1f0e30207eb835ba": {
-        "Held in language": [], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://opendataincubator.eu"
-        ], 
-        "Has description": [
-            "workshop open data in Europe, data sources, support and funding"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Open Knowledge Labs", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Open_Knowledge_Labs", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Vavoida", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Vavoida", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Open data"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Open_data", 
-        "Has end time": []
-    }, 
     "Session:Lounge# a5aecce79b4d724e46acb280ad68aaf7": {
         "Held in language": [], 
         "Has start time": [
@@ -14525,6 +14483,52 @@
             "1451329200"
         ]
     }, 
+    "Session:Open data# 59dd55c401b5b1765c89e6b2fe0a9971": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451408400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://opendataincubator.eu"
+        ], 
+        "Has description": [
+            "workshop open data in Europe, data sources, support and funding"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Open Knowledge Labs", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Open_Knowledge_Labs", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Vavoida", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Vavoida", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Open data"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Open_data", 
+        "Has end time": [
+            "1451412000"
+        ]
+    }, 
     "Session:SMD assembly for terrified beginners# 53bc713e3c7efc4b9198a689a94183b6": {
         "Held in language": [
             {
@@ -16028,7 +16032,8 @@
             "Session"
         ], 
         "Has website": [
-            "http://wikidata.org"
+            "https://wikidata.org", 
+            "https://query.wikidata.org/"
         ], 
         "Has description": [
             "This workshop aims to explain what Wikidata is, and how to use it. We'll explore the data mode, web API, and query interface.\n\nWikidata is the world's largest free general purpose knowledge base. As a Wikimedia-run sister project of Wikipedia, it provides machine readable information about just about anything. It's the encyclopedia by bots, for bots."
