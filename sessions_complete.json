@@ -3720,6 +3720,50 @@
             "1451534400"
         ]
     }, 
+    "Session:Codefor.de OK-Labs Meetup# e23186433da204534ed354114ea1a67f": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://codefor.de"
+        ], 
+        "Has description": [
+            "Talk civic tech with OK-Lab members from all over Germany."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sjockers", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sjockers", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Codefor.de OK-Labs Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup", 
+        "Has end time": []
+    }, 
     "Session:The Fuzzing Project# 1f2b51c91ce5a6472056d3bb4eb37765": {
         "Held in language": [
             {
@@ -7758,61 +7802,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Schwerter_zu_Haarnadeln._ast_Samurei_oder_Game_of_Thrones", 
         "Has end time": [
             "1451480400"
-        ]
-    }, 
-    "Session:Zwiebelfreunde Mitgliederversammlung# 40562c1e3e6d1b0049537b9719c2e4ba": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451476800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.zwiebelfreunde.de/"
-        ], 
-        "Has description": [
-            "Mitgliederversammlung des Zwiebelfreunde e.V."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 14", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Mo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Zwiebelfreunde Mitgliederversammlung"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Zwiebelfreunde_Mitgliederversammlung", 
-        "Has end time": [
-            "1451482200"
         ]
     }, 
     "Session:YBTI# 856bb6680d68956b76eb575a8838bc96": {
@@ -14967,6 +14956,41 @@
         "Has end time": [
             "1451440800"
         ]
+    }, 
+    "Session:Codefor.de OK-Labs Meetup# b79e0b03190ee62f8abcc7eff752c42a": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://codefor.de"
+        ], 
+        "Has description": [
+            "Talk civic tech with OK-Lab members from all over Germany."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sjockers", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sjockers", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Codefor.de OK-Labs Meetup"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup", 
+        "Has end time": []
     }, 
     "Session:Lounge# b7c3390ab4eb5a8b30c238ad4d5f2e80": {
         "Held in language": [], 
