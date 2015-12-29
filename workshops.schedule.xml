@@ -490,7 +490,7 @@ Consider the Squirrels!</description>
       </event>
     </room>
     <room name="Dach">
-      <event id="1129" guid="1ae6fd3e27b16ee0e051a37ad3880120">
+      <event id="1130" guid="1ae6fd3e27b16ee0e051a37ad3880120">
         <logo/>
         <date>2015-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -532,7 +532,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1134" guid="f7b648788938007f396b288491459cfb">
+      <event id="1133" guid="f7b648788938007f396b288491459cfb">
         <logo/>
         <date>2015-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -553,7 +553,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1162" guid="2e2ce23bbb290d05b4ad87c86ecc29e0">
+      <event id="1163" guid="2e2ce23bbb290d05b4ad87c86ecc29e0">
         <logo/>
         <date>2015-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -616,7 +616,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1170" guid="835736ef997d32b8ea53644d05e97d66">
+      <event id="1168" guid="835736ef997d32b8ea53644d05e97d66">
         <logo/>
         <date>2015-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -637,7 +637,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1191" guid="e1b9fbddb0e06b29fa7439d1e7ca2b31">
+      <event id="1195" guid="e1b9fbddb0e06b29fa7439d1e7ca2b31">
         <logo/>
         <date>2015-12-28T00:00:00+01:00</date>
         <start>00:00</start>
@@ -679,7 +679,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1201" guid="597ddfc17e81d0d54814dfdc230731cb">
+      <event id="1199" guid="597ddfc17e81d0d54814dfdc230731cb">
         <logo/>
         <date>2015-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -723,7 +723,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1143" guid="3b701c5c117c8269eed0f3575b80f402">
+      <event id="1144" guid="3b701c5c117c8269eed0f3575b80f402">
         <logo/>
         <date>2015-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -786,7 +786,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1151" guid="198b46545f108a9a03b2ace01e56cb14">
+      <event id="1149" guid="198b46545f108a9a03b2ace01e56cb14">
         <logo/>
         <date>2015-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -807,15 +807,15 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1172" guid="b216f02af60e1ceb8c53562c0fd377c8">
+      <event id="1174" guid="98698330c363b412cac28e74686d82d7">
         <logo/>
-        <date>2015-12-28T00:00:00+01:00</date>
-        <start>00:00</start>
+        <date>2015-12-28T02:00:00+01:00</date>
+        <start>02:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Ander</subtitle>
+        <subtitle>Dominik Eulberg</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -828,15 +828,15 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1175" guid="98698330c363b412cac28e74686d82d7">
+      <event id="1177" guid="b216f02af60e1ceb8c53562c0fd377c8">
         <logo/>
-        <date>2015-12-28T02:00:00+01:00</date>
-        <start>02:00</start>
+        <date>2015-12-28T00:00:00+01:00</date>
+        <start>00:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Dominik Eulberg</subtitle>
+        <subtitle>Ander</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -870,7 +870,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1183" guid="00997726b8f329cbd7aac04056ac75a5">
+      <event id="1181" guid="00997726b8f329cbd7aac04056ac75a5">
         <logo/>
         <date>2015-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -891,7 +891,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1205" guid="2839efac2aaa261a49c1421d715872c5">
+      <event id="1206" guid="2839efac2aaa261a49c1421d715872c5">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -956,7 +956,7 @@ Consider the Squirrels!</description>
       </event>
     </room>
     <room name="DACH">
-      <event id="1144" guid="1be5bc257e3807e100f2bdf39d2a81f0">
+      <event id="1145" guid="1be5bc257e3807e100f2bdf39d2a81f0">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -998,7 +998,7 @@ Consider the Squirrels!</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1194" guid="f7795b0078e1486c1b63d9c1ed21218e">
+      <event id="1193" guid="f7795b0078e1486c1b63d9c1ed21218e">
         <logo/>
         <date>2015-12-28T02:00:00+01:00</date>
         <start>02:00</start>
@@ -1021,7 +1021,7 @@ Consider the Squirrels!</description>
       </event>
     </room>
     <room name="LOUNGE OBEN">
-      <event id="1223" guid="78d4cc0fa4df5209a530360137a8141c">
+      <event id="1224" guid="78d4cc0fa4df5209a530360137a8141c">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -2141,7 +2141,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1130" guid="9c178b49928cc4b6bacc5bb78bd3ed13">
+      <event id="1131" guid="9c178b49928cc4b6bacc5bb78bd3ed13">
         <logo/>
         <date>2015-12-29T02:00:00+01:00</date>
         <start>02:00</start>
@@ -2162,7 +2162,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1135" guid="ecdb672baa1dbf73c8de80fa58ddb587">
+      <event id="1134" guid="ecdb672baa1dbf73c8de80fa58ddb587">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2183,7 +2183,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1139" guid="b9baeda86f1a3c19bf9510940105f984">
+      <event id="1136" guid="b9baeda86f1a3c19bf9510940105f984">
         <logo/>
         <date>2015-12-28T21:00:00+01:00</date>
         <start>21:00</start>
@@ -2204,7 +2204,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1168" guid="f37c60a6511ac83bf2fe7924e0572658">
+      <event id="1169" guid="f37c60a6511ac83bf2fe7924e0572658">
         <logo/>
         <date>2015-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2246,7 +2246,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1173" guid="36a5c8577436347e0b5e4333c21872a1">
+      <event id="1172" guid="36a5c8577436347e0b5e4333c21872a1">
         <logo/>
         <date>2015-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2288,7 +2288,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1199" guid="b6680c2e181a68fbdd70f0c3d890bffd">
+      <event id="1200" guid="b6680c2e181a68fbdd70f0c3d890bffd">
         <logo/>
         <date>2015-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2309,7 +2309,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1200" guid="11c5ac1ee5d2ed733dcb4fc72fa3db36">
+      <event id="1201" guid="11c5ac1ee5d2ed733dcb4fc72fa3db36">
         <logo/>
         <date>2015-12-29T03:00:00+01:00</date>
         <start>03:00</start>
@@ -2372,7 +2372,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1206" guid="a18bac61e1fc409c539f7d5800d3eb43">
+      <event id="1204" guid="a18bac61e1fc409c539f7d5800d3eb43">
         <logo/>
         <date>2015-12-28T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2395,7 +2395,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
       </event>
     </room>
     <room name="Lounge">
-      <event id="1149" guid="24df0548f2a89ccd6bb9ce0a218da349">
+      <event id="1150" guid="24df0548f2a89ccd6bb9ce0a218da349">
         <logo/>
         <date>2015-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2437,7 +2437,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1154" guid="b0962b9fa266f2721fb3d8396433dcc2">
+      <event id="1153" guid="b0962b9fa266f2721fb3d8396433dcc2">
         <logo/>
         <date>2015-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2458,7 +2458,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1163" guid="b2076c69e51c0cd218c56e6058d04aa9">
+      <event id="1164" guid="b2076c69e51c0cd218c56e6058d04aa9">
         <logo/>
         <date>2015-12-29T03:00:00+01:00</date>
         <start>03:00</start>
@@ -2521,7 +2521,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1181" guid="0486694bd2bbdb5c03e7dcebf0ed0333">
+      <event id="1182" guid="0486694bd2bbdb5c03e7dcebf0ed0333">
         <logo/>
         <date>2015-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2584,7 +2584,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1189" guid="d4b8fa16eefcb4e793840b3bbbfb3ca3">
+      <event id="1187" guid="d4b8fa16eefcb4e793840b3bbbfb3ca3">
         <logo/>
         <date>2015-12-28T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2647,7 +2647,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1215" guid="4a773b899f9b4d9ab348c457d152ee44">
+      <event id="1214" guid="4a773b899f9b4d9ab348c457d152ee44">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2668,7 +2668,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1219" guid="15886f47ae188622498bdeb0b6a5061b">
+      <event id="1216" guid="15886f47ae188622498bdeb0b6a5061b">
         <logo/>
         <date>2015-12-28T21:00:00+01:00</date>
         <start>21:00</start>
@@ -2712,7 +2712,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
       </event>
     </room>
     <room name="LOUNGE OBEN">
-      <event id="1182" guid="de89e24caa49fb523b5316c7869253d7">
+      <event id="1183" guid="de89e24caa49fb523b5316c7869253d7">
         <logo/>
         <date>2015-12-29T03:00:00+01:00</date>
         <start>03:00</start>
@@ -3988,28 +3988,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
       </event>
     </room>
     <room name="DACH">
-      <event id="1133" guid="7f6c3bd662fb2513f1c66194922a0b47">
-        <logo/>
-        <date>2015-12-29T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>DACH</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>RB</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1136" guid="c6a9014d6632095e33a4bbc4259f8fc5">
+      <event id="1135" guid="c6a9014d6632095e33a4bbc4259f8fc5">
         <logo/>
         <date>2015-12-30T01:00:00+01:00</date>
         <start>01:00</start>
@@ -4051,6 +4030,27 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
+      <event id="1139" guid="7f6c3bd662fb2513f1c66194922a0b47">
+        <logo/>
+        <date>2015-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>1:00</duration>
+        <room>DACH</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>RB</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
       <event id="1141" guid="be002432cfee63216e8e53dad9c5ceee">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
@@ -4072,7 +4072,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1145" guid="12f6a7d811403639bc940cbeeea346f3">
+      <event id="1143" guid="12f6a7d811403639bc940cbeeea346f3">
         <logo/>
         <date>2015-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -4135,7 +4135,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1169" guid="83ccadfbdd238ca760ece7928a3ad5e7">
+      <event id="1170" guid="83ccadfbdd238ca760ece7928a3ad5e7">
         <logo/>
         <date>2015-12-30T02:00:00+01:00</date>
         <start>02:00</start>
@@ -4156,7 +4156,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1174" guid="56244fe2e1fbd4c517fc8133360d1b6f">
+      <event id="1173" guid="56244fe2e1fbd4c517fc8133360d1b6f">
         <logo/>
         <date>2015-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4177,7 +4177,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1177" guid="079bfe482a701cec6aab95f821f3a1b2">
+      <event id="1175" guid="079bfe482a701cec6aab95f821f3a1b2">
         <logo/>
         <date>2015-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -4198,7 +4198,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1204" guid="6f45068a51548fc968bbddc83f6d9bea">
+      <event id="1205" guid="6f45068a51548fc968bbddc83f6d9bea">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -4328,7 +4328,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1150" guid="3a4c729f959f79ad2a67faf8cd8623c8">
+      <event id="1151" guid="3a4c729f959f79ad2a67faf8cd8623c8">
         <logo/>
         <date>2015-12-30T02:00:00+01:00</date>
         <start>02:00</start>
@@ -4349,7 +4349,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1155" guid="07649f609347045e1bfc64db074d1310">
+      <event id="1154" guid="07649f609347045e1bfc64db074d1310">
         <logo/>
         <date>2015-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -4370,7 +4370,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1158" guid="cb8a806c61810935b9d4d19a2da07b9b">
+      <event id="1156" guid="cb8a806c61810935b9d4d19a2da07b9b">
         <logo/>
         <date>2015-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -4391,7 +4391,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1187" guid="3c99b270031a4b8de19bf672cee8a20a">
+      <event id="1188" guid="3c99b270031a4b8de19bf672cee8a20a">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -4433,7 +4433,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1192" guid="4602c2d532ed8c4b0c3f1dbb7ccc7065">
+      <event id="1191" guid="4602c2d532ed8c4b0c3f1dbb7ccc7065">
         <logo/>
         <date>2015-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -4475,28 +4475,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1213" guid="854137f77e2c65cb7f66bcca08fd91fe">
-        <logo/>
-        <date>2015-12-29T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Romanski</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1216" guid="006527a6b0793dd9ce109b4e749b5bed">
+      <event id="1215" guid="006527a6b0793dd9ce109b4e749b5bed">
         <logo/>
         <date>2015-12-30T01:00:00+01:00</date>
         <start>01:00</start>
@@ -4559,6 +4538,27 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
+      <event id="1219" guid="854137f77e2c65cb7f66bcca08fd91fe">
+        <logo/>
+        <date>2015-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Romanski</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
       <event id="1221" guid="47a0fdb02b9a65d49966ecd48e9e7039">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
@@ -4580,7 +4580,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1224" guid="f2724b540787adf54cbb08bc3ed6f640">
+      <event id="1222" guid="f2724b540787adf54cbb08bc3ed6f640">
         <logo/>
         <date>2015-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -4865,7 +4865,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1131" guid="8acee822f9de023376835876d653da3f">
+      <event id="1129" guid="8acee822f9de023376835876d653da3f">
         <logo/>
         <date>2015-12-30T19:00:00+01:00</date>
         <start>19:00</start>
@@ -4886,15 +4886,15 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1153" guid="657c892bec55d46fc8589dd5e3dee6fb">
+      <event id="1155" guid="4e4d824e877b48bdc4243841ee4745ab">
         <logo/>
-        <date>2015-12-30T23:00:00+01:00</date>
-        <start>23:00</start>
+        <date>2015-12-31T01:00:00+01:00</date>
+        <start>01:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Gladbeck City Bombing L</subtitle>
+        <subtitle>Digital Norman</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -4907,15 +4907,15 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1156" guid="4e4d824e877b48bdc4243841ee4745ab">
+      <event id="1158" guid="657c892bec55d46fc8589dd5e3dee6fb">
         <logo/>
-        <date>2015-12-31T01:00:00+01:00</date>
-        <start>01:00</start>
+        <date>2015-12-30T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Digital Norman</subtitle>
+        <subtitle>Gladbeck City Bombing L</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -4970,7 +4970,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1164" guid="965eb6bdc308599a0b91588bc585efac">
+      <event id="1162" guid="965eb6bdc308599a0b91588bc585efac">
         <logo/>
         <date>2015-12-30T20:00:00+01:00</date>
         <start>20:00</start>
@@ -5033,7 +5033,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1188" guid="0d9895de50fc220f0f84d7657472d7fc">
+      <event id="1189" guid="0d9895de50fc220f0f84d7657472d7fc">
         <logo/>
         <date>2015-12-31T02:00:00+01:00</date>
         <start>02:00</start>
@@ -5054,7 +5054,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1193" guid="27bdcdb103e5e0a93818c69e8ca798d4">
+      <event id="1192" guid="27bdcdb103e5e0a93818c69e8ca798d4">
         <logo/>
         <date>2015-12-30T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5075,7 +5075,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1195" guid="0f2f99e409fe0aaff92d7f30c2d7e144">
+      <event id="1194" guid="0f2f99e409fe0aaff92d7f30c2d7e144">
         <logo/>
         <date>2015-12-30T21:00:00+01:00</date>
         <start>21:00</start>
@@ -5096,7 +5096,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1214" guid="a027d260e2ad5802735bf4fbe924d4da">
+      <event id="1213" guid="a027d260e2ad5802735bf4fbe924d4da">
         <logo/>
         <date>2015-12-30T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5117,7 +5117,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1222" guid="babfc0a2bfe9a027083787e2d61cda10">
+      <event id="1223" guid="babfc0a2bfe9a027083787e2d61cda10">
         <logo/>
         <date>2015-12-30T18:00:00+01:00</date>
         <start>18:00</start>
