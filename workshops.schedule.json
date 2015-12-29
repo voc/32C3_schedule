@@ -621,7 +621,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1123, 
+                                "id": 1121, 
                                 "guid": "00997726b8f329cbd7aac04056ac75a5", 
                                 "logo": null, 
                                 "date": "2015-12-27T21:00:00+01:00", 
@@ -648,7 +648,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1126, 
+                                "id": 1124, 
                                 "guid": "6734d0907fab5b1de757808ce47aafac", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -756,7 +756,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1158, 
+                                "id": 1163, 
                                 "guid": "3b701c5c117c8269eed0f3575b80f402", 
                                 "logo": null, 
                                 "date": "2015-12-27T19:00:00+01:00", 
@@ -891,7 +891,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1217, 
+                                "id": 1215, 
                                 "guid": "b216f02af60e1ceb8c53562c0fd377c8", 
                                 "logo": null, 
                                 "date": "2015-12-28T00:00:00+01:00", 
@@ -918,7 +918,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1219, 
+                                "id": 1217, 
                                 "guid": "98698330c363b412cac28e74686d82d7", 
                                 "logo": null, 
                                 "date": "2015-12-28T02:00:00+01:00", 
@@ -974,7 +974,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
+                                "id": 1140, 
                                 "guid": "597ddfc17e81d0d54814dfdc230731cb", 
                                 "logo": null, 
                                 "date": "2015-12-27T21:00:00+01:00", 
@@ -1001,7 +1001,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1145, 
+                                "id": 1143, 
                                 "guid": "a4c36f9c7fb7d80a1cf911562d6383af", 
                                 "logo": null, 
                                 "date": "2015-12-27T17:00:00+01:00", 
@@ -1083,15 +1083,15 @@
                             }, 
                             {
                                 "id": 1176, 
-                                "guid": "2e2ce23bbb290d05b4ad87c86ecc29e0", 
+                                "guid": "f7b648788938007f396b288491459cfb", 
                                 "logo": null, 
-                                "date": "2015-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
+                                "date": "2015-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:00", 
                                 "room": "Dach", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Ygramul", 
+                                "subtitle": "Pio", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -1109,16 +1109,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1178, 
-                                "guid": "f7b648788938007f396b288491459cfb", 
+                                "id": 1181, 
+                                "guid": "2e2ce23bbb290d05b4ad87c86ecc29e0", 
                                 "logo": null, 
-                                "date": "2015-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2015-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Dach", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Pio", 
+                                "subtitle": "Ygramul", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -2651,38 +2651,9 @@
                                 ]
                             }
                         ], 
-                        "LOUNGE OBEN": [
-                            {
-                                "id": 1121, 
-                                "guid": "de89e24caa49fb523b5316c7869253d7", 
-                                "logo": null, 
-                                "date": "2015-12-29T03:00:00+01:00", 
-                                "start": "03:00", 
-                                "duration": "1:00", 
-                                "room": "LOUNGE OBEN", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Spatz Habibi", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }
-                        ], 
                         "Lounge": [
                             {
-                                "id": 1124, 
+                                "id": 1122, 
                                 "guid": "33c9a90530a55e10129e965e6f0b6cb0", 
                                 "logo": null, 
                                 "date": "2015-12-28T14:00:00+01:00", 
@@ -2709,7 +2680,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1125, 
+                                "id": 1123, 
                                 "guid": "3064f6ff63a312836b11ddc9ced638c3", 
                                 "logo": null, 
                                 "date": "2015-12-28T23:00:00+01:00", 
@@ -2736,7 +2707,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1127, 
+                                "id": 1125, 
                                 "guid": "6c3e9edd5df7331f43b3242d6dda4c94", 
                                 "logo": null, 
                                 "date": "2015-12-29T01:00:00+01:00", 
@@ -2871,7 +2842,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1159, 
+                                "id": 1157, 
                                 "guid": "15886f47ae188622498bdeb0b6a5061b", 
                                 "logo": null, 
                                 "date": "2015-12-28T21:00:00+01:00", 
@@ -2898,7 +2869,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
+                                "id": 1160, 
                                 "guid": "4a773b899f9b4d9ab348c457d152ee44", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:00:00+01:00", 
@@ -3007,15 +2978,15 @@
                             }, 
                             {
                                 "id": 1195, 
-                                "guid": "0486694bd2bbdb5c03e7dcebf0ed0333", 
+                                "guid": "b0962b9fa266f2721fb3d8396433dcc2", 
                                 "logo": null, 
-                                "date": "2015-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
+                                "date": "2015-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Etkin", 
+                                "subtitle": "Specialguest L", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3033,16 +3004,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1197, 
-                                "guid": "b0962b9fa266f2721fb3d8396433dcc2", 
+                                "id": 1200, 
+                                "guid": "0486694bd2bbdb5c03e7dcebf0ed0333", 
                                 "logo": null, 
-                                "date": "2015-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2015-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Specialguest L", 
+                                "subtitle": "Etkin", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3087,18 +3058,18 @@
                                 ]
                             }
                         ], 
-                        "DACH": [
+                        "LOUNGE OBEN": [
                             {
-                                "id": 1140, 
-                                "guid": "11c5ac1ee5d2ed733dcb4fc72fa3db36", 
+                                "id": 1126, 
+                                "guid": "de89e24caa49fb523b5316c7869253d7", 
                                 "logo": null, 
                                 "date": "2015-12-29T03:00:00+01:00", 
                                 "start": "03:00", 
                                 "duration": "1:00", 
-                                "room": "DACH", 
+                                "room": "LOUNGE OBEN", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Jendrik Rothstein", 
+                                "subtitle": "Spatz Habibi", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3114,9 +3085,11 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
                                 ]
-                            }, 
+                            }
+                        ], 
+                        "DACH": [
                             {
-                                "id": 1144, 
+                                "id": 1142, 
                                 "guid": "82d327349aeb4ec9332d9fa82c628683", 
                                 "logo": null, 
                                 "date": "2015-12-28T23:00:00+01:00", 
@@ -3143,7 +3116,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1146, 
+                                "id": 1144, 
                                 "guid": "00243930e9f2541f4c0985531c89ce32", 
                                 "logo": null, 
                                 "date": "2015-12-29T01:00:00+01:00", 
@@ -3153,6 +3126,33 @@
                                 "slug": "", 
                                 "title": "Lounge", 
                                 "subtitle": "Peter Shaw", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1145, 
+                                "guid": "11c5ac1ee5d2ed733dcb4fc72fa3db36", 
+                                "logo": null, 
+                                "date": "2015-12-29T03:00:00+01:00", 
+                                "start": "03:00", 
+                                "duration": "1:00", 
+                                "room": "DACH", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Jendrik Rothstein", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3278,7 +3278,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1177, 
+                                "id": 1175, 
                                 "guid": "b9baeda86f1a3c19bf9510940105f984", 
                                 "logo": null, 
                                 "date": "2015-12-28T21:00:00+01:00", 
@@ -3305,7 +3305,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1180, 
+                                "id": 1178, 
                                 "guid": "ecdb672baa1dbf73c8de80fa58ddb587", 
                                 "logo": null, 
                                 "date": "2015-12-28T17:00:00+01:00", 
@@ -3387,15 +3387,15 @@
                             }, 
                             {
                                 "id": 1214, 
-                                "guid": "b6680c2e181a68fbdd70f0c3d890bffd", 
+                                "guid": "36a5c8577436347e0b5e4333c21872a1", 
                                 "logo": null, 
-                                "date": "2015-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
+                                "date": "2015-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:00", 
                                 "room": "DACH", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Nanu ein Gnu?!", 
+                                "subtitle": "Senorita", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3413,16 +3413,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1216, 
-                                "guid": "36a5c8577436347e0b5e4333c21872a1", 
+                                "id": 1219, 
+                                "guid": "b6680c2e181a68fbdd70f0c3d890bffd", 
                                 "logo": null, 
-                                "date": "2015-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2015-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "DACH", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Senorita", 
+                                "subtitle": "Nanu ein Gnu?!", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -5050,7 +5050,7 @@
                         ], 
                         "DACH": [
                             {
-                                "id": 1122, 
+                                "id": 1127, 
                                 "guid": "6f45068a51548fc968bbddc83f6d9bea", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -5158,7 +5158,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1179, 
+                                "id": 1177, 
                                 "guid": "7f6c3bd662fb2513f1c66194922a0b47", 
                                 "logo": null, 
                                 "date": "2015-12-29T23:00:00+01:00", 
@@ -5185,7 +5185,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1181, 
+                                "id": 1179, 
                                 "guid": "c6a9014d6632095e33a4bbc4259f8fc5", 
                                 "logo": null, 
                                 "date": "2015-12-30T01:00:00+01:00", 
@@ -5266,7 +5266,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1194, 
+                                "id": 1199, 
                                 "guid": "8407bc64917c1748b9ca8e10c4e5f575", 
                                 "logo": null, 
                                 "date": "2015-12-30T03:00:00+01:00", 
@@ -5347,7 +5347,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1215, 
+                                "id": 1213, 
                                 "guid": "079bfe482a701cec6aab95f821f3a1b2", 
                                 "logo": null, 
                                 "date": "2015-12-29T21:00:00+01:00", 
@@ -5374,7 +5374,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1216, 
                                 "guid": "56244fe2e1fbd4c517fc8133360d1b6f", 
                                 "logo": null, 
                                 "date": "2015-12-29T17:00:00+01:00", 
@@ -5511,7 +5511,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1143, 
+                                "id": 1141, 
                                 "guid": "e15661f7444a9d6fc6358144880476f0", 
                                 "logo": null, 
                                 "date": "2015-12-29T14:00:00+01:00", 
@@ -5538,34 +5538,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1157, 
-                                "guid": "48221054adea7c75bd7c03f34a27dc7f", 
-                                "logo": null, 
-                                "date": "2015-12-30T03:00:00+01:00", 
-                                "start": "03:00", 
-                                "duration": "1:00", 
-                                "room": "Lounge", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "P.Gregor/Katovl", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1161, 
+                                "id": 1159, 
                                 "guid": "854137f77e2c65cb7f66bcca08fd91fe", 
                                 "logo": null, 
                                 "date": "2015-12-29T23:00:00+01:00", 
@@ -5592,7 +5565,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1163, 
+                                "id": 1161, 
                                 "guid": "006527a6b0793dd9ce109b4e749b5bed", 
                                 "logo": null, 
                                 "date": "2015-12-30T01:00:00+01:00", 
@@ -5602,6 +5575,33 @@
                                 "slug": "", 
                                 "title": "Lounge", 
                                 "subtitle": "Marco Costanza", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1162, 
+                                "guid": "48221054adea7c75bd7c03f34a27dc7f", 
+                                "logo": null, 
+                                "date": "2015-12-30T03:00:00+01:00", 
+                                "start": "03:00", 
+                                "duration": "1:00", 
+                                "room": "Lounge", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "P.Gregor/Katovl", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -5754,7 +5754,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1196, 
+                                "id": 1194, 
                                 "guid": "cb8a806c61810935b9d4d19a2da07b9b", 
                                 "logo": null, 
                                 "date": "2015-12-29T21:00:00+01:00", 
@@ -5781,7 +5781,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
+                                "id": 1197, 
                                 "guid": "07649f609347045e1bfc64db074d1310", 
                                 "logo": null, 
                                 "date": "2015-12-29T17:00:00+01:00", 
@@ -5810,7 +5810,7 @@
                         ], 
                         "LOUNGE OBEN": [
                             {
-                                "id": 1175, 
+                                "id": 1180, 
                                 "guid": "37709c8b725163edb277d8323d690269", 
                                 "logo": null, 
                                 "date": "2015-12-30T03:00:00+01:00", 
@@ -6079,7 +6079,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1141, 
+                                "id": 1146, 
                                 "guid": "babfc0a2bfe9a027083787e2d61cda10", 
                                 "logo": null, 
                                 "date": "2015-12-30T18:00:00+01:00", 
@@ -6106,7 +6106,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1160, 
+                                "id": 1158, 
                                 "guid": "a027d260e2ad5802735bf4fbe924d4da", 
                                 "logo": null, 
                                 "date": "2015-12-30T14:00:00+01:00", 
@@ -6214,7 +6214,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1198, 
+                                "id": 1196, 
                                 "guid": "657c892bec55d46fc8589dd5e3dee6fb", 
                                 "logo": null, 
                                 "date": "2015-12-30T23:00:00+01:00", 
@@ -6241,7 +6241,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1200, 
+                                "id": 1198, 
                                 "guid": "4e4d824e877b48bdc4243841ee4745ab", 
                                 "logo": null, 
                                 "date": "2015-12-31T01:00:00+01:00", 
@@ -6349,7 +6349,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1213, 
+                                "id": 1218, 
                                 "guid": "c137f67d514771af64617c0f7060fb58", 
                                 "logo": null, 
                                 "date": "2015-12-31T03:00:00+01:00", 
