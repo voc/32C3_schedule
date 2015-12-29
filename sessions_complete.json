@@ -5715,14 +5715,7 @@
         ]
     }, 
     "Session:How to start a radical tech collective# 1d94f4164af1387fd959768be6007bf4": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451421000"
         ], 
