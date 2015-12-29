@@ -1202,8 +1202,14 @@
             "1451325600"
         ]
     }, 
-    "Session:YBTI# b3214ab92c36d3e0c8f6949175aadf84": {
+    "Session:Paranioa XP# c4a985f22478c75971a031f2b8ca94d5": {
         "Held in language": [
+            {
+                "fulltext": "De - German", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
+                "namespace": 0, 
+                "exists": false
+            }, 
             {
                 "fulltext": "En - English", 
                 "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
@@ -1212,57 +1218,49 @@
             }
         ], 
         "Has start time": [
-            "1451386800"
+            "1451404800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
+            "We want to play a game of Paranioa XP with you."
         ], 
         "Has session type": [
-            "Talk"
+            "Game"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Tomorrowland - Gaming utopia dystopia", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Tomorrowland_-_Gaming_utopia_dystopia", 
+                "namespace": 504, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Async Mixnet (Sphinx + Axolotl)"
+            "Player slots available"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "fulltext": "User:SnakeBDD", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SnakeBDD", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "YBTI"
+            "Paranioa XP"
         ], 
         "Has duration": [
-            30
+            120
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Paranioa_XP", 
         "Has end time": [
-            "1451388600"
+            "1451412000"
         ]
     }, 
     "Session:Lounge# c9b7b943706ca637c7e791a7f1c25d08": {
@@ -2219,14 +2217,7 @@
         ]
     }, 
     "Session:YBTI# cb2e6a7f8d3f4ce478270f72b0482446": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451379600"
         ], 
@@ -2824,69 +2815,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:1st_Annual_Shortbus_Screening", 
         "Has end time": [
             "1451256900"
-        ]
-    }, 
-    "Session:YBTI# c92b590f356ddae90ed5fcee41e63987": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451390400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Decentralized Services on top of P2P storage networks"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "YBTI"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
-        "Has end time": [
-            "1451392200"
         ]
     }, 
     "Session:Nootropics# 72400835c068e36925153ed38c5e6091": {
@@ -3576,6 +3504,62 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:NewPalmyra", 
         "Has end time": []
     }, 
+    "Session:YBTI# b2c5b93d394c3a1d8a048fc04ccc0b4e": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451390400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "I2P"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451392200"
+        ]
+    }, 
     "Session:Congress Everywhere Breaktime# d1842840b1388ba60d44e3e7d0425439": {
         "Held in language": [
             {
@@ -3673,59 +3657,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451368800"
-        ]
-    }, 
-    "Session:SNIP# 8d71a6a0804545923aa340d05125df54": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451415600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Internal meeting for SNIP participants."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "SNIP"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:SNIP", 
-        "Has end time": [
-            "1451421000"
         ]
     }, 
     "Session:Graffiti# d7824447af914f52c53986640705eb03": {
@@ -5358,6 +5289,62 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451322000"
+        ]
+    }, 
+    "Session:YBTI# 49d08a900b97b1cdd6e66612dbfe70d1": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451392200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Decentralized Services on top of P2P storage networks"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451394000"
         ]
     }, 
     "Session:Diskussion zur Netzpolitik Schweiz# 18d11f259ce829da883ea3a215df64f9": {
@@ -7420,65 +7407,60 @@
             "1451404800"
         ]
     }, 
-    "Session:Paranioa XP# c4a985f22478c75971a031f2b8ca94d5": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+    "Session:YBTI# b3214ab92c36d3e0c8f6949175aadf84": {
+        "Held in language": [], 
         "Has start time": [
-            "1451404800"
+            "1451386800"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
         "Has description": [
-            "We want to play a game of Paranioa XP with you."
+            "Placeholder for various YBTI-related talks (details TBA)."
         ], 
         "Has session type": [
-            "Game"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Tomorrowland - Gaming utopia dystopia", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Tomorrowland_-_Gaming_utopia_dystopia", 
-                "namespace": 504, 
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
                 "exists": true
             }
         ], 
         "Has subtitle": [
-            "Player slots available"
+            "Async Mixnet (Sphinx + Axolotl)"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:SnakeBDD", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SnakeBDD", 
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Paranioa XP"
+            "YBTI"
         ], 
         "Has duration": [
-            120
+            30
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Paranioa_XP", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
         "Has end time": [
-            "1451412000"
+            "1451388600"
         ]
     }, 
     "Session:Lounge# 47a0fdb02b9a65d49966ecd48e9e7039": {
@@ -7745,14 +7727,7 @@
         ]
     }, 
     "Session:YBTI# 856bb6680d68956b76eb575a8838bc96": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451385000"
         ], 
@@ -9064,69 +9039,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451347200"
-        ]
-    }, 
-    "Session:YBTI# 3821949b3146159d50859bda92dbf966": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451380500"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Byzantine Set Consensus"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "YBTI"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
-        "Has end time": [
-            "1451383200"
         ]
     }, 
     "Session:Knit Hacks# baf5e65b18cbb335a7bd28a3bf245a10": {
@@ -11365,69 +11277,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451451600"
-        ]
-    }, 
-    "Session:YBTI# b65456c40a0fa36d7fde58fd2c4e00c2": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451399400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "I2P"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "YBTI"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
-        "Has end time": [
-            "1451401200"
         ]
     }, 
     "Session:Lounge# 977da6ffa8ea9ee973177ec1333e7765": {
@@ -14251,14 +14100,7 @@
         ]
     }, 
     "Session:YBTI# fffa41500de69fd4c0e27b9100a3903c": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451383200"
         ], 
@@ -16603,14 +16445,7 @@
         ]
     }, 
     "Session:YBTI# 5166101d2ce67c549ddda6a91ed925be": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451388600"
         ], 
@@ -17569,6 +17404,52 @@
             "1451487600"
         ]
     }, 
+    "Session:SNIP# e92f0d33ce1a5a8d74b854c135eda50f": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451417400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Internal meeting for SNIP participants."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "SNIP"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:SNIP", 
+        "Has end time": [
+            "1451422800"
+        ]
+    }, 
     "Session:Lounge# 67d69ef6fbca84f11cd62a74f29dd363": {
         "Held in language": [], 
         "Has start time": [
@@ -17611,6 +17492,62 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451455200"
+        ]
+    }, 
+    "Session:YBTI# b2b0d21c78bd053a6ed441fd104bbc1b": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451397600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Byzantine Set Consensus"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451400300"
         ]
     }, 
     "Session:Lounge# c08f575fc7a905e016ea7e1274a7fb6a": {
