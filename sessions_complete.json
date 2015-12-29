@@ -4563,54 +4563,6 @@
             "1451422800"
         ]
     }, 
-    "Session:State of the Internat AS201701# 44999e7ec7f74f089ea701e0c7dde2ab": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451419200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://wiki.freifunk.net/32c3/Timetable"
-        ], 
-        "Has description": [
-            "State of the Internat AS201701 - Freifunk Rheinland e.V. Backbone"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall C.1", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.1", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:ThomasDOTwtf", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:ThomasDOTwtf", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "State of the Internat AS201701"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:State_of_the_Internat_AS201701", 
-        "Has end time": [
-            "1451426400"
-        ]
-    }, 
     "Session:Lounge# a5aecce79b4d724e46acb280ad68aaf7": {
         "Held in language": [], 
         "Has start time": [
