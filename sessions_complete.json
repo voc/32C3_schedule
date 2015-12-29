@@ -1351,6 +1351,72 @@
             "1451530800"
         ]
     }, 
+    "Session:IPFS Install Party Extravaganza# a0a7dfeec53327dfb1270626c6290dc3": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451485500"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://ipfs.io"
+        ], 
+        "Has description": [
+            "Join us for an IPFS Install Party! We'll help everyone get IPFS set up and show how everyone can use it :)\n\nWhat is IPFS you ask? IPFS is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but brings in the latest ideas from P2P and cryptography to form a distributed, permanent web."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Daviddias", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Daviddias", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Whyrusleeping", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Whyrusleeping", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Dignifiedquire", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Dignifiedquire", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Larsg", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Larsg", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "IPFS Install Party Extravaganza"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:IPFS_Install_Party_Extravaganza", 
+        "Has end time": [
+            "1451488200"
+        ]
+    }, 
     "Session:Junghackertag# a018d272a2cd39cbf377e933cc88f1d6": {
         "Held in language": [
             {
@@ -16858,56 +16924,6 @@
         "Has end time": [
             "1451415600"
         ]
-    }, 
-    "Session:IPFS Install Party Extravaganza# 09d6ee665cfec6987932aa75d87f8dea": {
-        "Held in language": [], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://ipfs.io"
-        ], 
-        "Has description": [
-            "Join us for an IPFS Install Party! We'll help everyone get IPFS set up and show how everyone can use it :)\n\nWhat is IPFS you ask? IPFS is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but brings in the latest ideas from P2P and cryptography to form a distributed, permanent web."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Daviddias", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Daviddias", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Whyrusleeping", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Whyrusleeping", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "IPFS Install Party Extravaganza"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:IPFS_Install_Party_Extravaganza", 
-        "Has end time": []
     }, 
     "Session:Lounge# 079bfe482a701cec6aab95f821f3a1b2": {
         "Held in language": [], 
