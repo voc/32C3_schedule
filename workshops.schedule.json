@@ -621,7 +621,7 @@
                         ], 
                         "Dach": [
                             {
-                                "id": 1126, 
+                                "id": 1127, 
                                 "guid": "1ae6fd3e27b16ee0e051a37ad3880120", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -702,7 +702,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1159, 
+                                "id": 1161, 
                                 "guid": "2e2ce23bbb290d05b4ad87c86ecc29e0", 
                                 "logo": null, 
                                 "date": "2015-12-27T19:00:00+01:00", 
@@ -729,7 +729,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1162, 
+                                "id": 1163, 
                                 "guid": "24e951361035383edd6c0ef868956366", 
                                 "logo": null, 
                                 "date": "2015-12-27T23:00:00+01:00", 
@@ -783,7 +783,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
+                                "id": 1165, 
                                 "guid": "835736ef997d32b8ea53644d05e97d66", 
                                 "logo": null, 
                                 "date": "2015-12-27T20:00:00+01:00", 
@@ -864,7 +864,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1199, 
+                                "id": 1197, 
                                 "guid": "597ddfc17e81d0d54814dfdc230731cb", 
                                 "logo": null, 
                                 "date": "2015-12-27T21:00:00+01:00", 
@@ -893,7 +893,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1139, 
+                                "id": 1140, 
                                 "guid": "93d8c580c614146f657bdf7db9eac496", 
                                 "logo": null, 
                                 "date": "2015-12-28T01:00:00+01:00", 
@@ -920,7 +920,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1140, 
+                                "id": 1142, 
                                 "guid": "3b701c5c117c8269eed0f3575b80f402", 
                                 "logo": null, 
                                 "date": "2015-12-27T19:00:00+01:00", 
@@ -947,7 +947,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1143, 
+                                "id": 1144, 
                                 "guid": "b7c3390ab4eb5a8b30c238ad4d5f2e80", 
                                 "logo": null, 
                                 "date": "2015-12-27T23:00:00+01:00", 
@@ -1001,7 +1001,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1148, 
+                                "id": 1146, 
                                 "guid": "198b46545f108a9a03b2ace01e56cb14", 
                                 "logo": null, 
                                 "date": "2015-12-27T20:00:00+01:00", 
@@ -1109,7 +1109,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1181, 
+                                "id": 1179, 
                                 "guid": "00997726b8f329cbd7aac04056ac75a5", 
                                 "logo": null, 
                                 "date": "2015-12-27T21:00:00+01:00", 
@@ -1136,7 +1136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1204, 
                                 "guid": "2839efac2aaa261a49c1421d715872c5", 
                                 "logo": null, 
                                 "date": "2015-12-28T03:00:00+01:00", 
@@ -1219,7 +1219,7 @@
                         ], 
                         "DACH": [
                             {
-                                "id": 1141, 
+                                "id": 1143, 
                                 "guid": "1be5bc257e3807e100f2bdf39d2a81f0", 
                                 "logo": null, 
                                 "date": "2015-12-28T03:00:00+01:00", 
@@ -1246,7 +1246,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1158, 
+                                "id": 1159, 
                                 "guid": "53f46c216170c42b6054524ad0002bc0", 
                                 "logo": null, 
                                 "date": "2015-12-28T01:00:00+01:00", 
@@ -1302,7 +1302,7 @@
                         ], 
                         "LOUNGE OBEN": [
                             {
-                                "id": 1220, 
+                                "id": 1222, 
                                 "guid": "78d4cc0fa4df5209a530360137a8141c", 
                                 "logo": null, 
                                 "date": "2015-12-28T03:00:00+01:00", 
@@ -2653,7 +2653,7 @@
                         ], 
                         "DACH": [
                             {
-                                "id": 1127, 
+                                "id": 1128, 
                                 "guid": "9c178b49928cc4b6bacc5bb78bd3ed13", 
                                 "logo": null, 
                                 "date": "2015-12-29T02:00:00+01:00", 
@@ -2734,7 +2734,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1136, 
+                                "id": 1134, 
                                 "guid": "b9baeda86f1a3c19bf9510940105f984", 
                                 "logo": null, 
                                 "date": "2015-12-28T21:00:00+01:00", 
@@ -2761,7 +2761,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1165, 
+                                "id": 1166, 
                                 "guid": "f37c60a6511ac83bf2fe7924e0572658", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -2869,7 +2869,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1197, 
+                                "id": 1198, 
                                 "guid": "b6680c2e181a68fbdd70f0c3d890bffd", 
                                 "logo": null, 
                                 "date": "2015-12-28T19:00:00+01:00", 
@@ -2896,7 +2896,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1198, 
+                                "id": 1199, 
                                 "guid": "11c5ac1ee5d2ed733dcb4fc72fa3db36", 
                                 "logo": null, 
                                 "date": "2015-12-29T03:00:00+01:00", 
@@ -2977,7 +2977,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1204, 
+                                "id": 1202, 
                                 "guid": "a18bac61e1fc409c539f7d5800d3eb43", 
                                 "logo": null, 
                                 "date": "2015-12-28T20:00:00+01:00", 
@@ -3006,7 +3006,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1146, 
+                                "id": 1147, 
                                 "guid": "24df0548f2a89ccd6bb9ce0a218da349", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -3087,7 +3087,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1160, 
+                                "id": 1162, 
                                 "guid": "b2076c69e51c0cd218c56e6058d04aa9", 
                                 "logo": null, 
                                 "date": "2015-12-29T03:00:00+01:00", 
@@ -3168,7 +3168,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1179, 
+                                "id": 1180, 
                                 "guid": "0486694bd2bbdb5c03e7dcebf0ed0333", 
                                 "logo": null, 
                                 "date": "2015-12-28T19:00:00+01:00", 
@@ -3249,7 +3249,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1186, 
+                                "id": 1184, 
                                 "guid": "d4b8fa16eefcb4e793840b3bbbfb3ca3", 
                                 "logo": null, 
                                 "date": "2015-12-28T20:00:00+01:00", 
@@ -3357,7 +3357,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1216, 
+                                "id": 1214, 
                                 "guid": "15886f47ae188622498bdeb0b6a5061b", 
                                 "logo": null, 
                                 "date": "2015-12-28T21:00:00+01:00", 
@@ -3384,7 +3384,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1223, 
+                                "id": 1218, 
                                 "guid": "7421e14445854c543f01b0884f791e44", 
                                 "logo": null, 
                                 "date": "2015-12-28T13:00:00+01:00", 
@@ -3413,7 +3413,7 @@
                         ], 
                         "LOUNGE OBEN": [
                             {
-                                "id": 1180, 
+                                "id": 1181, 
                                 "guid": "de89e24caa49fb523b5316c7869253d7", 
                                 "logo": null, 
                                 "date": "2015-12-29T03:00:00+01:00", 
@@ -5115,7 +5115,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1134, 
+                                "id": 1135, 
                                 "guid": "cac56135683261a0e01b57543431d5d3", 
                                 "logo": null, 
                                 "date": "2015-12-29T19:00:00+01:00", 
@@ -5169,7 +5169,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1138, 
+                                "id": 1139, 
                                 "guid": "be002432cfee63216e8e53dad9c5ceee", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:00:00+01:00", 
@@ -5196,7 +5196,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1142, 
+                                "id": 1141, 
                                 "guid": "12f6a7d811403639bc940cbeeea346f3", 
                                 "logo": null, 
                                 "date": "2015-12-29T20:00:00+01:00", 
@@ -5223,7 +5223,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1154, 
+                                "id": 1155, 
                                 "guid": "8407bc64917c1748b9ca8e10c4e5f575", 
                                 "logo": null, 
                                 "date": "2015-12-30T03:00:00+01:00", 
@@ -5250,7 +5250,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1166, 
+                                "id": 1167, 
                                 "guid": "83ccadfbdd238ca760ece7928a3ad5e7", 
                                 "logo": null, 
                                 "date": "2015-12-30T02:00:00+01:00", 
@@ -5331,7 +5331,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1174, 
+                                "id": 1173, 
                                 "guid": "079bfe482a701cec6aab95f821f3a1b2", 
                                 "logo": null, 
                                 "date": "2015-12-29T21:00:00+01:00", 
@@ -5358,7 +5358,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1202, 
+                                "id": 1203, 
                                 "guid": "6f45068a51548fc968bbddc83f6d9bea", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -5441,7 +5441,7 @@
                         ], 
                         "LOUNGE OBEN": [
                             {
-                                "id": 1135, 
+                                "id": 1136, 
                                 "guid": "37709c8b725163edb277d8323d690269", 
                                 "logo": null, 
                                 "date": "2015-12-30T03:00:00+01:00", 
@@ -5470,7 +5470,7 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1144, 
+                                "id": 1138, 
                                 "guid": "802b00b2e73dd9564fe5a8a8ed4eed9c", 
                                 "logo": null, 
                                 "date": "2015-12-29T13:00:00+01:00", 
@@ -5497,7 +5497,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1147, 
+                                "id": 1148, 
                                 "guid": "3a4c729f959f79ad2a67faf8cd8623c8", 
                                 "logo": null, 
                                 "date": "2015-12-30T02:00:00+01:00", 
@@ -5578,7 +5578,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1155, 
+                                "id": 1154, 
                                 "guid": "cb8a806c61810935b9d4d19a2da07b9b", 
                                 "logo": null, 
                                 "date": "2015-12-29T21:00:00+01:00", 
@@ -5605,7 +5605,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1184, 
+                                "id": 1185, 
                                 "guid": "3c99b270031a4b8de19bf672cee8a20a", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -5740,7 +5740,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1214, 
+                                "id": 1215, 
                                 "guid": "31dcf9b49a993c0cf15ef440417a5a18", 
                                 "logo": null, 
                                 "date": "2015-12-29T19:00:00+01:00", 
@@ -5767,7 +5767,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1215, 
+                                "id": 1216, 
                                 "guid": "48221054adea7c75bd7c03f34a27dc7f", 
                                 "logo": null, 
                                 "date": "2015-12-30T03:00:00+01:00", 
@@ -5821,7 +5821,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1218, 
+                                "id": 1219, 
                                 "guid": "47a0fdb02b9a65d49966ecd48e9e7039", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:00:00+01:00", 
@@ -5848,7 +5848,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1220, 
                                 "guid": "f2724b540787adf54cbb08bc3ed6f640", 
                                 "logo": null, 
                                 "date": "2015-12-29T20:00:00+01:00", 
@@ -6094,7 +6094,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1128, 
+                                "id": 1126, 
                                 "guid": "8acee822f9de023376835876d653da3f", 
                                 "logo": null, 
                                 "date": "2015-12-30T19:00:00+01:00", 
@@ -6176,60 +6176,6 @@
                             }, 
                             {
                                 "id": 1157, 
-                                "guid": "e18d38e2615f72614c14fdff326d2bfa", 
-                                "logo": null, 
-                                "date": "2015-12-30T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "Lounge", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Eternal Drumm L", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1161, 
-                                "guid": "965eb6bdc308599a0b91588bc585efac", 
-                                "logo": null, 
-                                "date": "2015-12-30T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
-                                "room": "Lounge", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Dj Plazebo vs. Lion L", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1163, 
                                 "guid": "88fca9248321daa8ddb1633541feadcc", 
                                 "logo": null, 
                                 "date": "2015-12-30T13:00:00+01:00", 
@@ -6256,7 +6202,61 @@
                                 ]
                             }, 
                             {
-                                "id": 1173, 
+                                "id": 1158, 
+                                "guid": "e18d38e2615f72614c14fdff326d2bfa", 
+                                "logo": null, 
+                                "date": "2015-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Lounge", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Eternal Drumm L", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1160, 
+                                "guid": "965eb6bdc308599a0b91588bc585efac", 
+                                "logo": null, 
+                                "date": "2015-12-30T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Lounge", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Dj Plazebo vs. Lion L", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }, 
+                            {
+                                "id": 1174, 
                                 "guid": "c137f67d514771af64617c0f7060fb58", 
                                 "logo": null, 
                                 "date": "2015-12-31T03:00:00+01:00", 
@@ -6283,7 +6283,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1185, 
+                                "id": 1186, 
                                 "guid": "0d9895de50fc220f0f84d7657472d7fc", 
                                 "logo": null, 
                                 "date": "2015-12-31T02:00:00+01:00", 
@@ -6418,7 +6418,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1219, 
+                                "id": 1221, 
                                 "guid": "babfc0a2bfe9a027083787e2d61cda10", 
                                 "logo": null, 
                                 "date": "2015-12-30T18:00:00+01:00", 
@@ -6445,7 +6445,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1222, 
+                                "id": 1223, 
                                 "guid": "c813f56380016daca3c43c32a0fdfb16", 
                                 "logo": null, 
                                 "date": "2015-12-30T22:00:00+01:00", 

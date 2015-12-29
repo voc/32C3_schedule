@@ -348,7 +348,7 @@
         "speakers": "Emmapeel"
     }, 
     {
-        "event_id": 1139, 
+        "event_id": 1140, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -360,7 +360,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1140, 
+        "event_id": 1142, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -372,7 +372,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1143, 
+        "event_id": 1144, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -396,7 +396,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1148, 
+        "event_id": 1146, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -444,7 +444,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1181, 
+        "event_id": 1179, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -456,7 +456,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1203, 
+        "event_id": 1204, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -984,7 +984,7 @@
         "speakers": "Tecer"
     }, 
     {
-        "event_id": 1146, 
+        "event_id": 1147, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1020,7 +1020,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1160, 
+        "event_id": 1162, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1056,7 +1056,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1179, 
+        "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1092,7 +1092,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1186, 
+        "event_id": 1184, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1140,7 +1140,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1216, 
+        "event_id": 1214, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1152,7 +1152,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1223, 
+        "event_id": 1218, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1812,7 +1812,7 @@
         "speakers": "Maxigas"
     }, 
     {
-        "event_id": 1144, 
+        "event_id": 1138, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1824,7 +1824,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1147, 
+        "event_id": 1148, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1860,7 +1860,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1155, 
+        "event_id": 1154, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1872,7 +1872,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1184, 
+        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1932,7 +1932,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1214, 
+        "event_id": 1215, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1944,7 +1944,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1215, 
+        "event_id": 1216, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1968,7 +1968,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1218, 
+        "event_id": 1219, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1980,7 +1980,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1221, 
+        "event_id": 1220, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2100,7 +2100,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1128, 
+        "event_id": 1126, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2141,6 +2141,18 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
+        "start_time": "2015-12-30T13:00:00+01:00", 
+        "duration": 60, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1158, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
         "start_time": "2015-12-30T16:00:00+01:00", 
         "duration": 60, 
         "title": "Lounge", 
@@ -2148,7 +2160,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1161, 
+        "event_id": 1160, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2160,19 +2172,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1163, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T13:00:00+01:00", 
-        "duration": 60, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1173, 
+        "event_id": 1174, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2184,7 +2184,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1185, 
+        "event_id": 1186, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2244,7 +2244,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1219, 
+        "event_id": 1221, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2256,7 +2256,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1222, 
+        "event_id": 1223, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
