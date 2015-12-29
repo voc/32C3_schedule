@@ -9136,6 +9136,52 @@
             "1451343600"
         ]
     }, 
+    "Session:Haecksen write/speak/code# 70c36a487f8e488ed6dfe85b6055ac65": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451487600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is a mentoring session for women who want to get into speaking at conferences, user groups etc.\nWe will help you find your topic and your audience."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bjelli", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Bjelli", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Haecksen write/speak/code"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Haecksen_write/speak/code", 
+        "Has end time": [
+            "1451491200"
+        ]
+    }, 
     "Session:Lounge# cac56135683261a0e01b57543431d5d3": {
         "Held in language": [], 
         "Has start time": [
