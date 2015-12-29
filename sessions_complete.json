@@ -14132,62 +14132,6 @@
             "1451397600"
         ]
     }, 
-    "Session:YBTI# fffa41500de69fd4c0e27b9100a3903c": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451383200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "GNU Taler"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "YBTI"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
-        "Has end time": [
-            "1451385000"
-        ]
-    }, 
     "Session:Anarchism 101# 728bf825b0608439934631128dfde2be": {
         "Held in language": [
             {
@@ -16914,6 +16858,56 @@
         "Has end time": [
             "1451415600"
         ]
+    }, 
+    "Session:IPFS Install Party Extravaganza# 09d6ee665cfec6987932aa75d87f8dea": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://ipfs.io"
+        ], 
+        "Has description": [
+            "Join us for an IPFS Install Party! We'll help everyone get IPFS set up and show how everyone can use it :)\n\nWhat is IPFS you ask? IPFS is a distributed file system that seeks to connect all computing devices with the same system of files. In some ways, this is similar to the original aims of the Web, but brings in the latest ideas from P2P and cryptography to form a distributed, permanent web."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall 13", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Daviddias", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Daviddias", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Whyrusleeping", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Whyrusleeping", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "IPFS Install Party Extravaganza"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:IPFS_Install_Party_Extravaganza", 
+        "Has end time": []
     }, 
     "Session:Lounge# 079bfe482a701cec6aab95f821f3a1b2": {
         "Held in language": [], 
