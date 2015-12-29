@@ -1900,39 +1900,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:SawuGo", 
         "Has end time": []
     }, 
-    "Session:Meditation# 0501b8e5282c73aefe63a3d2974d6db1": {
-        "Held in language": [], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "DE: Der Kongress neigt sich dem Ende zu. Zeit zur Ruhe zu kommen...\n\nEN: The congress is soon comming to an end. Time to calm down again..."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Birdy1976", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Birdy1976", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Meditation"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Meditation", 
-        "Has end time": []
-    }, 
     "Session:Freifunk Webteam Meetup# 50173b6cc5a781ab5f735362f7e001d8": {
         "Held in language": [
             {
@@ -14170,6 +14137,62 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Fight_for_your_right_to_Hardware", 
         "Has end time": [
             "1451397600"
+        ]
+    }, 
+    "Session:YBTI# fffa41500de69fd4c0e27b9100a3903c": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451383200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "GNU Taler"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451385000"
         ]
     }, 
     "Session:Anarchism 101# 728bf825b0608439934631128dfde2be": {
