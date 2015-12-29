@@ -1415,14 +1415,7 @@
         ]
     }, 
     "Session:Social Engineering Poetry Slam bootstrap# 2dbb8b54a707f0fa19913bb66b71edb6": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451239200"
         ], 
@@ -3166,14 +3159,7 @@
         ]
     }, 
     "Session:DBOpenData# d4445aafdf4e0e3dd115f88320ee16d2": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451412000"
         ], 
@@ -3183,7 +3169,9 @@
         "Has website": [
             "http://data.deutschebahn.com"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "In den letzten Monaten ist viel passiert bei der Deutschen Bahn. Es gibt sogar ein OpenData-Portal mit den ersten Datens\u00e4tzen: http://data.deutschebahn.com .\nWas ist bisher passiert, und wie soll es weiter gehen?\nWelche Fragen, Ideen und Anregungen habt ihr f\u00fcr die Deutsche Bahn?\nWelchen Daten f\u00e4ndet ihr am spannensten?"
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -3196,7 +3184,14 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:MichaelKreil", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:MichaelKreil", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
         "Has title": [
             "DBOpenData"
         ], 
@@ -15385,6 +15380,58 @@
             "1451313900"
         ]
     }, 
+    "Session:Jeoparty Hard# bb40df2440a6f50e91da7fdee338f5bc": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451340000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Urspr\u00fcnglich wollten wir Jeopardy im Hauptprogramm veranstalten - aber Ray und Sec haben sich ja zum Gl\u00fcck dieses Jahr dazu entschieden, doch wieder aufzutreten. Dennoch wollen wir ein bisschen spielen - im kleineren Rahmen"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DenSchub", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:DenSchub", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:St\u00e4bchenfisch", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:St%C3%A4bchenfisch", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Jeoparty Hard"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Jeoparty_Hard", 
+        "Has end time": [
+            "1451347200"
+        ]
+    }, 
     "Session:DIY Metadata Investigation : Inside Hacking Team# 99c8cc2346dc5bfb2aa3524c54116693": {
         "Held in language": [
             {
@@ -17056,25 +17103,27 @@
             "1451286000"
         ]
     }, 
-    "Session:Jeoparty Hard# bb40df2440a6f50e91da7fdee338f5bc": {
+    "Session:Tails-conmet# f7fad1d56384d1be019a7c8488ce2869": {
         "Held in language": [], 
         "Has start time": [
-            "1451340000"
+            "1451484000"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://tails.boum.org"
+        ], 
         "Has description": [
-            "Urspr\u00fcnglich wollten wir Jeopardy im Hauptprogramm veranstalten - aber Ray und Sec haben sich ja zum Gl\u00fcck dieses Jahr dazu entschieden, doch wieder aufzutreten. Dennoch wollen wir ein bisschen spielen - im kleineren Rahmen"
+            "internal meeting"
         ], 
         "Has session type": [
-            "Game"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall 14", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -17082,20 +17131,14 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:DenSchub", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:DenSchub", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:St\u00e4bchenfisch", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:St%C3%A4bchenfisch", 
+                "fulltext": "User:Muri", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Muri", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Jeoparty Hard"
+            "Tails-conmet"
         ], 
         "Has duration": [
             120
@@ -17103,9 +17146,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Jeoparty_Hard", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Tails-conmet", 
         "Has end time": [
-            "1451347200"
+            "1451491200"
         ]
     }, 
     "Session:Lounge# fa638e2e82e5453113b71d10257f24b3": {
@@ -17592,62 +17635,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451455200"
-        ]
-    }, 
-    "Session:YBTI# b2b0d21c78bd053a6ed441fd104bbc1b": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451397600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://youbroketheinternet.org/"
-        ], 
-        "Has description": [
-            "Placeholder for various YBTI-related talks (details TBA)."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [
-            "Byzantine Set Consensus"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Grothoff", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
-                "namespace": 2, 
-                "exists": true
-            }, 
-            {
-                "fulltext": "User:Jeffburdges", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "YBTI"
-        ], 
-        "Has duration": [
-            45
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
-        "Has end time": [
-            "1451400300"
         ]
     }, 
     "Session:Lounge# c08f575fc7a905e016ea7e1274a7fb6a": {
