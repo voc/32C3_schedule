@@ -12780,36 +12780,6 @@
                                     "https://events.ccc.de/congress/2015/wiki/Session:Safe_Harbor_2.0_-_Q%26A_with_Max_Schrems"
                                 ]
                             }
-                        ], 
-                        "Mozilla": [
-                            {
-                                "id": 1282, 
-                                "guid": "f6c3a9c0767a2aea595ba8109fe93fcc", 
-                                "logo": null, 
-                                "date": "2015-12-29T18:30:00+01:00", 
-                                "start": "18:30", 
-                                "duration": "1:00", 
-                                "room": "Mozilla", 
-                                "slug": "", 
-                                "title": "Workshop on email encryption with GnuPG and Nitrokey hardware", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "LOCATION: Hall 13 (NOT Mozilla Assembly)\n\nWe will give an overview on how to encrypt emails with GnuPG and with the open Nitrokey hardware. Also SSH authentication with the Nitrokey will be covered. It's an workshop to bring your own device and where attendees can help each other.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Jans", 
-                                        "public_name": "Jans"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.nitrokey.com/", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Workshop_on_email_encryption_with_GnuPG_and_Nitrokey_hardware"
-                                ]
-                            }
                         ]
                     }
                 }, 
@@ -13716,36 +13686,7 @@
                         ], 
                         "B\\u00fchne": [], 
                         "Hall A.1": [], 
-                        "Hall A.2": [
-                            {
-                                "id": 1044, 
-                                "guid": "d7e3153358a233ea8df1257aac236344", 
-                                "logo": null, 
-                                "date": "2015-12-30T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Hall A.2", 
-                                "slug": "", 
-                                "title": "Codefor.de OK-Labs Meetup", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Talk civic tech with OK-Lab members from all over Germany.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Sjockers", 
-                                        "public_name": "Sjockers"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://codefor.de", 
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup"
-                                ]
-                            }
-                        ], 
+                        "Hall A.2": [], 
                         "Hall B": [
                             {
                                 "id": 1079, 
@@ -13776,6 +13717,34 @@
                             }
                         ], 
                         "Hall C.1": [
+                            {
+                                "id": 1044, 
+                                "guid": "b6020a2663fb2becfd57c30725b26f55", 
+                                "logo": null, 
+                                "date": "2015-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Codefor.de OK-Labs Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Talk civic tech with OK-Lab members from all over Germany.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Sjockers", 
+                                        "public_name": "Sjockers"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://codefor.de", 
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup"
+                                ]
+                            }, 
                             {
                                 "id": 1227, 
                                 "guid": "79619fb9943f8a5ac85efb28b5997c02", 

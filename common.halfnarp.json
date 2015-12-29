@@ -3780,18 +3780,6 @@
         "speakers": "Leon"
     }, 
     {
-        "event_id": 1044, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1112, 
-        "room_name": "Hall A.2", 
-        "start_time": "2015-12-30T13:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Codefor.de OK-Labs Meetup", 
-        "abstract": " \nTalk civic tech with OK-Lab members from all over Germany.", 
-        "speakers": "Sjockers"
-    }, 
-    {
         "event_id": 1079, 
         "track_id": 10, 
         "track_name": "Session", 
@@ -3802,6 +3790,18 @@
         "title": "Engelmeeting", 
         "abstract": "Abbaumeeting \n", 
         "speakers": "Jz"
+    }, 
+    {
+        "event_id": 1044, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1131, 
+        "room_name": "Hall C.1", 
+        "start_time": "2015-12-30T13:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Codefor.de OK-Labs Meetup", 
+        "abstract": " \nTalk civic tech with OK-Lab members from all over Germany.", 
+        "speakers": "Sjockers"
     }, 
     {
         "event_id": 1227, 

@@ -5807,15 +5807,15 @@
                                 ]
                             }
                         ], 
-                        "Hall A.2": [
+                        "Hall C.1": [
                             {
                                 "id": 1044, 
-                                "guid": "d7e3153358a233ea8df1257aac236344", 
+                                "guid": "b6020a2663fb2becfd57c30725b26f55", 
                                 "logo": null, 
                                 "date": "2015-12-30T13:00:00+01:00", 
                                 "start": "13:00", 
                                 "duration": "1:00", 
-                                "room": "Hall A.2", 
+                                "room": "Hall C.1", 
                                 "slug": "", 
                                 "title": "Codefor.de OK-Labs Meetup", 
                                 "subtitle": "", 
@@ -5834,6 +5834,60 @@
                                 "links": [
                                     "https://codefor.de", 
                                     "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1227, 
+                                "guid": "79619fb9943f8a5ac85efb28b5997c02", 
+                                "logo": null, 
+                                "date": "2015-12-30T11:45:00+01:00", 
+                                "start": "11:45", 
+                                "duration": "0:30", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Meditation", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "DE: Der Kongress neigt sich dem Ende zu. Zeit zur Ruhe zu kommen...\n\nEN: The congress is soon comming to an end. Time to calm down again...", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Meditation"
+                                ]
+                            }, 
+                            {
+                                "id": 1265, 
+                                "guid": "b0d1234ed364478edaf8738bd9761421", 
+                                "logo": null, 
+                                "date": "2015-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Hall C.1", 
+                                "slug": "", 
+                                "title": "Subtitles-Engelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Cube", 
+                                        "public_name": "Cube"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Subtitles-Engelmeeting"
                                 ]
                             }
                         ], 
@@ -6436,62 +6490,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }
-                        ], 
-                        "Hall C.1": [
-                            {
-                                "id": 1227, 
-                                "guid": "79619fb9943f8a5ac85efb28b5997c02", 
-                                "logo": null, 
-                                "date": "2015-12-30T11:45:00+01:00", 
-                                "start": "11:45", 
-                                "duration": "0:30", 
-                                "room": "Hall C.1", 
-                                "slug": "", 
-                                "title": "Meditation", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "DE: Der Kongress neigt sich dem Ende zu. Zeit zur Ruhe zu kommen...\n\nEN: The congress is soon comming to an end. Time to calm down again...", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Birdy1976", 
-                                        "public_name": "Birdy1976"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Meditation"
-                                ]
-                            }, 
-                            {
-                                "id": 1265, 
-                                "guid": "b0d1234ed364478edaf8738bd9761421", 
-                                "logo": null, 
-                                "date": "2015-12-30T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "Hall C.1", 
-                                "slug": "", 
-                                "title": "Subtitles-Engelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Angel meeting of the subtitles angels. If you want to participate, fell free!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:Cube", 
-                                        "public_name": "Cube"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Subtitles-Engelmeeting"
                                 ]
                             }
                         ], 

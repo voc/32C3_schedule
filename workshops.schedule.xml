@@ -4652,13 +4652,13 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
         </links>
       </event>
     </room>
-    <room name="Hall A.2">
-      <event id="1044" guid="d7e3153358a233ea8df1257aac236344">
+    <room name="Hall C.1">
+      <event id="1044" guid="b6020a2663fb2becfd57c30725b26f55">
         <logo/>
         <date>2015-12-30T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>1:00</duration>
-        <room>Hall A.2</room>
+        <room>Hall C.1</room>
         <slug/>
         <title>Codefor.de OK-Labs Meetup</title>
         <subtitle/>
@@ -4673,6 +4673,50 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
         <links>
           <link>https://codefor.de</link>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup</link>
+        </links>
+      </event>
+      <event id="1227" guid="79619fb9943f8a5ac85efb28b5997c02">
+        <logo/>
+        <date>2015-12-30T11:45:00+01:00</date>
+        <start>11:45</start>
+        <duration>0:30</duration>
+        <room>Hall C.1</room>
+        <slug/>
+        <title>Meditation</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>DE: Der Kongress neigt sich dem Ende zu. Zeit zur Ruhe zu kommen...
+
+EN: The congress is soon comming to an end. Time to calm down again...</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Birdy1976">Birdy1976</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Meditation</link>
+        </links>
+      </event>
+      <event id="1265" guid="b0d1234ed364478edaf8738bd9761421">
+        <logo/>
+        <date>2015-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Hall C.1</room>
+        <slug/>
+        <title>Subtitles-Engelmeeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Angel meeting of the subtitles angels. If you want to participate, fell free!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Subtitles-Engelmeeting</link>
         </links>
       </event>
     </room>
@@ -5136,52 +5180,6 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-    </room>
-    <room name="Hall C.1">
-      <event id="1227" guid="79619fb9943f8a5ac85efb28b5997c02">
-        <logo/>
-        <date>2015-12-30T11:45:00+01:00</date>
-        <start>11:45</start>
-        <duration>0:30</duration>
-        <room>Hall C.1</room>
-        <slug/>
-        <title>Meditation</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language/>
-        <abstract/>
-        <description>DE: Der Kongress neigt sich dem Ende zu. Zeit zur Ruhe zu kommen...
-
-EN: The congress is soon comming to an end. Time to calm down again...</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Birdy1976">Birdy1976</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Meditation</link>
-        </links>
-      </event>
-      <event id="1265" guid="b0d1234ed364478edaf8738bd9761421">
-        <logo/>
-        <date>2015-12-30T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Hall C.1</room>
-        <slug/>
-        <title>Subtitles-Engelmeeting</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language/>
-        <abstract/>
-        <description>Angel meeting of the subtitles angels. If you want to participate, fell free!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Cube">Cube</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Subtitles-Engelmeeting</link>
         </links>
       </event>
     </room>

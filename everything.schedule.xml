@@ -10927,32 +10927,6 @@ Join us for a Q&amp;A session with Max Schrems about the ruling of the CJEU on t
         </links>
       </event>
     </room>
-    <room name="Mozilla">
-      <event id="1282" guid="f6c3a9c0767a2aea595ba8109fe93fcc">
-        <logo/>
-        <date>2015-12-29T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>1:00</duration>
-        <room>Mozilla</room>
-        <slug/>
-        <title>Workshop on email encryption with GnuPG and Nitrokey hardware</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language/>
-        <abstract/>
-        <description>LOCATION: Hall 13 (NOT Mozilla Assembly)
-
-We will give an overview on how to encrypt emails with GnuPG and with the open Nitrokey hardware. Also SSH authentication with the Nitrokey will be covered. It's an workshop to bring your own device and where attendees can help each other.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Jans">Jans</person>
-        </persons>
-        <links>
-          <link>https://www.nitrokey.com/</link>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Workshop_on_email_encryption_with_GnuPG_and_Nitrokey_hardware</link>
-        </links>
-      </event>
-    </room>
   </day>
   <day index="4" date="2015-12-30" start="2015-12-30T11:30:00+01:00" end="2015-12-31T04:00:00+01:00">
     <room name="Hall 1">
@@ -11788,30 +11762,7 @@ bunter Mix an verschiedenen Ansichten, Meinungen und Erlebnissen.</description>
     </room>
     <room name="B\u00fchne"/>
     <room name="Hall A.1"/>
-    <room name="Hall A.2">
-      <event id="1044" guid="d7e3153358a233ea8df1257aac236344">
-        <logo/>
-        <date>2015-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
-        <room>Hall A.2</room>
-        <slug/>
-        <title>Codefor.de OK-Labs Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language/>
-        <abstract/>
-        <description>Talk civic tech with OK-Lab members from all over Germany.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Sjockers">Sjockers</person>
-        </persons>
-        <links>
-          <link>https://codefor.de</link>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup</link>
-        </links>
-      </event>
-    </room>
+    <room name="Hall A.2"/>
     <room name="Hall B">
       <event id="1079" guid="e3dabb82ac3fdda8da347454ac4c5f66">
         <logo/>
@@ -11836,6 +11787,28 @@ bunter Mix an verschiedenen Ansichten, Meinungen und Erlebnissen.</description>
       </event>
     </room>
     <room name="Hall C.1">
+      <event id="1044" guid="b6020a2663fb2becfd57c30725b26f55">
+        <logo/>
+        <date>2015-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Hall C.1</room>
+        <slug/>
+        <title>Codefor.de OK-Labs Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Talk civic tech with OK-Lab members from all over Germany.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:Sjockers">Sjockers</person>
+        </persons>
+        <links>
+          <link>https://codefor.de</link>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup</link>
+        </links>
+      </event>
       <event id="1227" guid="79619fb9943f8a5ac85efb28b5997c02">
         <logo/>
         <date>2015-12-30T11:45:00+01:00</date>

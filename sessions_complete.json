@@ -836,6 +836,54 @@
             "1451271600"
         ]
     }, 
+    "Session:Codefor.de OK-Labs Meetup# b6020a2663fb2becfd57c30725b26f55": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451476800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://codefor.de"
+        ], 
+        "Has description": [
+            "Talk civic tech with OK-Lab members from all over Germany."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Sjockers", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sjockers", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Codefor.de OK-Labs Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup", 
+        "Has end time": [
+            "1451480400"
+        ]
+    }, 
     "Session:Digital Stalking Response Protocol# 5a3907c2d0b6ee550e10954db0a59d2a": {
         "Held in language": [
             {
@@ -3955,6 +4003,43 @@
         "Has end time": [
             "1451406600"
         ]
+    }, 
+    "Session:Codefor.de / OK-Labs Meetup# 8af75f077a9330039b71deb04d42832e": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://codefor.de"
+        ], 
+        "Has description": [
+            "Talk civic tech with OK-Lab members from all over Germany."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.1", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Codefor.de / OK-Labs Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_/_OK-Labs_Meetup", 
+        "Has end time": []
     }, 
     "Session:Angry Hacking: How to win $750,000# c51b71ab73d04ceb702e150305d0ded9": {
         "Held in language": [
@@ -11400,54 +11485,6 @@
             "1451235600"
         ]
     }, 
-    "Session:Workshop on email encryption with GnuPG and Nitrokey hardware# f6c3a9c0767a2aea595ba8109fe93fcc": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451410200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.nitrokey.com/"
-        ], 
-        "Has description": [
-            "LOCATION: Hall 13 (NOT Mozilla Assembly)\n\nWe will give an overview on how to encrypt emails with GnuPG and with the open Nitrokey hardware. Also SSH authentication with the Nitrokey will be covered. It's an workshop to bring your own device and where attendees can help each other."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Mozilla", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Mozilla", 
-                "namespace": 504, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jans", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jans", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Workshop on email encryption with GnuPG and Nitrokey hardware"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Workshop_on_email_encryption_with_GnuPG_and_Nitrokey_hardware", 
-        "Has end time": [
-            "1451413800"
-        ]
-    }, 
     "Session:Hackerspace Patterns Discussion# cbb6b24a5b726f521b6ad0766e03c251": {
         "Held in language": [
             {
@@ -16358,54 +16395,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451343600"
-        ]
-    }, 
-    "Session:Codefor.de OK-Labs Meetup# d7e3153358a233ea8df1257aac236344": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451476800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://codefor.de"
-        ], 
-        "Has description": [
-            "Talk civic tech with OK-Lab members from all over Germany."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.2", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sjockers", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sjockers", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Codefor.de OK-Labs Meetup"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Codefor.de_OK-Labs_Meetup", 
-        "Has end time": [
-            "1451480400"
         ]
     }, 
     "Session:LearnToSolder# e4e6b1c60e8bd07319c45845b717ac65": {
