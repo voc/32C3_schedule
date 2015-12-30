@@ -2091,27 +2091,6 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1143" guid="b7c3390ab4eb5a8b30c238ad4d5f2e80">
-        <logo/>
-        <date>2015-12-27T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Terje</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
       <event id="1144" guid="3b701c5c117c8269eed0f3575b80f402">
         <logo/>
         <date>2015-12-27T19:00:00+01:00</date>
@@ -2133,15 +2112,15 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1147" guid="198b46545f108a9a03b2ace01e56cb14">
+      <event id="1146" guid="b7c3390ab4eb5a8b30c238ad4d5f2e80">
         <logo/>
-        <date>2015-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-27T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Technicolorism</subtitle>
+        <subtitle>Terje</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2154,7 +2133,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1148" guid="dc92ab43f0c0a4f5a4381bb9a05b21d9">
+      <event id="1147" guid="dc92ab43f0c0a4f5a4381bb9a05b21d9">
         <logo/>
         <date>2015-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2175,7 +2154,28 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1175" guid="98698330c363b412cac28e74686d82d7">
+      <event id="1148" guid="198b46545f108a9a03b2ace01e56cb14">
+        <logo/>
+        <date>2015-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Technicolorism</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1174" guid="98698330c363b412cac28e74686d82d7">
         <logo/>
         <date>2015-12-28T02:00:00+01:00</date>
         <start>02:00</start>
@@ -2196,7 +2196,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1176" guid="b216f02af60e1ceb8c53562c0fd377c8">
+      <event id="1177" guid="b216f02af60e1ceb8c53562c0fd377c8">
         <logo/>
         <date>2015-12-28T00:00:00+01:00</date>
         <start>00:00</start>
@@ -2217,28 +2217,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1179" guid="00997726b8f329cbd7aac04056ac75a5">
-        <logo/>
-        <date>2015-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Janina L</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1180" guid="6734d0907fab5b1de757808ce47aafac">
+      <event id="1179" guid="6734d0907fab5b1de757808ce47aafac">
         <logo/>
         <date>2015-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2259,7 +2238,28 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1207" guid="2839efac2aaa261a49c1421d715872c5">
+      <event id="1181" guid="00997726b8f329cbd7aac04056ac75a5">
+        <logo/>
+        <date>2015-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Janina L</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1206" guid="2839efac2aaa261a49c1421d715872c5">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -2280,28 +2280,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1209" guid="977da6ffa8ea9ee973177ec1333e7765">
-        <logo/>
-        <date>2015-12-27T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Terje</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1210" guid="4b857ceb6b0d6b602988eee0641fc529">
+      <event id="1209" guid="4b857ceb6b0d6b602988eee0641fc529">
         <logo/>
         <date>2015-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2322,17 +2301,38 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
+      <event id="1211" guid="977da6ffa8ea9ee973177ec1333e7765">
+        <logo/>
+        <date>2015-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Terje</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
     </room>
     <room name="Chaos-West">
-      <event id="1032" guid="5a388ca31c81ed559cc136ca29fa0c72">
+      <event id="1032" guid="9aec93160a41a15b60a7b40b5300ef0c">
         <logo/>
-        <date>2015-12-28T02:00:00+01:00</date>
-        <start>02:00</start>
-        <duration>1:00</duration>
+        <date>2015-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>4:00</duration>
         <room>Chaos-West</room>
         <slug/>
         <title>Chaos West Klangteppich</title>
-        <subtitle>jodoe23 DJ Set: Deep House</subtitle>
+        <subtitle>[[User:julijane|Juli Jane]] DJ Set: House/Techno/Minimal</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language/>
@@ -2346,15 +2346,15 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Chaos_West_Klangteppich</link>
         </links>
       </event>
-      <event id="1033" guid="9aec93160a41a15b60a7b40b5300ef0c">
+      <event id="1033" guid="5a388ca31c81ed559cc136ca29fa0c72">
         <logo/>
-        <date>2015-12-27T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>4:00</duration>
+        <date>2015-12-28T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>1:00</duration>
         <room>Chaos-West</room>
         <slug/>
         <title>Chaos West Klangteppich</title>
-        <subtitle>[[User:julijane|Juli Jane]] DJ Set: House/Techno/Minimal</subtitle>
+        <subtitle>jodoe23 DJ Set: Deep House</subtitle>
         <track>self organized sessions</track>
         <type>other</type>
         <language/>
@@ -2463,15 +2463,15 @@ You know those tiny little components in modern electronic devices? It's both po
       </event>
     </room>
     <room name="Dach">
-      <event id="1129" guid="3b0c765624223dfe4d17bd541c44ff14">
+      <event id="1129" guid="1ae6fd3e27b16ee0e051a37ad3880120">
         <logo/>
-        <date>2015-12-27T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2015-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Dach</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Helena Ratkat</subtitle>
+        <subtitle>Henning</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2484,15 +2484,15 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1130" guid="1ae6fd3e27b16ee0e051a37ad3880120">
+      <event id="1131" guid="3b0c765624223dfe4d17bd541c44ff14">
         <logo/>
-        <date>2015-12-27T18:00:00+01:00</date>
-        <start>18:00</start>
+        <date>2015-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
         <duration>1:00</duration>
         <room>Dach</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Henning</subtitle>
+        <subtitle>Helena Ratkat</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2526,27 +2526,6 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1162" guid="24e951361035383edd6c0ef868956366">
-        <logo/>
-        <date>2015-12-27T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>Dach</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>!Oliversum</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
       <event id="1163" guid="2e2ce23bbb290d05b4ad87c86ecc29e0">
         <logo/>
         <date>2015-12-27T19:00:00+01:00</date>
@@ -2568,15 +2547,15 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1166" guid="835736ef997d32b8ea53644d05e97d66">
+      <event id="1165" guid="24e951361035383edd6c0ef868956366">
         <logo/>
-        <date>2015-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-27T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>1:00</duration>
         <room>Dach</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Ygramul</subtitle>
+        <subtitle>!Oliversum</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2589,7 +2568,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1167" guid="90650fc1357b315d59c5cba85e4fcd36">
+      <event id="1166" guid="90650fc1357b315d59c5cba85e4fcd36">
         <logo/>
         <date>2015-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2598,6 +2577,27 @@ You know those tiny little components in modern electronic devices? It's both po
         <slug/>
         <title>Lounge</title>
         <subtitle>Pio</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1167" guid="835736ef997d32b8ea53644d05e97d66">
+        <logo/>
+        <date>2015-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Dach</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Ygramul</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2631,15 +2631,15 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1197" guid="597ddfc17e81d0d54814dfdc230731cb">
+      <event id="1197" guid="a4c36f9c7fb7d80a1cf911562d6383af">
         <logo/>
-        <date>2015-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2015-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>1:00</duration>
         <room>Dach</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Helena Ratkat</subtitle>
+        <subtitle>Henning</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2652,15 +2652,15 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1198" guid="a4c36f9c7fb7d80a1cf911562d6383af">
+      <event id="1199" guid="597ddfc17e81d0d54814dfdc230731cb">
         <logo/>
-        <date>2015-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
+        <date>2015-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>1:00</duration>
         <room>Dach</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Henning</subtitle>
+        <subtitle>Helena Ratkat</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2717,7 +2717,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1194" guid="f7795b0078e1486c1b63d9c1ed21218e">
+      <event id="1193" guid="f7795b0078e1486c1b63d9c1ed21218e">
         <logo/>
         <date>2015-12-28T02:00:00+01:00</date>
         <start>02:00</start>
@@ -5557,15 +5557,15 @@ And most importantly: what could be the effective ways of bringing more users to
       </event>
     </room>
     <room name="Lounge">
-      <event id="1149" guid="607c02f9284c1e9dd14a41cc8ca6b0b1">
+      <event id="1149" guid="24df0548f2a89ccd6bb9ce0a218da349">
         <logo/>
-        <date>2015-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2015-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Martha van Straaten</subtitle>
+        <subtitle>Sonic Robots L</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -5578,15 +5578,15 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1150" guid="24df0548f2a89ccd6bb9ce0a218da349">
+      <event id="1151" guid="607c02f9284c1e9dd14a41cc8ca6b0b1">
         <logo/>
-        <date>2015-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
+        <date>2015-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Sonic Robots L</subtitle>
+        <subtitle>Martha van Straaten</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -5662,7 +5662,7 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1181" guid="6c3e9edd5df7331f43b3242d6dda4c94">
+      <event id="1180" guid="6c3e9edd5df7331f43b3242d6dda4c94">
         <logo/>
         <date>2015-12-29T01:00:00+01:00</date>
         <start>01:00</start>
@@ -5683,28 +5683,7 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1182" guid="3064f6ff63a312836b11ddc9ced638c3">
-        <logo/>
-        <date>2015-12-28T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Martha van Straaten</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1183" guid="0486694bd2bbdb5c03e7dcebf0ed0333">
+      <event id="1182" guid="0486694bd2bbdb5c03e7dcebf0ed0333">
         <logo/>
         <date>2015-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5725,15 +5704,15 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1185" guid="d4b8fa16eefcb4e793840b3bbbfb3ca3">
+      <event id="1184" guid="3064f6ff63a312836b11ddc9ced638c3">
         <logo/>
-        <date>2015-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Etkin</subtitle>
+        <subtitle>Martha van Straaten</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -5746,7 +5725,7 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1186" guid="73de2b974269160e66efa02cf9827b8e">
+      <event id="1185" guid="73de2b974269160e66efa02cf9827b8e">
         <logo/>
         <date>2015-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -5767,7 +5746,28 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1211" guid="76d50b34565dcccb69f6e194253f79eb">
+      <event id="1186" guid="d4b8fa16eefcb4e793840b3bbbfb3ca3">
+        <logo/>
+        <date>2015-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Etkin</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1210" guid="76d50b34565dcccb69f6e194253f79eb">
         <logo/>
         <date>2015-12-29T02:00:00+01:00</date>
         <start>02:00</start>
@@ -5809,28 +5809,7 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1214" guid="15886f47ae188622498bdeb0b6a5061b">
-        <logo/>
-        <date>2015-12-28T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>The incredible Herrengedeck L</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1215" guid="4a773b899f9b4d9ab348c457d152ee44">
+      <event id="1214" guid="4a773b899f9b4d9ab348c457d152ee44">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5851,7 +5830,28 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1225" guid="7421e14445854c543f01b0884f791e44">
+      <event id="1216" guid="15886f47ae188622498bdeb0b6a5061b">
+        <logo/>
+        <date>2015-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>The incredible Herrengedeck L</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1220" guid="7421e14445854c543f01b0884f791e44">
         <logo/>
         <date>2015-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -6149,7 +6149,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Chaos_West_Klangteppich</link>
         </links>
       </event>
-      <event id="1036" guid="24367693fb4d9b23ded9e639ce137ae7">
+      <event id="1037" guid="24367693fb4d9b23ded9e639ce137ae7">
         <logo/>
         <date>2015-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -6310,7 +6310,7 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
       </event>
     </room>
     <room name="DACH">
-      <event id="1131" guid="9c178b49928cc4b6bacc5bb78bd3ed13">
+      <event id="1130" guid="9c178b49928cc4b6bacc5bb78bd3ed13">
         <logo/>
         <date>2015-12-29T02:00:00+01:00</date>
         <start>02:00</start>
@@ -6352,28 +6352,7 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1134" guid="b9baeda86f1a3c19bf9510940105f984">
-        <logo/>
-        <date>2015-12-28T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>1:00</duration>
-        <room>DACH</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Monsieur Le Schl&#246;</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1135" guid="ecdb672baa1dbf73c8de80fa58ddb587">
+      <event id="1134" guid="ecdb672baa1dbf73c8de80fa58ddb587">
         <logo/>
         <date>2015-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -6394,10 +6373,10 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1168" guid="fbb87ee78697e177fab9a43a8f074551">
+      <event id="1136" guid="b9baeda86f1a3c19bf9510940105f984">
         <logo/>
-        <date>2015-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2015-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>1:00</duration>
         <room>DACH</room>
         <slug/>
@@ -6415,7 +6394,7 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1169" guid="f37c60a6511ac83bf2fe7924e0572658">
+      <event id="1168" guid="f37c60a6511ac83bf2fe7924e0572658">
         <logo/>
         <date>2015-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -6424,6 +6403,27 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
         <slug/>
         <title>Lounge</title>
         <subtitle>Matthias Erian</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1170" guid="fbb87ee78697e177fab9a43a8f074551">
+        <logo/>
+        <date>2015-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:00</duration>
+        <room>DACH</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Monsieur Le Schl&#246;</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -6457,7 +6457,7 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1199" guid="00243930e9f2541f4c0985531c89ce32">
+      <event id="1198" guid="00243930e9f2541f4c0985531c89ce32">
         <logo/>
         <date>2015-12-29T01:00:00+01:00</date>
         <start>01:00</start>
@@ -6478,28 +6478,7 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1200" guid="82d327349aeb4ec9332d9fa82c628683">
-        <logo/>
-        <date>2015-12-28T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>DACH</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Chez Mieke</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1201" guid="b6680c2e181a68fbdd70f0c3d890bffd">
+      <event id="1200" guid="b6680c2e181a68fbdd70f0c3d890bffd">
         <logo/>
         <date>2015-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -6520,7 +6499,7 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1202" guid="11c5ac1ee5d2ed733dcb4fc72fa3db36">
+      <event id="1201" guid="11c5ac1ee5d2ed733dcb4fc72fa3db36">
         <logo/>
         <date>2015-12-29T03:00:00+01:00</date>
         <start>03:00</start>
@@ -6541,15 +6520,15 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1203" guid="a18bac61e1fc409c539f7d5800d3eb43">
+      <event id="1202" guid="82d327349aeb4ec9332d9fa82c628683">
         <logo/>
-        <date>2015-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>1:00</duration>
         <room>DACH</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Nanu ein Gnu?!</subtitle>
+        <subtitle>Chez Mieke</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -6562,7 +6541,7 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1204" guid="62e9cb5077e01dceaa6a0622db165642">
+      <event id="1203" guid="62e9cb5077e01dceaa6a0622db165642">
         <logo/>
         <date>2015-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -6583,9 +6562,30 @@ This will be an ad-hoc session, we are open for instrumental accompaniment and w
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
+      <event id="1204" guid="a18bac61e1fc409c539f7d5800d3eb43">
+        <logo/>
+        <date>2015-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>DACH</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Nanu ein Gnu?!</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
     </room>
     <room name="LOUNGE OBEN">
-      <event id="1184" guid="de89e24caa49fb523b5316c7869253d7">
+      <event id="1183" guid="de89e24caa49fb523b5316c7869253d7">
         <logo/>
         <date>2015-12-29T03:00:00+01:00</date>
         <start>03:00</start>
@@ -9830,7 +9830,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
       </event>
     </room>
     <room name="Lounge">
-      <event id="1146" guid="802b00b2e73dd9564fe5a8a8ed4eed9c">
+      <event id="1140" guid="802b00b2e73dd9564fe5a8a8ed4eed9c">
         <logo/>
         <date>2015-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -9851,7 +9851,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1151" guid="3a4c729f959f79ad2a67faf8cd8623c8">
+      <event id="1150" guid="3a4c729f959f79ad2a67faf8cd8623c8">
         <logo/>
         <date>2015-12-30T02:00:00+01:00</date>
         <start>02:00</start>
@@ -9893,28 +9893,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1154" guid="cb8a806c61810935b9d4d19a2da07b9b">
-        <logo/>
-        <date>2015-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>H. Heh</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1155" guid="07649f609347045e1bfc64db074d1310">
+      <event id="1154" guid="07649f609347045e1bfc64db074d1310">
         <logo/>
         <date>2015-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -9935,15 +9914,15 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1187" guid="8c3c36cf20d5eaadbd00c33fc0265c9e">
+      <event id="1156" guid="cb8a806c61810935b9d4d19a2da07b9b">
         <logo/>
-        <date>2015-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2015-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Miss Hawaii L</subtitle>
+        <subtitle>H. Heh</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -9956,7 +9935,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1188" guid="3c99b270031a4b8de19bf672cee8a20a">
+      <event id="1187" guid="3c99b270031a4b8de19bf672cee8a20a">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -9965,6 +9944,27 @@ Starts: 29/12/2015 @21:00 Hall13</description>
         <slug/>
         <title>Lounge</title>
         <subtitle>Dave Dinger</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1189" guid="8c3c36cf20d5eaadbd00c33fc0265c9e">
+        <logo/>
+        <date>2015-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Miss Hawaii L</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -10019,7 +10019,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1216" guid="006527a6b0793dd9ce109b4e749b5bed">
+      <event id="1215" guid="006527a6b0793dd9ce109b4e749b5bed">
         <logo/>
         <date>2015-12-30T01:00:00+01:00</date>
         <start>01:00</start>
@@ -10040,28 +10040,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1217" guid="854137f77e2c65cb7f66bcca08fd91fe">
-        <logo/>
-        <date>2015-12-29T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Romanski</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1218" guid="31dcf9b49a993c0cf15ef440417a5a18">
+      <event id="1217" guid="31dcf9b49a993c0cf15ef440417a5a18">
         <logo/>
         <date>2015-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -10082,7 +10061,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1219" guid="48221054adea7c75bd7c03f34a27dc7f">
+      <event id="1218" guid="48221054adea7c75bd7c03f34a27dc7f">
         <logo/>
         <date>2015-12-30T03:00:00+01:00</date>
         <start>03:00</start>
@@ -10103,15 +10082,15 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1220" guid="f2724b540787adf54cbb08bc3ed6f640">
+      <event id="1219" guid="854137f77e2c65cb7f66bcca08fd91fe">
         <logo/>
-        <date>2015-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>H. Heh</subtitle>
+        <subtitle>Romanski</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -10133,6 +10112,27 @@ Starts: 29/12/2015 @21:00 Hall13</description>
         <slug/>
         <title>Lounge</title>
         <subtitle>MG3 L</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1222" guid="f2724b540787adf54cbb08bc3ed6f640">
+        <logo/>
+        <date>2015-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>H. Heh</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -10268,7 +10268,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Chaos_West_Klangteppich</link>
         </links>
       </event>
-      <event id="1037" guid="4930de72773e6b3ac1a2d921cc0f5107">
+      <event id="1036" guid="4930de72773e6b3ac1a2d921cc0f5107">
         <logo/>
         <date>2015-12-30T00:00:00+01:00</date>
         <start>00:00</start>
@@ -10558,7 +10558,7 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
       </event>
     </room>
     <room name="DACH">
-      <event id="1136" guid="c6a9014d6632095e33a4bbc4259f8fc5">
+      <event id="1135" guid="c6a9014d6632095e33a4bbc4259f8fc5">
         <logo/>
         <date>2015-12-30T01:00:00+01:00</date>
         <start>01:00</start>
@@ -10579,28 +10579,7 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1137" guid="7f6c3bd662fb2513f1c66194922a0b47">
-        <logo/>
-        <date>2015-12-29T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>DACH</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>RB</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1138" guid="cac56135683261a0e01b57543431d5d3">
+      <event id="1137" guid="cac56135683261a0e01b57543431d5d3">
         <logo/>
         <date>2015-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -10621,15 +10600,15 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1140" guid="12f6a7d811403639bc940cbeeea346f3">
+      <event id="1139" guid="7f6c3bd662fb2513f1c66194922a0b47">
         <logo/>
-        <date>2015-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>1:00</duration>
         <room>DACH</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Andi Valent</subtitle>
+        <subtitle>RB</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -10663,7 +10642,28 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1158" guid="8407bc64917c1748b9ca8e10c4e5f575">
+      <event id="1143" guid="12f6a7d811403639bc940cbeeea346f3">
+        <logo/>
+        <date>2015-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>DACH</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Andi Valent</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1157" guid="8407bc64917c1748b9ca8e10c4e5f575">
         <logo/>
         <date>2015-12-30T03:00:00+01:00</date>
         <start>03:00</start>
@@ -10684,7 +10684,7 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1170" guid="83ccadfbdd238ca760ece7928a3ad5e7">
+      <event id="1169" guid="83ccadfbdd238ca760ece7928a3ad5e7">
         <logo/>
         <date>2015-12-30T02:00:00+01:00</date>
         <start>02:00</start>
@@ -10726,28 +10726,7 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1173" guid="079bfe482a701cec6aab95f821f3a1b2">
-        <logo/>
-        <date>2015-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>1:00</duration>
-        <room>DACH</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Mario Lasalle</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1174" guid="56244fe2e1fbd4c517fc8133360d1b6f">
+      <event id="1173" guid="56244fe2e1fbd4c517fc8133360d1b6f">
         <logo/>
         <date>2015-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -10768,10 +10747,10 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1205" guid="ac79efea17570bf4929b8917c6f409f0">
+      <event id="1175" guid="079bfe482a701cec6aab95f821f3a1b2">
         <logo/>
-        <date>2015-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2015-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>1:00</duration>
         <room>DACH</room>
         <slug/>
@@ -10789,7 +10768,7 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1206" guid="6f45068a51548fc968bbddc83f6d9bea">
+      <event id="1205" guid="6f45068a51548fc968bbddc83f6d9bea">
         <logo/>
         <date>2015-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -10798,6 +10777,27 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
         <slug/>
         <title>Lounge</title>
         <subtitle>Anoush</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1207" guid="ac79efea17570bf4929b8917c6f409f0">
+        <logo/>
+        <date>2015-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:00</duration>
+        <room>DACH</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Mario Lasalle</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -10833,7 +10833,7 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
       </event>
     </room>
     <room name="LOUNGE OBEN">
-      <event id="1139" guid="37709c8b725163edb277d8323d690269">
+      <event id="1138" guid="37709c8b725163edb277d8323d690269">
         <logo/>
         <date>2015-12-30T03:00:00+01:00</date>
         <start>03:00</start>
@@ -12029,28 +12029,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
       </event>
     </room>
     <room name="Lounge">
-      <event id="1127" guid="8acee822f9de023376835876d653da3f">
-        <logo/>
-        <date>2015-12-30T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Dj Plazebo vs. Lion L</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1128" guid="07cf42d2dc4ec179efc17dc20ec61a09">
+      <event id="1127" guid="07cf42d2dc4ec179efc17dc20ec61a09">
         <logo/>
         <date>2015-12-30T15:00:00+01:00</date>
         <start>15:00</start>
@@ -12071,7 +12050,28 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1156" guid="4e4d824e877b48bdc4243841ee4745ab">
+      <event id="1128" guid="8acee822f9de023376835876d653da3f">
+        <logo/>
+        <date>2015-12-30T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Dj Plazebo vs. Lion L</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1155" guid="4e4d824e877b48bdc4243841ee4745ab">
         <logo/>
         <date>2015-12-31T01:00:00+01:00</date>
         <start>01:00</start>
@@ -12092,7 +12092,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1157" guid="657c892bec55d46fc8589dd5e3dee6fb">
+      <event id="1158" guid="657c892bec55d46fc8589dd5e3dee6fb">
         <logo/>
         <date>2015-12-30T23:00:00+01:00</date>
         <start>23:00</start>
@@ -12113,15 +12113,15 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1159" guid="965eb6bdc308599a0b91588bc585efac">
+      <event id="1159" guid="88fca9248321daa8ddb1633541feadcc">
         <logo/>
-        <date>2015-12-30T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2015-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Dj Plazebo vs. Lion L</subtitle>
+        <subtitle>Days of Delay L</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -12155,15 +12155,15 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1165" guid="88fca9248321daa8ddb1633541feadcc">
+      <event id="1162" guid="965eb6bdc308599a0b91588bc585efac">
         <logo/>
-        <date>2015-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
+        <date>2015-12-30T20:00:00+01:00</date>
+        <start>20:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Days of Delay L</subtitle>
+        <subtitle>Dj Plazebo vs. Lion L</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -12176,7 +12176,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1177" guid="c137f67d514771af64617c0f7060fb58">
+      <event id="1176" guid="c137f67d514771af64617c0f7060fb58">
         <logo/>
         <date>2015-12-31T03:00:00+01:00</date>
         <start>03:00</start>
@@ -12197,7 +12197,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1189" guid="0d9895de50fc220f0f84d7657472d7fc">
+      <event id="1188" guid="0d9895de50fc220f0f84d7657472d7fc">
         <logo/>
         <date>2015-12-31T02:00:00+01:00</date>
         <start>02:00</start>
@@ -12239,15 +12239,15 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1192" guid="0f2f99e409fe0aaff92d7f30c2d7e144">
+      <event id="1192" guid="27bdcdb103e5e0a93818c69e8ca798d4">
         <logo/>
-        <date>2015-12-30T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2015-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Nina</subtitle>
+        <subtitle>Lord ByronStyropor</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -12260,15 +12260,15 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1193" guid="27bdcdb103e5e0a93818c69e8ca798d4">
+      <event id="1194" guid="0f2f99e409fe0aaff92d7f30c2d7e144">
         <logo/>
-        <date>2015-12-30T17:00:00+01:00</date>
-        <start>17:00</start>
+        <date>2015-12-30T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Lord ByronStyropor</subtitle>
+        <subtitle>Nina</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -12302,15 +12302,15 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1222" guid="c813f56380016daca3c43c32a0fdfb16">
+      <event id="1223" guid="babfc0a2bfe9a027083787e2d61cda10">
         <logo/>
-        <date>2015-12-30T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2015-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Nina</subtitle>
+        <subtitle>Lord ByronStyropor</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -12323,15 +12323,15 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1223" guid="babfc0a2bfe9a027083787e2d61cda10">
+      <event id="1225" guid="c813f56380016daca3c43c32a0fdfb16">
         <logo/>
-        <date>2015-12-30T18:00:00+01:00</date>
-        <start>18:00</start>
+        <date>2015-12-30T22:00:00+01:00</date>
+        <start>22:00</start>
         <duration>1:00</duration>
         <room>Lounge</room>
         <slug/>
         <title>Lounge</title>
-        <subtitle>Lord ByronStyropor</subtitle>
+        <subtitle>Nina</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
