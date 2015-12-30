@@ -1097,7 +1097,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T23:00:00+01:00", 
+        "start_time": "2015-12-30T14:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1109,7 +1109,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T14:00:00+01:00", 
+        "start_time": "2015-12-28T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1121,7 +1121,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T17:00:00+01:00", 
+        "start_time": "2015-12-30T01:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1133,7 +1133,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T01:00:00+01:00", 
+        "start_time": "2015-12-29T19:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1145,7 +1145,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T19:00:00+01:00", 
+        "start_time": "2015-12-30T03:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1157,7 +1157,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T03:00:00+01:00", 
+        "start_time": "2015-12-28T21:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1169,7 +1169,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T21:00:00+01:00", 
+        "start_time": "2015-12-29T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1251,18 +1251,6 @@
         "event_id": 1140, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-29T00:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1141, 
-        "track_id": 10, 
-        "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T15:00:00+01:00", 
@@ -1272,7 +1260,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1142, 
+        "event_id": 1141, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1284,7 +1272,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1143, 
+        "event_id": 1142, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1296,7 +1284,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1144, 
+        "event_id": 1143, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1308,7 +1296,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1145, 
+        "event_id": 1144, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1320,19 +1308,19 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1146, 
+        "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
-        "start_time": "2015-12-29T23:00:00+01:00", 
+        "start_time": "2015-12-29T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1147, 
+        "event_id": 1146, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1344,7 +1332,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1148, 
+        "event_id": 1147, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1356,7 +1344,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1149, 
+        "event_id": 1148, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1368,7 +1356,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1150, 
+        "event_id": 1149, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1380,7 +1368,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1151, 
+        "event_id": 1150, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1392,12 +1380,24 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1152, 
+        "event_id": 1151, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
         "start_time": "2015-12-28T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1152, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-29T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1481,7 +1481,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T00:00:00+01:00", 
+        "start_time": "2015-12-27T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1493,7 +1493,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-27T16:00:00+01:00", 
+        "start_time": "2015-12-28T18:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1505,7 +1505,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T18:00:00+01:00", 
+        "start_time": "2015-12-30T02:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1517,7 +1517,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T02:00:00+01:00", 
+        "start_time": "2015-12-29T20:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1529,7 +1529,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T20:00:00+01:00", 
+        "start_time": "2015-12-28T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1541,7 +1541,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T22:00:00+01:00", 
+        "start_time": "2015-12-30T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1553,7 +1553,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T23:00:00+01:00", 
+        "start_time": "2015-12-28T15:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1565,7 +1565,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T15:00:00+01:00", 
+        "start_time": "2015-12-29T17:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1577,7 +1577,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T17:00:00+01:00", 
+        "start_time": "2015-12-31T01:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1589,18 +1589,6 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-31T01:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1169, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
         "start_time": "2015-12-30T19:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
@@ -1608,7 +1596,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1170, 
+        "event_id": 1169, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1620,12 +1608,24 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1171, 
+        "event_id": 1170, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-29T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1171, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1708,18 +1708,6 @@
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
-        "room_name": "DACH", 
-        "start_time": "2015-12-30T00:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1179, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
         "room_name": "Dach", 
         "start_time": "2015-12-27T16:00:00+01:00", 
         "duration": 3600, 
@@ -1728,7 +1716,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1180, 
+        "event_id": 1179, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1740,7 +1728,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1181, 
+        "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1752,7 +1740,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1182, 
+        "event_id": 1181, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1764,7 +1752,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1183, 
+        "event_id": 1182, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1776,19 +1764,19 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1184, 
+        "event_id": 1183, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T00:00:00+01:00", 
+        "room_id": 0, 
+        "room_name": "DACH", 
+        "start_time": "2015-12-30T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1185, 
+        "event_id": 1184, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1800,7 +1788,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1186, 
+        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -1812,7 +1800,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1187, 
+        "event_id": 1186, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1824,7 +1812,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1188, 
+        "event_id": 1187, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1836,7 +1824,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1189, 
+        "event_id": 1188, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1848,12 +1836,24 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1190, 
+        "event_id": 1189, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
         "start_time": "2015-12-29T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1190, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-28T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1937,7 +1937,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-31T00:00:00+01:00", 
+        "start_time": "2015-12-28T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1949,7 +1949,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T16:00:00+01:00", 
+        "start_time": "2015-12-29T18:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1961,7 +1961,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T18:00:00+01:00", 
+        "start_time": "2015-12-31T02:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1973,7 +1973,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-31T02:00:00+01:00", 
+        "start_time": "2015-12-30T20:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1985,7 +1985,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T20:00:00+01:00", 
+        "start_time": "2015-12-29T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -1997,7 +1997,7 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T22:00:00+01:00", 
+        "start_time": "2015-12-31T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2005,18 +2005,6 @@
     }, 
     {
         "event_id": 1203, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 0, 
-        "room_name": "Dach", 
-        "start_time": "2015-12-28T00:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1204, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2028,7 +2016,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1205, 
+        "event_id": 1204, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2040,7 +2028,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1206, 
+        "event_id": 1205, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -2052,7 +2040,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1207, 
+        "event_id": 1206, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 0, 
@@ -2064,12 +2052,24 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1208, 
+        "event_id": 1207, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-30T21:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1208, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 0, 
+        "room_name": "Dach", 
+        "start_time": "2015-12-28T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
@@ -2211,18 +2211,6 @@
         "event_id": 1220, 
         "track_id": 10, 
         "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-29T00:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lounge", 
-        "abstract": "", 
-        "speakers": "DJ Spock"
-    }, 
-    {
-        "event_id": 1221, 
-        "track_id": 10, 
-        "track_name": "Session", 
         "room_id": 0, 
         "room_name": "DACH", 
         "start_time": "2015-12-29T15:00:00+01:00", 
@@ -2232,7 +2220,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1222, 
+        "event_id": 1221, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2244,7 +2232,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1223, 
+        "event_id": 1222, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2256,7 +2244,7 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1224, 
+        "event_id": 1223, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2268,12 +2256,24 @@
         "speakers": "DJ Spock"
     }, 
     {
-        "event_id": 1225, 
+        "event_id": 1224, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
         "start_time": "2015-12-27T22:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lounge", 
+        "abstract": "", 
+        "speakers": "DJ Spock"
+    }, 
+    {
+        "event_id": 1225, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T00:00:00+01:00", 
         "duration": 3600, 
         "title": "Lounge", 
         "abstract": "", 
