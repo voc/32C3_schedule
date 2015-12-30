@@ -8252,47 +8252,40 @@
             "1451325600"
         ]
     }, 
-    "Session:Engelmeeting# bf981cbe8b5a7a149c3169141084b250": {
-        "Held in language": [
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+    "Session:Haecksen write/speak/code# 3cee5030d84eacd3a26c89f998df2b5d": {
+        "Held in language": [], 
         "Has start time": [
-            "1451160000"
+            "1451487600"
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "This is a mentoring session for women who want to get into speaking at conferences, user groups etc.\nWe will help you find your topic and your audience."
+        ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall B", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
+                "fulltext": "Room:Hall A.1", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.1", 
                 "namespace": 516, 
                 "exists": true
             }
         ], 
-        "Has subtitle": [
-            "Welcome meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Jz", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jz", 
+                "fulltext": "User:Bjelli", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Bjelli", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Engelmeeting"
+            "Haecksen write/speak/code"
         ], 
         "Has duration": [
             60
@@ -8300,9 +8293,9 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Haecksen_write/speak/code", 
         "Has end time": [
-            "1451163600"
+            "1451491200"
         ]
     }, 
     "Session:Resistance and Recuperation in Technological Cycles: For a Social History of Internet Relay Chat (IRC)# fe9d8a87438fc3b49166bc2efb85a882": {
@@ -8852,52 +8845,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Knit_Hacks", 
         "Has end time": [
             "1451343600"
-        ]
-    }, 
-    "Session:Haecksen write/speak/code# 70c36a487f8e488ed6dfe85b6055ac65": {
-        "Held in language": [], 
-        "Has start time": [
-            "1451487600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "This is a mentoring session for women who want to get into speaking at conferences, user groups etc.\nWe will help you find your topic and your audience."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 13", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_13", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bjelli", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Bjelli", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Haecksen write/speak/code"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Haecksen_write/speak/code", 
-        "Has end time": [
-            "1451491200"
         ]
     }, 
     "Session:Lounge# cac56135683261a0e01b57543431d5d3": {
@@ -15441,6 +15388,59 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451394000"
+        ]
+    }, 
+    "Session:Engelmeeting# bf981cbe8b5a7a149c3169141084b250": {
+        "Held in language": [
+            {
+                "fulltext": "En - English", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
+                "namespace": 0, 
+                "exists": false
+            }
+        ], 
+        "Has start time": [
+            "1451160000"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall B", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_B", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Welcome meeting"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jz", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jz", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Engelmeeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Engelmeeting", 
+        "Has end time": [
+            "1451163600"
         ]
     }, 
     "Session:Lounge# ebcba2b5555663ac39a89cc4a7988870": {
