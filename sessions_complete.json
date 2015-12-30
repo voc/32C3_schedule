@@ -192,65 +192,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Tails_backup", 
         "Has end time": []
     }, 
-    "Session:Schmuck aus silberm\u00fcnzen, Jewelry from Silvercoins# 58e3feaf1ca19bd929f0f349ac6e9f39": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451412000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Endlich k\u00f6nnt ihr euren alten Silberm\u00fcnzeneuren was sinnvolles anfangen: Macht einen Ring draus. Wir zeigen euch wie und unterst\u00fctzen euch bei der Umsetzung.\n\nGot old/ancient silver coins? Make a nice silver ring from it, or a necklace pendant or.."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.2", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Schmuck aus silberm\u00fcnzen, Jewelry from Silvercoins"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Schmuck_aus_silberm%C3%BCnzen,_Jewelry_from_Silvercoins", 
-        "Has end time": [
-            "1451422800"
-        ]
-    }, 
     "Session:Haecksen Get Together# a985e8d21f115ea7b0307cb96dfa6e17": {
         "Held in language": [
             {
@@ -1741,63 +1682,6 @@
             "1451350800"
         ]
     }, 
-    "Session:Metal flechten. Schmuck aus selbst geflochtenem Silberdraht# dbc3bf5e6876257f4fdcac80f2b00c6c": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451232000"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Haare, Leder und F\u00e4den flechten kann jeder. Bei uns kannst Du Gold uns Silber flechten (nein nicht aus Stroh) und dann darus einen Ring biegen oder ein Armreif.\nMaterial und Werkzeug ist reichlich da der Rest ist Kreativit\u00e4t, Phantasie und Geschick."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Metal flechten. Schmuck aus selbst geflochtenem Silberdraht"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Metal_flechten._Schmuck_aus_selbst_geflochtenem_Silberdraht", 
-        "Has end time": [
-            "1451242800"
-        ]
-    }, 
     "Session:Lounge# a18bac61e1fc409c539f7d5800d3eb43": {
         "Held in language": [], 
         "Has start time": [
@@ -2267,6 +2151,60 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451235600"
+        ]
+    }, 
+    "Session:YBTI# cb2e6a7f8d3f4ce478270f72b0482446": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451379600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            300
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451397600"
         ]
     }, 
     "Session:Lounge# f7b648788938007f396b288491459cfb": {
@@ -2868,65 +2806,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Nootropics", 
         "Has end time": [
             "1451480400"
-        ]
-    }, 
-    "Session:Ringe knoten. Seemanskonten als Silberschmuck# b1083da3e8accda1ed3f452b94d241b9": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451217600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Magst Du Knoten und Schmuck? Dann knote Dir Deinen eigen Ring aus Silberdraht (925er Silber). Weberknoten und eine Abwandlung des Webleinstegs sind schonmal kein Problem.\nDu hast einen anderen Knoten, der Dir gef\u00e4llt? Komm vorbei und zeig uns welchen Knoten Du als Ring tragen m\u00f6chtest. Wir tun alles, um das hinzubekommen."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Ringe knoten. Seemanskonten als Silberschmuck"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Ringe_knoten._Seemanskonten_als_Silberschmuck", 
-        "Has end time": [
-            "1451228400"
         ]
     }, 
     "Session:Discussion: Gaming of electronic warfare# 9f2ffbabd82a5b5726af1b2433d171e0": {
@@ -3539,6 +3418,62 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:NewPalmyra", 
         "Has end time": []
+    }, 
+    "Session:YBTI# b2c5b93d394c3a1d8a048fc04ccc0b4e": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451390400"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "I2P"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451392200"
+        ]
     }, 
     "Session:Congress Everywhere Breaktime# d1842840b1388ba60d44e3e7d0425439": {
         "Held in language": [
@@ -7453,6 +7388,62 @@
             "1451404800"
         ]
     }, 
+    "Session:YBTI# b3214ab92c36d3e0c8f6949175aadf84": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451386800"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Async Mixnet (Sphinx + Axolotl)"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451388600"
+        ]
+    }, 
     "Session:Lounge# 47a0fdb02b9a65d49966ecd48e9e7039": {
         "Held in language": [], 
         "Has start time": [
@@ -7601,65 +7592,6 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:In_Memoriam_Caspar_Bowden_-_Transatlantic_Privacy_Agenda", 
         "Has end time": []
-    }, 
-    "Session:Schwerter zu Haarnadeln. ast Samurei oder Game of Thrones# 1d86ddfbc9d71fdea08c72f1db404ecf": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451469600"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Ein Haarnadel im Design eines Schwertes. Ob nun Albien, Needle, Ice oder Hattori Hanzo, eigentlich ist jedes Desgin auch als Haarnadel tauglich. Komplett aus Silber von dir selbst angefertigt."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Sawugo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Sawugo", 
-                "namespace": 2, 
-                "exists": false
-            }
-        ], 
-        "Has title": [
-            "Schwerter zu Haarnadeln. ast Samurei oder Game of Thrones"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Schwerter_zu_Haarnadeln._ast_Samurei_oder_Game_of_Thrones", 
-        "Has end time": [
-            "1451480400"
-        ]
     }, 
     "Session:Lounge# 15886f47ae188622498bdeb0b6a5061b": {
         "Held in language": [], 
@@ -7813,38 +7745,34 @@
             "1451311200"
         ]
     }, 
-    "Session:Open Goldschmieden. Unsere Zeit f\u00fcr eure Schmuckideen, Reparaturen und aufpolieren# d36e9529f16491743ee73e645963572e": {
+    "Session:Freifunk Advisory Council Meetup# 51b1e4306494f68baf736399d9383f7a": {
         "Held in language": [
             {
                 "fulltext": "De - German", 
                 "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
                 "namespace": 0, 
                 "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
             }
         ], 
         "Has start time": [
-            "1451491200"
+            "1451318400"
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://wiki.freifunk.net/Freifunk_Advisory_Council"
+        ], 
         "Has description": [
-            "Ideen f\u00fcr eigenen Schmuck, aber keine Ahnung wie unzu setzen? Kein Problem \"We'll fix it\" ist unser Motto. Also schau vorbei und lass uns wissen, was Du schon immer mal an Schmuck herstellen wolltest. Wir finden sicher ein L\u00f6sung."
+            "Freifunk Advisory Council internal meeting."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "fulltext": "Room:Hall 14", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
                 "namespace": 516, 
                 "exists": true
             }
@@ -7852,24 +7780,24 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
+                "fulltext": "User:Blackhark", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Blackhark", 
                 "namespace": 2, 
                 "exists": true
             }
         ], 
         "Has title": [
-            "Open Goldschmieden. Unsere Zeit f\u00fcr eure Schmuckideen, Reparaturen und aufpolieren"
+            "Freifunk Advisory Council Meetup"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Open_Goldschmieden._Unsere_Zeit_f%C3%BCr_eure_Schmuckideen,_Reparaturen_und_aufpolieren", 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Freifunk_Advisory_Council_Meetup", 
         "Has end time": [
-            "1451502000"
+            "1451322000"
         ]
     }, 
     "Session:Example# 4abaf517c35df14a2834829fa5b0dc86": {
@@ -13662,61 +13590,6 @@
             "1451397600"
         ]
     }, 
-    "Session:Freifunk Advisory Council Meetup# 51b1e4306494f68baf736399d9383f7a": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451318400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://wiki.freifunk.net/Freifunk_Advisory_Council"
-        ], 
-        "Has description": [
-            "Freifunk Advisory Council internal meeting."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall 14", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_14", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Blackhark", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Blackhark", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Freifunk Advisory Council Meetup"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Freifunk_Advisory_Council_Meetup", 
-        "Has end time": [
-            "1451322000"
-        ]
-    }, 
     "Session:Gentoo e.V. Mitgliederversammlung# 5baa27e662e0fd7344b98c2fb47e9d9f": {
         "Held in language": [], 
         "Has start time": [
@@ -14169,6 +14042,62 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Fight_for_your_right_to_Hardware", 
         "Has end time": [
             "1451397600"
+        ]
+    }, 
+    "Session:YBTI# fffa41500de69fd4c0e27b9100a3903c": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451383200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "GNU Taler"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451385000"
         ]
     }, 
     "Session:Anarchism 101# 728bf825b0608439934631128dfde2be": {
@@ -17455,6 +17384,62 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451455200"
+        ]
+    }, 
+    "Session:YBTI# b2b0d21c78bd053a6ed441fd104bbc1b": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451397600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Byzantine Set Consensus"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451400300"
         ]
     }, 
     "Session:Lounge# c08f575fc7a905e016ea7e1274a7fb6a": {
