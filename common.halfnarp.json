@@ -785,6 +785,18 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
+        "start_time": "2015-12-27T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Terje", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1154, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
         "start_time": "2015-12-27T19:00:00+01:00", 
         "duration": 3600, 
         "title": "Technicolorism", 
@@ -792,7 +804,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1157, 
+        "event_id": 1158, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -804,19 +816,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1158, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-27T23:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Terje", 
-        "abstract": "", 
-        "speakers": ""
-    }, 
-    {
-        "event_id": 1163, 
+        "event_id": 1164, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -864,7 +864,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1194, 
+        "event_id": 1195, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -876,7 +876,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1216, 
+        "event_id": 1217, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -888,7 +888,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1217, 
+        "event_id": 1218, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1968,7 +1968,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1137, 
+        "event_id": 1138, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1985,21 +1985,21 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T18:00:00+01:00", 
+        "start_time": "2015-12-28T22:00:00+01:00", 
         "duration": 3600, 
-        "title": "Sonic Robots L", 
+        "title": "Martha van Straaten", 
         "abstract": "", 
         "speakers": ""
     }, 
     {
-        "event_id": 1164, 
+        "event_id": 1160, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-28T22:00:00+01:00", 
+        "start_time": "2015-12-28T18:00:00+01:00", 
         "duration": 3600, 
-        "title": "Martha van Straaten", 
+        "title": "Sonic Robots L", 
         "abstract": "", 
         "speakers": ""
     }, 
@@ -2016,7 +2016,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1173, 
+        "event_id": 1174, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2033,6 +2033,18 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
+        "start_time": "2015-12-28T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Martha van Straaten", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1192, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
         "start_time": "2015-12-28T19:00:00+01:00", 
         "duration": 3600, 
         "title": "Etkin", 
@@ -2040,7 +2052,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1193, 
+        "event_id": 1194, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2052,7 +2064,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1195, 
+        "event_id": 1196, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2064,19 +2076,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1196, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T23:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Martha van Straaten", 
-        "abstract": "", 
-        "speakers": ""
-    }, 
-    {
-        "event_id": 1201, 
+        "event_id": 1202, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3360,7 +3360,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1138, 
+        "event_id": 1139, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3372,7 +3372,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1155, 
+        "event_id": 1156, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3384,7 +3384,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1160, 
+        "event_id": 1161, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3396,7 +3396,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1161, 
+        "event_id": 1162, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3408,7 +3408,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1162, 
+        "event_id": 1163, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3449,21 +3449,21 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T18:00:00+01:00", 
+        "start_time": "2015-12-29T22:00:00+01:00", 
         "duration": 3600, 
-        "title": "Dave Dinger", 
+        "title": "Miss Hawaii L", 
         "abstract": "", 
         "speakers": ""
     }, 
     {
-        "event_id": 1202, 
+        "event_id": 1198, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-29T22:00:00+01:00", 
+        "start_time": "2015-12-29T18:00:00+01:00", 
         "duration": 3600, 
-        "title": "Miss Hawaii L", 
+        "title": "Dave Dinger", 
         "abstract": "", 
         "speakers": ""
     }, 
@@ -3480,7 +3480,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1211, 
+        "event_id": 1212, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3929,18 +3929,6 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T18:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Lord ByronStyropor", 
-        "abstract": "", 
-        "speakers": ""
-    }, 
-    {
-        "event_id": 1139, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
         "start_time": "2015-12-30T22:00:00+01:00", 
         "duration": 3600, 
         "title": "Nina", 
@@ -3948,7 +3936,19 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1144, 
+        "event_id": 1135, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T18:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Lord ByronStyropor", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3996,7 +3996,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1174, 
+        "event_id": 1175, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4008,7 +4008,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1175, 
+        "event_id": 1176, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4032,7 +4032,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1198, 
+        "event_id": 1199, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4044,7 +4044,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1199, 
+        "event_id": 1200, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4056,7 +4056,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1200, 
+        "event_id": 1201, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
