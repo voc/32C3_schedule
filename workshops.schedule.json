@@ -619,38 +619,9 @@
                                 ]
                             }
                         ], 
-                        "LOUNGE OBEN": [
-                            {
-                                "id": 1138, 
-                                "guid": "78d4cc0fa4df5209a530360137a8141c", 
-                                "logo": null, 
-                                "date": "2015-12-28T03:00:00+01:00", 
-                                "start": "03:00", 
-                                "duration": "1:00", 
-                                "room": "LOUNGE OBEN", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Fleak", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }
-                        ], 
                         "Dach": [
                             {
-                                "id": 1139, 
+                                "id": 1134, 
                                 "guid": "597ddfc17e81d0d54814dfdc230731cb", 
                                 "logo": null, 
                                 "date": "2015-12-27T21:00:00+01:00", 
@@ -903,6 +874,35 @@
                                 "slug": "", 
                                 "title": "Lounge", 
                                 "subtitle": "Henning", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
+                            }
+                        ], 
+                        "LOUNGE OBEN": [
+                            {
+                                "id": 1139, 
+                                "guid": "78d4cc0fa4df5209a530360137a8141c", 
+                                "logo": null, 
+                                "date": "2015-12-28T03:00:00+01:00", 
+                                "start": "03:00", 
+                                "duration": "1:00", 
+                                "room": "LOUNGE OBEN", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Fleak", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -2624,7 +2624,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1135, 
+                                "id": 1136, 
                                 "guid": "7421e14445854c543f01b0884f791e44", 
                                 "logo": null, 
                                 "date": "2015-12-28T13:00:00+01:00", 
@@ -5113,7 +5113,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1136, 
+                                "id": 1137, 
                                 "guid": "47a0fdb02b9a65d49966ecd48e9e7039", 
                                 "logo": null, 
                                 "date": "2015-12-29T16:00:00+01:00", 
@@ -6140,7 +6140,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1134, 
+                                "id": 1135, 
                                 "guid": "c813f56380016daca3c43c32a0fdfb16", 
                                 "logo": null, 
                                 "date": "2015-12-30T22:00:00+01:00", 
@@ -6167,7 +6167,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1137, 
+                                "id": 1138, 
                                 "guid": "babfc0a2bfe9a027083787e2d61cda10", 
                                 "logo": null, 
                                 "date": "2015-12-30T18:00:00+01:00", 

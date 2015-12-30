@@ -489,31 +489,8 @@ Consider the Squirrels!</description>
         </links>
       </event>
     </room>
-    <room name="LOUNGE OBEN">
-      <event id="1138" guid="78d4cc0fa4df5209a530360137a8141c">
-        <logo/>
-        <date>2015-12-28T03:00:00+01:00</date>
-        <start>03:00</start>
-        <duration>1:00</duration>
-        <room>LOUNGE OBEN</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Fleak</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-    </room>
     <room name="Dach">
-      <event id="1139" guid="597ddfc17e81d0d54814dfdc230731cb">
+      <event id="1134" guid="597ddfc17e81d0d54814dfdc230731cb">
         <logo/>
         <date>2015-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -711,6 +688,29 @@ Consider the Squirrels!</description>
         <slug/>
         <title>Lounge</title>
         <subtitle>Henning</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+    </room>
+    <room name="LOUNGE OBEN">
+      <event id="1139" guid="78d4cc0fa4df5209a530360137a8141c">
+        <logo/>
+        <date>2015-12-28T03:00:00+01:00</date>
+        <start>03:00</start>
+        <duration>1:00</duration>
+        <room>LOUNGE OBEN</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Fleak</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -2095,7 +2095,7 @@ Feel free to bring a few books (in any language) for a science fiction book swap
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1135" guid="7421e14445854c543f01b0884f791e44">
+      <event id="1136" guid="7421e14445854c543f01b0884f791e44">
         <logo/>
         <date>2015-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -4097,7 +4097,7 @@ Wer hat kann auch seine eigene Wolle und Nadel mitbringen.</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1136" guid="47a0fdb02b9a65d49966ecd48e9e7039">
+      <event id="1137" guid="47a0fdb02b9a65d49966ecd48e9e7039">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -4893,7 +4893,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1134" guid="c813f56380016daca3c43c32a0fdfb16">
+      <event id="1135" guid="c813f56380016daca3c43c32a0fdfb16">
         <logo/>
         <date>2015-12-30T22:00:00+01:00</date>
         <start>22:00</start>
@@ -4914,7 +4914,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1137" guid="babfc0a2bfe9a027083787e2d61cda10">
+      <event id="1138" guid="babfc0a2bfe9a027083787e2d61cda10">
         <logo/>
         <date>2015-12-30T18:00:00+01:00</date>
         <start>18:00</start>
