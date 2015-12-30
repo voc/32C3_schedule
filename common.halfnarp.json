@@ -804,7 +804,7 @@
         "speakers": "Emmapeel"
     }, 
     {
-        "event_id": 1142, 
+        "event_id": 1141, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -816,7 +816,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1144, 
+        "event_id": 1143, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -828,7 +828,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1146, 
+        "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2004,7 +2004,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1164, 
+        "event_id": 1163, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2136,7 +2136,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1220, 
+        "event_id": 1225, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3300,7 +3300,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1140, 
+        "event_id": 1146, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3456,7 +3456,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1221, 
+        "event_id": 1220, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3468,7 +3468,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1222, 
+        "event_id": 1221, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3965,18 +3965,6 @@
         "track_name": "Session", 
         "room_id": 1090, 
         "room_name": "Lounge", 
-        "start_time": "2015-12-30T13:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Days of Delay L", 
-        "abstract": "", 
-        "speakers": ""
-    }, 
-    {
-        "event_id": 1160, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
         "start_time": "2015-12-30T16:00:00+01:00", 
         "duration": 3600, 
         "title": "Eternal Drumm L", 
@@ -3984,7 +3972,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1162, 
+        "event_id": 1161, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3992,6 +3980,18 @@
         "start_time": "2015-12-30T20:00:00+01:00", 
         "duration": 3600, 
         "title": "Dj Plazebo vs. Lion L", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1165, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T13:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Days of Delay L", 
         "abstract": "", 
         "speakers": ""
     }, 
@@ -4068,7 +4068,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1223, 
+        "event_id": 1222, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4080,7 +4080,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1225, 
+        "event_id": 1224, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 

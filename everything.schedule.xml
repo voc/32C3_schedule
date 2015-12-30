@@ -2070,7 +2070,7 @@ Community solutions based on free software unite companies and organizations wit
       </event>
     </room>
     <room name="Lounge">
-      <event id="1142" guid="93d8c580c614146f657bdf7db9eac496">
+      <event id="1141" guid="93d8c580c614146f657bdf7db9eac496">
         <logo/>
         <date>2015-12-28T01:00:00+01:00</date>
         <start>01:00</start>
@@ -2091,7 +2091,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1144" guid="3b701c5c117c8269eed0f3575b80f402">
+      <event id="1143" guid="3b701c5c117c8269eed0f3575b80f402">
         <logo/>
         <date>2015-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2112,7 +2112,7 @@ Community solutions based on free software unite companies and organizations wit
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1146" guid="b7c3390ab4eb5a8b30c238ad4d5f2e80">
+      <event id="1145" guid="b7c3390ab4eb5a8b30c238ad4d5f2e80">
         <logo/>
         <date>2015-12-27T23:00:00+01:00</date>
         <start>23:00</start>
@@ -2526,7 +2526,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1163" guid="2e2ce23bbb290d05b4ad87c86ecc29e0">
+      <event id="1162" guid="2e2ce23bbb290d05b4ad87c86ecc29e0">
         <logo/>
         <date>2015-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2547,7 +2547,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1165" guid="24e951361035383edd6c0ef868956366">
+      <event id="1164" guid="24e951361035383edd6c0ef868956366">
         <logo/>
         <date>2015-12-27T23:00:00+01:00</date>
         <start>23:00</start>
@@ -2675,7 +2675,7 @@ You know those tiny little components in modern electronic devices? It's both po
       </event>
     </room>
     <room name="DACH">
-      <event id="1145" guid="1be5bc257e3807e100f2bdf39d2a81f0">
+      <event id="1144" guid="1be5bc257e3807e100f2bdf39d2a81f0">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -2696,7 +2696,7 @@ You know those tiny little components in modern electronic devices? It's both po
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1161" guid="53f46c216170c42b6054524ad0002bc0">
+      <event id="1160" guid="53f46c216170c42b6054524ad0002bc0">
         <logo/>
         <date>2015-12-28T01:00:00+01:00</date>
         <start>01:00</start>
@@ -2740,7 +2740,7 @@ You know those tiny little components in modern electronic devices? It's both po
       </event>
     </room>
     <room name="LOUNGE OBEN">
-      <event id="1224" guid="78d4cc0fa4df5209a530360137a8141c">
+      <event id="1223" guid="78d4cc0fa4df5209a530360137a8141c">
         <logo/>
         <date>2015-12-28T03:00:00+01:00</date>
         <start>03:00</start>
@@ -5620,7 +5620,7 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1164" guid="b2076c69e51c0cd218c56e6058d04aa9">
+      <event id="1163" guid="b2076c69e51c0cd218c56e6058d04aa9">
         <logo/>
         <date>2015-12-29T03:00:00+01:00</date>
         <start>03:00</start>
@@ -5851,7 +5851,7 @@ And most importantly: what could be the effective ways of bringing more users to
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1220" guid="7421e14445854c543f01b0884f791e44">
+      <event id="1225" guid="7421e14445854c543f01b0884f791e44">
         <logo/>
         <date>2015-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -9830,7 +9830,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
       </event>
     </room>
     <room name="Lounge">
-      <event id="1140" guid="802b00b2e73dd9564fe5a8a8ed4eed9c">
+      <event id="1146" guid="802b00b2e73dd9564fe5a8a8ed4eed9c">
         <logo/>
         <date>2015-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -10103,7 +10103,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1221" guid="47a0fdb02b9a65d49966ecd48e9e7039">
+      <event id="1220" guid="47a0fdb02b9a65d49966ecd48e9e7039">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -10124,7 +10124,7 @@ Starts: 29/12/2015 @21:00 Hall13</description>
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1222" guid="f2724b540787adf54cbb08bc3ed6f640">
+      <event id="1221" guid="f2724b540787adf54cbb08bc3ed6f640">
         <logo/>
         <date>2015-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -10621,7 +10621,7 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1141" guid="be002432cfee63216e8e53dad9c5ceee">
+      <event id="1140" guid="be002432cfee63216e8e53dad9c5ceee">
         <logo/>
         <date>2015-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -10642,7 +10642,7 @@ We'll create a welcoming, safe space for recovering emacs users, and teach the f
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1143" guid="12f6a7d811403639bc940cbeeea346f3">
+      <event id="1142" guid="12f6a7d811403639bc940cbeeea346f3">
         <logo/>
         <date>2015-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -12113,28 +12113,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1159" guid="88fca9248321daa8ddb1633541feadcc">
-        <logo/>
-        <date>2015-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
-        <room>Lounge</room>
-        <slug/>
-        <title>Lounge</title>
-        <subtitle>Days of Delay L</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
-        </links>
-      </event>
-      <event id="1160" guid="e18d38e2615f72614c14fdff326d2bfa">
+      <event id="1159" guid="e18d38e2615f72614c14fdff326d2bfa">
         <logo/>
         <date>2015-12-30T16:00:00+01:00</date>
         <start>16:00</start>
@@ -12155,7 +12134,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1162" guid="965eb6bdc308599a0b91588bc585efac">
+      <event id="1161" guid="965eb6bdc308599a0b91588bc585efac">
         <logo/>
         <date>2015-12-30T20:00:00+01:00</date>
         <start>20:00</start>
@@ -12164,6 +12143,27 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
         <slug/>
         <title>Lounge</title>
         <subtitle>Dj Plazebo vs. Lion L</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2015/wiki/User:DJ_Spock">DJ Spock</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
+        </links>
+      </event>
+      <event id="1165" guid="88fca9248321daa8ddb1633541feadcc">
+        <logo/>
+        <date>2015-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Lounge</room>
+        <slug/>
+        <title>Lounge</title>
+        <subtitle>Days of Delay L</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -12302,7 +12302,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1223" guid="babfc0a2bfe9a027083787e2d61cda10">
+      <event id="1222" guid="babfc0a2bfe9a027083787e2d61cda10">
         <logo/>
         <date>2015-12-30T18:00:00+01:00</date>
         <start>18:00</start>
@@ -12323,7 +12323,7 @@ Wikidata is the world's largest free general purpose knowledge base. As a Wikime
           <link>https://events.ccc.de/congress/2015/wiki/Session:Lounge</link>
         </links>
       </event>
-      <event id="1225" guid="c813f56380016daca3c43c32a0fdfb16">
+      <event id="1224" guid="c813f56380016daca3c43c32a0fdfb16">
         <logo/>
         <date>2015-12-30T22:00:00+01:00</date>
         <start>22:00</start>
