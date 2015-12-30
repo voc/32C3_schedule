@@ -621,7 +621,7 @@
                         ], 
                         "Dach": [
                             {
-                                "id": 1127, 
+                                "id": 1128, 
                                 "guid": "3b0c765624223dfe4d17bd541c44ff14", 
                                 "logo": null, 
                                 "date": "2015-12-27T22:00:00+01:00", 
@@ -648,7 +648,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1130, 
+                                "id": 1131, 
                                 "guid": "1ae6fd3e27b16ee0e051a37ad3880120", 
                                 "logo": null, 
                                 "date": "2015-12-27T18:00:00+01:00", 
@@ -756,16 +756,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1167, 
-                                "guid": "90650fc1357b315d59c5cba85e4fcd36", 
+                                "id": 1166, 
+                                "guid": "835736ef997d32b8ea53644d05e97d66", 
                                 "logo": null, 
-                                "date": "2015-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2015-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
                                 "duration": "1:00", 
                                 "room": "Dach", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Pio", 
+                                "subtitle": "Ygramul", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -783,16 +783,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1171, 
-                                "guid": "835736ef997d32b8ea53644d05e97d66", 
+                                "id": 1168, 
+                                "guid": "90650fc1357b315d59c5cba85e4fcd36", 
                                 "logo": null, 
-                                "date": "2015-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Dach", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Ygramul", 
+                                "subtitle": "Pio", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -974,16 +974,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1148, 
-                                "guid": "dc92ab43f0c0a4f5a4381bb9a05b21d9", 
+                                "id": 1147, 
+                                "guid": "198b46545f108a9a03b2ace01e56cb14", 
                                 "logo": null, 
-                                "date": "2015-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2015-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Anabolika Boyknott", 
+                                "subtitle": "Technicolorism", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -1001,16 +1001,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1152, 
-                                "guid": "198b46545f108a9a03b2ace01e56cb14", 
+                                "id": 1149, 
+                                "guid": "dc92ab43f0c0a4f5a4381bb9a05b21d9", 
                                 "logo": null, 
-                                "date": "2015-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Technicolorism", 
+                                "subtitle": "Anabolika Boyknott", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -1136,7 +1136,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1206, 
+                                "id": 1207, 
                                 "guid": "2839efac2aaa261a49c1421d715872c5", 
                                 "logo": null, 
                                 "date": "2015-12-28T03:00:00+01:00", 
@@ -1302,7 +1302,7 @@
                         ], 
                         "LOUNGE OBEN": [
                             {
-                                "id": 1224, 
+                                "id": 1225, 
                                 "guid": "78d4cc0fa4df5209a530360137a8141c", 
                                 "logo": null, 
                                 "date": "2015-12-28T03:00:00+01:00", 
@@ -2653,7 +2653,7 @@
                         ], 
                         "DACH": [
                             {
-                                "id": 1129, 
+                                "id": 1130, 
                                 "guid": "8aa74579b1095bc5f933f34a98f405e7", 
                                 "logo": null, 
                                 "date": "2015-12-29T00:00:00+01:00", 
@@ -2680,7 +2680,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1131, 
+                                "id": 1132, 
                                 "guid": "9c178b49928cc4b6bacc5bb78bd3ed13", 
                                 "logo": null, 
                                 "date": "2015-12-29T02:00:00+01:00", 
@@ -2761,7 +2761,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1166, 
+                                "id": 1167, 
                                 "guid": "fbb87ee78697e177fab9a43a8f074551", 
                                 "logo": null, 
                                 "date": "2015-12-28T22:00:00+01:00", 
@@ -2788,7 +2788,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1169, 
+                                "id": 1170, 
                                 "guid": "f37c60a6511ac83bf2fe7924e0572658", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -2950,34 +2950,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1204, 
-                                "guid": "62e9cb5077e01dceaa6a0622db165642", 
-                                "logo": null, 
-                                "date": "2015-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "DACH", 
-                                "slug": "", 
-                                "title": "Lounge", 
-                                "subtitle": "Senorita", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
-                                        "public_name": "DJ Spock"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
-                                ]
-                            }, 
-                            {
-                                "id": 1207, 
+                                "id": 1203, 
                                 "guid": "a18bac61e1fc409c539f7d5800d3eb43", 
                                 "logo": null, 
                                 "date": "2015-12-28T20:00:00+01:00", 
@@ -3002,11 +2975,38 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
                                 ]
+                            }, 
+                            {
+                                "id": 1205, 
+                                "guid": "62e9cb5077e01dceaa6a0622db165642", 
+                                "logo": null, 
+                                "date": "2015-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "DACH", 
+                                "slug": "", 
+                                "title": "Lounge", 
+                                "subtitle": "Senorita", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2015/wiki/User:DJ_Spock", 
+                                        "public_name": "DJ Spock"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2015/wiki/Session:Lounge"
+                                ]
                             }
                         ], 
                         "Lounge": [
                             {
-                                "id": 1147, 
+                                "id": 1148, 
                                 "guid": "607c02f9284c1e9dd14a41cc8ca6b0b1", 
                                 "logo": null, 
                                 "date": "2015-12-28T22:00:00+01:00", 
@@ -3033,7 +3033,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1150, 
+                                "id": 1151, 
                                 "guid": "24df0548f2a89ccd6bb9ce0a218da349", 
                                 "logo": null, 
                                 "date": "2015-12-28T18:00:00+01:00", 
@@ -3222,16 +3222,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1186, 
-                                "guid": "73de2b974269160e66efa02cf9827b8e", 
+                                "id": 1185, 
+                                "guid": "d4b8fa16eefcb4e793840b3bbbfb3ca3", 
                                 "logo": null, 
-                                "date": "2015-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2015-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Eulberg/Extrawelt L", 
+                                "subtitle": "Etkin", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3249,16 +3249,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1190, 
-                                "guid": "d4b8fa16eefcb4e793840b3bbbfb3ca3", 
+                                "id": 1187, 
+                                "guid": "73de2b974269160e66efa02cf9827b8e", 
                                 "logo": null, 
-                                "date": "2015-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Etkin", 
+                                "subtitle": "Eulberg/Extrawelt L", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -3384,7 +3384,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1220, 
+                                "id": 1221, 
                                 "guid": "7421e14445854c543f01b0884f791e44", 
                                 "logo": null, 
                                 "date": "2015-12-28T13:00:00+01:00", 
@@ -5113,7 +5113,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1168, 
+                                "id": 1169, 
                                 "guid": "90833990de3f3d13e21862c6d3bc62ec", 
                                 "logo": null, 
                                 "date": "2015-12-30T00:00:00+01:00", 
@@ -5140,7 +5140,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1170, 
+                                "id": 1171, 
                                 "guid": "83ccadfbdd238ca760ece7928a3ad5e7", 
                                 "logo": null, 
                                 "date": "2015-12-30T02:00:00+01:00", 
@@ -5221,7 +5221,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1203, 
+                                "id": 1204, 
                                 "guid": "ac79efea17570bf4929b8917c6f409f0", 
                                 "logo": null, 
                                 "date": "2015-12-29T22:00:00+01:00", 
@@ -5248,7 +5248,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1205, 
+                                "id": 1206, 
                                 "guid": "6f45068a51548fc968bbddc83f6d9bea", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -5360,7 +5360,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1149, 
+                                "id": 1150, 
                                 "guid": "25af245e14b798b6914dca5c49738b48", 
                                 "logo": null, 
                                 "date": "2015-12-30T00:00:00+01:00", 
@@ -5387,7 +5387,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1151, 
+                                "id": 1152, 
                                 "guid": "3a4c729f959f79ad2a67faf8cd8623c8", 
                                 "logo": null, 
                                 "date": "2015-12-30T02:00:00+01:00", 
@@ -5468,7 +5468,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1185, 
+                                "id": 1186, 
                                 "guid": "8c3c36cf20d5eaadbd00c33fc0265c9e", 
                                 "logo": null, 
                                 "date": "2015-12-29T22:00:00+01:00", 
@@ -5495,7 +5495,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1188, 
+                                "id": 1189, 
                                 "guid": "3c99b270031a4b8de19bf672cee8a20a", 
                                 "logo": null, 
                                 "date": "2015-12-29T18:00:00+01:00", 
@@ -5684,16 +5684,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1222, 
-                                "guid": "47a0fdb02b9a65d49966ecd48e9e7039", 
+                                "id": 1220, 
+                                "guid": "f2724b540787adf54cbb08bc3ed6f640", 
                                 "logo": null, 
-                                "date": "2015-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2015-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "MG3 L", 
+                                "subtitle": "H. Heh", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -5711,16 +5711,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1225, 
-                                "guid": "f2724b540787adf54cbb08bc3ed6f640", 
+                                "id": 1223, 
+                                "guid": "47a0fdb02b9a65d49966ecd48e9e7039", 
                                 "logo": null, 
-                                "date": "2015-12-29T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2015-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "H. Heh", 
+                                "subtitle": "MG3 L", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -6056,16 +6056,16 @@
                         ], 
                         "Lounge": [
                             {
-                                "id": 1128, 
-                                "guid": "07cf42d2dc4ec179efc17dc20ec61a09", 
+                                "id": 1127, 
+                                "guid": "8acee822f9de023376835876d653da3f", 
                                 "logo": null, 
-                                "date": "2015-12-30T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2015-12-30T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Nika Son", 
+                                "subtitle": "Dj Plazebo vs. Lion L", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -6083,16 +6083,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1132, 
-                                "guid": "8acee822f9de023376835876d653da3f", 
+                                "id": 1129, 
+                                "guid": "07cf42d2dc4ec179efc17dc20ec61a09", 
                                 "logo": null, 
-                                "date": "2015-12-30T19:00:00+01:00", 
-                                "start": "19:00", 
+                                "date": "2015-12-30T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "1:00", 
                                 "room": "Lounge", 
                                 "slug": "", 
                                 "title": "Lounge", 
-                                "subtitle": "Dj Plazebo vs. Lion L", 
+                                "subtitle": "Nika Son", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -6272,7 +6272,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1187, 
+                                "id": 1188, 
                                 "guid": "a58a70540da61c51159bb73aa13273b0", 
                                 "logo": null, 
                                 "date": "2015-12-31T00:00:00+01:00", 
@@ -6299,7 +6299,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1189, 
+                                "id": 1190, 
                                 "guid": "0d9895de50fc220f0f84d7657472d7fc", 
                                 "logo": null, 
                                 "date": "2015-12-31T02:00:00+01:00", 
@@ -6407,7 +6407,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1221, 
+                                "id": 1222, 
                                 "guid": "c813f56380016daca3c43c32a0fdfb16", 
                                 "logo": null, 
                                 "date": "2015-12-30T22:00:00+01:00", 
@@ -6434,7 +6434,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1223, 
+                                "id": 1224, 
                                 "guid": "babfc0a2bfe9a027083787e2d61cda10", 
                                 "logo": null, 
                                 "date": "2015-12-30T18:00:00+01:00", 
