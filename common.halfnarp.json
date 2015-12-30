@@ -864,19 +864,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1172, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T00:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Ander", 
-        "abstract": "", 
-        "speakers": ""
-    }, 
-    {
-        "event_id": 1175, 
+        "event_id": 1174, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -888,7 +876,19 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1179, 
+        "event_id": 1177, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-28T00:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Ander", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1178, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -900,7 +900,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1183, 
+        "event_id": 1182, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1992,7 +1992,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1154, 
+        "event_id": 1158, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2016,19 +2016,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1178, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-28T14:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Dj Spock", 
-        "abstract": "", 
-        "speakers": ""
-    }, 
-    {
-        "event_id": 1180, 
+        "event_id": 1179, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2040,7 +2028,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1181, 
+        "event_id": 1180, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2052,7 +2040,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1184, 
+        "event_id": 1183, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2060,6 +2048,18 @@
         "start_time": "2015-12-28T23:00:00+01:00", 
         "duration": 3600, 
         "title": "Martha van Straaten", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1184, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-28T14:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Dj Spock", 
         "abstract": "", 
         "speakers": ""
     }, 
@@ -2112,7 +2112,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1215, 
+        "event_id": 1213, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2124,7 +2124,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1219, 
+        "event_id": 1217, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3336,7 +3336,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1155, 
+        "event_id": 1153, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3348,7 +3348,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1158, 
+        "event_id": 1156, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3384,7 +3384,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1192, 
+        "event_id": 1191, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3396,7 +3396,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1196, 
+        "event_id": 1202, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3408,19 +3408,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1213, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-29T23:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Romanski", 
-        "abstract": "", 
-        "speakers": ""
-    }, 
-    {
-        "event_id": 1216, 
+        "event_id": 1214, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3432,7 +3420,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1217, 
+        "event_id": 1215, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3444,7 +3432,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1218, 
+        "event_id": 1216, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3452,6 +3440,18 @@
         "start_time": "2015-12-30T03:00:00+01:00", 
         "duration": 3600, 
         "title": "P.Gregor/Katovl", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1218, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-29T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Romanski", 
         "abstract": "", 
         "speakers": ""
     }, 
@@ -3936,19 +3936,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1153, 
-        "track_id": 10, 
-        "track_name": "Session", 
-        "room_id": 1090, 
-        "room_name": "Lounge", 
-        "start_time": "2015-12-30T23:00:00+01:00", 
-        "duration": 3600, 
-        "title": "Gladbeck City Bombing L", 
-        "abstract": "", 
-        "speakers": ""
-    }, 
-    {
-        "event_id": 1156, 
+        "event_id": 1154, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3956,6 +3944,18 @@
         "start_time": "2015-12-31T01:00:00+01:00", 
         "duration": 3600, 
         "title": "Digital Norman", 
+        "abstract": "", 
+        "speakers": ""
+    }, 
+    {
+        "event_id": 1157, 
+        "track_id": 10, 
+        "track_name": "Session", 
+        "room_id": 1090, 
+        "room_name": "Lounge", 
+        "start_time": "2015-12-30T23:00:00+01:00", 
+        "duration": 3600, 
+        "title": "Gladbeck City Bombing L", 
         "abstract": "", 
         "speakers": ""
     }, 
@@ -3996,7 +3996,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1176, 
+        "event_id": 1175, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4032,7 +4032,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1193, 
+        "event_id": 1192, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4044,7 +4044,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1195, 
+        "event_id": 1194, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4056,7 +4056,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1214, 
+        "event_id": 1219, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
