@@ -704,6 +704,41 @@
             "1451437200"
         ]
     }, 
+    "Session:Open data and extractive industries# f74f59630124e37ff183285d66680c4f": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "open data and extractive industries, openoil"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Vavoida", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Vavoida", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Open data and extractive industries"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Open_data_and_extractive_industries", 
+        "Has end time": []
+    }, 
     "Session:Lounge# 4e4d824e877b48bdc4243841ee4745ab": {
         "Held in language": [], 
         "Has start time": [
@@ -1947,72 +1982,6 @@
         "Has end time": [
             "1451401200"
         ]
-    }, 
-    "Session:SawuGo# be3070619bd8523b8d3f7957f329e424": {
-        "Held in language": [
-            {
-                "fulltext": "Af - Afrikaans", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Af_-_Afrikaans", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "Fr - French", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Fr_-_French", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "Nl - Dutch", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Nl_-_Dutch", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.SawuGo.nl"
-        ], 
-        "Has description": [
-            "The one Ring, goldsmithing a silver or a golden ring, with a nice shiney look, making jewellery"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "SawuGo"
-        ], 
-        "Has duration": [], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:SawuGo", 
-        "Has end time": []
     }, 
     "Session:Freifunk Webteam Meetup# 50173b6cc5a781ab5f735362f7e001d8": {
         "Held in language": [
@@ -5381,6 +5350,62 @@
             "1451322000"
         ]
     }, 
+    "Session:YBTI# 49d08a900b97b1cdd6e66612dbfe70d1": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451392200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://youbroketheinternet.org/"
+        ], 
+        "Has description": [
+            "Placeholder for various YBTI-related talks (details TBA)."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall F", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Decentralized Services on top of P2P storage networks"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Grothoff", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Grothoff", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Jeffburdges", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jeffburdges", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "YBTI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:YBTI", 
+        "Has end time": [
+            "1451394000"
+        ]
+    }, 
     "Session:Diskussion zur Netzpolitik Schweiz# 18d11f259ce829da883ea3a215df64f9": {
         "Held in language": [
             {
@@ -6131,65 +6156,6 @@
             "1451317500"
         ]
     }, 
-    "Session:Armb\u00e4nder und Ketten. Das lange Geduldspiel vom Silberdraht zum Schmuckst\u00fcck# 677f29d97f476f44bef056a5ba23e8c5": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451383200"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Gewisse Zenf\u00e4higkeiten sind schon erforderlich um von einem Silber(Gold)Draht zu einem Armband oder gar einer Halskette zu gelangen. Vom das Drahtwickeln und S\u00e4gen, \u00fcber das Verl\u00f6ten jeden einzelnen Kettengliedes zu fertigen kette zu gelangen, erfordert vor allem eines: Geduld, viel davon. Da ihr aber ncht allein seit sondern von hilfsbereiten, erfahrenden Leuten und Profiwerkzeug umgeben seit kann (fast) nix schiefgehen"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall A.2", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_A.2", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Armb\u00e4nder und Ketten. Das lange Geduldspiel vom Silberdraht zum Schmuckst\u00fcck"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Armb%C3%A4nder_und_Ketten._Das_lange_Geduldspiel_vom_Silberdraht_zum_Schmuckst%C3%BCck", 
-        "Has end time": [
-            "1451394000"
-        ]
-    }, 
     "Session:Lounge# 854137f77e2c65cb7f66bcca08fd91fe": {
         "Held in language": [], 
         "Has start time": [
@@ -6567,6 +6533,67 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Haecksen_Get_Together", 
         "Has end time": [
             "1451325600"
+        ]
+    }, 
+    "Session:Wordclock Workshop:# efee0ac42ed3066ebf2380c8b8be3420": {
+        "Held in language": [
+            {
+                "fulltext": "De - German", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
+                "namespace": 0, 
+                "exists": false
+            }
+        ], 
+        "Has start time": [
+            "1451325600"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Bau deine eigene Wortuhr am 32C3.\nWorkshop vom Fablab N\u00fcrnberg"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Hall C.3", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_C.3", 
+                "namespace": 516, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [
+            "Bau deine Wordclock"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fabianurban", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Fabianurban", 
+                "namespace": 2, 
+                "exists": true
+            }, 
+            {
+                "fulltext": "User:Faheus", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Faheus", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Wordclock Workshop"
+        ], 
+        "Has duration": [
+            330
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Wordclock_Workshop:", 
+        "Has end time": [
+            "1451345400"
         ]
     }, 
     "Session:Tor Relay Operators Meetup# 37444461c59087b58dd90709ab0938f3": {
@@ -7259,65 +7286,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Cheese_Tasting_Rendezvous", 
         "Has end time": [
             "1451433600"
-        ]
-    }, 
-    "Session:Kettenanh\u00e4nger. Goldschmieden f\u00fcr Debianer und Musiker# 420f16d00555ba1b6f6c4e6d68a4b466": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451296800"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Eigene Kettenanh\u00e4nger aus echtem Silber oder Gold herstellen. F\u00fcr Debianer gibt es den Swirl und f\u00fcr die Musiker einen Notenschl\u00fcssel im Caligraphie-Stil.\nMaterial und Werkzeug ist reichlich da der Rest ist Kreativit\u00e4t, Phantasie und Geschick."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Kettenanh\u00e4nger. Goldschmieden f\u00fcr Debianer und Musiker"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Kettenanh%C3%A4nger._Goldschmieden_f%C3%BCr_Debianer_und_Musiker", 
-        "Has end time": [
-            "1451307600"
         ]
     }, 
     "Session:Disconnect - keep the future unwritten# 045e528d6ae4f2659132e31992674d24": {
@@ -9955,6 +9923,39 @@
             "1451485800"
         ]
     }, 
+    "Session:Open data and extractive industries# 03c796343b58101fcd107fe1139f4a87": {
+        "Held in language": [], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "open data and extractive industries, openoil"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Vavoida", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Vavoida", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Open data and extractive industries"
+        ], 
+        "Has duration": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Open_data_and_extractive_industries", 
+        "Has end time": []
+    }, 
     "Session:In Memoriam Caspar Bowden - Transatlantic Privacy Agenda# eae200824e72127db434b85aa7942368": {
         "Held in language": [
             {
@@ -11113,76 +11114,6 @@
             "1451491200"
         ]
     }, 
-    "Session:SawuGo# 651faaa7eb29c85a1e3913f246453fad": {
-        "Held in language": [
-            {
-                "fulltext": "Af - Afrikaans", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Af_-_Afrikaans", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "Fr - French", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Fr_-_French", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "Nl - Dutch", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Nl_-_Dutch", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.SawuGo.nl"
-        ], 
-        "Has description": [
-            "The one Ring, goldsmithing a silver or a golden ring, with a nice shiney look, making jewellery"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "continuous workshops, join when you can, open timeslots"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "SawuGo"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:SawuGo", 
-        "Has end time": []
-    }, 
     "Session:Lounge# c28173c3732746155f4352fd33b582ac": {
         "Held in language": [], 
         "Has start time": [
@@ -11453,6 +11384,54 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Geheimdienste_hacken", 
         "Has end time": [
             "1451235600"
+        ]
+    }, 
+    "Session:Workshop on email encryption with GnuPG and Nitrokey hardware# f6c3a9c0767a2aea595ba8109fe93fcc": {
+        "Held in language": [], 
+        "Has start time": [
+            "1451410200"
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.nitrokey.com/"
+        ], 
+        "Has description": [
+            "LOCATION: Hall 13 (NOT Mozilla Assembly)\n\nWe will give an overview on how to encrypt emails with GnuPG and with the open Nitrokey hardware. Also SSH authentication with the Nitrokey will be covered. It's an workshop to bring your own device and where attendees can help each other."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Mozilla", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/Assembly:Mozilla", 
+                "namespace": 504, 
+                "exists": true
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jans", 
+                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:Jans", 
+                "namespace": 2, 
+                "exists": true
+            }
+        ], 
+        "Has title": [
+            "Workshop on email encryption with GnuPG and Nitrokey hardware"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Workshop_on_email_encryption_with_GnuPG_and_Nitrokey_hardware", 
+        "Has end time": [
+            "1451413800"
         ]
     }, 
     "Session:Hackerspace Patterns Discussion# cbb6b24a5b726f521b6ad0766e03c251": {
@@ -15533,65 +15512,6 @@
         "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Lounge", 
         "Has end time": [
             "1451394000"
-        ]
-    }, 
-    "Session:Ohrringe. Goldschmieden f\u00fcr Leute mit kleinen H\u00e4nden und guter Sicht# 5f2477164ef3e76431066fec825a4112": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
-        "Has start time": [
-            "1451318400"
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "So jetzt wirds klein. Aus Silber oder Golddraht im Designe eines Debian Swirls oder eines Notenschl\u00fcssls herzustellen erfordert gute Sicht (ob nat\u00fcrlich vorhanden ider mit Sehhilfe ist gleich). Aber keine Angst, wir stehen euch mt Rat, Tat und Werkzeug zur Verf\u00fcgung."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Hall F", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/Room:Hall_F", 
-                "namespace": 516, 
-                "exists": true
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:SawuGo", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/User:SawuGo", 
-                "namespace": 2, 
-                "exists": true
-            }
-        ], 
-        "Has title": [
-            "Ohrringe. Goldschmieden f\u00fcr Leute mit kleinen H\u00e4nden und guter Sicht"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2015/wiki/Session:Ohrringe._Goldschmieden_f%C3%BCr_Leute_mit_kleinen_H%C3%A4nden_und_guter_Sicht", 
-        "Has end time": [
-            "1451329200"
         ]
     }, 
     "Session:Lounge# ebcba2b5555663ac39a89cc4a7988870": {
