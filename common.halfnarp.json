@@ -780,7 +780,7 @@
         "speakers": "Emmapeel"
     }, 
     {
-        "event_id": 1154, 
+        "event_id": 1153, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -792,7 +792,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1155, 
+        "event_id": 1154, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -804,7 +804,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1157, 
+        "event_id": 1156, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -816,7 +816,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1159, 
+        "event_id": 1164, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -828,7 +828,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1186, 
+        "event_id": 1185, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -840,7 +840,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1187, 
+        "event_id": 1186, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -852,7 +852,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1190, 
+        "event_id": 1189, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -876,7 +876,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1217, 
+        "event_id": 1216, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -888,7 +888,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1218, 
+        "event_id": 1217, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -900,7 +900,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1221, 
+        "event_id": 1220, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -912,7 +912,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1224, 
+        "event_id": 1223, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1968,7 +1968,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1139, 
+        "event_id": 1138, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1980,7 +1980,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1160, 
+        "event_id": 1159, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -1992,7 +1992,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1163, 
+        "event_id": 1162, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2076,7 +2076,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1197, 
+        "event_id": 1202, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2088,7 +2088,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1222, 
+        "event_id": 1221, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2100,7 +2100,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1223, 
+        "event_id": 1222, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -2112,7 +2112,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1225, 
+        "event_id": 1224, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3077,10 +3077,10 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2015-12-29T13:30:00+01:00", 
+        "start_time": "2015-12-29T12:00:00+01:00", 
         "duration": 1800, 
         "title": "YBTI", 
-        "abstract": "Decentralized Services on top of P2P storage networks \nPlaceholder for various YBTI-related talks (details TBA).", 
+        "abstract": "Async Mixnet (Sphinx + Axolotl) \nPlaceholder for various YBTI-related talks (details TBA).", 
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
@@ -3089,10 +3089,10 @@
         "track_name": "Session", 
         "room_id": 1230, 
         "room_name": "Hall F", 
-        "start_time": "2015-12-29T12:00:00+01:00", 
+        "start_time": "2015-12-29T13:30:00+01:00", 
         "duration": 1800, 
         "title": "YBTI", 
-        "abstract": "Async Mixnet (Sphinx + Axolotl) \nPlaceholder for various YBTI-related talks (details TBA).", 
+        "abstract": "Decentralized Services on top of P2P storage networks \nPlaceholder for various YBTI-related talks (details TBA).", 
         "speakers": "Grothoff, Jeffburdges"
     }, 
     {
@@ -3360,7 +3360,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1134, 
+        "event_id": 1139, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3372,7 +3372,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1158, 
+        "event_id": 1157, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3384,7 +3384,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1161, 
+        "event_id": 1160, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3396,7 +3396,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1162, 
+        "event_id": 1161, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3408,7 +3408,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1164, 
+        "event_id": 1163, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3444,7 +3444,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1198, 
+        "event_id": 1197, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3456,7 +3456,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1201, 
+        "event_id": 1200, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3468,7 +3468,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1203, 
+        "event_id": 1208, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3924,7 +3924,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1135, 
+        "event_id": 1134, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3936,7 +3936,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1138, 
+        "event_id": 1137, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -3948,7 +3948,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1140, 
+        "event_id": 1145, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4020,7 +4020,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1188, 
+        "event_id": 1187, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4032,7 +4032,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1199, 
+        "event_id": 1198, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4044,7 +4044,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1200, 
+        "event_id": 1199, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4056,7 +4056,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1202, 
+        "event_id": 1201, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4068,7 +4068,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1204, 
+        "event_id": 1203, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
@@ -4080,7 +4080,7 @@
         "speakers": ""
     }, 
     {
-        "event_id": 1207, 
+        "event_id": 1206, 
         "track_id": 10, 
         "track_name": "Session", 
         "room_id": 1090, 
