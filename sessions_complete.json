@@ -3018,20 +3018,7 @@
         ]
     }, 
     "Session:Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop# 73d4be5622b63412875cf2b2c54ff68f": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451415600"
         ], 
@@ -12613,20 +12600,7 @@
         ]
     }, 
     "Session:Conversion of Physical Units at Compile Time, a C++ Meta-Programming Talk and Workshop# 92a721dc4fe38950aabf5f78c4ea808a": {
-        "Held in language": [
-            {
-                "fulltext": "De - German", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/De_-_German", 
-                "namespace": 0, 
-                "exists": false
-            }, 
-            {
-                "fulltext": "En - English", 
-                "fullurl": "https://events.ccc.de/congress/2015/wiki/En_-_English", 
-                "namespace": 0, 
-                "exists": false
-            }
-        ], 
+        "Held in language": [], 
         "Has start time": [
             "1451412000"
         ], 
