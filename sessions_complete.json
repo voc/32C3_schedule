@@ -2855,7 +2855,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://pad.totalism.org/p/32c3-nootropics"
+        ], 
         "Has description": [
             "Nootropics (also called smart drugs, neuro enhancers, etc) are substances - drugs, supplements, and functional foods - that improve one or more aspects of cognitive performance.\n\nBring your noots and notes."
         ], 
